@@ -179,6 +179,15 @@ This app follows RESTful routes and uses API versioning. Currently, the calls ca
 
 {
   "name": "response-tracker",
+    "available_categories": [
+    "SRHR",
+    "childcare",
+    "digital surveillance",
+  ],
+  "available_countries": [
+    "Algeria",
+    "Anglophone Africa",
+  ],
   "items": [
     {
       "title": "Support to women fleeing gender-based violence",
