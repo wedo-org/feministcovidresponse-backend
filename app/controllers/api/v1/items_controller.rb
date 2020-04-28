@@ -10,7 +10,9 @@ class Api::V1::ItemsController < ApplicationController
                 eventDate: i.make_date,
                 progressive: i.make_progressive,
                 page: i.page.name,
-                countries: i.make_countries
+                countries: i.make_countries,
+                categories: i.make_categories,
+                description: i.description
             }}
             render json: @items, status: 200
         rescue StandardError => e
