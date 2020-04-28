@@ -179,7 +179,7 @@ This app follows RESTful routes and uses API versioning. Currently, the calls ca
 
 {
   "name": "response-tracker",
-    "available_categories": [
+  "available_categories": [
     "SRHR",
     "childcare",
     "digital surveillance",
