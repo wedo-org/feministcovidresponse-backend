@@ -1,4 +1,4 @@
-class ThemeItem < ApplicationRecord
+class CategoryItem < ApplicationRecord
   belongs_to :item
-  belongs_to :theme
+  belongs_to :category
 end

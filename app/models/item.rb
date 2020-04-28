@@ -11,7 +11,7 @@ class Item < ApplicationRecord
   has_many :type_items
   has_many :types, through: :type_items
 
-  validates_presence_of :title, :description, :link
+  validates_presence_of :title, :link
 
   def make_types
     if self.types.length >= 1 
