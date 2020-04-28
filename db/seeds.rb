@@ -2662,7 +2662,7 @@ online_data.each{|it|
     puts "\n\n\n✨ ✨ ✨ ✨ this is the title: #{it[:title]}✨ ✨ ✨ "
     puts "🔺entering the date"
     if it[:month] == "" || !it[:month]
-        month = "mm"
+        month = "m"
     else 
         month = it[:month]
     end 
