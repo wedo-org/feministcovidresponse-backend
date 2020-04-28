@@ -1,11 +1,11 @@
 
 TypeItem.destroy_all
 Type.destroy_all
-Theme.destroy_all
+Category.destroy_all
 User.destroy_all
 Item.destroy_all
 Progressive.destroy_all
-Category.destroy_all
+Page.destroy_all
 
 
 
@@ -13,15 +13,15 @@ Item.reset_pk_sequence
 TypeItem.reset_pk_sequence
 Progressive.reset_pk_sequence
 Type.reset_pk_sequence
-Theme.reset_pk_sequence
-User.reset_pk_sequence
 Category.reset_pk_sequence
+User.reset_pk_sequence
+Page.reset_pk_sequence
 
 
 
-############# CATEGORIES ############# 
-categories = ["response-tracker", "online-dialogues", "resources"]
-categories.each{|c| Category.create!(name: c)}
+############# PAGES ############# 
+pages = ["response-tracker", "online-dialogues", "resources"]
+pages.each{|c| Page.create!(name: c)}
 
 puts "cat done"
 
@@ -32,11 +32,11 @@ types.each{|t| Type.create!(name: t)}
 puts "types done"
 
 
-############# THEMES ############# 
-themes = ["punitive", "digital surveillance", "healthcare", "education", "economy", "childcare", "labor", "food", "gendered health impacts", "gender-based violence","disability", "race", "misinformation"]
-themes.each{|t| Theme.create!(name: t)}
+############# CATEGORIES ############# 
+categories = ["punitive", "digital surveillance", "healthcare", "education", "economy", "childcare", "labor", "food", "gendered health impacts", "gender-based violence","disability", "race", "misinformation"]
+categories.each{|t| Category.create!(name: t)}
 
-puts "themes done"
+puts "categories done"
 
 ############## PROGRESSIVES ###########
 prog = ["progressive", "regressive", "need to watch"]
@@ -53,9 +53,9 @@ puts "users done"
 
 
 ############### ITEMS ###############
-firstItem = Item.create!(title: "test", description: "desc", link: "link", date:50920, progressive_id:Progressive.all[0].id, category_id: Category.all[0].id)
+firstItem = Item.create!(title: "test", description: "desc", link: "link", date:50920, progressive_id:Progressive.all[0].id, page_id: Page.all[0].id)
 
-secondItem = Item.create!(title: "test2", description: "desc2", link: "link2", date:50920, progressive_id:Progressive.all[1].id, category_id: Category.all[1].id)
+secondItem = Item.create!(title: "test2", description: "desc2", link: "link2", date:50920, progressive_id:Progressive.all[1].id, page_id: Page.all[1].id)
 
 puts "items done"
 

@@ -21,6 +21,15 @@ ActiveRecord::Schema.define(version: 2020_04_28_000708) do
     t.datetime "updated_at", precision: 6, null: false
   end
 
+  create_table "category_items", force: :cascade do |t|
+    t.bigint "item_id", null: false
+    t.bigint "category_id", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["category_id"], name: "index_category_items_on_category_id"
+    t.index ["item_id"], name: "index_category_items_on_item_id"
+  end
+
   create_table "countries", force: :cascade do |t|
     t.string "name"
     t.datetime "created_at", precision: 6, null: false
@@ -40,31 +49,22 @@ ActiveRecord::Schema.define(version: 2020_04_28_000708) do
     t.string "title"
     t.string "description"
     t.string "link"
-    t.integer "date"
+    t.string "date"
     t.bigint "progressive_id", null: false
-    t.bigint "category_id", null: false
+    t.bigint "page_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
-    t.index ["category_id"], name: "index_items_on_category_id"
+    t.index ["page_id"], name: "index_items_on_page_id"
     t.index ["progressive_id"], name: "index_items_on_progressive_id"
   end
 
-  create_table "progressives", force: :cascade do |t|
+  create_table "pages", force: :cascade do |t|
     t.string "name"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
 
-  create_table "theme_items", force: :cascade do |t|
-    t.bigint "item_id", null: false
-    t.bigint "theme_id", null: false
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
-    t.index ["item_id"], name: "index_theme_items_on_item_id"
-    t.index ["theme_id"], name: "index_theme_items_on_theme_id"
-  end
-
-  create_table "themes", force: :cascade do |t|
+  create_table "progressives", force: :cascade do |t|
     t.string "name"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
@@ -94,12 +94,12 @@ ActiveRecord::Schema.define(version: 2020_04_28_000708) do
     t.datetime "updated_at", precision: 6, null: false
   end
 
+  add_foreign_key "category_items", "categories"
+  add_foreign_key "category_items", "items"
   add_foreign_key "country_items", "countries"
   add_foreign_key "country_items", "items"
-  add_foreign_key "items", "categories"
+  add_foreign_key "items", "pages"
   add_foreign_key "items", "progressives", column: "progressive_id"
-  add_foreign_key "theme_items", "items"
-  add_foreign_key "theme_items", "themes"
   add_foreign_key "type_items", "items"
   add_foreign_key "type_items", "types"
 end

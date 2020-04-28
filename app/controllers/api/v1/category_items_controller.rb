@@ -1,9 +1,9 @@
 class Api::V1::CategoryItemsController < ApplicationController
-    before_action :find_category_item, only: [:show]
+    before_action :find_category_items, only: [:show]
 
     def index
         begin
-            @category_items = CategoryItem.all.map{|c| {
+            @category_items = CategoryItems.all.map{|c| {
                 name: c.name
             }}
             render json: @category_items, status: 200
@@ -14,7 +14,7 @@ class Api::V1::CategoryItemsController < ApplicationController
 
     def show
         begin
-            render json: @category_item, status: 200
+            render json: @category_items, status: 200
         rescue StandardError => e
             render json: {"error": ("#{e.message}") }, status: 400
         end
@@ -26,7 +26,7 @@ class Api::V1::CategoryItemsController < ApplicationController
         params.permit(:name)
     end
 
-    def find_category_item
-        @category_item = CategoryItem.find_by(name: params[:name])
+    def find_category_items
+        @category_items = CategoryItems.find_by(name: params[:name])
     end
 end

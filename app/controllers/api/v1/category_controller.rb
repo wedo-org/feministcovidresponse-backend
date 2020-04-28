@@ -3,10 +3,10 @@ class Api::V1::CategoriesController < ApplicationController
 
     def index
         begin
-            @categories = Category.all.map{|c| {
+            @category = Category.all.map{|c| {
                 name: c.name
             }}
-            render json: @categories, status: 200
+            render json: @category, status: 200
         rescue StandardError => e
             render json: {"error": ("#{e.message}") }, status: 400
         end
