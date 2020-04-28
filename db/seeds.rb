@@ -26,14 +26,14 @@ pages.each{|c| Page.create!(name: c)}
 puts "cat done"
 
 ############# TYPES ############# 
-types = ["observed response", "temporary measure", "policy or law", "feminist statement and analysis", "scientific data", "mutual aid resource", "organizing tool"]
+types = ["observed response", "temporary measure", "policy or law", "feminist statement or analysis", "scientific data", "mutual aid resource", "organizing tool"]
 types.each{|t| Type.create!(name: t)}
 
 puts "types done"
 
 
 ############# CATEGORIES ############# 
-categories = ["SRHR", "punitive", "digital surveillance", "healthcare", "education", "economy", "childcare", "labor", "food", "gendered health impacts", "gender-based violence","disability", "race", "misinformation", "disability"]
+categories = ["SRHR", "punitive", "digital surveillance", "healthcare", "education", "economy", "childcare", "labor", "food", "gendered health impacts", "gender-based violence","disability", "race", "misinformation", "disability", "water"]
 categories.each{|t| Category.create!(name: t)}
 
 puts "categories done"
@@ -53,17 +53,17 @@ puts "users done"
 
 
 ############### ITEMS ###############
-firstItem = Item.create!(title: "test", description: "desc", link: "link", date:50920, progressive_id:Progressive.all[0].id, page_id: Page.all[0].id)
+# firstItem = Item.create!(title: "test", description: "desc", link: "link", date:50920, progressive_id:Progressive.all[0].id, page_id: Page.all[0].id)
 
-secondItem = Item.create!(title: "test2", description: "desc2", link: "link2", date:50920, progressive_id:Progressive.all[1].id, page_id: Page.all[1].id)
+# secondItem = Item.create!(title: "test2", description: "desc2", link: "link2", date:50920, progressive_id:Progressive.all[1].id, page_id: Page.all[1].id)
 
 puts "items done"
 
 
 ############### TYPE_ITEMS ###############
-firstTI = TypeItem.create!(type_id: Type.all[0].id, item_id: firstItem.id )
+# firstTI = TypeItem.create!(type_id: Type.all[0].id, item_id: firstItem.id )
 
-secondTI = TypeItem.create!(type_id: Type.all[1].id, item_id: firstItem.id )
+# secondTI = TypeItem.create!(type_id: Type.all[1].id, item_id: firstItem.id )
 
 puts "type items done"
 
@@ -286,6 +286,7 @@ puts "type items done"
     "Sweden",
     "Switzerland",
     "Syria",
+    "Taiwan",
     "Tajikistan",
     "Tanzania",
     "Thailand",
@@ -333,13 +334,13 @@ countries.each{|c| Country.create!(name: c)}
 puts "countries done"
 
 ############# COUNTRIES_ITEMS ##################
-firstCI = CountryItem.create!(item_id: Item.first.id, country_id: Country.all[100].id)
-secondCI = CountryItem.create!(item_id: Item.first.id, country_id: Country.all[90].id)
-thirdCI = CountryItem.create!(item_id: Item.second.id, country_id: Country.all[80].id)
+# firstCI = CountryItem.create!(item_id: Item.first.id, country_id: Country.all[100].id)
+# secondCI = CountryItem.create!(item_id: Item.first.id, country_id: Country.all[90].id)
+# thirdCI = CountryItem.create!(item_id: Item.second.id, country_id: Country.all[80].id)
 
 puts "country items done"
 
-################# EXCEL TRIAL ################
+################# EXCEL - ROUND 1 ################
 
 
 response_data = [
@@ -2487,66 +2488,66 @@ response_data = [
       }
   ]
 
-#   response_data.each{|it|
-#     puts "\n\n\n✨ ✨ ✨ ✨ this is the title: #{it[:title]}✨ ✨ ✨ "
-#     puts "🔺entering the progressive choice"
-#     if it[:progressive] == "progressive"
-#         prog = Progressive.all[0].id
-#     elsif it[:progressive] == "regressive"
-#         prog = Progressive.all[1].id
-#     else
-#         prog = Progressive.all[2].id
-#     end
+  response_data.each{|it|
+    puts "\n\n\n✨ ✨ ✨ ✨ this is the title: #{it[:title]}✨ ✨ ✨ "
+    puts "🔺entering the progressive choice"
+    if it[:progressive] == "progressive"
+        prog = Progressive.all[0].id
+    elsif it[:progressive] == "regressive"
+        prog = Progressive.all[1].id
+    else
+        prog = Progressive.all[2].id
+    end
 
-#     puts "🔺about to create item"
-#     item = Item.create!(
-#         title: it[:title], 
-#         description: it[:description], 
-#         link: it[:link], 
-#         date: nil, 
-#         progressive_id: prog, 
-#         page_id: Page.all[0].id
-#     )
+    puts "🔺about to create item"
+    item = Item.create!(
+        title: it[:title], 
+        description: it[:description], 
+        link: it[:link], 
+        date: nil, 
+        progressive_id: prog, 
+        page_id: Page.all[0].id
+    )
 
-#     puts "🔺🔺🔺item created: #{item.id}: #{item.title}\n\n"
-#     puts "🔺about to create type item"
-#     if it[:type] != ""
-#         if it[:type].include?(",") 
-#             # binding.pry
-#             it[:type].split(', ').each{|t| TypeItem.create!(type_id: Type.find_by(name: t).id, item_id: item.id )
-#             puts "- createdTypeItem for #{t}!"}
-#         else
-#             TypeItem.create!(type_id: Type.find_by(name: it[:type]).id, item_id: item.id )
-#         end
-#     end
+    puts "🔺🔺🔺item created: #{item.id}: #{item.title}\n\n"
+    puts "🔺about to create type item"
+    if it[:type] != ""
+        if it[:type].include?(",") 
+            # binding.pry
+            it[:type].split(', ').each{|t| TypeItem.create!(type_id: Type.find_by(name: t).id, item_id: item.id )
+            puts "- createdTypeItem for #{t}!"}
+        else
+            TypeItem.create!(type_id: Type.find_by(name: it[:type]).id, item_id: item.id )
+        end
+    end
 
-#     puts "🔺about to create category item"
-#     # binding.pry
-#     if it[:category] != ""
-#         if it[:category].include?(",") 
-#             it[:category].split(', ').each{|t| CategoryItem.create!(category_id: Category.find_by(name: t).id, item_id: item.id )
-#             puts "- created CategoryItem for #{t}!"}
-#         else
-#             CategoryItem.create!(category_id: Category.find_by(name: it[:category]).id, item_id: item.id )
-#         end
-#     end
+    puts "🔺about to create category item"
+    # binding.pry
+    if it[:category] != ""
+        if it[:category].include?(",") 
+            it[:category].split(', ').each{|t| CategoryItem.create!(category_id: Category.find_by(name: t).id, item_id: item.id )
+            puts "- created CategoryItem for #{t}!"}
+        else
+            CategoryItem.create!(category_id: Category.find_by(name: it[:category]).id, item_id: item.id )
+        end
+    end
 
-#     puts "🔺about to create country item"
-#     # if it[:title] == "Pharmacy brings forward $3 million USD for maternal health"
-#     #     binding.pry
-#     # end
-#     if it[:country] != ""
-#         if it[:country].include?(",") 
-#             it[:country].split(', ').map{|t| CountryItem.create!(country_id: Country.find_by(name: t).id, item_id: item.id )
-#             puts "- created CountryItem for #{t}!"}
-#         else
-#             CountryItem.create!(country_id: Country.find_by(name: it[:country]).id, item_id: item.id )
-#         end
-#     end
+    puts "🔺about to create country item"
+    # if it[:title] == "Pharmacy brings forward $3 million USD for maternal health"
+    #     binding.pry
+    # end
+    if it[:country] != ""
+        if it[:country].include?(",") 
+            it[:country].split(', ').map{|t| CountryItem.create!(country_id: Country.find_by(name: t).id, item_id: item.id )
+            puts "- created CountryItem for #{t}!"}
+        else
+            CountryItem.create!(country_id: Country.find_by(name: it[:country]).id, item_id: item.id )
+        end
+    end
 
-#     puts "/n/n/n/n ✅ ✅ ✅ ✅   response data is alive ✅ ✅ ✅ ✅ "
+    puts "/n/n/n/n ✅ ✅ ✅ ✅   response data is alive ✅ ✅ ✅ ✅ "
 
-# }
+}
 
 online_data = [
     {
@@ -2586,7 +2587,7 @@ online_data = [
     },
     {
         "title": "Webinar: Racial Justice Has No Borders",
-        "description": "Townhall discussion on war and militarization in the time of pandemic, organized by Racial Justice Has No Borders, a new, broad anti-war coalition that seeks to recenter the conversation about U.S. wars and militarization on the needs and leadership of those most impacted. With opening remarks by Rep. Ilhan Omar (MN-5),  and hosted by Marc Lamont Hill, a powerful line-up of speakers from the anti-war movement working locally and globally reflected on the broader context of the pandemic.",
+        "description": "Townhall discussion on war and militarization in the time of pandemic, organized by Racial Justice Has No Borders, a new, broad anti-war coalition that seeks to recenter the conversation about U.S. wars and militarization on the needs and leadership of those most impacted. With opening remarks by Rep. Ilhan Omar (MN-5),  and hosted by Marc Lamont Hill, a powerful line-up of speakers from the anti-war movement working locally and Globally reflected on the broader context of the pandemic.",
         "link": "https://www.facebook.com/InstituteforPolicyStudies/videos/261537221528594/UzpfSTIwMjM3ODc0NjU2OjEwMTU5OTAzOTE2NDk0NjU3/?link_id=0&can_id=8ba9ad5446018ce9d060eb7913742288&source=email-happening-now-join-the-townhall&email_referrer=email_775000___subject_1039377&email_subject=join-us-in-ending-the-aumfs",
         "country": "Global",
         "month": "4",
@@ -2613,7 +2614,7 @@ online_data = [
     },
     {
         "title": "Webinar: Working with Perpetrators during COVID-19: Considerations for US Perpetrator Programs ",
-        "description": "As part of the webinar series “Adapting Legal and Systemic Responses During COVID-19 Addressing Violence Against Women,” Global Rights for Women, European Network for the Work with Perpetrators of Domestic Violence (WWP EN), Pathways to Family Peace, and Family Violence Project of Maine co-hosted this conversation. Speakers included Juan Carlos Arean, Melissa Petrangelo Scaia, Jon Heath, Rebecca Thomforde Hauser, Center for Court Innovation, and Lisa Young Larance. Webinar presented a draft guide and a “thoughtful first start and attempt” to work with perpetrators of domestic violence responsibly during this global pandemic for United States perpetrator programs.",
+        "description": "As part of the webinar series “Adapting Legal and Systemic Responses During COVID-19 Addressing Violence Against Women,” Global Rights for Women, European Network for the Work with Perpetrators of Domestic Violence (WWP EN), Pathways to Family Peace, and Family Violence Project of Maine co-hosted this conversation. Speakers included Juan Carlos Arean, Melissa Petrangelo Scaia, Jon Heath, Rebecca Thomforde Hauser, Center for Court Innovation, and Lisa Young Larance. Webinar presented a draft guide and a “thoughtful first start and attempt” to work with perpetrators of domestic violence responsibly during this Global pandemic for United States perpetrator programs.",
         "link": "https://www.youtube.com/watch?v=PJYUeducationJxsNI&feature=youtu.be",
         "country": "United States",
         "month": "4",
@@ -2710,6 +2711,1327 @@ online_data.each{|it|
         end
     end
 
-    puts "/n/n/n/n ✅ ✅ ✅ ✅   it's alive ✅ ✅ ✅ ✅ "
+    puts "/n/n/n/n✅ ✅ ✅ ✅   it's alive ✅ ✅ ✅ ✅ "
 
 }
+
+resources_data = [
+    {
+        "title": "COVID-19: the gendered impacts of the outbreak",
+        "description": "Outlines to ways the extent to which disease outbreaks affect women and men differently.",
+        "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30526-2/fulltext",
+        "country": "Global",
+        "category": "gendered health impacts",
+        "type": "scientific data"
+    },
+    {
+        "title": "Covid-19 responses: Why Femimist leadership matters",
+        "description": "Compares Global leadership from men and women leaders at this time",
+        "link": "https://www.lowyinstitute.org/the-interpreter/covid-19-responses-why-feminist-leadership-matters-crisis",
+        "country": "Asia-Pacific",
+        "category": "gendered health impacts, gender-based violence",
+        "type": "feminist statement or analysis, organizing tool"
+    },
+    {
+        "title": "Gender Equality and Addressing(GBV) and COVID-19 Prevention, Protection and Response.",
+        "description": "The protection and promotion of the rights of women and girls should be prioritized in the face of Covid19",
+        "link": "https://www.unfpa.org/resources/gender-equality-and-addressing-gender-based-violence-gbv-and-coronavirus-disease-covid-19",
+        "country": "Global",
+        "category": "gender-based violence",
+        "type": "feminist statement or analysis, organizing tool"
+    },
+    {
+        "title": "Feminist Statement on Covid-19 Policy Making",
+        "description": "A call on governments to recall and act in accordance with human rights standards in their response to Covid-19",
+        "link": "https://drive.google.com/file/d/10zH71NOzvo85MfJTTz8yTIsvoR5lU5iQ/view",
+        "country": "Global",
+        "category": "food, water, gendered health impacts",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Global Health Security and Pandemics: COVID-19 and Gender Inequality",
+        "description": "General Analysis on the impacts of Covid on genders of all kinds due to social norms and facts",
+        "link": "https://www.youtube.com/watch?v=hc5clpUoKY8&feature=youtu.be",
+        "country": "Global",
+        "category": "healthcare, economy, childcare, labor, race",
+        "type": "scientific data, feminist statement or analysis"
+    },
+    {
+        "title": "COVID-19: Laying Down the Groundwork for Recovery with Gender at the Fore",
+        "description": "A call to focus on gender implications while working on a path to recovery",
+        "link": "https://msmagazine.com/2020/03/31/covid-19-laying-down-the-groundwork-for-recovery-with-gender-at-the-fore/",
+        "country": "Global",
+        "category": "economy",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Women in Global Health Finland pre-launch workshop",
+        "description": "Collective Discussion about a plethora of Global policies, resources, and tools for genders provided by and participated by finland",
+        "link": "https://www.youtube.com/watch?v=RgkDDLtRw9s",
+        "country": "Finland",
+        "category": "SRHR, race",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "FAMILY-FRIENDLY POLICIES AND OTHER GOOD WORKPLACE PRACTICES IN THE CONTEXT OF COVID-19:",
+        "description": "Recommendations made by UNICEF for employers",
+        "link": "https://www.unwomen.org/-/media/headquarters/attachments/sections/library/publications/2020/family-friendly-policies-and-other-good-workplace-practices-in-the-context-of-covid-19-en.pdf?la=en&vs=4828",
+        "country": "Global",
+        "category": "healthcare, childcare, labor",
+        "type": "organizing tool"
+    },
+    {
+        "title": "Buisness and Covid-19: Supporting the Most Vulnerable",
+        "description": "A COVID-19 Response Framework for how business can support the most vulnerable",
+        "link": "https://businessfightspoverty.org/articles/covid-19-response-framework/",
+        "country": "United Kingdom",
+        "category": "labor",
+        "type": "organizing tool"
+    },
+    {
+        "title": "Q&A: UN Women envisions a more gender-equal post-pandemic society",
+        "description": "Interview with Bhatia, deputy executive director at UN Women, about aftermath of Covid in regards to gender equality ",
+        "link": "https://www.devex.com/news/q-a-un-women-envisions-a-more-gender-equal-post-pandemic-society-96929",
+        "country": "Global",
+        "category": "healthcare, economy, childcare, labor",
+        "type": "scientific data, feminist statement or analysis"
+    },
+    {
+        "title": "Why WHO needs a feminist economic agenda",
+        "description": "Analysis on disparities of work-force and decision making viewing gender, how healthcare and economics are interlinked",
+        "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30110-0/fulltext",
+        "country": "Global",
+        "category": "healthcare, economy",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Breaking Down Gendered Power Norms during the Pandemic and Beyond",
+        "description": "Suggestions on how to transform the current emegrency into an opportunity to restructure gender norms. ",
+        "link": "https://www.Globalpolicyjournal.com/blog/02/04/2020/breaking-down-gendered-power-norms-during-pandemic-and-beyond",
+        "country": "Ireland",
+        "category": "education",
+        "type": "feminist statement or analysis, organizing tool"
+    },
+    {
+        "title": "Women’s Needs and Gender Equality in Lebanon’s COVID-19 Response",
+        "description": "Observation about needs and impacts on womens health",
+        "link": "https://arabstates.unwomen.org/en/digital-library/publications/2020/03/gender-equality-in-lebanon-covid-19-response",
+        "country": "Global",
+        "category": "healthcare, economy, gendered health impacts",
+        "type": "scientific data, feminist statement or analysis"
+    },
+    {
+        "title": "UN backs Global action to end violence against women/girls",
+        "description": "UN action and initiatives with partners to provide funds, support civil society organisations",
+        "link": "https://news.un.org/en/story/2020/04/1061132",
+        "country": "Global",
+        "category": "gender-based violence",
+        "type": "mutual aid resource"
+    },
+    {
+        "title": "COVID-19 set to worsen gender inequalities in Pakistan ",
+        "description": "An article generally discussing the report released by the Ministiry of Human Rights and UN Women on the adverse effects COVID-19 has on gender inequalities",
+        "link": "https://tribune.com.pk/story/2197065/1-covid-19-worsen-gender-inequalities-pakistan/",
+        "country": "Pakistan",
+        "category": "healthcare, education, labor, gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Gendered Impact and Implications of COVID-19 in Pakistan",
+        "description": "A comprehensive report on the negative impacts of COVID-19 on gender inequality as well as policy recommendations. ",
+        "link": "https://www2.unwomen.org/-/media/field%20office%20eseasia/docs/publications/2020/04/pk-gendered-impact-and-implications-of-covid.pdf?la=en&vs=2138",
+        "country": "Pakistan",
+        "category": "healthcare, education, labor, gender-based violence",
+        "type": "scientific data"
+    },
+    {
+        "title": "Home isn't a safe space for victims of domestic violence",
+        "description": "An article featuring womens' real life narratives and how they're suffering more domestic violence under the lockdown ",
+        "link": "https://images.dawn.com/news/1184957",
+        "country": "Pakistan",
+        "category": "gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Strategic preparedness and response plan for the new coronavirus",
+        "description": "Plan outlines the COVID-19 public health measures international community can provide (updated regularly)",
+        "link": "https://www.who.int/publications-detail/strategic-preparedness-and-response-plan-for-the-new-coronavirus",
+        "country": "Global",
+        "category": "healthcare",
+        "type": "mutual aid resource"
+    },
+    {
+        "title": "Gender and the Coronavirus Outbreak",
+        "description": "Questions (and answers) that need to be asked for a gendered approach to the pandemic",
+        "link": "https://www.thinkGlobalhealth.org/article/gender-and-coronavirus-outbreak",
+        "country": "Global",
+        "category": "SRHR, healthcare, economy, labor",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Playing the Long Game: How Gender Lens Can Mitigate Harm",
+        "description": "Proposals to mitigate the disproportional harm, caused by COVID-19, on lives of women&girls",
+        "link": "https://www.cgdev.org/blog/playing-long-game-how-gender-lens-can-mitigate-harm-caused-pandemics",
+        "country": "Global",
+        "category": "healthcare, education, economy, childcare, labor, gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Why gender matters in impact and recovery from Covid-19",
+        "description": "Overview of consequences of COVID-19 and the pandemic on women and girls",
+        "link": "https://www.lowyinstitute.org/the-interpreter/why-gender-matters-impact-and-recovery-covid-19",
+        "country": "Global",
+        "category": "SRHR, healthcare, economy, childcare, labor, gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "‘Gender blind’ coronavirus policies could hinder disease fight",
+        "description": "Views from experts: A gendered analysis is key to mitigating the effects of COVID-19",
+        "link": "https://www.scidev.net/Global/gender/news/gender-blind-coronavirus-policies-could-hinder-disease-fight.html?__cf_chl_jschl_tk__=4addd31e78Organizing Toola952dOrganizing Tool5bdd997f21454bpolicy or lawd6290-1587128145-0-AbI3O-UW3KSaVutmIG52NgYwAfEhoNL-oXHJ62HFyLL7TIivMJ1lWj4ph2l7vG2_CwTpcJ80QrDC0npb-A5e8qYVAXrMQqPTNCj5JXIOIkZoxZLwgMjw3PNddOVNbLCwnGDk9d6X4PAR4-GfK5RmO6qw1xkldF8uBMx10e0OcyC7oe09DcTLx49EconomyWcQ8L6eG0LHIcLJaaxns_SOkP43QNhZZmvkLuDdR5Ud3kCNTKHQhHealthcareNigQPs3VASkm-RUnJ07sFneFF4V30tXhSaImutual aid resourceli2I4MeSp2Ug445_cpDbSRHRPF6xxNX608-sO241ECRmcHfF6sAvnjO3_za9DCquufc3nXo6zRW0VhrfKrJ02tpUiDy0-dhxQEi2R2OSLWYAKKow",
+        "country": "Global",
+        "category": "healthcare, childcare, labor",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Why Women May Face a Greater Risk of Catching Coronavirus",
+        "description": "Women’s roles within society may cause them to be disproportionally affected by COVID-19",
+        "link": "https://www.nytimes.com/2020/03/12/us/women-coronavirus-greater-risk.html",
+        "country": "Global",
+        "category": "healthcare, education, gendered health impacts",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "COVID-19 is not gender neutral",
+        "description": "Analysis on why the burden of the disease will largely be felt by women",
+        "link": "http://www.broadagenda.com.au/home/covid-19-is-not-gender-neutral/",
+        "country": "Global",
+        "category": "healthcare, economy, childcare, ",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Coronavirus fallout may be worse for women. Here's why",
+        "description": "Women disproportionately affected due to majority in healthcare professions, childcare and unpaid care work responsibilities ",
+        "link": "https://www.weforum.org/agenda/2020/03/the-coronavirus-fallout-may-be-worse-for-women-than-men-heres-why/",
+        "country": "Global",
+        "category": "healthcare, economy, childcare",
+        "type": "scientific data"
+    },
+    {
+        "title": "Coronavirus: Five ways virus upheaval is hitting women in Asia",
+        "description": "Five ways that women in Asia are bearing the brunt of the upheaval",
+        "link": "https://www.bbc.com/news/world-asia-51705199",
+        "country": "Asia-Pacific",
+        "category": "healthcare, education, economy, childcare, labor, gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Why the Coronavirus Outbreak Could Hit Women Hardest",
+        "description": "Women’s realities in USA, which will put them in more vulnerable state against COVID-19",
+        "link": "https://time.com/5801897/women-affected-covid-19/",
+        "country": "United States",
+        "category": "healthcare, economy, childcare, labor, gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Covid-19 puzzles that scientists are still trying to answer",
+        "description": "Possible reasons why COVID-19 is seen less in children, and why women die less",
+        "link": "https://www.theguardian.com/world/2020/mar/14/answering-the-coronavirus-puzzles-baby-covid-19",
+        "country": "China, United Kingdom",
+        "category": "gendered health impacts",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Needs of female medical workers overlooked in corona virus fight",
+        "description": "Advocates work to aid overlooked menstruation needs of female medical workers, put women on agenda",
+        "link": "https://www.inkstonenews.com/health/coronavirus-womens-advocates-ship-period-products-center-outbreak/article/3050653",
+        "country": "China",
+        "category": "SRHR, healthcare, labor",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Call for Global Evidence on Gender and COVID-19",
+        "description": "Male deaths are higher, thus a gendered sensitive approach to COVID-19 needed",
+        "link": "https://www.menshealthforum.org.uk/news/call-Global-evidence-gender-and-covid-19",
+        "country": "Global",
+        "category": "gendered health impacts",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Attention to women’s needs, leadership will strengthen COVID-19 response",
+        "description": "UNWOMEN’s recommendations for placing women’s needs, leadership at the heart of response to COVID-19",
+        "link": "https://www.unwomen.org/en/news/stories/2020/3/news-womens-needs-and-leadership-in-covid-19-response",
+        "country": "Global",
+        "category": "SRHR, healthcare, education, economy, childcare, labor, gendered health impacts, gender-based violence, disability",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "How Will COVID19 Affect Women&Girls in Low&Middle Income Countries?",
+        "description": "Summary of Lancet article ““COVID-19: the gendered impacts of the outbreak” and additional concerns",
+        "link": "https://www.cgdev.org/blog/how-will-covid-19-affect-women-and-girls-low-and-middle-income-countries",
+        "country": "Global",
+        "category": "SRHR, healthcare, education, childcare, labor, gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Coronavirus Is a Disaster for Feminism",
+        "description": "Pandemic magnifies all existing inequalities. Across the world, women’s independence will be a silent victim.",
+        "link": "https://www.theatlantic.com/international/archive/2020/03/feminism-womens-rights-coronavirus-covid19/608302/",
+        "country": "Global",
+        "category": "economy, childcare, labor, gendered health impacts, gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Ideas for Pro-Poor and Pro-Women Approach to COVID19",
+        "description": "How local governments can respond, considering economic and gender inequalities, with a pro-poor, pro-women approach",
+        "link": "https://asia.oxfam.org/latest/blogs/ideas-pro-poor-and-pro-women-approach-covid-19",
+        "country": "Philippines",
+        "category": "punitive, healthcare, economy, childcare, labor, water, food, disability",
+        "type": "organizing tool"
+    },
+    {
+        "title": "Women's domestic burden just got heavier with the coronavirus",
+        "description": "Women  find themselves needing to step up their roles at home as the coronavirus spreads",
+        "link": "https://www.theguardian.com/us-news/2020/mar/16/womens-coronavirus-domestic-burden?CMP=Share_AndroidApp_Gmail#maincontent",
+        "country": "Global",
+        "category": "economy, childcare, labor",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "COVID19 demands we pay attention to who does care work",
+        "description": "Organizations, governments, and communities must do what it takes to support women who provide care",
+        "link": "https://promundoGlobal.org/covid-19-demands-that-we-pay-attention-to-who-does-the-care-work-and-how-we-support-them/#",
+        "country": "Global",
+        "category": "healthcare, economy, childcare, labor",
+        "type": "feminist statement or analysis",
+        "undefined": "(West, East, Southern)"
+    },
+    {
+        "title": "Impact of COVID-19 Pandemic on Violence against Women and Girls",
+        "description": "Emerging evidence on GBV from several countries as well as lessons learned from similar epidemics",
+        "link": "http://www.sddirect.org.uk/media/1881/vawg-helpdesk-284-covid-19-and-vawg.pdf",
+        "country": "Global",
+        "category": "gender-based violence",
+        "type": "scientific data",
+        "undefined": "(West, Central) "
+    },
+    {
+        "title": "Pandemics and Violence Against Women and Children (VAW/C)",
+        "description": "Working Paper documenting pathways linking pandemics and VAW/C as well as policy and program responses",
+        "link": "https://www.cgdev.org/publication/pandemics-and-violence-against-women-and-children",
+        "country": "Global",
+        "category": "gender-based violence",
+        "type": "scientific data, feminist statement or analysis",
+        "undefined": " (Scandinavia/Eastern Europe/ Russia)"
+    },
+    {
+        "title": "COVID-19: Reducing the risk of Infection might increase the risk of intimate partner violence",
+        "description": "Includes a short listing of immediate actions needed to mitigate against increases in IPV",
+        "link": "https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30092-4/fulltext",
+        "country": "Global",
+        "category": "gender-based violence",
+        "type": "scientific data"
+    },
+    {
+        "title": "COVID-19 and violence against women. What the health sector/system can do",
+        "description": "A WHO summary of how health systems can mitigate impacts of violence on women and children during this pandemic",
+        "link": "https://www.who.int/reproductivehealth/publications/emergencies/COVID-19-VAW-full-text.pdf?",
+        "country": "Global",
+        "category": "gender-based violence",
+        "type": "scientific data"
+    },
+    {
+        "title": "COVID-19 and family Violence",
+        "description": "Webpage with links to resources relating to family violence for victims; family, friends or neighbors; and professionals",
+        "link": "http://www.dvrcv.org.au/help-advice/coronavirus-covid-19-and-family-violence",
+        "country": "Australia",
+        "category": "gender-based violence",
+        "type": "scientific data, feminist statement or analysis"
+    },
+    {
+        "title": "Women's aid comments on the impact of coronavirus on women and children escaping domestic abuse",
+        "description": "Want to see refuge services continue to operate safely and effectively during COVID-19",
+        "link": "https://www.womensaid.org.uk/womens-aid-comments-on-the-impact-of-coronavirus-on-women-and-children-escaping-domestic-abuse/  ",
+        "country": "United Kingdom, Global",
+        "category": "gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Home Quarantine:Confinement with the Abuser?",
+        "description": "COVID-19 confinement, unemployment associated with increase in domestic violence, proposals of Brasilian policies to mitigate",
+        "link": "http://multiplier-effect.org/home-quarantine-confinement-with-the-abuser/",
+        "country": "Brazil",
+        "category": "gender-based violence",
+        "type": "scientific data, feminist statement or analysis"
+    },
+    {
+        "title": "Five ways governments are responding to violence against women and children during COVID-19",
+        "description": "UNICEF blog: A non-exhaustive list of government responses to increased violence against women and children during COVID-19 crisis.",
+        "link": "https://blogs.unicef.org/evidence-for-action/five-ways-governments-are-responding-to-violence-against-women-and-children-during-covid-19/  ",
+        "country": "Global",
+        "category": "gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Coronavirus doesn't cause Men's violence Against Women",
+        "description": "Compares the number of women killed in the United Kingdom during 3 week period over several years",
+        "link": "https://kareningalasmith.com/2020/04/15/coronavirus-doesnt-cause-mens-violence-against-women/",
+        "country": "United Kingdom",
+        "category": "gender-based violence",
+        "type": "scientific data"
+    },
+    {
+        "title": "COVID-19: A Gender Lens: Protecting sexual and reproductive health and rights, and promoting gender equality",
+        "description": "Technical brief from UNFPA on gendered risks during pandemic",
+        "link": "https://turkey.unfpa.org/en/publications/covid-19-gender-lens-1",
+        "country": "Global",
+        "category": "SRHR, healthcare, economy, childcare, gendered health impacts, gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Women This Week: The Gendered Effects of COVID-19",
+        "description": "Blog post on pandemic's gendered impacts on DV, access to health services, and job insecurity",
+        "link": "https://www.cfr.org/blog/women-week-gendered-effects-covid-19",
+        "country": "Global",
+        "category": "SRHR, healthcare, economy",
+        "type": "observed response"
+    },
+    {
+        "title": "COVID-19, Domestic abuse and violence: Where do Indian Women stand?",
+        "description": "General analysis of dimensions of domestic violence in India, includes uselessness of the law",
+        "link": "https://www.epw.in/engage/article/covid-19-domestic-abuse-and-violence-where-do#.Xps-Edkwo8U.twitter",
+        "country": "India",
+        "category": "gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "The EU-UN Spotlight Inititative in Nigeria is working against gender-based violence during the COVID-19",
+        "description": "Brief UNESCO GBV awareness page with Nigerian Hotline information, includes short awareness video ",
+        "link": "https://en.unesco.org/news/eu-spotlight-initiative-nigeria-working-against-gender-based-violence-during-covid-19",
+        "country": "Nigeria",
+        "category": "gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Tools and Resources page of Gender-Based Violence Area of Responsibility",
+        "description": "Search webpage for case study/best practices/examples from the field, includes guidance notes",
+        "link": "https://gbvaor.net/thematic-areas?term_node_tid_depth_1%5scientific data21%5D=121",
+        "country": "Global, Mozambique, Sudan",
+        "category": "gender-based violence",
+        "type": "mutual aid resource"
+    },
+    {
+        "title": "COVID-19: Resources to address Gender-based Violence Risks",
+        "description": "Guidelines for Intergrating Gender-Based Violence Interventions in Humanitarian Action, as well as other documents and guides",
+        "link": "https://gbvguidelines.org/cctopic/covid-19/ ",
+        "country": "Global",
+        "category": "gender-based violence",
+        "type": "mutual aid resource"
+    },
+    {
+        "title": "OPERATION 50/50: Women's Perspectives Save Lives",
+        "description": "List of women experts who are working in health security",
+        "link": "https://www.womeningh.org/operation-50-50",
+        "country": "Global",
+        "category": "healthcare",
+        "type": "organizing tool"
+    },
+    {
+        "title": "Elevating women in the age of coronavirus",
+        "description": "Virtual networks can empower and include more working women in entrepreneurship and sustainable development",
+        "link": "https://apolitical.co/en/solution_article/elevating-women-in-the-age-of-coronavirus",
+        "country": "Global",
+        "category": "labor",
+        "type": "organizing tool"
+    },
+    {
+        "title": "Opinion: Global health security depends on women",
+        "description": "Asks for integrating gender equality into Global healthcare infrastructure - 5 points",
+        "link": "https://www.devex.com/news/opinion-Global-health-security-depends-on-women-96861?access_key=&utm_source=newsletter&utm_medium=newswire&utm_campaign=yourheadlines&utm_content=text&mkt_tok=eyJpIjoiTlRObFpXTmxNVGhoSRHRRGbCIsInQiOiIrV0hMbVJnOWdmMlQxczV4RnFcLzlsXC9IWE56alZyYzlqVFdHR3RMpolicy or lawhBFeminist Statement or Analysisp3Digital SurveillanceFlZkhNSGo1Q25ZRVNEZmdkczFLbVIzeUJVMVRDbjJLeVlYdWVobWg2Uk5PN2FSbFppY3N2Feminist Statement or AnalysisQrWFF0WnA4NW9yTEJNXC83aG5LYVY0aHVxeHRpbiJ9",
+        "country": "Global",
+        "category": "healthcare",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "OPINION: Why we need women’s leadership in the COVID-19 response",
+        "description": "Call for more women's leadership in pandemic response for equal health benefits to all",
+        "link": "https://news.trust.org/item/20200401090723-319sb",
+        "country": "Global",
+        "category": "healthcare",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Fighting COVID-19 With One Hand Tied Behind Our Backs?",
+        "description": "Gender bias keeps women out of decison making but pandemic affects women differently than men",
+        "link": "https://www.thinkGlobalhealth.org/article/fighting-covid-19-one-hand-tied-behind-our-backs",
+        "country": "Global",
+        "category": "healthcare, economy, labor, gendered health impacts",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Coronavirus measures will hit women harder than men, charities warn",
+        "description": "Data regarding the affect of coronavirus on women is urgently needed to allocate resources",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-women-trfn/coronavirus-measures-will-hit-women-harder-than-men-charities-warn-idUSKBN21J6NI",
+        "country": "Global",
+        "category": "SRHR, healthcare, digital surveillance, gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Women’s leadership and unlocking girls’ talent in the era of the coronavirus pandemic",
+        "description": "Pandemic identifies gaps in Global systems and how women can and should fill them",
+        "link": "https://www.Globalpartnership.org/blog/womens-leadership-and-unlocking-girls-talent-era-coronavirus-pandemic#.XotGV9o2Av4.twitter",
+        "country": "Global",
+        "category": "education, economy, labor",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Memo to the UK: women's voices can also be useful in this crisis",
+        "description": "Women and men consider risk differently and policy could benefit from equal representation",
+        "link": "https://www.theguardian.com/commentisfree/2020/apr/11/memo-to-the-uk-womens-voices-can-also-be-useful-in-this-crisis",
+        "country": "United Kingdom",
+        "category": "healthcare, economy, labor, gendered health impacts",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "The secret weapon in the fight against coronavirus: women",
+        "description": "Women leaders are doing an exceptional job at containing coronavirus",
+        "link": "https://www.theguardian.com/commentisfree/2020/apr/11/secret-weapon-fight-against-coronavirus-women",
+        "country": "Germany, Taiwan, New Zealand, Denmark, Finland, United Kingdom, United States",
+        "category": "healthcare",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Covid-19 School Closures Around the World Will Hit Girls Hardest",
+        "description": "Six gender-responsive actions proposed to mitigate Covid-19's impact on girls' education",
+        "link": "https://plan-international.org/blog/2020/03/covid-19-school-closures-hit-girls-hardest",
+        "country": "Global",
+        "category": "education",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "From nannies to helpers, coronavirus spotlights Asia women's job insecurity",
+        "description": "Asian women conduct a lot of informal or unpaid work which is highly insecure during pandemic",
+        "link": "https://news.trust.org/item/20200313122408-e2lvu/",
+        "country": "Asia-Pacific",
+        "category": "economy, labor",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "America's cleaners: fighting on the coronavirus front line",
+        "description": "Cleaners are at high risk but they are financially unsettled and so must continue working",
+        "link": "https://uk.reuters.com/article/uk-health-coronavirus-usa-cleaners/americas-cleaners-fighting-on-the-coronavirus-front-line-idUKKBN2162GW",
+        "country": "United States",
+        "category": "economy, labor",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Why women will be hardest hit by a coronavirus-driven recession",
+        "description": "Gendered budgeting will be imperative in mitigating disproportionate affects of pandemic on women",
+        "link": "https://www.fastcompany.com/90479204/why-women-will-be-hardest-hit-by-a-coronavirus-driven-recession",
+        "country": "United States",
+        "category": "economy, labor",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Gender economist Katica Roy: If we don't act fast, women will bear the brunt of the financial crisis caused by coronavirus",
+        "description": "Interview with Katica Roy regarding pandemic induced financial crisis effects on women",
+        "link": "https://www.nbcnews.com/know-your-value/feature/gender-economist-katica-roy-if-we-don-t-act-fast-ncnpolicy or law166771",
+        "country": "United States",
+        "category": "economy",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "‘Stay Home’ and Work? Implications of COVID-19 and the UK Governmental Response for Self-Employed Women",
+        "description": "Implications of the effects of UK governmental response on women's small businesses are unclear",
+        "link": "https://isbegen.wordpress.com/2020/03/27/stay-home-and-work/",
+        "country": "United Kingdom",
+        "category": "economy",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Most Brown and Black Americans Are Exposing Themselves to Coronavirus for a Paycheck",
+        "description": "Brown and Black Americans work more jobs that require them to be physically present",
+        "link": "https://www.vice.com/en_us/article/xgqpyq/most-brown-and-black-americans-are-exposing-themselves-to-coronavirus-for-a-paycheck",
+        "country": "United States",
+        "category": "economy, race",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Low-paid women in UK at ‘high risk of coronavirus exposure’",
+        "description": "Most high-risk jobs with low salary are worked by women",
+        "link": "https://www.theguardian.com/world/2020/mar/29/low-paid-women-in-uk-at-high-risk-of-coronavirus-exposure",
+        "country": "United Kingdom",
+        "category": "economy, labor",
+        "type": "feminist statement or analysis, scientific data"
+    },
+    {
+        "title": "When face-to-face interactions become an occupational hazard: Jobs in the time of COVID-19",
+        "description": "Low paying jobs are less amenable to online work and women are more at risk",
+        "link": "https://www.brookings.edu/blog/future-development/2020/03/30/when-face-to-face-interactions-become-an-occupational-hazard-jobs-in-the-time-of-covid-19/",
+        "country": "United States",
+        "category": "economy, labor",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Equal Pay Day more important than ever amid COVID-19",
+        "description": "Pandemic is revealing economic inequality with stark contrasts",
+        "link": "https://thehill.com/opinion/civil-rights/490088-equal-pay-day-more-important-than-ever-amid-covid-19",
+        "country": "United States",
+        "category": "labor",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Here’s How You Can Help Sex Workers During the COVID-19 Outbreak",
+        "description": "Ways in which you can help sex workers during the pandemic",
+        "link": "https://rewire.news/article/2020/03/26/heres-how-you-can-help-sex-workers-during-the-covid-19-outbreak/",
+        "country": "United States",
+        "category": "healthcare, economy, labor",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "COVID-19 lockdown: Rights groups demand immediate social security measures for women",
+        "description": "Womens' organizations call on Indian Prime Minister to provide social security to protect women",
+        "link": "https://www.outlookindia.com/newsscroll/covid19-lockdown-rights-groups-demand-immediate-social-security-measures-for-women/1781106",
+        "country": "India",
+        "category": "economy",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "How the coronavirus widens the gender pay gap",
+        "description": "Organizations must be careful to pay women equally when work returns to normal",
+        "link": "https://edition.cnn.com/2020/03/31/perspectives/equal-pay-day-coronavirus/index.html",
+        "country": "United States",
+        "category": "labor",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Why This Economic Crisis Differs From the Last One for Women",
+        "description": "This crisis most affects women-dominated, low paying fields which can't be done remotely",
+        "link": "https://www.nytimes.com/2020/03/31/us/equal-pay-coronavirus-economic-impact.html",
+        "country": "United States",
+        "category": "economy",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "How the COVID-19 Crisis Is Hurting Sex Workers",
+        "description": "Pandemic means fewer clients, greater risks, and it’s hard to get benefits",
+        "link": "https://thetyee.ca/News/2020/03/27/How-COVID-19-Hurting-Sex-Workers/",
+        "country": "Canada",
+        "category": "SRHR, labor",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Covid-19 aggravating gender inequalities",
+        "description": "Gender inequalities are being exacerbated by pandemic through food, water, health, domestic violence and curfew",
+        "link": "https://www.nation.co.ke/gender/Covid-19-aggravating-gender-inequalities/5362750-5508776-l85jnt/index.html",
+        "country": "Kenya",
+        "category": "SRHR, childcare, water, food, gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "COVID-19 Highlights the Failure of Neoliberal Capitalism: We Need Feminist Global Solidarity",
+        "description": "Capitalism is not delivering people's basic needs so feminist restructuring is essential",
+        "link": "https://apwld.org/covid-19-highlights-the-failure-of-neoliberal-capitalism-we-need-feminist-Global-solidarity/?utm_source=NGO+CSW%2FNY+Constituency&utm_campaign=cb8d7d54ff-EMAIL_CAMPAIGN_2018_10_05_02_01_COPY_01&utm_medium=email&utm_term=0_67ac6441ff-cb8d7d54ff-412137047&mc_cid=cb8d7d54ff&mc_eid=64cdc0fe0b",
+        "country": "Thailand",
+        "category": "economy",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "COVID-19 requires gender-equal responses to save economies",
+        "description": "Gender-inclusive response is needed to bounce back the Global economy",
+        "link": "http://www.ipsnews.net/2020/04/covid-19-requires-gender-equal-responses-save-economies/?utm_source=feedly&utm_medium=rss&utm_campaign=covid-19-requires-gender-equal-responses-save-economies",
+        "country": "Global",
+        "category": "economy",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "How Economic Fallout From The Coronavirus May Disproportionately Affect Women",
+        "description": "Womens' income is important and they are also doing a lot of unpaid work",
+        "link": "https://www.forbes.com/sites/jenniferbarrett/2020/04/02/how-economic-fallout-from-the-coronavirus-may-disproportionately-affect-women/#485df515836a",
+        "country": "United States",
+        "category": "economy, labor",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Lockdown: Domestic workers struggle to make ends meet as families refuse to pay",
+        "description": "Domestic workers are not being paid during lockdown",
+        "link": "https://www.hindustantimes.com/mumbai-news/lockdown-domestic-workers-struggle-to-make-ends-meet-as-families-refuse-to-pay/story-aB6zzwdUyQYnivAJoCMtEJ.html",
+        "country": "India",
+        "category": "labor",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "COVID-19 will make gender pay inequities worse",
+        "description": "Gender pay inequity to be exacerbated by the pandemic",
+        "link": "https://www.benefitspro.com/2020/04/07/covid-19-will-make-gender-pay-inequities-worse/?cmp=share_twitter&slreturn=20200317122647",
+        "country": "United States",
+        "category": "education, economy, childcare, labor",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "COVID-19 worsening gender inequality, more women have lost jobs – UN",
+        "description": "Women are increasingly taking on extra unpaid labour and their rights will be reversed",
+        "link": "https://dailypost.ng/2020/04/10/covid-19-worsening-gender-inequality-more-women-have-lost-jobs-un/",
+        "country": "Global",
+        "category": "economy, labor",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Female frontline workers in China typical of coronavirus economic and domestic burden on women: report",
+        "description": "Women are disproportionately affected by health, education and labour-related hardship domestically and outside the home",
+        "link": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/society/article/3079363/female-frontline-workers-china-typical-coronavirus-economic-and",
+        "country": "China",
+        "category": "labor",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "The Economic Impact of Coronavirus on Women is 'Devastating' and Exacerbating Gender Inequality, Says Facebook's Sheryl Sandberg",
+        "description": "Pandemic will have a disproportionate effect on women's employment opportunities",
+        "link": "https://www.newsweek.com/economic-impact-coronavirus-women-devastating-exacerbating-gender-inequality-says-1497325",
+        "country": "United States",
+        "category": "labor",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Women on the frontlines of COVID-19",
+        "description": "There is a lack of infrastructure to protect workers, many of whom are women",
+        "link": "https://www.liberationnews.org/women-on-the-frontlines-of-covid-19/",
+        "country": "United States",
+        "category": "economy, labor",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Gender pay gap poses 'shocking' pitfall if isolation goes on",
+        "description": "Men's higher paying work is being prioritised over women's when distributing new household responsibilities",
+        "link": "https://www.canberratimes.com.au/story/6721006/gender-pay-gap-poses-shocking-pitfall-if-isolation-goes-on/",
+        "country": "Australia",
+        "category": "labor",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Sex workers must not be left behind in the response to COVID-19",
+        "description": "UNAIDS calls for immediate action to protect sex workers",
+        "link": "https://www.unaids.org/en/resources/presscentre/pressreleaseandstatementarchive/2020/april/20200408_sex-workers-covid-19",
+        "country": "Global",
+        "category": "SRHR, labor, gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Protecting Women Using DFS During The Pandemic",
+        "description": "Women should be educated in using digital financing solutions in developing countries",
+        "link": "https://www.siaedge.com/news/2020/3/27/protecting-women-using-dfs-during-the-pandemic",
+        "country": "Ghana, Kenya",
+        "category": "digital surveillance, economy, labor",
+        "type": "feminist statement or analysis, organizing tool"
+    },
+    {
+        "title": "The Economic Devastation Of COVID-19 Is Hitting Women Particularly Hard",
+        "description": "Women are disproportionately affected by Covid-19, particularly black women",
+        "link": "https://www.huffingtonpost.co.uk/entry/women-coronavirus-lost-jobs_n_5e90observed response63c5b685fbc7d4a557?ri18n=true",
+        "country": "United States",
+        "category": "economy, labor, race",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Addressing the gender dimensions of COVID-related school closures ",
+        "description": "Synthesis report of webinar featuring country experiences and synthesizing participants' calls to action for governments",
+        "link": "https://en.unesco.org/sites/default/files/covid-19-ed_webinar_3-addressing_the_gender_dimensions_of_school_closures-report-en.pdf",
+        "country": "Sierra Leone, Nigeria, Nepal, Afghanistan",
+        "category": "education",
+        "type": "scientific data, feminist statement or analysis"
+    },
+    {
+        "title": "COVID-19 Impact: What we know so far – Albania",
+        "description": "An interview with the Executive Director of Albania Center of Population and Development (ACPD) ",
+        "link": "https://www.ippf.org/blogs/covid-19-impact-what-we-know-so-far-albania",
+        "country": "Albania",
+        "category": "SRHR",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "UNDP Angola: Support to the National Response to Contain the Impact of COVID-19",
+        "description": "UNDP analysis, interventions, and associated budget for COVID-19, highlighting gendered socio-economic impacts in budget",
+        "link": "https://www.undp.org/content/dam/rba/docs/COVID-19-CO-Response/undp-rba-covid-angola-apr2020.pdf",
+        "country": "Angola",
+        "category": "economy, SRHR",
+        "type": "scientific data"
+    },
+    {
+        "title": "C-19 Menaces Antigua and Barbuda",
+        "description": "Analysis of response: government information, actions, and healthcare spending in context of disaster capitalism",
+        "link": "https://solidarity-us.org/c-19-menaces-antigua-and-barbuda/",
+        "country": "Antigua and Barbuda",
+        "category": "healthcare, economy",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "The Coronavirus Outbreak Has Stalled Argentina’s Historic Effort To Legalize Abortion",
+        "description": "Analysis of abortion movement in Argentina and status of legislation postponed due to pandemic ",
+        "link": "https://www.huffpost.com/entry/argentina-abortion-legalization-coronavirus_n_5e7cae9bc5b6cb08a928f364",
+        "country": "Argentina",
+        "category": "SRHR",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Argentina's COVID-19 Lessons",
+        "description": "Analysis of country response that includes context of history of resistance, feminist movements, and democratic organizing",
+        "link": "https://www.jacobinmag.com/2020/04/argentina-covid-19-coronavirus-pandemic-response",
+        "country": "Argentina",
+        "category": "SRHR",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Argentina Sees At Least 6 Femicides During Coronavirus Quarantine",
+        "description": "Recounts Argentina's recent history of femicide and recent COVID-19 measures, including #BarbijoRojo/\"Red Facemask\"",
+        "link": "https://www.aljazeera.com/news/2020/04/argentina-sees-6-femicides-coronavirus-quarantine-200401185419939.html",
+        "country": "Argentina",
+        "category": "gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Can Transgender People Speak in Armenia?",
+        "description": "Comparison of COVID-19 experiences to transgender experiences in Armenia, with a look at disproportionate impacts",
+        "link": "https://www.opendemocracy.net/en/odr/can-transgender-people-speak-armenia/",
+        "country": "Armenia",
+        "category": "gendered health impacts",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Coronavirus Australia: Why Women Will Feel The Impact More Than Men",
+        "description": "Exploration of gendered impacts in Lancet article with Australia-specific data on frontline workers and socio-economic status",
+        "link": "https://7news.com.au/lifestyle/health-wellbeing/coronavirus-australia-why-women-will-feel-the-impact-more-than-men-c-748823?utm_campaign=share-icons&utm_source=facebook&utm_medium=social&tid=1584431328469&mc_cid=719f7558Organizing Tool&mc_eid=6bbf508b86",
+        "country": "Australia",
+        "category": "healthcare, economy",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Local Human Rights Organisation Urges Feminist Policy In COVID-19 Response",
+        "description": "Description of Equality Bahamas' open letter calling for feminist, rights-based access to protection, info, resources",
+        "link": "https://ewnews.com/local-human-rights-organisation-urges-feminist-policy-in-covid-19-response",
+        "country": "Bahamas",
+        "category": "punitive, healthcare, education, economy, childcare, labor, gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Trafficking Victims Join Fight Against COVID-19 in Azerbaijan",
+        "description": "Description of a group of trafficking victims in a shelter sewing face-masks to contribute ",
+        "link": "https://www.iom.int/news/trafficking-victims-join-fight-against-covid-19-azerbaijan",
+        "country": "Azerbaijan",
+        "category": "healthcare",
+        "type": "mutual aid resource"
+    },
+    {
+        "title": "Amid the COVID-19 Lockdown, the Feminist Emergency Must be Addressed",
+        "description": "Feminist call for comprehensive plan to address gender-based violence, building upon standard measures with additional resources",
+        "link": "https://menafn.com/1100018749/Amid-the-COVID-19-Lockdown-the-Feminist-Emergency-Must-be-Addressed",
+        "country": "Venezuela",
+        "category": "gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "The Impact of COVID-19 on Gender Equality in the Arab Region",
+        "description": "ECSWA/UN policy brief on anticipated impacts with recommended policy responses",
+        "link": "https://reliefweb.int/sites/reliefweb.int/files/resources/policy_brief_on_the_impact_of_covid-19_on_gender_relations_in_the_arab_region_en_1.pdf",
+        "country": "Middle East and North Africa",
+        "category": "healthcare, education, economy, childcare, labor, food, gender-based violence",
+        "type": "scientific data, feminist statement or analysis"
+    },
+    {
+        "title": "COVID-19: Bahrainis Launch Initiative to Aid Jobless Foreigners",
+        "description": "Brief description of food relief program designed and run by volunteers",
+        "link": "https://gulfnews.com/world/gulf/bahrain/covid-19-bahrainis-launch-initiative-to-aid-jobless-foreigners",
+        "country": "Bahrain",
+        "category": "food",
+        "type": "mutual aid resource"
+    },
+    {
+        "title": "Bangladeshi Women Play Crucial Role in Fight Against COVID-19",
+        "link": "https://netra.news/2020/bangladeshi-women-play-crucial-role-in-fight-against-covid-19-981",
+        "country": "Bangladesh",
+        "category": "healthcare, economy, childcare, labor, gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "COVID-19 and Implications for Inclusive Economic Empowerment In CARICOM: Policy and Programme Considerations",
+        "description": "Policy brief reviewing regional data and making broad policy recommendations for gender-responsive measures",
+        "link": "https://www2.unwomen.org/-/media/field%20office%20caribbean/attachments/publications/2020/social%20protection%20covid-19%20%20web%20doc%2020200327.pdf?la=en&vs=812",
+        "country": "Latin America and the Caribbean",
+        "category": "economy, childcare, labor, food, gender-based violence, disability",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "COVID-19 En América Latina Y El Caribe: Cómo Incorporar A Las Mujeres Y La Igualdad De Género",
+        "description": "COVID-19 in Latin America and the Caribbean: How to Incorporate Women and Gender Equality",
+        "link": "https://www2.unwomen.org/-/media/field%20office%20americas/documentos/publicaciones/2020/03/briefing%20coronavirusv1117032020.pdf?la=es&vs=930",
+        "country": "Latin America and the Caribbean",
+        "category": "SRHR, economy, childcare, food, gendered health impacts, gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "COVID-19 In Latin America And The Caribbean: How To Incorporate Women And Gender Equality",
+        "link": "https://www2.unwomen.org/-/media/field%20office%20americas/documentos/publicaciones/2020/03/enbriefing%20coronavirusv1117032020.pdf?la=es&vs=0",
+        "country": "Latin America and the Caribbean",
+        "category": "SRHR, economy, childcare, food, gendered health impacts, disability",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Gênero E COVID-19 Na América Latina E No Caribe: Dimensões De Gênero Na Respostae",
+        "description": "Gender and COVID-19 in Latin America and the Caribbean: Gender Dimensions in the Response",
+        "link": "https://www2.unwomen.org/-/media/field%20office%20americas/documentos/publicaciones/2020/03/ptbriefing%20coronavirusv1117032020.pdf?la=es&vs=2922",
+        "country": "Latin America and the Caribbean",
+        "category": "SRHR, economy, childcare, food, gendered health impacts, race",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Le COVID-19 En Amérique Latine Et Aux Caraïbes: Intégration Des Femmes Et De L’égalité Des Sexes",
+        "description": "COVID-19 in Latin America and the Caribbean: Integration of Women and Gender Equality",
+        "link": "https://www2.unwomen.org/-/media/field%20office%20americas/documentos/publicaciones/2020/03/frbriefing%20coronavirusv1117032020.pdf?la=es&vs=232",
+        "country": "Latin America and the Caribbean",
+        "category": "SRHR, economy, childcare, food, gendered health impacts, misinformation",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Protecting the Caribbean’s Most Vulnerable People in the Face of COVID-19",
+        "description": "Blog advocating a multi-faceted response the protects elderly, women, and children",
+        "link": "https://news.un.org/en/story/2020/04/1060842",
+        "country": "Latin America and the Caribbean",
+        "category": "healthcare, education, childcare, gender-based violence, disability",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Coronavirus: Why are More Men Than Women Dying?",
+        "description": "Article discussing differences observed worldwide with Belgium authorities; sex-disaggregated data not available for Belgium",
+        "link": "https://www.brusselstimes.com/all-news/belgium-all-news/102934/coronavirus-why-are-men-dying-more-than-women/",
+        "country": "Belgium",
+        "category": "gendered health impacts",
+        "type": "scientific data"
+    },
+    {
+        "title": "Mental Heath care Tips for children",
+        "description": "Ministry of Health & Family Welfare, Government of India-How to take care of Mental Health of Children during Lockdown",
+        "link": "https://www.mohfw.gov.in/pdf/mentalhealthchildrean.pdf",
+        "country": "India",
+        "category": "healthcare, childcare",
+        "type": "mutual aid resource"
+    },
+    {
+        "title": "Mental Heath care Tips for Elders",
+        "description": "Ministry of Health & Family Welfare, Government of India-How to take care of Mental Health of Elders during Lockdown",
+        "link": "https://www.mohfw.gov.in/pdf/mentalhealthelderly.pdf",
+        "country": "India",
+        "category": "healthcare",
+        "type": "mutual aid resource"
+    },
+    {
+        "title": "App for Covid-19",
+        "description": "Government of India has launched Aarogya Setu app to take self assessment test, how to maintain social distancing, all information about Covid-19, to get all information about e-pass to be used only for the purpose of supplying essentials and also provides all updates of COVID-19",
+        "link": "https://www.mygov.in/aarogya-setu-app/",
+        "country": "India",
+        "category": "digital surveillance, healthcare, education",
+        "type": "scientific data, mutual aid resource, organizing tool"
+    },
+    {
+        "title": "Domestic Violence Decriminalized in Russia",
+        "description": "Decriminalization of DV becomes even more dangerous with less access to private assistance",
+        "link": "https://www.themoscowtimes.com/2020/03/30/when-your-home-isnt-a-safe-space-russian-women-fear-rise-in-domestic-violence-as-coronavirus-quarantine-starts-a69794",
+        "country": "Russia",
+        "category": "gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Five Actions for Gender Equality in the Covid-19 Response",
+        "description": "UNICEF is focusing on 5 key actions to mitigate GBV during the Covid Pandemic ",
+        "link": "https://www.unicef.org/documents/five-actions-gender-equality-coronavirus-disease-covid-19-response-technical-note",
+        "country": "Global",
+        "category": "gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Lessons from African Feminists Mobilizing Against COVID-19",
+        "description": "Grassroots women’s organizations in Africa are mobilizing their communities to respond to Covid-19",
+        "link": "https://blogs.ei.columbia.edu/2020/04/03/african-feminists-mobilizing-covid-19/",
+        "country": "Anglophone Africa, Francophone Africa",
+        "category": "gendered health impacts",
+        "type": "feminist statement or analysis, organizing tool"
+    },
+    {
+        "title": "SHARED RESPONSIBILITY, GLOBAL SOLIDARITY: Responding to the socio-economic impacts of COVID-19",
+        "description": "A report sumarizing the impacts of Covid in relation to socio-economic status, responsibilites of everyone on the globe, and ways to minimize impacts",
+        "link": "https://unsdg.un.org/resources/shared-responsibility-Global-solidarity-responding-socio-economic-impacts-covid-19",
+        "country": "Global",
+        "category": "healthcare, economy, labor, gendered health impacts",
+        "type": "scientific data"
+    },
+    {
+        "title": "The Coronavirus, exhausting inequalities",
+        "description": "Statistics of female domination of the medical and cleaning frontline and single parenting, emphasising inequality.",
+        "link": "https://www.letemps.ch/societe/coronavirus-exhausteur-dinegalites",
+        "country": "Switzerland",
+        "category": "childcare, gendered health impacts",
+        "type": "scientific data, feminist statement or analysis"
+    },
+    {
+        "title": "Women's role is not to stay beautiful during the quarantine",
+        "description": "Sexist memes regarding quarantine beauty standards bringing extra stress to women already juggling more responsibilities",
+        "link": "https://www.rtbf.be/info/dossier/les-grenades/detail_le-role-des-femmes-n-est-pas-de-rester-belles-durant-le-confinement-une-chronique-de-safia-kessas-et-sofia-cotsoglou?id=10471428",
+        "country": "Belgium",
+        "category": "gendered health impacts",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Some Governments are Using Coronavirus to Restrict Women's Rights",
+        "description": "Governments neglecting abortions: classified as 'non-essential treatments', delaying bills, closing centers",
+        "link": "https://www.aljazeera.com/indepth/opinion/governments-coronavirus-restrict-women-rights-200412095859321.html",
+        "country": "Global",
+        "category": "SRHR",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Issue of Quarantined Domestic Violence and How to Find Help",
+        "description": "DV increase, explanation per country of call lines, pharmacy help and other government assistance.",
+        "link": "https://www.bbc.com/mundo/noticias-52009140",
+        "country": "Argentina, Chile, Colombia, Uruguay, Mexico, Peru, Venezuela, Spain",
+        "category": "gender-based violence",
+        "type": "feminist statement or analysis, mutual aid resource, organizing tool"
+    },
+    {
+        "title": "#TheOtherPandemic, A New Campaign Against Domestic Violence",
+        "description": "Spotlight Initiative #LaOtraPandemia #TheOtherPandemic for quick access to assistance and information on domestic violence",
+        "link": "https://www.clarin.com/sociedad/coronavirus-argentina-laotrapandemia-nueva-campana-violencia-genero_0_93t-SPt_k.html",
+        "country": "Argentina",
+        "category": "gender-based violence",
+        "type": "organizing tool"
+    },
+    {
+        "title": "Mexico: From Women's Uprising To COVD-19 Crisis",
+        "description": "Accuses Mexican government for lack of gender specific responses while women suffer most",
+        "link": "https://indypendent.org/2020/04/mexico-from-womens-uprising-to-covid-19-crisis/",
+        "country": "Mexico",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Threatened by their invisibility: Prostitutes suffer due to COVID-19",
+        "description": "Sex workers result to online work, receive no assistance, no safety, are left highly vulnerable.",
+        "link": "https://larepublica.pe/mundo/2020/03/30/coronavirus-prostitutas-sufren-por-covid-19-cuarentena-agrava-su-situacion-amenazadas-por-proxenetas/",
+        "country": "Peru",
+        "category": "SRHR, punitive",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "How the Corona Virus Widens the Gender Pay Gap",
+        "description": "Women are more highly represented in low-paying jobs, need to continue to close the gender pay gap",
+        "link": "https://www.cnn.com/2020/03/31/perspectives/equal-pay-day-coronavirus/index.html",
+        "country": "United States",
+        "category": "economy",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "COVID-19 highlights the failure of neoliberal capitalism",
+        "description": "This system has failed to deliver people's basic needs, including access to public health and universal social protections",
+        "link": "https://apwld.org/covid-19-highlights-the-failure-of-neoliberal-capitalism-we-need-feminist-Global-solidarity/?",
+        "country": "Global, Asia-Pacific",
+        "category": "economy, labor",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "How Economic Fallout from the Coronavirus May Disproportionately Affect Women",
+        "description": "More mothers are the sole or primary breadwinner; paid family or medical leave is essential",
+        "link": "https://www.forbes.com/sites/jenniferbarrett/2020/04/02/how-economic-fallout-from-the-coronavirus-may-disproportionately-affect-women/#775observed response12a836a",
+        "country": "United States",
+        "category": "economy, labor",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "What Do Women and Working Families Need to Face COVID-19?",
+        "description": "NWLC summerizes their 4 major priorities for Covid-19 responses.",
+        "link": "https://msmagazine.com/2020/03/18/what-do-women-and-working-families-need-to-face-covid-19/",
+        "country": "United States",
+        "category": "economy, childcare",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Solidarity in the time of a pandemic",
+        "description": "Solidarity facebook group offering women childcare services, and other assistance helping mental health and jobs",
+        "link": "https://www.rtbf.be/info/dossier/les-grenades/detail_solidarite-en-temps-de-pandemie-une-affaire-genree?id=10460115",
+        "country": "Belgium",
+        "category": "childcare",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Domestic Violence Cases Surge During COVID-19 Epidemic",
+        "description": "Blog: Increased number of reports of domestic violence during COVID-19, victims being neglected",
+        "link": "http://www.sixthtone.com/news/1005253/domestic-violence-cases-surge-during-covid-19-epidemic",
+        "country": "China",
+        "category": "gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Why we need to talk more about the potential for COVID-19 to Increase the Risk of Violence against Women and Girls",
+        "description": "Summarizes the results of a rapid review of evidence on risks of GBV against girls and women",
+        "link": "http://www.sddirect.org.uk/news/2020/03/why-we-need-to-talk-more-about-the-potential-for-covid-19-to-increase-the-risk-of-violence-against-women-and-girls/",
+        "country": "Global",
+        "category": "gender-based violence",
+        "type": "scientific data, feminist statement or analysis"
+    },
+    {
+        "title": "COVID-19 and Family Violence",
+        "description": "FAQ on how COVID-19 pandemic and other natural disasters have increased the incidence of family violence",
+        "link": "https://www.thelookout.org.au/family-violence-workers/covid-19-and-family-violence",
+        "country": "Australia",
+        "category": "gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "What does coronavirus mean for violence against women?",
+        "description": "The reasons why violence against women during the COVID-19 pandemic are increasing",
+        "link": "https://womensmediacenter.com/news-features/what-does-coronavirus-mean-for-violence-against-women",
+        "country": "Global, United States",
+        "category": "gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "How to stop Coronavirus Lockdown Leading to and Upsurge in Violence against Women ",
+        "description": "The assumption that our homes are safe during the COVID-19 pandemic is false",
+        "link": "https://oxfamblogs.org/fp2p/how-to-stop-coronavirus-lockdown-leading-to-an-upsurge-in-violence-against-women%EF%BB%BF/",
+        "country": "Global",
+        "category": "gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Video Message from Antonio Guterres (UN Secretary-General) on Gender-Based Violence and COVID-19",
+        "description": "Guterres notes the increase in domestic violence, urges governments to include prevention and redress as part of response plans",
+        "link": "https://www.youtube.com/watch?time_continue=10&v=SXxnZKom6sg&feature=emb_logo",
+        "country": "Global",
+        "category": "gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Make the Prevention and Redress of Violence Against Women a Key Part of National Response Plans for COVID-19\"",
+        "description": "Transcript of UN Guterres video message above",
+        "link": "https://www.un.org/en/un-coronavirus-communications-team/make-prevention-and-redress-violence-against-women-key-part",
+        "country": "Global",
+        "category": "gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "COVID-19: Gender Lens",
+        "description": "UN Women calls for intergration of violence against women Data and services in COVID-19 surveys",
+        "link": "https://mailchi.mp/6f266ed24Organizing Tool9/covid-19-gender-equality-matters",
+        "country": "Global",
+        "category": "gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Feminist and women's right group demand gender responsive COVID 19 responses",
+        "description": "Women's rights organisation cautions on the possibilities of increase in domestic and sexual violence as lockdown extends",
+        "link": "https://soulwriteempire.com/lockdown-may-increase-domestic-violence-nigerian-women-rights-groups-warn/",
+        "country": "Nigeria",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Gender violence is a silent pandemic",
+        "description": "12 Women have been murdered since the quarantine began",
+        "link": "https://elpais.com/sociedad/2020-04-07/la-violencia-de-genero-es-una-pandemia-silenciosa.html",
+        "country": "Colombia",
+        "category": "gender-based violence, punitive",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Gender violence: hotlines for victims during quarantine",
+        "description": "Main numbers to call if faced with crisis ",
+        "link": "https://colombia.as.com/colombia/2020/04/15/tikitakas/1586907724_975905.html",
+        "country": "Colombia",
+        "category": "digital surveillance, gender-based violence, disability",
+        "type": "mutual aid resource"
+    },
+    {
+        "title": "BAHRAIN: ENSURE PROTECTION OF MIGRANT WORKERS IN COVID-19 RESPONSE: JOINT LETTER",
+        "description": "A joint letter from a coalition of civil society organizations and trade unions, urging the Government of Bahrain to ensure that migrant workers receive adequate protection from COVID-19.",
+        "link": "https://www.amnesty.org/en/documents/mde11/2168/2020/en/",
+        "country": "Bahrain",
+        "category": "healthcare, economy, labor, race",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "UN Women commends Egypt's gender perspective in COVID-19 response plan",
+        "description": "UN Women issued a statement commending the National Council for Women for its efforts to ensure that a gender perspective is adopted in Egypt’s COVID-19 response plan",
+        "link": "https://www.egypttoday.com/Article/2/84441/UN-Women-commends-Egypt-s-gender-perspective-in-COVID-19",
+        "country": "Egypt",
+        "category": "healthcare, education",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "Age, Sex, Existing Conditions of COVID-19 Cases and Deaths",
+        "description": "Cases and death rate based on age and sex, doesn't go into more depth. ",
+        "link": "https://www.worldometers.info/coronavirus/coronavirus-age-sex-demographics/",
+        "country": "United States",
+        "category": "healthcare",
+        "type": "scientific data"
+    },
+    {
+        "title": "ICNARC report on COVID-19 in critical care",
+        "description": "Cases and death rates up to March 19th, does not dive into gender differences. ",
+        "link": "https://www.icnarc.org/DataServices/Attachments/Download/a9875849-f16c-epolicy or law1-9124-00505601089b",
+        "country": "United Kingdom",
+        "category": "healthcare",
+        "type": "scientific data"
+    },
+    {
+        "title": "Sex, gender and COVID-19: Disaggregated data and health disparities",
+        "description": "Whether sex and gender matter to clinical pathways and outcomes associated with COVID-19",
+        "link": "https://blogs.bmj.com/bmjgh/2020/03/24/sex-gender-and-covid-19-disaggregated-data-and-health-disparities/",
+        "country": "Asia-Pacific, Pacific Islands, Anglophone Africa, Europe, Francophone Africa, Latin America and the Caribbean, Middle East and North Africa",
+        "category": "healthcare, gendered health impacts, gender-based violence",
+        "type": "scientific data"
+    },
+    {
+        "title": "Sex, gender and COVID-19 (Live data tracker)",
+        "description": "Countries need to begin both collecting and publicly reporting sex-disaggregated data, however, they currently aren't. ",
+        "link": "https://Globalhealth5050.org/covid19/",
+        "country": "Global",
+        "category": "healthcare, gendered health impacts, gender-based violence",
+        "type": "scientific data"
+    },
+    {
+        "title": "Which occupations expose workers to COVID-19 most?",
+        "description": "Explores which jobs create the most risk of exposure to COVID-19, examples are nurses, dentists. ",
+        "link": "https://autonomy.work/portfolio/jari/",
+        "country": "United Kingdom",
+        "category": "labor",
+        "type": "scientific data"
+    },
+    {
+        "title": "Covid-19 worldwide: we need precise data by age group and sex urgently",
+        "description": "We need reporting on sex and age results as this is currently not being done. ",
+        "link": "https://www.bmj.com/content/369/bmj.m1366",
+        "country": "Global",
+        "category": "gendered health impacts, gender-based violence",
+        "type": "scientific data, feminist statement or analysis"
+    },
+    {
+        "title": "Does Covid-19 Hit Women and Men Differently? U.S. Isn’t Keeping Track",
+        "description": "Though we're monitoring the effects of age on COVID-19, we're not doing that with sex. ",
+        "link": "https://www.nytimes.com/2020/04/03/us/coronavirus-male-female-data-bias.html",
+        "country": "United States",
+        "category": "gendered health impacts, gender-based violence",
+        "type": "scientific data, feminist statement or analysis"
+    },
+    {
+        "title": "Covid-19 and gender equality",
+        "description": "A webpage aimed at providing information on gender differences for effects of COVID-19.",
+        "link": "https://eige.europa.eu/topics/health/covid-19-and-gender-equality",
+        "country": "Europe",
+        "category": "healthcare, economy, gendered health impacts, gender-based violence",
+        "type": "scientific data"
+    },
+    {
+        "title": "Utilizing evidence-based research to incorporate a gendered lens for the COVID-19 pandemic",
+        "description": "A portal that provides information useful for policymakers, practitioners, etc to make informed decisions.",
+        "link": "https://gap.hks.harvard.edu/gap-covid19",
+        "country": "Global",
+        "category": "healthcare, economy, gendered health impacts, gender-based violence",
+        "type": "scientific data"
+    },
+    {
+        "title": "A Meta-Analysis of the Association between Gender and Protective Behaviors in Response to Respiratory Epidemics and Pandemics",
+        "description": "An analysis done on gender differences in how men behave versus women in pharmaceutical areas. ",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5074573/",
+        "country": "Global",
+        "category": "healthcare, gendered health impacts, gender-based violence",
+        "type": "scientific data"
+    },
+    {
+        "title": "Action: Call for a Feminist COVID-19 Policy",
+        "description": "This article calls for and outlines the characteristics of a feminist policy for COVID-19",
+        "link": "http://feministallianceforrights.org/blog/2020/03/20/action-call-for-a-feminist-covid-19-policy/",
+        "country": "Global",
+        "category": "healthcare, economy, gendered health impacts, gender-based violence",
+        "type": "feminist statement or analysis"
+    },
+    {
+        "title": "COVID-19: Emerging gender data and why it matters",
+        "description": "Women and girls face unequal access to work, healthcare, and face increasing domestic violence",
+        "link": "https://data.unwomen.org/resources/covid-19-emerging-gender-data-and-why-it-matters",
+        "country": "Global",
+        "category": "gendered health impacts, gender-based violence",
+        "type": "scientific data"
+    },
+    {
+        "title": "COVID-19 and gender: What do we know; what do we need to know?",
+        "description": "Importance of capturing health impacts differing between women and men due to current inconsistencies ",
+        "link": "https://data.unwomen.org/features/covid-19-and-gender-what-do-we-know-what-do-we-need-know",
+        "country": "Global",
+        "category": "gendered health impacts, gender-based violence",
+        "type": "scientific data"
+    },
+    {
+        "title": "COVID-19 situation update for the WHO European Region",
+        "description": "COVID-19 data from April 6th to 12th; does not include much gender data at all. ",
+        "link": "http://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19/weekly-surveillance-report",
+        "country": "Europe",
+        "category": "healthcare",
+        "type": "scientific data"
+    }
+]
+
+  resources_data.each{|it|
+    puts "\n\n\n✨ ✨ ✨ ✨ this is the title: #{it[:title]}✨ ✨ ✨ "
+    puts "🔺entering the progressive choice"
+    if it[:progressive] == "progressive"
+        prog = Progressive.all[0].id
+    elsif it[:progressive] == "regressive"
+        prog = Progressive.all[1].id
+    else
+        prog = Progressive.all[2].id
+    end
+
+    puts "🔺about to create item"
+    item = Item.create!(
+        title: it[:title], 
+        description: it[:description], 
+        link: it[:link], 
+        date: nil, 
+        progressive_id: Progressive.all[-1].id, 
+        page_id: Page.all[2].id
+    )
+
+    puts "🔺🔺🔺item created: #{item.id}: #{item.title}\n\n"
+    puts "🔺about to create type item"
+    if it[:type] != ""
+        if it[:type].include?(",") 
+            # binding.pry
+            it[:type].split(', ').each{|t| TypeItem.create!(type_id: Type.find_by(name: t).id, item_id: item.id )
+            puts "- createdTypeItem for #{t}!"}
+        else
+            TypeItem.create!(type_id: Type.find_by(name: it[:type]).id, item_id: item.id )
+        end
+    end
+
+    puts "🔺about to create category item"
+    # binding.pry
+    if it[:category] != "" && it[:category]
+            if it[:title] == "Mexico: From Women's Uprising To COVD-19 Crisis"
+        binding.pry
+    end
+        if it[:category].include?(",") 
+            it[:category].split(', ').each{|t| CategoryItem.create!(category_id: Category.find_by(name: t).id, item_id: item.id )
+            puts "- created CategoryItem for #{t}!"}
+        else
+            CategoryItem.create!(category_id: Category.find_by(name: it[:category]).id, item_id: item.id )
+        end
+    end
+
+    puts "🔺about to create country item"
+    if it[:country] != ""
+        if it[:country].include?(",") 
+            it[:country].split(', ').map{|t| CountryItem.create!(country_id: Country.find_by(name: t).id, item_id: item.id )
+            puts "- created CountryItem for #{t}!"}
+        else
+            CountryItem.create!(country_id: Country.find_by(name: it[:country]).id, item_id: item.id )
+        end
+    end
+
+    puts "/n/n/n/n✅ ✅ ✅ ✅   resource data is alive ✅ ✅ ✅ ✅ "
+
+}
+
+puts "/n/n/n/n🔥🔥🔥🔥🔥🔥 DONE DONE DONE 🔥🔥🔥🔥🔥🔥"
