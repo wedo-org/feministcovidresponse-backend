@@ -1,5 +1,5 @@
 class Item < ApplicationRecord
-  after_initialize :init
+  # after_initialize :init
   belongs_to :progressive
   belongs_to :page
   has_many :country_items
@@ -11,10 +11,10 @@ class Item < ApplicationRecord
   has_many :type_items
   has_many :types, through: :type_items
 
-  validates_presence_of :title, :description, :link, :date
+  validates_presence_of :title, :description, :link
 
   def make_types
-    if self.types.length > 1 
+    if self.types.length >= 1 
       return self.types.map{|t| t.name}
     else 
       return nil 
@@ -38,10 +38,14 @@ class Item < ApplicationRecord
   end
 
   def make_countries
-    self.countries.map{|c| c.name}
+    if self.countries.length >= 1
+      return self.countries.map{|c| c.name}
+    else 
+      return nil 
+    end
   end
 
-  def init
-    self.date = "" if self.date.nil?          #will set the default value only if it's nil
-  end
+  # def init
+  #   self.date = "" if self.date.nil?          #will set the default value only if it's nil
+  # end
 end

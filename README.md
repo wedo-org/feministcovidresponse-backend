@@ -102,7 +102,7 @@ The extensive seed data (e.g. covering all countries) may take a moment. There a
 
 ## Endpoints and sample responses
 
-This app follows RESTful routes and uses API versioning. Currently, the calls can be made to `/api/v1/`. Below you will find available endpoints with sample responses.
+This app follows RESTful routes and uses API versioning. Currently, the calls can be made to `/api/v1/`. Below you will find available endpoints with sample responses. If any field is empty, instead of an empty array or strings, it will default to null.
 
 ### Items
 
