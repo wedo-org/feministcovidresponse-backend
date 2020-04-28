@@ -95,7 +95,11 @@ Go on [official Rails website](https://gorails.com/setup/windows/10) & follow th
 - what previously was called "categories" now is called `pages`; there are three pages and their names correspond to the front-end routes (e.g. `online-dialogues`);
 - what previously was called "themes" now is called `categories`.
 
-**gotchas**: for the sake of simplicity, the `date` attribute is a string, as is the corresponding key in the serialized response (which is called `eventDate`). It should follow the format we want to see printed on the page, e.g. '4 April 2020'.
+**gotchas**: 
+1. for the sake of simplicity, the `date` attribute is a string, as is the corresponding key in the serialized response (which is called `eventDate`). It follows the format of: "m/yyyy", for instance: "4/2020". In case there is no month or year, it is replaced with 'm' or 'yyyy', e.g.:
+- no month: 'm/2020'
+- no year: '4/yyyy'
+2. Currently, each entry needs to have a relationship with an instance of `Progressive` class. Since that is not the case with the data (only "response-tracker" data items have a corresponding `Progressive`), the data items that are not supposed to have `progressive` attribute, have one with the value of `test`. This will be fixed in the future.
 
 ## Seed data
 The extensive seed data (e.g. covering all countries) may take a moment. There are bread crumbs (`puts`) left along the way after each of the seeding phase so you know that there is a progress.
