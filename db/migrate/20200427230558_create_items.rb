@@ -5,7 +5,6 @@ class CreateItems < ActiveRecord::Migration[6.0]
       t.string :description
       t.string :link
       t.integer :date
-      t.belongs_to :type, null: false, foreign_key: true
       t.belongs_to :progressive, null: false, foreign_key: true
 
       t.timestamps

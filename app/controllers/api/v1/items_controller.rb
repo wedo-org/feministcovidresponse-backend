@@ -4,7 +4,7 @@ class Api::V1::ItemsController < ApplicationController
     def index
         begin
             @items = Item.all.map{|c| {
-                name: c.name
+                title: c.title
             }}
             render json: @items, status: 200
         rescue StandardError => e
@@ -14,6 +14,7 @@ class Api::V1::ItemsController < ApplicationController
 
     def show
         begin
+            # byebug
             render json: @item, status: 200
         rescue StandardError => e
             render json: {"error": ("#{e.message}") }, status: 400
@@ -27,6 +28,7 @@ class Api::V1::ItemsController < ApplicationController
     end
 
     def find_item
-        @item = Item.find_by(name: params[:name])
+        # @item = Item.find_by(name: params[:name])
+        @item = Item.find_by(id: params[:id])
     end
 end

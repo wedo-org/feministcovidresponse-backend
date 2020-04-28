@@ -50,12 +50,10 @@ ActiveRecord::Schema.define(version: 2020_04_28_000708) do
     t.string "description"
     t.string "link"
     t.integer "date"
-    t.bigint "type_id", null: false
     t.bigint "progressive_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["progressive_id"], name: "index_items_on_progressive_id"
-    t.index ["type_id"], name: "index_items_on_type_id"
   end
 
   create_table "progressives", force: :cascade do |t|
@@ -108,7 +106,6 @@ ActiveRecord::Schema.define(version: 2020_04_28_000708) do
   add_foreign_key "country_items", "countries"
   add_foreign_key "country_items", "items"
   add_foreign_key "items", "progressives", column: "progressive_id"
-  add_foreign_key "items", "types"
   add_foreign_key "theme_items", "items"
   add_foreign_key "theme_items", "themes"
   add_foreign_key "type_items", "items"
