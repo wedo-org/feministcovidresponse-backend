@@ -110,33 +110,20 @@ This app follows RESTful routes and uses API versioning. Currently, the calls ca
 **Response description**: Response provides all the items without separating them into pages. For this kind of response, see [pages](#pages) or [specific page](#specific-page).
 **Sample response**:
 ```
-// http://localhost:3000/api/v1/items
+// http://localhost:3000/api/v1/items/
 
 [
   {
-    "title": "test",
+    "title": "Support to women fleeing gender-based violence",
     "types": [
-      "observed response",
       "temporary measure"
     ],
-    "link": "link",
-    "eventDate": "50920",
+    "link": "https://www.canada.ca/en/employment-social-development/news/2020/04/canada-announces-support-to-those-experiencing-homelessness-and-women-fleeing-gender-based-violence-during-the-coronavirus-disease-covid-19-pandemic.html",
+    "eventDate": null,
     "progressive": "progressive",
     "page": "response-tracker",
     "countries": [
-      "Guatemala",
-      "Hungary"
-    ]
-  },
-  {
-    "title": "test2",
-    "types": null,
-    "link": "link2",
-    "eventDate": "50920",
-    "progressive": "regressive",
-    "page": "online-dialogues",
-    "countries": [
-      "Georgia"
+      "Canada"
     ]
   }
 ]
@@ -147,41 +134,25 @@ This app follows RESTful routes and uses API versioning. Currently, the calls ca
 **Action description**: Response will consist of all pages with their associated items.
 **Sample response**:
 ```
-// http://localhost:3000/api/v1/pages
+// http://localhost:3000/api/v1/pages/
 
 [
   {
     "name": "response-tracker",
     "items": [
       {
-        "title": "test",
+        "title": "In the Face of Coronavirus, African Countries Apply Lessons from Ebola Response",
         "types": [
           "observed response",
           "temporary measure"
         ],
-        "link": "link",
-        "eventDate": "50920",
+        "link": "https://www.worldbank.org/en/news/feature/2020/04/03/in-the-face-of-coronavirus-african-countries-apply-lessons-from-ebola-response",
+        "eventDate": null,
         "progressive": "progressive",
         "page": "response-tracker",
         "countries": [
-          "Guatemala",
-          "Hungary"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "online-dialogues",
-    "items": [
-      {
-        "title": "test2",
-        "types": null,
-        "link": "link2",
-        "eventDate": "50920",
-        "progressive": "regressive",
-        "page": "online-dialogues",
-        "countries": [
-          "Georgia"
+          "Anglophone Africa",
+          "Francophone Africa"
         ]
       }
     ]
@@ -206,18 +177,16 @@ This app follows RESTful routes and uses API versioning. Currently, the calls ca
   "name": "response-tracker",
   "items": [
     {
-      "title": "test",
+      "title": "Support to women fleeing gender-based violence",
       "types": [
-        "observed response",
         "temporary measure"
       ],
-      "link": "link",
-      "eventDate": "50920",
+      "link": "https://www.canada.ca/en/employment-social-development/news/2020/04/canada-announces-support-to-those-experiencing-homelessness-and-women-fleeing-gender-based-violence-during-the-coronavirus-disease-covid-19-pandemic.html",
+      "eventDate": null,
       "progressive": "progressive",
       "page": "response-tracker",
       "countries": [
-        "Guatemala",
-        "Hungary"
+        "Canada"
       ]
     }
   ]
