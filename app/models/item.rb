@@ -10,4 +10,20 @@ class Item < ApplicationRecord
   has_many :types, through: :type_items
 
   validates_presence_of :title, :description, :link, :date
+
+  def make_types
+    if self.types.length > 1 
+      return self.types.map{|t| t.name}
+    else 
+      return nil 
+    end
+  end
+
+  def make_progressive
+    if self.progressive
+      return self.progressive.name
+    else 
+      return nil
+    end
+  end
 end

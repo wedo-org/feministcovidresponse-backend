@@ -1,8 +1,12 @@
 class ItemSerializer < ActiveModel::Serializer
-  attributes :title, :description, :link, :types
+  attributes :title, :description, :link, :types, :progressive
   
   def types
-    object.types.map{|type| type.name}
+    object.make_types
+  end
+
+  def progressive
+    object.make_progressive
   end
 
 end

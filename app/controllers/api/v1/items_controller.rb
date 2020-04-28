@@ -3,8 +3,12 @@ class Api::V1::ItemsController < ApplicationController
 
     def index
         begin
-            @items = Item.all.map{|c| {
-                title: c.title
+            @items = Item.all.map{|i| {
+                title: i.title,
+                types: i.make_types,
+                link: i.link,
+                date: i.date,
+                progressive: i.make_progressive
             }}
             render json: @items, status: 200
         rescue StandardError => e
