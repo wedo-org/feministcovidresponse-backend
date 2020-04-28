@@ -111,7 +111,9 @@ This app follows RESTful routes and uses API versioning. Currently, the calls ca
 ### Items
 
 **Endpoint**: GET `/api/v1/items`
+
 **Response description**: Response provides all the items without separating them into pages. For this kind of response, see [pages](#pages) or [specific page](#specific-page).
+ 
 **Sample response**:
 ```
 // http://localhost:3000/api/v1/items/
@@ -135,7 +137,9 @@ This app follows RESTful routes and uses API versioning. Currently, the calls ca
 
 ### Pages 
 **Endpoint**: GET `/api/v1/pages`
+
 **Action description**: Response will consist of all pages with their associated items.
+
 **Sample response**:
 ```
 // http://localhost:3000/api/v1/pages/
@@ -172,7 +176,9 @@ This app follows RESTful routes and uses API versioning. Currently, the calls ca
 
 ### Specific page 
 **Endpoint**: GET `/api/v1/pages/response-tracker` or `/api/v1/pages/resources` or `/api/v1/pages/online-dialogues`
+
 **Action description**: Response will consist of a given page with associated items.
+
 **Sample response**:
 ```
 // http://localhost:3000/api/v1/pages/response-tracker
