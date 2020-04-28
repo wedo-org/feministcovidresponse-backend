@@ -68,7 +68,7 @@ Go on [official Rails website](https://gorails.com/setup/windows/10) & follow th
 
 1. Clone the repo and cd into the folder:
 ```
-    $ git clone https://github.com/luanesouza/backend-lets-change-the-subject.git
+    $ git clone https://github.com/wedo-org/feministcovidresponse-backend.git
     $ cd backend-lets-change-the-subject
 ```
 2. Install dependencies (gems)
