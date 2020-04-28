@@ -9,10 +9,11 @@
 - [Installation](#installation)
 - [Start and Watch](#start-and-watch)
 - [Domain Model](#domain-model)
+- [Seed data](#seed-data)
 - [Endpoints and Sample Responses](#endpoints-and-sample-responses)
     - [items](#items)
-    - [pages](#pages)
     - [specific page](#specific-page)
+    - [pages](#pages)
     - [specific category](#specific-category)
 - [Languages and tools](#languages-and-tools)
 - [Contributing](#contributing)
@@ -90,14 +91,23 @@ Go on [official Rails website](https://gorails.com/setup/windows/10) & follow th
 ## Domain model
 ![Domain model](./domain_model.png)
 
+**please note**: 
+- what previously was called "categories" now is called `pages`; there are three pages and their names correspond to the front-end routes (e.g. `online-dialogues`);
+- what previously was called "themes" now is called `categories`.
+
+**gotchas**: for the sake of simplicity, the `date` attribute is a string, as is the corresponding key in the serialized response (which is called `eventDate`). It should follow the format we want to see printed on the page, e.g. '4 April 2020'.
+
+## Seed data
+The extensive seed data (e.g. covering all countries) may take a moment. There are bread crumbs (`puts`) left along the way after each of the seeding phase so you know that there is a progress.
+
 ## Endpoints and sample responses
 
-This app uses API versioning. Currently, the calls can be made to `/api/v1/`. Below you will find available endpoints with sample responses:
+This app follows RESTful routes and uses API versioning. Currently, the calls can be made to `/api/v1/`. Below you will find available endpoints with sample responses.
 
 ### Items
 
 **Endpoint**: GET `/api/v1/items`
-**Action description**: Response provides all the items
+**Response description**: Response provides all the items without separating them into pages. For this kind of response, see [pages](#pages) or [specific page](#specific-page).
 **Sample response**:
 ```
 // http://localhost:3000/api/v1/items
@@ -134,7 +144,7 @@ This app uses API versioning. Currently, the calls can be made to `/api/v1/`. Be
 
 ### Pages 
 **Endpoint**: GET `/api/v1/pages`
-**Action description**: Response will consist of all pages with their associated items
+**Action description**: Response will consist of all pages with their associated items.
 **Sample response**:
 ```
 // http://localhost:3000/api/v1/pages
