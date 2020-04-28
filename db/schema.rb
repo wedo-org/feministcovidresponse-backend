@@ -21,15 +21,6 @@ ActiveRecord::Schema.define(version: 2020_04_28_000708) do
     t.datetime "updated_at", precision: 6, null: false
   end
 
-  create_table "category_items", force: :cascade do |t|
-    t.bigint "item_id", null: false
-    t.bigint "category_id", null: false
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
-    t.index ["category_id"], name: "index_category_items_on_category_id"
-    t.index ["item_id"], name: "index_category_items_on_item_id"
-  end
-
   create_table "countries", force: :cascade do |t|
     t.string "name"
     t.datetime "created_at", precision: 6, null: false
@@ -51,8 +42,10 @@ ActiveRecord::Schema.define(version: 2020_04_28_000708) do
     t.string "link"
     t.integer "date"
     t.bigint "progressive_id", null: false
+    t.bigint "category_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.index ["category_id"], name: "index_items_on_category_id"
     t.index ["progressive_id"], name: "index_items_on_progressive_id"
   end
 
@@ -101,10 +94,9 @@ ActiveRecord::Schema.define(version: 2020_04_28_000708) do
     t.datetime "updated_at", precision: 6, null: false
   end
 
-  add_foreign_key "category_items", "categories"
-  add_foreign_key "category_items", "items"
   add_foreign_key "country_items", "countries"
   add_foreign_key "country_items", "items"
+  add_foreign_key "items", "categories"
   add_foreign_key "items", "progressives", column: "progressive_id"
   add_foreign_key "theme_items", "items"
   add_foreign_key "theme_items", "themes"

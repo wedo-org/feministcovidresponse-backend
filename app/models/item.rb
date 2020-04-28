@@ -1,5 +1,7 @@
 class Item < ApplicationRecord
+  after_initialize :init
   belongs_to :progressive
+  belongs_to :category
   has_many :country_items
   has_many :countries, through: :country_items
   has_many :theme_items
@@ -26,4 +28,20 @@ class Item < ApplicationRecord
       return nil
     end
   end
+
+  def make_date
+    if self.date
+      return self.date 
+    else 
+      return nil 
+    end
+  end
+
+  def make_countries
+    self.countries.map{|c| c.name}
+  end
+
+  def init
+    self.date = 01 if self.date.nil?          #will set the default value only if it's nil
+end
 end
