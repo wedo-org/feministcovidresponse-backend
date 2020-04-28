@@ -5,8 +5,7 @@ Rails.application.routes.draw do
       resources :countries, only: [:index, :show]
       resources :types, only: [:index, :show]
       resources :categories, only: [:index, :show]
-      resources :themes, only: [:index, :show]
-      resources :category_items, only: [:index, :show]
+      resources :pages, param: :name, only: [:index, :show]
       resources :items, only: [:index, :show]
     end
   end

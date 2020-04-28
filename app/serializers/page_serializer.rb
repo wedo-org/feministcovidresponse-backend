@@ -1,3 +1,7 @@
 class PageSerializer < ActiveModel::Serializer
-  attributes :id
+  attributes :name, :items
+
+  def items
+    object.make_items
+  end
 end

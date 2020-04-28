@@ -9,7 +9,7 @@ class Api::V1::ItemsController < ApplicationController
                 link: i.link,
                 eventDate: i.make_date,
                 progressive: i.make_progressive,
-                category: i.category.name,
+                page: i.page.name,
                 countries: i.make_countries
             }}
             render json: @items, status: 200

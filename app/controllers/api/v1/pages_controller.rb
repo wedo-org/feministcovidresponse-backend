@@ -3,8 +3,9 @@ class Api::V1::PagesController < ApplicationController
 
     def index
         begin
-            @pages = Page.all.map{|c| {
-                name: c.name
+            @pages = Page.all.map{|p| {
+                name: p.name,
+                items: p.make_items
             }}
             render json: @pages, status: 200
         rescue StandardError => e
@@ -28,5 +29,6 @@ class Api::V1::PagesController < ApplicationController
 
     def find_page
         @page = Page.find_by(name: params[:name])
+        # @page = Page.find_by(id: params[:id])
     end
 end
