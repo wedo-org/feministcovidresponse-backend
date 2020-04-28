@@ -13,7 +13,9 @@ class Page < ApplicationRecord
                     eventDate: i.make_date,
                     progressive: i.make_progressive,
                     page: i.page.name,
-                    countries: i.make_countries
+                    countries: i.make_countries,
+                    categories: i.make_categories,
+                    description: i.description
                 }
             }
         else
