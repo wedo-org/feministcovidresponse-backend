@@ -7,6 +7,7 @@ Rails.application.routes.draw do
       resources :categories, only: [:index, :show]
       resources :pages, param: :name, only: [:index, :show]
       resources :items, only: [:index, :show]
+      get 'ping', action: :index, controller: 'ping'
     end
   end
 end
