@@ -3,17 +3,7 @@ class Api::V1::ItemsController < ApplicationController
 
     def index
         begin
-            @items = Item.all.map{|i| {
-                title: i.title,
-                types: i.make_types,
-                link: i.link,
-                eventDate: i.make_date,
-                progressive: i.make_progressive,
-                page: i.page.name,
-                countries: i.make_countries,
-                categories: i.make_categories,
-                description: i.description
-            }}
+            @items = Item.all.map{|i| ItemSerializer.new(i).as_json}
             render json: @items, status: 200
         rescue StandardError => e
             render json: {"error": ("#{e.message}") }, status: 400
