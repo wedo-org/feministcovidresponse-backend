@@ -45,6 +45,14 @@ class Item < ApplicationRecord
     end
   end
 
+  def make_categories
+    if self.categories.length >= 1
+      return self.categories.map{|c| c.name}
+    else 
+      return nil 
+    end
+  end
+
   # def init
   #   self.date = "" if self.date.nil?          #will set the default value only if it's nil
   # end

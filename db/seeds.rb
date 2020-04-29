@@ -33,7 +33,7 @@ puts "types done"
 
 
 ############# CATEGORIES ############# 
-categories = ["SRHR", "punitive", "digital surveillance", "healthcare", "education", "economy", "childcare", "labor", "food", "gendered health impacts", "gender-based violence","disability", "race", "misinformation", "disability", "water"]
+categories = ["SRHR", "punitive", "digital surveillance", "healthcare", "education", "economy", "childcare", "labor", "food", "gendered health impacts", "gender-based violence","disability", "race", "misinformation", "water"]
 categories.each{|t| Category.create!(name: t)}
 
 puts "categories done"

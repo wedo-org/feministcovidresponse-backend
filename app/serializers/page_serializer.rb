@@ -2,7 +2,9 @@ class PageSerializer < ActiveModel::Serializer
   attributes :name, :available_categories, :available_countries, :items
 
   def items
-    object.make_items
+    object.items.map do |item|
+      ItemSerializer.new(item)
+    end
   end
 
   def available_categories
