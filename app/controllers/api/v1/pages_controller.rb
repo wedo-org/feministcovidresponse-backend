@@ -5,7 +5,7 @@ class Api::V1::PagesController < ApplicationController
         begin
             @pages = Page.all.map{|p| {
                 name: p.name,
-                items: p.make_items
+                items: p.items.map{|i| ItemSerializer.new(i).as_json}
             }}
             render json: @pages, status: 200
         rescue StandardError => e
