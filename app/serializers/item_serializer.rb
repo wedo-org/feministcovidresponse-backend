@@ -1,5 +1,5 @@
 class ItemSerializer < ActiveModel::Serializer
-  attributes :title, :description, :link, :types, :progressive, :eventDate, :page, :countries
+  attributes :title_en, :title_es, :title_fr, :description_en, :link, :types, :progressive, :eventDate, :page, :countries, :description_es, :description_fr
   
   def types
     object.make_types
