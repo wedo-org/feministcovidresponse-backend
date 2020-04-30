@@ -119,19 +119,24 @@ This app follows RESTful routes and uses API versioning. Currently, the calls ca
 // http://localhost:3000/api/v1/items/
 
 [
-  {
-    "title": "Support to women fleeing gender-based violence",
+    {
+    "title_en": "Support to women fleeing gender-based violence",
+    "title_es": "Apoyo a las mujeres que huyen de la violencia de género",
+    "title_fr": "Aide aux femmes fuyant la violence sexiste",
+    "description_en": "Canada will give $40 million to Women and Gender Equality Canada (WAGE), up to $30 million of which will address immediate needs of shelters and sexual assault centres.",
+    "link": "https://www.canada.ca/en/employment-social-development/news/2020/04/canada-announces-support-to-those-experiencing-homelessness-and-women-fleeing-gender-based-violence-during-the-coronavirus-disease-covid-19-pandemic.html",
     "types": [
       "temporary measure"
     ],
-    "link": "https://www.canada.ca/en/employment-social-development/news/2020/04/canada-announces-support-to-those-experiencing-homelessness-and-women-fleeing-gender-based-violence-during-the-coronavirus-disease-covid-19-pandemic.html",
-    "eventDate": null,
     "progressive": "progressive",
+    "eventDate": null,
     "page": "response-tracker",
     "countries": [
       "Canada"
-    ]
-  }
+    ],
+    "description_es": "Canadá otorgará $ 40 millones a Mujeres e Igualdad de Género de Canadá (WAGE), de los cuales hasta $ 30 millones cubrirán las necesidades inmediatas de refugios y centros de agresión sexual",
+    "description_fr": "Le Canada accordera 40 millions de dollars à Women and Gender Equality Canada (WAGE), dont jusqu'à 30 millions de dollars répondront aux besoins immédiats des refuges et des centres d'agression sexuelle."
+  },
 ]
 ```
 
@@ -148,21 +153,22 @@ This app follows RESTful routes and uses API versioning. Currently, the calls ca
   {
     "name": "response-tracker",
     "items": [
-      {
-        "title": "In the Face of Coronavirus, African Countries Apply Lessons from Ebola Response",
-        "types": [
-          "observed response",
-          "temporary measure"
-        ],
-        "link": "https://www.worldbank.org/en/news/feature/2020/04/03/in-the-face-of-coronavirus-african-countries-apply-lessons-from-ebola-response",
-        "eventDate": null,
-        "progressive": "progressive",
-        "page": "response-tracker",
-        "countries": [
-          "Anglophone Africa",
-          "Francophone Africa"
-        ]
-      }
+          {
+      "title_en": "COVID-19 And Men",
+      "title_es": "COVID-19 y hombres",
+      "title_fr": "COVID-19 And Men",
+      "description_en": "Webinar on how men are more affected by COVID-19 in terms of higher death rates. ",
+      "link": "https://shop.menshealthforum.org.uk/products/webinar-men-covid-19-april-20-2020-2pm?_ga=2.146902195.506116164.1587597573-367827357.1587597573",
+      "types": null,
+      "progressive": "test",
+      "eventDate": "m/2020",
+      "page": "online-dialogues",
+      "countries": [
+        "United Kingdom"
+      ],
+      "description_es": "Seminario web sobre cómo los hombres se ven más afectados por COVID-19 en términos de tasas de mortalidad más altas",
+      "description_fr": "Webinaire sur la façon dont les hommes sont davantage touchés par COVID-19 en termes de taux de mortalité plus élevés."
+    },
     ]
   },
   {
@@ -196,18 +202,21 @@ This app follows RESTful routes and uses API versioning. Currently, the calls ca
   ],
   "items": [
     {
-      "title": "Support to women fleeing gender-based violence",
-      "types": [
-        "temporary measure"
-      ],
-      "link": "https://www.canada.ca/en/employment-social-development/news/2020/04/canada-announces-support-to-those-experiencing-homelessness-and-women-fleeing-gender-based-violence-during-the-coronavirus-disease-covid-19-pandemic.html",
-      "eventDate": null,
-      "progressive": "progressive",
-      "page": "response-tracker",
+      "title_en": "COVID-19 And Men",
+      "title_es": "COVID-19 y hombres",
+      "title_fr": "COVID-19 And Men",
+      "description_en": "Webinar on how men are more affected by COVID-19 in terms of higher death rates. ",
+      "link": "https://shop.menshealthforum.org.uk/products/webinar-men-covid-19-april-20-2020-2pm?_ga=2.146902195.506116164.1587597573-367827357.1587597573",
+      "types": null,
+      "progressive": "test",
+      "eventDate": "m/2020",
+      "page": "online-dialogues",
       "countries": [
-        "Canada"
-      ]
-    }
+        "United Kingdom"
+      ],
+      "description_es": "Seminario web sobre cómo los hombres se ven más afectados por COVID-19 en términos de tasas de mortalidad más altas",
+      "description_fr": "Webinaire sur la façon dont les hommes sont davantage touchés par COVID-19 en termes de taux de mortalité plus élevés."
+    },
   ]
 }
 ```
