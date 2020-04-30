@@ -46,8 +46,12 @@ ActiveRecord::Schema.define(version: 2020_04_28_000708) do
   end
 
   create_table "items", force: :cascade do |t|
-    t.string "title"
-    t.string "description"
+    t.string "title_en"
+    t.string "title_es"
+    t.string "title_fr"
+    t.string "description_en"
+    t.string "description_es"
+    t.string "description_fr"
     t.string "link"
     t.string "date"
     t.bigint "progressive_id", null: false
