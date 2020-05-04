@@ -1,5 +1,5 @@
 class ItemSerializer < ActiveModel::Serializer
-  attributes :title_en, :title_es, :title_fr, :description_en, :link, :types, :progressive, :eventDate, :page, :countries, :description_es, :description_fr
+  attributes :title_en, :title_es, :title_fr, :description_en, :link, :types, :progressive, :eventDate, :page, :countries, :description_es, :description_fr, :categories
   
   def types
     object.make_types
@@ -19,6 +19,10 @@ class ItemSerializer < ActiveModel::Serializer
 
   def countries
     object.make_countries
+  end
+
+  def categories
+    object.make_categories
   end
 
 end
