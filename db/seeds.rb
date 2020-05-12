@@ -10050,6 +10050,8 @@ resources_data = [
         "description_es": "Blog: Mayor número de denuncias de violencia doméstica durante COVID-19, víctimas descuidadas",
 
 
+        "title_en": "Les cas de violence domestique augmentent pendant l'épidémie de COVID-19",
+        "description_en": "Blog: Augmentation du nombre de signalements de violences domestiques au cours de COVID-19, les victimes étant négligées",
         "link": "http://www.sixthtone.com/news/1005253/domestic-violence-cases-surge-during-covid-19-epidemic",
         "category": "gender-based violence",
         "type": "feminist statement or analysis",
@@ -10062,6 +10064,8 @@ resources_data = [
         "description_es": "Resume los resultados de una revisión rápida de la evidencia sobre los riesgos de violencia de género contra niñas y mujeres",
 
 
+        "title_en": "Pourquoi nous devons parler davantage du potentiel de COVID-19 pour augmenter le risque de violence contre les femmes et les filles",
+        "description_en": "Résume les résultats d'un examen rapide des preuves des risques de violence basée sur le genre contre les filles et les femmes",
         "link": "http://www.sddirect.org.uk/news/2020/03/why-we-need-to-talk-more-about-the-potential-for-covid-19-to-increase-the-risk-of-violence-against-women-and-girls/",
         "category": "gender-based violence",
         "type": "scientific data, feminist statement or analysis",
@@ -10074,6 +10078,8 @@ resources_data = [
         "description_es": "Preguntas frecuentes sobre cómo la pandemia de COVID-19 y otros desastres naturales han aumentado la incidencia de la violencia familiar",
 
 
+        "title_en": "COVID-19 et la violence familiale",
+        "description_en": "FAQ sur la façon dont la pandémie de COVID-19 et d'autres catastrophes naturelles ont augmenté l'incidence de la violence familiale",
         "link": "https://www.thelookout.org.au/family-violence-workers/covid-19-and-family-violence",
         "category": "gender-based violence",
         "type": "feminist statement or analysis",
@@ -10086,6 +10092,8 @@ resources_data = [
         "description_es": "La suposición de que nuestros hogares están seguros durante la pandemia de COVID-19 es falsa",
 
 
+        "title_en": "Comment arrêter le verrouillage du coronavirus conduisant à une recrudescence de la violence contre les femmes",
+        "description_en": "L'hypothèse selon laquelle nos maisons sont sûres pendant la pandémie de COVID-19 est fausse",
         "link": "https://oxfamblogs.org/fp2p/how-to-stop-coronavirus-lockdown-leading-to-an-upsurge-in-violence-against-women%EF%BB%BF/",
         "category": "gender-based violence",
         "type": "feminist statement or analysis",
@@ -10098,6 +10106,8 @@ resources_data = [
         "description_es": "Guterres observa el aumento de la violencia doméstica, insta a los gobiernos a incluir la prevención y la reparación como parte de los planes de respuesta",
 
 
+        "title_en": "Message vidéo d'Antonio Guterres (Secrétaire général de l'ONU) sur la violence sexiste et COVID-19",
+        "description_en": "António Guterres note l'augmentation de la violence domestique, exhorte les gouvernements à inclure la prévention et la réparation dans les plans de réponse",
         "link": "https://www.youtube.com/watch?time_continue=10&v=SXxnZKom6sg&feature=emb_logo",
         "category": "gender-based violence",
         "type": "feminist statement or analysis",
@@ -10110,6 +10120,8 @@ resources_data = [
         "description_es": "Transcripción del video mensaje de la ONU Guterres arriba",
 
 
+        "title_en": "Faire de la prévention et de la réparation de la violence à l'égard des femmes un élément clé des plans nationaux d'intervention pour COVID-19 '",
+        "description_en": "Transcription du message vidéo UN Guterres ci-dessus",
         "link": "https://www.un.org/en/un-coronavirus-communications-team/make-prevention-and-redress-violence-against-women-key-part",
         "category": "gender-based violence",
         "type": "feminist statement or analysis",
@@ -10122,6 +10134,8 @@ resources_data = [
         "description_es": "ONU Mujeres llama a la integración de la violencia contra las mujeres Datos y servicios en las encuestas COVID-19",
 
 
+        "title_en": "COVID-19: Gender Lens",
+        "description_en": "ONU Femmes appelle à l'intégration de la violence à l'égard des femmes Données et services dans les enquêtes COVID-19",
         "link": "https://mailchi.mp/6f266ed24organizing tool9/covid-19-gender-equality-matters",
         "category": "gender-based violence",
         "type": "feminist statement or analysis",
@@ -10134,6 +10148,8 @@ resources_data = [
         "description_es": "La organización de derechos de las mujeres advierte sobre las posibilidades de aumento de la violencia doméstica y sexual a medida que se extiende el bloqueo",
 
 
+        "title_en": "Les groupes féministes et féministes de droite exigent des réponses COVID 19 sensibles au genre",
+        "description_en": "Une organisation de défense des droits des femmes met en garde contre les possibilités d'augmentation de la violence domestique et sexuelle à mesure que le confinement s'étend"
         "link": "https://soulwriteempire.com/lockdown-may-increase-domestic-violence-nigerian-women-rights-groups-warn/",
         "type": "feminist statement or analysis",
         "country": "Nigeria"
@@ -10145,6 +10161,8 @@ resources_data = [
         "description_es": "12 mujeres han sido asesinadas desde que comenzó la cuarentena",
 
 
+        "title_en": "La violence sexiste est une pandémie silencieuse",
+        "description_en": "12 femmes ont été assassinées depuis le début de la quarantaine",
         "link": "https://elpais.com/sociedad/2020-04-07/la-violencia-de-genero-es-una-pandemia-silenciosa.html",
         "category": "gender-based violence, punitive",
         "type": "feminist statement or analysis",
@@ -10157,6 +10175,8 @@ resources_data = [
         "description_es": "Números principales a los que llamar en caso de crisis",
 
 
+        "title_en": "Violence de genre: lignes directes pour les victimes en quarantaine",
+        "description_en": "Numéros principaux à appeler en cas de crise",
         "link": "https://colombia.as.com/colombia/2020/04/15/tikitakas/1586907724_975905.html",
         "category": "digital surveillance, gender-based violence, disability",
         "type": "mutual aid resource",
@@ -10169,6 +10189,8 @@ resources_data = [
         "description_es": "Una carta conjunta de una coalición de organizaciones de la sociedad civil y sindicatos, instando al Gobierno de Bahrein a garantizar que los trabajadores migrantes reciban protección adecuada contra COVID-19",
 
 
+        "title_en": "BAHREIN: ASSURER LA PROTECTION DES TRAVAILLEURS MIGRANTS DANS LA RÉPONSE DE COVID-19: LETTRE CONJOINTE",
+        "description_en": "Une lettre conjointe d'une coalition d'organisations de la société civile et de syndicats, exhortant le gouvernement de Bahreïn à garantir que les travailleurs migrants reçoivent une protection adéquate contre le COVID-19.",
         "link": "https://www.amnesty.org/en/documents/mde11/2168/2020/en/",
         "category": "healthcare, economy, labor, race",
         "type": "feminist statement or analysis",
@@ -10181,6 +10203,8 @@ resources_data = [
         "description_es": "ONU Mujeres emitió una declaración elogiando al Consejo Nacional de la Mujer por sus esfuerzos para garantizar que se adopte una perspectiva de género en el plan de respuesta COVID-19 de Egipto",
 
 
+        "title_en": "ONU Femmes salue la perspective de genre de l'Égypte dans le plan de réponse COVID-19",
+        "description_en": "ONU Femmes a publié une déclaration félicitant le Conseil national pour les femmes pour ses efforts visant à garantir qu'une perspective de genre soit adoptée dans le plan de réponse COVID-19 de l'Égypte",
         "link": "https://www.egypttoday.com/Article/2/84441/UN-Women-commends-Egypt-s-gender-perspective-in-COVID-19",
         "category": "healthcare, education",
         "type": "feminist statement or analysis",
@@ -10193,6 +10217,8 @@ resources_data = [
         "description_es": "Los casos y la tasa de mortalidad según la edad y el sexo no profundizan más",
 
 
+        "title_en": "Âge, sexe, conditions existantes des cas et des décès liés à COVID-19",
+        "description_en": "Les cas et le taux de mortalité en fonction de l'âge et du sexe ne vont pas plus loin.",
         "link": "https://www.worldometers.info/coronavirus/coronavirus-age-sex-demographics/",
         "category": "healthcare",
         "type": "scientific data",
@@ -10205,6 +10231,8 @@ resources_data = [
         "description_es": "Los casos y las tasas de mortalidad hasta el 19 de marzo no se sumergen en las diferencias de género",
 
 
+        "title_en": "Rapport de l'ICNARC sur le COVID-19 en soins intensifs",
+        "description_en": "Les cas et les taux de mortalité jusqu'au 19 mars ne plongent pas dans les différences entre les sexes.",
         "link": "https://www.icnarc.org/DataServices/Attachments/Download/a9875849-f16c-ea11-9124-00505601089b",
         "category": "healthcare",
         "type": "scientific data",
@@ -10217,6 +10245,8 @@ resources_data = [
         "description_es": "Si el sexo y el género son importantes para las vías clínicas y los resultados asociados con COVID-19",
 
 
+        "title_en": "Sexe, genre et COVID-19: données désagrégées et disparités en matière de santé",
+        "description_en": "Le sexe et le genre sont-ils importants pour les voies cliniques et les résultats associés à COVID-19",
         "link": "https://blogs.bmj.com/bmjgh/2020/03/24/sex-gender-and-covid-19-disaggregated-data-and-health-disparities/",
         "category": "healthcare, gendered health impacts, gender-based violence",
         "type": "scientific data",
@@ -10229,6 +10259,8 @@ resources_data = [
         "description_es": "Los países deben comenzar a recopilar y reportar públicamente datos desagregados por sexo, sin embargo, actualmente no lo están haciendo",
 
 
+        "title_en": "Sex, gender and COVID-19 (Live data tracker)",
+        "description_en": "Les pays doivent commencer à collecter et à publier des données ventilées par sexe, mais ce n'est pas le cas actuellement.",
         "link": "https://globalhealth5050.org/covid19/",
         "category": "healthcare, gendered health impacts, gender-based violence",
         "type": "scientific data",
@@ -10241,6 +10273,8 @@ resources_data = [
         "description_es": "Explora qué trabajos crean el mayor riesgo de exposición a COVID-19, ejemplos son enfermeras, dentistas",
 
 
+        "title_en": "Quelles sont les professions qui exposent le plus les travailleurs au COVID-19?",
+        "description_en": "Explore les emplois qui créent le plus de risques d'exposition au COVID-19, par exemple les infirmières, les dentistes.",
         "link": "https://autonomy.work/portfolio/jari/",
         "category": "labor",
         "type": "scientific data",
@@ -10253,6 +10287,8 @@ resources_data = [
         "description_es": "Necesitamos informar sobre los resultados de sexo y edad ya que esto no se está haciendo actualmente",
 
 
+        "title_en": "Covid-19 dans le monde: nous avons un besoin urgent de données précises par groupe d'âge et par sexe",
+        "description_en": "Nous avons besoin de rapports sur les résultats relatifs au sexe et à l'âge, car cela n'est pas fait actuellement."
         "link": "https://www.bmj.com/content/369/bmj.m1366",
         "category": "gendered health impacts, gender-based violence",
         "type": "scientific data, feminist statement or analysis",
@@ -10265,6 +10301,8 @@ resources_data = [
         "description_es": "Aunque estamos monitoreando los efectos de la edad en COVID-19, no lo estamos haciendo con el sexo",
 
 
+        "title_en": "Covid-19 frappe-t-il les femmes et les hommes différemment? Les États-Unis ne suivent pas",
+        "description_en": "Bien que nous surveillions les effets de l'âge sur COVID-19, nous ne faisons pas cela avec le sexe.",
         "link": "https://www.nytimes.com/2020/04/03/us/coronavirus-male-female-data-bias.html",
         "category": "gendered health impacts, gender-based violence",
         "type": "scientific data, feminist statement or analysis",
@@ -10277,6 +10315,8 @@ resources_data = [
         "description_es": "Una página web destinada a proporcionar información sobre las diferencias de género para los efectos de COVID-19",
 
 
+        "title_en": "Covid-19 et l'égalité des sexes",
+        "description_en": "Une page Web visant à fournir des informations sur les différences entre les sexes concernant les effets de COVID-19.",
         "link": "https://eige.europa.eu/topics/health/covid-19-and-gender-equality",
         "category": "healthcare, economy, gendered health impacts, gender-based violence",
         "type": "scientific data",
@@ -10289,6 +10329,8 @@ resources_data = [
         "description_es": "Un portal que proporciona información útil para los responsables políticos, profesionales, etc. para tomar decisiones informadas",
 
 
+        "title_en": "Utilisation de la recherche factuelle pour intégrer une lentille sexospécifique à la pandémie de COVID-19",
+        "description_en": "Un portail qui fournit des informations utiles aux décideurs politiques, aux praticiens, etc. pour prendre des décisions éclairées.",
         "link": "https://gap.hks.harvard.edu/gap-covid19",
         "category": "healthcare, economy, gendered health impacts, gender-based violence",
         "type": "scientific data",
@@ -10301,6 +10343,8 @@ resources_data = [
         "description_es": "Un análisis realizado sobre las diferencias de género en el comportamiento de los hombres frente a las mujeres en las áreas farmacéuticas",
 
 
+        "title_en": "Une méta-analyse de l'association entre le genre et les comportements protecteurs en réponse aux épidémies respiratoires et aux pandémies",
+        "description_en": "Une analyse effectuée sur les différences entre les sexes dans le comportement des hommes par rapport aux femmes dans les domaines pharmaceutiques.",
         "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5074573/",
         "category": "healthcare, gendered health impacts, gender-based violence",
         "type": "scientific data",
@@ -10313,6 +10357,8 @@ resources_data = [
         "description_es": "Este artículo solicita y describe las características de una política feminista para COVID-19",
 
 
+        "title_en": "Action: Appel à une politique COVID-19 féministe",
+        "description_en": "Cet article appelle et décrit les caractéristiques d'une politique féministe pour COVID-19",
         "link": "http://feministallianceforrights.org/blog/2020/03/20/action-call-for-a-feminist-covid-19-policy/",
         "category": "healthcare, economy, gendered health impacts, gender-based violence",
         "type": "feminist statement or analysis",
@@ -10325,6 +10371,8 @@ resources_data = [
         "description_es": "Las mujeres y las niñas enfrentan un acceso desigual al trabajo, a la atención médica y enfrentan una violencia doméstica cada vez mayor",
 
 
+        "title_en": "COVID-19: Nouvelles données sur le genre et pourquoi elles sont importantes",
+        "description_en": "Les femmes et les filles sont confrontées à un accès inégal au travail, aux soins de santé et font face à une violence domestique croissante",
         "link": "https://data.unwomen.org/resources/covid-19-emerging-gender-data-and-why-it-matters",
         "category": "gendered health impacts, gender-based violence",
         "type": "scientific data",
@@ -10337,6 +10385,8 @@ resources_data = [
         "description_es": "Importancia de capturar los impactos en la salud que difieren entre mujeres y hombres debido a las inconsistencias actuales",
 
 
+        "title_en": "COVID-19 et le genre: que savons-nous, que devons-nous savoir?",
+        "description_en": "Importance de saisir les impacts sur la santé qui diffèrent entre les femmes et les hommes en raison des incohérences actuelles",
         "link": "https://data.unwomen.org/features/covid-19-and-gender-what-do-we-know-what-do-we-need-know",
         "category": "gendered health impacts, gender-based violence",
         "type": "scientific data",
@@ -10349,6 +10399,8 @@ resources_data = [
         "description_es": "datos de COVID-19 del 6 al 12 de abril; no incluye muchos datos de género en absoluto",
 
 
+        "title_en": "Mise à jour de la situation du COVID-19 pour la Région européenne de l'OMS",
+        "description_en": "Données COVID-19 du 6 au 12 avril; n'inclut pas beaucoup de données sur le sexe.",
         "link": "http://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19/weekly-surveillance-report",
         "category": "healthcare",
         "type": "scientific data",
@@ -10361,6 +10413,8 @@ resources_data = [
         "description_es": "Un llamado a la acción para centrarse en los impactos de COVID-19 en grupos ya desfavorecidos",
 
 
+        "title_en": "Responsabilité partagée, solidarité mondiale: répondre aux impacts socio-économiques de COVID-19",
+        "description_en": "Un appel à l'action pour se concentrer sur les impacts de COVID-19 sur des groupes déjà défavorisés",
         "link": "https://unsdg.un.org/sites/default/files/2020-03/SG-Report-Socio-Economic-Impact-of-Covid19.pdf",
         "category": "healthcare, education, economy, gendered health impacts, gender-based violence",
         "type": "scientific data, feminist statement or analysis",
@@ -10373,6 +10427,8 @@ resources_data = [
         "description_es": "Concienciar sobre cuestiones de género en el Líbano debido a COVID-19 en base a brotes pasados",
 
 
+        "title_en": "Besoins des femmes et égalité des sexes dans la réponse du Liban au Covid-19",
+        "description_en": "Sensibilisation aux problèmes liés au genre au Liban grâce au COVID-19 sur la base d'épidémies passées",
         "link": "https://www2.unwomen.org/-/media/field%20office%20arab%20states/attachments/publications/2020/03/updated%20lebanon%20brief/gender%20and%20covid_english.pdf?la=en&vs=403",
         "category": "healthcare, economy, labor, gendered health impacts, gender-based violence",
         "type": "scientific data, feminist statement or analysis",
@@ -10385,6 +10441,8 @@ resources_data = [
         "description_es": "ONU Mujeres, OMS y otros que brindan alertas sobre cuestiones de género debido a COVID-19 en el Líbano",
 
 
+        "title_en": "Alerte de genre sur Covid-19 Liban",
+        "description_en": "ONU Femmes, l'OMS et d'autres diffusant des alertes sur les questions de genre dues au COVID-19 au Liban",
         "link": "https://www2.unwomen.org/-/media/field%20office%20arab%20states/attachments/publications/2020/04/gender%20and%20covid-19%20in%20lebanon/gender%20alert%20on%20covid%20lebanon_%20final.pdf?la=en&vs=4208",
         "category": "healthcare, economy, labor, gendered health impacts, gender-based violence",
         "type": "scientific data, feminist statement or analysis",
@@ -10397,6 +10455,8 @@ resources_data = [
         "description_es": "Solicite a los parlamentos que analicen las dimensiones de género de COVID-19 al elaborar políticas",
 
 
+        "title_en": "Genre et COVID-19: une note d'orientation pour les parlements",
+        "description_en": "Appelez les parlements à examiner les dimensions sexospécifiques du COVID-19 lors de l'élaboration des politiques",
         "link": "https://www.ipu.org/gender-and-covid-19-guidance-note-parliaments",
         "category": "healthcare, economy, labor, gendered health impacts, gender-based violence",
         "type": "scientific data, feminist statement or analysis",
@@ -10409,6 +10469,8 @@ resources_data = [
         "description_es": "Proporciona un marco para los impactos de género de COVID-19 para garantizar que se notifiquen con precisión los efectos en diferentes géneros",
 
 
+        "title_en": "Cadre pour une analyse de genre: réponse aux crises COVID-19",
+        "description_en": "Fournit un cadre pour les impacts de COVID-19 sur le genre pour garantir que les effets sur les différents genres sont correctement signalés",
         "link": "https://docs.google.com/document/d/1KL_seo3QN8Hemd2XTgLVDQwD8uyCXVV6yEUrH3bUiHg/edit?fbclid=IwAR2OSRXdI13nDu9LugyG5IRnpsNBZV6cm5aGCEXiC1blgiPPiOiQ0X1K4qg",
         "category": "healthcare, economy, childcare, labor, gendered health impacts, gender-based violence",
         "type": "scientific data, feminist statement or analysis",
@@ -10421,6 +10483,8 @@ resources_data = [
         "description_es": "Los datos desglosados ​​por género y sexo de los impactos de COVID-19 deben recopilarse y notificarse",
 
 
+        "title_en": "Appel à une action urgente: engagement renouvelé en faveur d'une recherche sensible au genre",
+        "description_en": "Les données ventilées par sexe et par sexe des impacts du COVID-19 doivent être collectées et signalées",
         "link": "https://www.gendro.org/statements",
         "category": "gendered health impacts",
         "type": "scientific data, feminist statement or analysis",
@@ -10433,6 +10497,8 @@ resources_data = [
         "description_es": "Describe los impactos de COVID-19 en mujeres y niñas en África subsahariana y mecanismos para ayudar",
 
 
+        "title_en": "Soutenir les femmes tout au long du coronavirus (Covid-19), intervention d'urgence et relance économique",
+        "description_en": "Décrit les impacts du COVID-19 sur les femmes et les filles en Afrique subsaharienne et les mécanismes d'aide",
         "link": "https://openknowledge.worldbank.org/bitstream/handle/10986/33612/Supporting-Women-Throughout-the-Coronavirus-Covid-19-Emergency-Response-and-Economic-Recovery.pdf?sequence=1&isAllowed=y",
         "category": "healthcare, economy, childcare, labor, gendered health impacts, gender-based violence",
         "type": "scientific data, feminist statement or analysis",
@@ -10445,6 +10511,8 @@ resources_data = [
         "description_es": "Informe sobre el estado de la asamblea de mujeres rurales en covid-19 y el sur de África",
 
 
+        "title_en": "Renforcement de la solidarité entre les peuples dans la mise à jour de l'Assemblée des femmes rurales d'Afrique australe",
+        "description_en": "Rapport de situation de l'assemblée des femmes rurales sur covid-19 et l'Afrique australe",
         "link": "https://ruralwomensassembly.files.wordpress.com/2020/04/final-update-blog-on-covid-19-rural-women_with-banner.pdf",
         "category": "healthcare, economy, labor, food",
         "type": "feminist statement or analysis",
@@ -10457,6 +10525,8 @@ resources_data = [
         "description_es": "Perspectiva ecofeminista para la respuesta política y la organización de covid-19 en África",
 
 
+        "title_en": "COVID-19 - Crise après crise en Afrique: une perspective écoféministe",
+        "description_en": "Perspective écoféministe pour la réponse politique et l'organisation de Covid-19 en Afrique",
         "link": "https://womin.org.za/covid-19-%E2%80%93-crisis-upon-crisis-in-africa-an-ecofeminist-perspective.html",
         "category": "SRHR, healthcare, economy, food, food, gendered health impacts",
         "type": "feminist statement or analysis",
@@ -10469,6 +10539,8 @@ resources_data = [
         "description_es": "Recursos útiles para activistas en covid-19 - sobre salud básica, acceso a la justicia y análisis feminista",
 
 
+        "title_en": "Pack de ressources activiste Covid-19",
+        "description_en": "Ressources utiles pour les activistes sur covid-19 - sur la santé de base, l'accès à la justice et l'analyse féministe",
         "link": "https://womin.org.za/resource-library/an-activist%E2%80%99s-covid-19-resources-pack.html",
         "category": "economy, food, gendered health impacts",
         "type": "mutual aid resource, organizing tool",
@@ -10481,6 +10553,8 @@ resources_data = [
         "description_es": "Lista de ONG que brinda ayuda durante Covid-19",
 
 
+        "title_en": "Diverses ONG apportant différents secours aux personnes dans le besoin pendant le verrouillage",
+        "description_en": "Liste d'ONG fournissant des secours pendant Covid-19",
         "link": "https://www.investindia.gov.in/bip/resources/list-ngos-providing-relief-during-covid-19",
         "category": "healthcare, childcare, food, gendered health impacts, gender-based violence",
         "type": "mutual aid resource, organizing tool",
@@ -10493,6 +10567,8 @@ resources_data = [
         "description_es": "Explica paso a paso qué hacer en el momento de la pandemia si usted o sus seres queridos tienen una adicción",
 
 
+        "title_en": "Traitement de la toxicomanie pendant la pandémie de COVID-19",
+        "description_en": "Il explique étape par étape ce qu'il faut faire au moment de la pandémie si vous ou vos proches souffrez d'une dépendance.",
         "link": "https://addictionresource.com/treatment/addiction-during-covid-19-outbreak/",
         "category": "healthcare",
         "type": "mutual aid resource",
@@ -10505,6 +10581,8 @@ resources_data = [
         "description_es": "Análisis feminista de cómo el coronavirus expone las desigualdades de género sistémicas",
 
 
+        "title_en": "Le coronavirus invisible rend visibles les inégalités et les injustices systémiques entre les sexes",
+        "description_en": "Analyse féministe de la façon dont le coronavirus expose les inégalités systémiques entre les sexes",
         "link": "https://us.boell.org/en/2020/04/30/invisible-coronavirus-makes-systemic-gender-inequalities-and-injustices-visible",
         "category": "childcare, labor, gendered health impacts, gender-based violence",
         "type": "feminist statement or analysis",
@@ -10517,6 +10595,8 @@ resources_data = [
         "description_es": "Análisis feminista del trabajo de género y las implicaciones para la salud en Ucrania y en todo el mundo",
 
 
+        "title_en": "La pandémie, le coronavirus et la quarantaine: les femmes en danger",
+        "description_en": "Analyse féministe du travail de genre et des implications pour la santé en Ukraine et dans le monde.",
         "link": "https://ua.boell.org/en/2020/03/25/pandemiya-koronavirus-karantin-zhinki-pid-udarom",
         "category": "childcare, labor, gendered health impacts, gender-based violence",
         "type": "feminist statement or analysis",
@@ -10529,6 +10609,8 @@ resources_data = [
         "description_es": "Análisis feminista de los riesgos adicionales que enfrentan los miembros de la comunidad LGBTI + en Turquía",
 
 
+        "title_en": "Comment la pandémie de Covid-19 affecte-t-elle la communauté LGBTI + en Turquie?",
+        "description_en": "Analyse féministe des risques supplémentaires auxquels sont confrontés les membres de la communauté LGBTI + en Turquie.",
         "link": "https://tr.boell.org/en/2020/04/17/how-does-covid-19-pandemic-affect-lgbti-community-turkey",
         "category": "SRHR",
         "type": "feminist statement or analysis",
@@ -10541,6 +10623,8 @@ resources_data = [
         "description_es": "Análisis feminista de componentes de crisis de género en Senegal",
 
 
+        "title_en": "COVID-19 : Quelles conséquences sur les inégalités de genres au Sénégal?",
+        "description_en": "Feminist analysis of gendered components of crisis in Senegal.",
         "link": "https://sn.boell.org/fr/2020/04/03/covid-19-quelles-consequences-sur-les-inegalites-de-genres-au-senegal",
         "category": "childcare, labor, gendered health impacts, gender-based violence",
         "type": "feminist statement or analysis",
@@ -10553,6 +10637,8 @@ resources_data = [
         "description_es": "Carta abierta que describe cómo el trabajo de cuidado debe centrarse en una recuperación justa",
 
 
+        "title_en": "Investir dans l'économie des soins pour une réponse et une reprise justes, vertes et féministes du Covid-19",
+        "description_en": "Lettre ouverte décrivant comment le travail de soins doit être centré sur une juste récupération.",
         "link": "https://womenslabour.org/article/8",
         "category": "economy, childcare, labor",
         "type": "feminist statement or analysis",
@@ -10565,6 +10651,8 @@ resources_data = [
         "description_es": "¿Qué pasos pueden tomar los trabajadores de salud y humanitarios para ayudar a comprender los efectos codiciosos sobre las mujeres",
 
 
+        "title_en": "Flambée de coronavirus au Cameroun: le genre n'est pas un problème secondaire!",
+        "description_en": "Quelles mesures les agents de santé et les agents humanitaires peuvent-ils prendre pour mieux comprendre les effets de la convoitise sur les femmes",
         "link": "https://reliefweb.int/report/cameroon/coronavirus-outbreak-cameroon-gender-not-side-issue",
         "category": "healthcare, gendered health impacts",
         "type": "feminist statement or analysis",
@@ -10577,6 +10665,8 @@ resources_data = [
         "description_es": "Medidas a tomar para reducir la violencia de género inducida por Covid en Camerún y en campos de refugiados",
 
 
+        "title_en": "Intervention contre la VBG dans l'épidémie de COVID-19 au Cameroun",
+        "description_en": "Mesures à prendre pour réduire la VBG induite par Covid au Cameroun et dans les camps de réfugiés",
         "link": "https://www.humanitarianresponse.info/en/op%C3%A9rations/cameroon/document/cameroonnwswguidance-notegbv-covid-19-gbv-scv1260320",
         "category": "gender-based violence",
         "type": "feminist statement or analysis",
@@ -10589,6 +10679,8 @@ resources_data = [
         "description_es": "Las medidas de distanciamiento social no están igualmente disponibles para todos y tienen un gran impacto en los medios de vida",
 
 
+        "title_en": "L'égalité des sexes compte dans COVID - 19 Response!",
+        "description_en": "Les mesures de distanciation sociale ne sont pas également accessibles à tous et ont de grandes répercussions sur les moyens de subsistance",
         "link": "https://africa.unwomen.org/en/news-and-events/stories/2020/04/le-genre-doit-etre-prise-en-compte-dans-la-reponse-face-au-covid19",
         "category": "labor, disability",
         "type": "feminist statement or analysis",
@@ -10601,6 +10693,8 @@ resources_data = [
         "description_es": "Orientación para que los estados africanos tomen medidas para evitar la discriminación de género Covid",
 
 
+        "title_en": "'Sept actions': un guide pour protéger les droits des femmes africaines pendant la COVID-19",
+        "description_en": "Conseils aux États africains pour qu'ils prennent des mesures pour éviter la discrimination fondée sur le sexe chez Covid",
         "link": "https://www.ohchr.org/EN/NewsEvents/Pages/SevenActions.aspx",
         "category": "education, childcare, labor, gendered health impacts",
         "type": "organizing tool",
@@ -10613,6 +10707,8 @@ resources_data = [
         "description_es": "Discute la desigualdad de género en China y su exasperación debido a Covid",
 
 
+        "title_en": "Comment les inégalités entre les sexes nuisent à la récupération de notre COVID-19 - Vues de la Chine",
+        "description_en": "Discute de l'inégalité entre les sexes en Chine et de son exaspération due à Covid",
         "link": "https://www.cn.undp.org/content/china/en/home/ourperspective/ourperspectivearticles/2020/how-gender-inequality-harms-our-covid-19-recovery--views-from-ch.html",
         "category": "healthcare, economy, labor",
         "type": "feminist statement or analysis",
@@ -10625,6 +10721,8 @@ resources_data = [
         "description_es": "ONU Mujeres está involucrando a las mujeres en la distribución de kits de información y desinfección",
 
 
+        "title_en": "Mettre les femmes centrafricaines au premier plan de la lutte contre COVID-19",
+        "description_en": "ONU Femmes engage les femmes à distribuer des kits d'information et d'assainissement",
         "link": "https://africa.unwomen.org/en/news-and-events/stories/2020/04/mettre-les-femmes-centrafricaines-a-l-avant-de-la--lutte",
         "category": "healthcare, water",
         "type": "feminist statement or analysis",
@@ -10637,6 +10735,8 @@ resources_data = [
         "description_es": "Kits sanitarios distribuidos a las mujeres para protegerse como cuidadoras",
 
 
+        "title_en": "Kinshasa: 800 femmes reçoivent des kits de résilience pour faire face à Covid-19",
+        "description_en": "Des kits sanitaires distribués aux femmes pour se protéger en tant que soignantes",
         "link": "https://africa.unwomen.org/en/news-and-events/stories/2020/04/800-femmes-recoivent-des-kits-de-resilience",
         "category": "healthcare",
         "type": "feminist statement or analysis",
@@ -10649,6 +10749,8 @@ resources_data = [
         "description_es": "Llamado a la acción para abordar el aumento de la VG en los países africanos",
 
 
+        "title_en": "Des militants en appellent à l'UA alors que la violence contre les femmes et les filles monte en flèche sous Covid-19",
+        "description_en": "Appel à l'action pour lutter contre l'augmentation de la VBG dans les pays africains",
         "link": "http://www.rfi.fr/en/africa/20200427-activists-appeal-to-au-as-abuse-against-women-girls-soars-under-covid-19",
         "category": "gender-based violence",
         "type": "feminist statement or analysis",
@@ -10661,6 +10763,8 @@ resources_data = [
         "description_es": "Covid ha resaltado el acceso de género a la tecnología y la información",
 
 
+        "title_en": "La pandémie de coronavirus révèle la fracture numérique entre les sexes",
+        "description_en": "Covid a mis en évidence l'accès des femmes aux technologies et à l'information",
         "link": "https://insight.wfp.org/coronavirus-pandemic-is-exposing-the-gender-digital-divide-6c9e1fef8ece",
         "category": "digital surveillance, education",
         "type": "feminist statement or analysis",
@@ -10673,6 +10777,8 @@ resources_data = [
         "description_es": "Información sobre cómo responder a las necesidades de las adolescentes que rodean la pandemia",
 
 
+        "title_en": "Covid-19 et le mariage précoce et forcé des enfants: un programme d'action",
+        "description_en": "Informations sur la manière de répondre aux besoins des adolescentes entourant la pandémie",
         "link": "https://www.girlsnotbrides.org/resource-centre/covid-19-and-child-early-and-forced-marriage-an-agenda-for-action/",
         "category": "SRHR, gender-based violence",
         "type": "organizing tool",
@@ -10685,6 +10791,8 @@ resources_data = [
         "description_es": "Describe los riesgos de género y sugiere recomendaciones para responder a Covid",
 
 
+        "title_en": "Le genre dans le cadre de la réponse à la pandémie de COVID-19 en Afrique anglophone, Afrique francophone",
+        "description_en": "Décrit les risques liés au genre et suggère des recommandations pour répondre à Covid",
         "link": "https://africa.unwomen.org/en/digital-library/publications/2020/04/gender-in-the-framework-of-the-response-to-the-covid-19-pandemic-in-west-and-central-africa",
         "category": "healthcare, economy",
         "type": "organizing tool",
@@ -10697,6 +10805,8 @@ resources_data = [
         "description_es": "Una guía para integrar el género en las evaluaciones de impacto socioeconómico de COVID-19",
 
 
+        "title_en": "Évaluations rapides de l'impact sexospécifique de COVID-19",
+        "description_en": "Un guide pour intégrer le genre dans les évaluations d'impact socio-économique de COVID-19",
         "link": "https://africa.unwomen.org/en/digital-library/publications/2020/04/a-guide-to-integrate-gender-into-socio-economic-impact-assessments-of-covid-19",
         "category": "healthcare, economy",
         "type": "organizing tool",
@@ -10709,6 +10819,8 @@ resources_data = [
         "description_es": "Algunas herramientas diferentes que los países están utilizando para abordar la violencia durante Covid",
 
 
+        "title_en": "Inspiration de 5 minutes: comment réduire la violence pendant COVID-19",
+        "description_en": "Certains outils différents que les pays utilisent pour lutter contre la violence pendant Covid",
         "link": "https://insights.careinternational.org.uk/development-blog/5-minute-inspiration-how-we-can-reduce-violence-during-covid-19",
         "category": "gender-based violence",
         "type": "feminist statement or analysis",
@@ -10721,6 +10833,8 @@ resources_data = [
         "description_es": "Women for Women International analiza las medidas que han tomado en respuesta a COVID",
 
 
+        "title_en": "Alors que la situation COVID-19 évolue, la santé et la sécurité des femmes et du personnel sont prioritaires",
+        "description_en": "Women for Women International discute des mesures qu'elles ont prises en réponse à COVID",
         "link": "https://www.womenforwomen.org/blogs/covid-19-situation-evolves-health-and-safety-women-and-staff-take-priority",
         "category": "healthcare, education",
         "type": "feminist statement or analysis",
@@ -10733,6 +10847,8 @@ resources_data = [
         "description_es": "Declaración que llama a la SDSR y la acción general de género ante la pandemia de Covid",
 
 
+        "title_en": "Coronavirus - Afrique: Déclaration sur la protection de la santé et des droits sexuels et reproductifs et la promotion de l'égalité des sexes dans la crise COVID-19",
+        "description_en": "Statementg appelant à la SDSR et à une action générale sensible au genre face à la pandémie de Covid",
         "link": "https://www.cnbcafrica.com/africa-press-office/2020/05/06/coronavirus-africa-statement-on-protecting-sexual-and-reproductive-health-and-rights-and-promoting-gender-responsiveness-in-the-covid-19-crisis/",
         "category": "SRHR",
         "type": "feminist statement or analysis",
@@ -10745,6 +10861,8 @@ resources_data = [
         "description_es": "Informe de experiencia sobre violencia doméstica y las capacidades en los centros de protección. (GE)",
 
 
+        "title_en": "Quand Corona rencontre des pirates et des princesses",
+        "description_en": "Rapport d'expérience sur la violence domestique et les capacités des centres de protection. (GE)",
         "link": "https://www.gwi-boell.de/de/2020/03/27/wenn-corona-auf-piraten-und-prinzessinnen-trifft",
         "category": "gender-based violence",
         "type": "feminist statement or analysis",
@@ -10757,6 +10875,8 @@ resources_data = [
         "description_es": "Comprobando si el capitalismo es sostenible desde una perspectiva de género. (GE)",
 
 
+        "title_en": "Die Zukunft der Arbeit",
+        "description_en": "Vérifier si le capitalisme est durable dans une perspective de genre. (GE)",
         "link": "https://pinkstinks.de/die-zukunft-der-arbeit/",
         "category": "economy, labor",
         "type": "feminist statement or analysis",
@@ -10769,6 +10889,8 @@ resources_data = [
         "description_es": "Análisis global de los efectos de la pandemia de Covis en las mujeres. (GE)",
 
 
+        "title_en": "Die Krise der Frauen",
+        "description_en": "Analyse globale des effets de la pandémie de Covis sur les femmes. (GE)",
         "link": "https://www.zeit.de/2020/18/coronavirus-pandemie-arbeit-frauen-bezahlung-ungleichheit/komplettansicht",
         "category": "healthcare, childcare, labor, gendered health impacts, gender-based violence",
         "type": "feminist statement or analysis",
@@ -10777,13 +10899,14 @@ resources_data = [
     {
         "title_en": "Bäuerinnen in der Corona-Krise: Frauen auf den Höfen brauchen dringend Entlastung",
         "description_en": "Women in agriculture (GE)",
+        "title_es": "Mujeres agricultoras en la crisis de la corona: las mujeres en las granjas necesitan ayuda urgente",
+        "description_es": "Mujeres en la agricultura (GE)",
 
 
-
+        "title_en": "Les agricultrices dans la crise de la couronne: les femmes des exploitations agricoles ont un besoin urgent de secours",
+        "description_en": "Les femmes dans l'agriculture (GE)",
         "link": "https://www.landfrauen.info/aktuelles/pressemeldungen/meldung/baeuerinnen-in-der-corona-krise-frauen-auf-den-hoefen-brauchen-dringend-entlastung/",
         "category": "childcare, labor, food",
-
-
         "type": "feminist statement or analysis",
         "country": "Germany"
     },
@@ -10794,6 +10917,8 @@ resources_data = [
         "description_es": "Informe enojado de una enfermera sobre las condiciones actuales en los hospitales. (GE)",
 
 
+        "title_en": "La enfermera de Berlín se queja 'Puedes aplaudir en cualquier otro lugar'",
+        "description_en": "Informe enojado de una enfermera sobre las condiciones actuales en los hospitales. (GE)",
         "link": "https://m.tagesspiegel.de/berliner-krankenpflegerin-klagt-an-euren-applaus-koennt-ihr-euch-sonstwohin-stecken/25691690.html",
         "category": "healthcare, economy, labor",
         "type": "feminist statement or analysis",
@@ -10806,6 +10931,8 @@ resources_data = [
         "description_es": "Comprender y transformar el valor de la atención pagada y no pagada en respuesta a COVID-19",
 
 
+        "title_en": "Atención en crisis",
+        "description_en": "Comprender y transformar el valor de la atención pagada y no pagada en respuesta a COVID-19",
         "link": "https://iwda.org.au/resource/factsheet-care-in-crisis/",
         "category": "economy, childcare, labor",
         "type": "feminist statement or analysis",
@@ -10818,6 +10945,8 @@ resources_data = [
         "description_es": "Utilizando datos sensibles al género generados por la Medida de Privación Individual, explora las implicaciones de género anticipadas en Fiji",
 
 
+        "title_en": "Planificación para la prevención en Fiji",
+        "description_en": "Utilizando datos sensibles al género generados por la Medida de Privación Individual, explora las implicaciones de género anticipadas en Fiji",
         "link": "https://www.individualdeprivationmeasure.org/resources/planning-for-prevention-fiji/",
         "category": "healthcare, water, gendered health impacts",
         "type": "feminist statement or analysis",
@@ -10830,6 +10959,8 @@ resources_data = [
         "description_es": "Utilizando datos sensibles al género generados por la Medida de Privación Individual, explora las vulnerabilidades potenciales de Indonesia a COVID-19",
 
 
+        "title_en": "Pobreza y vulnerabilidad a COVID-19 en Indonesia",
+        "description_en": "Utilizando datos sensibles al género generados por la Medida de Privación Individual, explora las vulnerabilidades potenciales de Indonesia a COVID-19",
         "link": "https://www.individualdeprivationmeasure.org/resources/covid-indonesia-brief/",
         "category": "water, food, gendered health impacts",
         "type": "feminist statement or analysis",
@@ -10842,6 +10973,8 @@ resources_data = [
         "description_es": "Utilizando datos sensibles al género generados por la Medida de Privación Individual, explora las vulnerabilidades potenciales de Sudáfrica a COVID-19",
 
 
+        "title_en": "Pobreza y vulnerabilidad a COVID-19 en Sudáfrica",
+        "description_en": "Utilizando datos sensibles al género generados por la Medida de Privación Individual, explora las vulnerabilidades potenciales de Sudáfrica a COVID-19",
         "link": "https://www.individualdeprivationmeasure.org/resources/covid-south-africa/",
         "category": "healthcare, childcare, water, food, gendered health impacts, gender-based violence",
         "type": "feminist statement or analysis",
@@ -10854,6 +10987,8 @@ resources_data = [
         "description_es": "No se ha reconocido el papel de la mujer en respuesta a COVID 19 en Jordania",
 
 
+        "title_en": "Reconociendo el importante papel de las mujeres en la respuesta COVID-19 de Jordania",
+        "description_en": "No se ha reconocido el papel de la mujer en respuesta a COVID 19 en Jordania",
         "link": "https://www.brookings.edu/blog/education-plus-development/2020/04/29/recognizing-womens-important-role-in-jordans-covid-19-response/",
         "category": "misinformation",
         "type": "feminist statement or analysis",
@@ -10866,6 +11001,8 @@ resources_data = [
         "description_es": "Recomendaciones inmediatas para planificación y respuesta",
 
 
+        "title_en": "COVID 19 y género",
+        "description_en": "Recomendaciones inmediatas para planificación y respuesta",
         "link": "https://www2.unwomen.org/-/media/field%20office%20jordan/images/publications/2020/covid19%20and%20gender%20in%20jordan%20eng.pdf?la=en&vs=128",
         "category": "healthcare, gendered health impacts, gender-based violence",
         "type": "feminist statement or analysis",
@@ -10878,6 +11015,8 @@ resources_data = [
         "description_es": "las cuestiones y preocupaciones clave que plantearon las feministas, así como las recomendaciones que se presentaron para una acción inmediata (centrada en el Líbano",
 
 
+        "title_en": "respuestas feministas globales a la pandemia de COVID-19: la justicia social y la atención están a la vanguardia",
+        "description_en": "las cuestiones y preocupaciones clave que plantearon las feministas, así como las recomendaciones que se presentaron para una acción inmediata (centrada en el Líbano",
         "link": "https://genderatwork.org/news/global-feminist-responses-to-the-covid-19-pandemic-social-justice-and-are-at-the-orefront/",
         "category": "punitive, healthcare, economy, labor, gendered health impacts, disability",
         "type": "feminist statement or analysis",
