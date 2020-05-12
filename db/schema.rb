@@ -54,6 +54,7 @@ ActiveRecord::Schema.define(version: 2020_04_28_000708) do
     t.string "description_fr"
     t.string "link"
     t.string "date"
+    t.boolean "published"
     t.bigint "progressive_id", null: false
     t.bigint "page_id", null: false
     t.datetime "created_at", precision: 6, null: false

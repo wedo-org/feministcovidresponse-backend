@@ -1,5 +1,5 @@
 class Item < ApplicationRecord
-  # after_initialize :init
+  after_initialize :init
   belongs_to :progressive
   belongs_to :page
   has_many :country_items
@@ -53,7 +53,7 @@ class Item < ApplicationRecord
     end
   end
 
-  # def init
-  #   self.date = "" if self.date.nil?          #will set the default value only if it's nil
-  # end
+  def init
+    self.published = false if self.published.nil?          #will set the default value only if it's nil
+  end
 end

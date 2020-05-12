@@ -9,6 +9,7 @@ class CreateItems < ActiveRecord::Migration[6.0]
       t.string :description_fr
       t.string :link
       t.string :date
+      t.boolean :published
       t.belongs_to :progressive, null: false, foreign_key: true
       t.belongs_to :page, null: false, foreign_key: true
 
