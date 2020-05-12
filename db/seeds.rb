@@ -7165,6 +7165,8 @@ online_data = [
         "description_es": "Durante el seminario web, las líderes indígenas discutieron cómo COVID-19 está afectando a sus comunidades y cómo los oleoductos y gasoductos están siendo acelerados en sus tierras, violando los derechos indígenas y poniendo aún más en riesgo a las mujeres indígenas. , los presentadores compartieron llamadas a la acción, historias y sabiduría, necesidades inmediatas de sus comunidades, prácticas de atención comunitaria y las últimas actualizaciones de varias campañas y movimientos de resistencia, centrándose en las tuberías Keystone XL, Line 3 y Coastal GasLink, y alquitrán extracción de arenas. Con los activistas Freda Huson (jefe Howihkat), Faith Spotted Eagle (Tunkan Inajin Win), Tara Houska y Eriel Tchekwie Deranger ",
 
 
+        "title_en": "Webinaire: Les femmes autochtones des États-Unis, du Canada, de l'île aux tortues en première ligne",
+        "description_en": "Au cours du webinaire, les femmes leaders autochtones ont discuté de l'impact de COVID-19 sur leurs communautés et de la manière dont les oléoducs et les gazoducs sont accélérés sur leurs terres - violant les droits des autochtones et mettant davantage les femmes autochtones en danger. -rangeant la discussion, les présentateurs ont partagé des appels à l'action, des histoires et de la sagesse, les besoins immédiats de leurs communautés, les pratiques de soins communautaires et les dernières mises à jour de diverses campagnes et mouvements de résistance, en se concentrant sur les pipelines Keystone XL, Line 3 et Coastal GasLink, et le goudron extraction de sables. Avec les activistes Freda Huson (chef Howihkat), Faith Spotted Eagle (Tunkan Inajin Win), Tara Houska et Eriel Tchekwie Deranger. ",
         "link": "https://www.youtube.com/watch?v=FPqVs_2KWdM",
         "category": "democratic institutions",
         "country": "United States, Canada, Australia",
@@ -7178,6 +7180,8 @@ online_data = [
         "description_es": "Mujeres líderes indígenas de la Amazonía ecuatoriana y brasileña se unieron para discutir cómo la pandemia está afectando a sus comunidades, ya que se enfrentan a la deforestación, la extracción de petróleo y las violaciones de los derechos indígenas en sus territorios. En Turtle Island, los pueblos indígenas de El Sur Global está en mayor riesgo de contraer COVID-19 debido a la falta de recursos y las disparidades de salud provocadas por siglos de políticas coloniales y racismo ambiental. Estos líderes compartieron sus historias, análisis, sabiduría y defensa de los derechos indígenas y la protección de los bosques. , el agua, las comunidades y el clima global, y abordaron las luchas políticas y económicas en curso que afectan a sus territorios amazónicos ",
 
 
+        "title_en": "Webinaire: Les femmes autochtones du Brésil et de l'Équateur en première ligne",
+        "description_en": "Les femmes dirigeantes autochtones de l'Amazonie équatorienne et brésilienne se sont unies pour discuter de l'impact de la pandémie sur leurs communautés, alors qu'elles sont confrontées à la déforestation, à l'extraction de pétrole et aux violations des droits des peuples autochtones sur leurs territoires. Comme sur l'île des tortues, les peuples autochtones de les pays du Sud sont plus à risque de contracter COVID-19 en raison du manque de ressources et des disparités en matière de santé provoquées par des siècles de politiques coloniales et de racisme environnemental. Ces dirigeants ont partagé leurs histoires, analyses, sagesse et plaidoyer pour les droits des autochtones, la protection des forêts , l'eau, les communautés et le climat mondial, et abordé les luttes politiques et économiques en cours affectant leurs territoires amazoniens. ",
         "link": "https://www.youtube.com/watch?v=g30ZrwcFgVY",
         "category": "democratic institutions",
         "country": "Latin America and the Caribbean",
@@ -7191,6 +7195,8 @@ online_data = [
         "description_es": "¿Por qué mueren más hombres por el virus que las mujeres? ¿Y por qué este hecho no afecta la investigación sobre una vacuna en los Estados Unidos? Son dos de las preguntas más apremiantes y confusas de la pandemia. Escuche como los oradores profundizan en el papel del género y los datos en Covid-19. Con la invitada especial Caroline Criado Perez, autora del galardonado libro 'Invisible Women'. Organizado por Francesca Donner, directora de género en The Times y editora del boletín de noticias In Her Words; y Alisha Haridasani Gupta, reportera de género de In Her Words ",
 
 
+        "title_en": "Appel audio: Genre et COVID-19",
+        "description_en": "Pourquoi les hommes meurent-ils plus du virus que les femmes? Et pourquoi ce fait n'a-t-il pas d'incidence sur la recherche d'un vaccin aux États-Unis? Ce sont deux des questions les plus pressantes - et les plus déroutantes - de la pandémie. les conférenciers plongent profondément dans le rôle du genre et des données dans Covid-19. Avec l'invitée spéciale Caroline Criado Perez, auteure du livre primé «Invisible Women». Animé par Francesca Donner, directrice du genre au Times et éditrice du bulletin d'information du Times In Her Words; et Alisha Haridasani Gupta, reporter genre pour In Her Words. ",
         "link": "https://www.youtube.com/watch?v=waD0Qe7RA50&feature=youtu.be",
         "category": "gendered health impacts",
         "country": "Global",
@@ -7204,6 +7210,8 @@ online_data = [
         "description_es": "Este seminario web resalta las perspectivas sobre un enfoque centrado en las personas y los derechos humanos para la seguridad de la salud que se enfoca en brindar salud para todos a través de sistemas de salud más fuertes, una fuerza laboral de salud adecuadamente equipada y financiada, y responder a las crisis de salud mientras se mantienen los servicios básicos de salud de la mujer. Los oradores compartieron recomendaciones y acciones para impulsar la defensa para apoyar las inversiones y los compromisos con las mujeres en la fuerza laboral de la salud. Los oradores incluyeron a Michèle Boccoz, Howard Catton, Dr. Gvantsa Khizanishvili, Sarah Hillware, Susan Papp y Mwenya Kasonde ",
 
 
+        "title_en": "Webinaire: Sécurité sanitaire mondiale: organisé par les femmes pendant COVID-19 et au-delà",
+        "description_en": "Ce webinaire met en lumière les perspectives d'une approche de la sécurité sanitaire centrée sur les personnes et fondée sur les droits de l'homme qui se concentre sur la prestation de la santé pour tous grâce à des systèmes de santé plus solides, un personnel de santé correctement équipé et financé et la réponse aux crises sanitaires. tout en maintenant les services de santé de base pour les femmes. Les orateurs ont partagé des recommandations et des actions pour propulser le plaidoyer pour soutenir les investissements et les engagements envers les femmes dans le personnel de santé.",
         "link": "https://www.youtube.com/watch?v=9At0j07G7-o",
         "category": "healthcare",
         "country": "Global",
@@ -7217,6 +7225,8 @@ online_data = [
         "description_es": "Como parte de la serie, 'COVID-19 & Gender: Living to the Challenge', organizado por International Gender Champions, esta primera sesión exploró las amenazas a los derechos humanos y las necesidades humanitarias y económicas que deben estar en primer plano en nuestras mentes ¿Cómo garantizamos la participación significativa de las mujeres en la configuración de las políticas mundiales y nacionales, al mismo tiempo que alzamos la voz en los medios de comunicación? Chungong, Secretario General, Unión Interparlamentaria, y la Sra. Katja Iversen, Presidenta / Directora Ejecutiva, Women Deliver. Moderada por SE Sr. Jürg Lauber, Representante Permanente de Suiza ante la ONU ",
 
 
+        "title_en": "Webinaire: Répondre, ne pas réagir: une programmation sensible au genre en temps de crise",
+        "description_en": "Dans le cadre de la série 'COVID-19 & Gender: Living up to the Challenge' organisée par International Gender Champions, cette première session a exploré les menaces pour les droits humains et les besoins humanitaires et économiques qui devraient être au premier plan dans nos esprits. Comment assurer la participation significative des femmes à l'élaboration des politiques mondiales et nationales, tout en élevant leur voix dans les médias? En vedette Mme Michelle Bachelet, Haut-Commissaire des Nations Unies aux droits de l'homme; Mme Sabra Bano, directrice, Gender Concerns International; M. Martin Chungong , Secrétaire générale, Union interparlementaire et Mme Katja Iversen, Présidente / Directrice générale, Women Deliver. Animée par SEM Jürg Lauber, Représentant permanent de la Suisse auprès des Nations Unies. ",
         "link": "https://www.youtube.com/watch?v=F1B80cKEScc",
         "category": "gendered health impacts",
         "country": "Global",
@@ -7230,6 +7240,8 @@ online_data = [
         "description_es": "Al aplicar una lente de género a esta pandemia, los investigadores y los encargados de formular políticas pueden evaluar mejor los riesgos diferenciales y las respuestas específicas para garantizar que las poblaciones ya vulnerables no se retrasen aún más. Esta discusión con expertos en CGD, investigadores externos, profesionales y los defensores se centraron en cómo una lente de género nos ayuda a comprender y responder mejor a COVID-19. Los oradores destacados incluyeron a Gary Barker, presidente y director ejecutivo de Promundo; Carleigh Krubiner, investigadora de políticas del Centro para el Desarrollo Global; Amber Peterman, profesora de investigación asociada, UNC Chapel Hill; Crystal Simeoni, Líder de Justicia Económica, FEMNET; Clare Wenham, Profesora Asistente de Política de Salud Global, LSE; Olabukunola Williams, Director Ejecutivo, educación como vacuna ",
 
 
+        "title_en": "Webinaire: Approaching COVID-19 Risk and Response through a Gender Lens",
+        "description_en": "En appliquant une optique de genre à cette pandémie, les chercheurs et les décideurs politiques peuvent mieux évaluer les risques différentiels et cibler les réponses pour éviter que les populations déjà vulnérables ne prennent encore plus de retard. Cette discussion avec des experts de CGD, des chercheurs externes, des praticiens et les défenseurs se sont concentrés sur la façon dont une perspective de genre nous aide à mieux comprendre et répondre à COVID-19. UNC Chapel Hill; Crystal Simeoni, responsable de la justice économique, FEMNET; Clare Wenham, professeure adjointe de politique de santé mondiale, LSE; Olabukunola Williams, directrice exécutive, Education as a Vaccine. ",
         "link": "https://www.cgdev.org/event/approaching-covid-19-risk-and-response-through-gender-lens",
         "category": "gendered health impacts",
         "country": "Global",
@@ -7243,6 +7255,8 @@ online_data = [
         "description_es": "La ONU ha lanzado una importante respuesta humanitaria para mitigar el impacto de COVID-19 en las comunidades más vulnerables del mundo. Las mujeres y las niñas tienen un impacto único y son críticas para las estrategias de mitigación durante esta crisis humanitaria. Con: Rt Hon David Miliband; Sra. Anita Bhatia; El Honorable Eric Schwartz; Sra. Mavic Cabrera-Balleza; y la Dra. Orzala Nemat. Moderada por la Embajadora Melanne Verveer. Organizada por el Instituto de Georgetown para Mujeres, Paz y Seguridad en colaboración con el Centro LSE para Mujeres, Paz y seguridad; Monash Género, paz y seguridad; El Centro PRIO sobre género, paz y seguridad; y el Centro internacional de capacitación para el mantenimiento de la paz Kofi Annan ",
 
 
+        "title_en": "Webinaire: COVID-19: une perspective de genre",
+        "description_en": "L'ONU a lancé une intervention humanitaire majeure pour atténuer l'impact du COVID-19 sur les communautés les plus vulnérables du monde. Les femmes et les filles sont à la fois particulièrement touchées et essentielles aux stratégies d'atténuation pendant cette crise humanitaire. Avec: le très honorable David Miliband; Mme Anita Bhatia; l'honorable Eric Schwartz; Mme Mavic Cabrera-Balleza; et le Dr Orzala Nemat. Modéré par l'Ambassadeur Melanne Verveer. Hébergé par le Georgetown Institute for Women, Peace and Security en partenariat avec le LSE Centre for Women, Paix et sécurité; Monash Genre, paix et sécurité; Centre PRIO sur le genre, la paix et la sécurité; et Centre international de formation au maintien de la paix Kofi Annan. ",
         "link": "https://giwps.georgetown.edu/event/covid-19-a-gender-perspective-on-the-growing-humanitarian-crisis/",
         "category": "gendered health impacts",
         "country": "Global",
@@ -7256,6 +7270,8 @@ online_data = [
         "description_es": "Centrándose en el hogar y la organización del trabajo - dos categorías centrales en el pensamiento económico feminista - la charla esboza un análisis de cómo era la situación antes de la pandemia y cómo ha cambiado, postulando que la crisis está reforzando la situación privatización de la reproducción social, con implicaciones significativas para las desigualdades de género, clase y raza. La pandemia también está reconfigurando lo que se considera trabajo esencial y su valor y, aunque los trabajadores esenciales están actualmente expuestos a riesgos de salud significativos, esto conlleva un potencial transformador eso debería informar las respuestas feministas. Ponente Sara Stevano, Moderadora Latifahaida Binti Abdul Latif ",
 
 
+        "title_en": "Webinaire: L'économie féministe de COVID-19",
+        "description_en": "En se concentrant sur le ménage et l'organisation du travail - deux catégories centrales dans la pensée économique féministe - le discours esquisse une analyse de la façon dont la situation était avant la pandémie et comment elle a changé, en postulant que la crise renforce la privatisation de la reproduction sociale, avec des implications importantes pour les inégalités de genre, de classe et de race. La pandémie reconfigure également ce qui est considéré comme un travail essentiel et sa valeur et, bien que les travailleurs essentiels soient actuellement exposés à des risques sanitaires importants, cela présente un potentiel de transformation qui devraient éclairer les réponses féministes. Présidente Sara Stevano, Modératrice Latifahaida Binti Abdul Latif. ",
         "link": "https://www.youtube.com/watch?v=KF_jfLuQgbQ",
         "category": "economy",
         "country": "Global",
@@ -7269,6 +7285,8 @@ online_data = [
         "description_es": "Fatemeh Kershavaz, Leila Zand, Salome, MC, Sima Shakhsari, Sussan Deyhim y Sussan Tahmasebi discuten la crisis en Irán desde un punto de vista personal: sus conexiones con la nación, cómo esto ha afectado a sus seres queridos en casa, cómo reaccionan los iraníes, el pueblo y el gobierno, sobre las sanciones que están paralizando el sistema de salud de Irán y sugerencias sobre lo que la gente puede hacer. e iniciativas de derechos humanos, y redirigir nuestros impuestos a la salud, la educación, los empleos verdes y otros programas que afirman la vida ",
 
 
+        "title_en": "COVID-19 & Sanctions américaines contre l'Iran: Webinaire avec des femmes américano-iraniennes / des personnes non conformes au genre",
+        "description_en": "Fatemeh Kershavaz, Leila Zand, Salome, MC, Sima Shakhsari, Sussan Deyhim et Sussan Tahmasebi discutent de la crise en Iran d'un point de vue personnel: leurs liens avec la nation, comment cela a affecté leurs proches à la maison, comment les Iraniens - le peuple et le gouvernement - réagissent; à propos des sanctions qui paralysent le système de santé iranien; et des suggestions sur ce que les gens peuvent faire. et des initiatives en matière de droits de l'homme, et de réorienter nos impôts vers les soins de santé, l'éducation, les emplois verts et d'autres programmes qui mettent la vie en valeur ",
         "link": "https://www.youtube.com/watch?v=QucuOsj3qCw&t=533s",
         "category": "economy",
         "country": "United States, Iran",
@@ -7282,6 +7300,8 @@ online_data = [
         "description_es": "Ruth Nyambura está conversando con Salimah Valiani, Max Ajl y Ruth Castel-Branco",
 
 
+        "title_en": "Appel audio: Réponses féministes et anticapitalistes africaines à COVID-19: travail, santé et questions écologiques",
+        "description_en": "Ruth Nyambura est en conversation avec Salimah Valiani, Max Ajl et Ruth Castel-Branco",
         "link": "https://anchor.fm/african-ecofeminisms/episodes/African-Feminist-and-Anti-Capitalist-Responses-to-COVID-19-labor--Health-and-Ecological-Questions-eca7o6",
         "category": "healthcare, economy, labor, democratic institutions",
         "country": "Anglophone Africa, Global",
@@ -7295,6 +7315,8 @@ online_data = [
         "description_es": "El economista jefe de la ONU, Elliott Harris, y expertos del DESA (Departamento de Asuntos Económicos y Sociales) de la ONU comparten sus últimos hallazgos sobre los impactos sociales y económicos de COVID-19, así como las recomendaciones de política",
 
 
+        "title_en": "Webinaire: Impacts économiques et sociaux de COVID-19",
+        "description_en": "L'économiste en chef des Nations Unies, Elliott Harris, et des experts du Département des affaires économiques et sociales de l'ONU partagent leurs dernières conclusions sur les impacts sociaux et économiques de COVID-19 ainsi que les recommandations politiques.",
         "link": "https://www.facebook.com/joinundesa/videos/vb.121245281298034/2506983762950816/?type=2&theater",
         "category": "economy",
         "country": "Global",
@@ -7308,6 +7330,8 @@ online_data = [
         "description_es": "Organizado por la Fundación Skoll, que canceló su Foro Mundial 2020 con el tema planeado de Fuerza Colectiva, este seminario web contó con Mary Robinson, ex presidenta de Irlanda y Alta Comisionada de las Naciones Unidas para los Derechos Humanos; Xiye Bastida, estudiante de último año de secundaria y activista climático juvenil líder; Hindou Oumarou Ibrahim, activista ambiental y copresidente del Foro Internacional de los Pueblos Indígenas sobre Cambio Climático; Dra. Katharine Wilkinson, Project Drawdown; y Megha Agrawal Sood, directora de programas en Exposure Labs, la compañía de producción detrás del Películas ganadoras de un Emmy Chasing Ice y Chasing Coral. Presentadas en asociación con Connected Women Leaders y The Rockefeller Foundation ",
 
 
+        "title_en": "Webinaire: Justice climatique au temps de COVID-19: 5 leçons des femmes et des filles menant la lutte",
+        "description_en": "Animé par la Fondation Skoll, qui a annulé son Forum mondial 2020 sur le thème prévu de la force collective, ce webinaire a présenté Mary Robinson, ancienne présidente de l'Irlande et Haut-Commissaire des Nations Unies aux droits de l'homme, Xiye Bastida, lycéenne et activiste climatique de premier plan pour les jeunes; Hindou Oumarou Ibrahim, activiste environnemental et coprésident du Forum international des peuples autochtones sur le changement climatique; Dr Katharine Wilkinson, Project Drawdown; et Megha Agrawal Sood, directrice des programmes chez Exposure Labs, la société de production derrière le Films primés aux Emmy Awards Chasing Ice et Chasing Coral. Présenté en partenariat avec Connected Women Leaders et la Fondation Rockefeller. ",
         "link": "https://www.rockefellerfoundation.org/blog/climate-justice-in-the-time-of-covid-19-5-lessons-from-women-and-girls-leading-the-fight/",
         "category": "democratic institutions",
         "country": "Global",
@@ -7321,6 +7345,8 @@ online_data = [
         "description_es": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de GBV bajo el enfoque de clúster del Comité Permanente Interinstitucional. El GBV AoR trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de las sobrevivientes sean reconocidas y reforzadas y que los esfuerzos de prevención primaria se empleen de manera efectiva para abordar la desigualdad de género subyacente. a lo largo de la serie. Cada seminario web también se ofreció en francés ",
 
 
+        "title_en": "Webinaire: Impacts de COVID-19 sur les femmes et les filles",
+        "description_en": "L'un des six webinaires d'une série organisée par le domaine de responsabilité VBG dans le cadre de l'approche du cluster du Comité permanent interinstitutions. L'AoR VBG travaille collectivement pour améliorer l'efficacité et la responsabilité de la réponse humanitaire pour la prévention, l'atténuation des risques et riposte à toutes les formes de violence sexiste, pour garantir que l'agence et les capacités des survivantes soient reconnues et renforcées et que les efforts de prévention primaire soient efficacement utilisés pour lutter contre les inégalités sous-jacentes entre les sexes. tout au long de la série. Chaque webinaire était également offert en français. ",
         "link": "https://drive.google.com/file/d/19Ui3bZZsmdDZP7wWXRF7f6SQzpBfL-EJ/view",
         "category": "gender-based violence, healthcare, gendered health impacts",
         "country": "Global",
@@ -7334,6 +7360,8 @@ online_data = [
         "description_es": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de GBV bajo el enfoque de clúster del Comité Permanente Interinstitucional. El GBV AoR trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de las sobrevivientes sean reconocidas y reforzadas y que los esfuerzos de prevención primaria se empleen de manera efectiva para abordar la desigualdad de género subyacente. a lo largo de la serie. Cada seminario web también se ofreció en francés ",
 
 
+        "title_en": "Webinaire: évaluations à distance de la VBG et transition vers la prestation de services à distance",
+        "description_en": "L'un des six webinaires d'une série organisée par le domaine de responsabilité VBG dans le cadre de l'approche du cluster du Comité permanent interinstitutions. L'AoR VBG travaille collectivement pour améliorer l'efficacité et la responsabilité de la réponse humanitaire pour la prévention, l'atténuation des risques et riposte à toutes les formes de violence sexiste, pour garantir que l'agence et les capacités des survivantes soient reconnues et renforcées et que les efforts de prévention primaire soient efficacement utilisés pour lutter contre les inégalités sous-jacentes entre les sexes. tout au long de la série. Chaque webinaire était également offert en français. ",
         "link": "https://drive.google.com/file/d/1BK6c3D0Nic_Ih5NDCIyW92Sdfp_0XVvl/view",
         "category": "gender-based violence",
         "country": "Global",
@@ -7347,6 +7375,8 @@ online_data = [
         "description_es": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de GBV bajo el enfoque de clúster del Comité Permanente Interinstitucional. El GBV AoR trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de las sobrevivientes sean reconocidas y reforzadas y que los esfuerzos de prevención primaria se empleen de manera efectiva para abordar la desigualdad de género subyacente. a lo largo de la serie. Cada seminario web también se ofreció en francés ",
 
 
+        "title_en": "Webinaire: Assurer la continuité des services de santé essentiels pour les survivantes de la VBG pendant la crise du COVID-19",
+        "description_en": "L'un des six webinaires d'une série organisée par le domaine de responsabilité VBG dans le cadre de l'approche du cluster du Comité permanent interinstitutions. L'AoR VBG travaille collectivement pour améliorer l'efficacité et la responsabilité de la réponse humanitaire pour la prévention, l'atténuation des risques et riposte à toutes les formes de violence sexiste, pour garantir que l'agence et les capacités des survivantes soient reconnues et renforcées et que les efforts de prévention primaire soient efficacement utilisés pour lutter contre les inégalités sous-jacentes entre les sexes. tout au long de la série. Chaque webinaire était également offert en français. ",
         "link": "https://drive.google.com/file/d/1Ca5GexYHqZpsGC1HNRmD-SzNSKL387ds/view",
         "category": "gender-based violence, healthcare, gendered health impacts",
         "country": "Global",
@@ -7360,6 +7390,8 @@ online_data = [
         "description_es": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de GBV bajo el enfoque de clúster del Comité Permanente Interinstitucional. El GBV AoR trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de las sobrevivientes sean reconocidas y reforzadas y que los esfuerzos de prevención primaria se empleen de manera efectiva para abordar la desigualdad de género subyacente. a lo largo de la serie. Cada seminario web también se ofreció en francés ",
 
 
+        "title_en": "Webinaire: Mobiliser des ressources pour la programmation et la coordination VBG et la réponse COVID-19",
+        "description_en": "L'un des six webinaires d'une série organisée par le domaine de responsabilité VBG dans le cadre de l'approche du cluster du Comité permanent interinstitutions. L'AoR VBG travaille collectivement pour améliorer l'efficacité et la responsabilité de la réponse humanitaire pour la prévention, l'atténuation des risques et riposte à toutes les formes de violence sexiste, pour garantir que l'agence et les capacités des survivantes soient reconnues et renforcées et que les efforts de prévention primaire soient efficacement utilisés pour lutter contre les inégalités sous-jacentes entre les sexes. tout au long de la série. Chaque webinaire était également offert en français. ",
         "link": "https://drive.google.com/file/d/1EPEvM84FkqudVNNGhIyIDmJZsxzk1evE/view",
         "category": "gender-based violence",
         "country": "Global",
@@ -7373,6 +7405,8 @@ online_data = [
         "description_es": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de GBV bajo el enfoque de clúster del Comité Permanente Interinstitucional. El GBV AoR trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de las sobrevivientes sean reconocidas y reforzadas y que los esfuerzos de prevención primaria se empleen de manera efectiva para abordar la desigualdad de género subyacente. a lo largo de la serie. Cada seminario web también se ofreció en francés ",
 
 
+        "title_en": "Webinaire: Adapter la gestion des cas de violence basée sur le genre pendant la réponse COVID-19",
+        "description_en": "L'un des six webinaires d'une série organisée par le domaine de responsabilité VBG dans le cadre de l'approche du cluster du Comité permanent interinstitutions. L'AoR VBG travaille collectivement pour améliorer l'efficacité et la responsabilité de la réponse humanitaire pour la prévention, l'atténuation des risques et riposte à toutes les formes de violence sexiste, pour garantir que l'agence et les capacités des survivantes soient reconnues et renforcées et que les efforts de prévention primaire soient efficacement utilisés pour lutter contre les inégalités sous-jacentes entre les sexes. tout au long de la série. Chaque webinaire était également offert en français. ",
         "link": "https://drive.google.com/file/d/1FaedI6GEzF7rPJGAzUsJKbGp_0YsrnxH/view",
         "category": "gender-based violence",
         "country": "Global",
@@ -7386,6 +7420,8 @@ online_data = [
         "description_es": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de GBV bajo el enfoque de clúster del Comité Permanente Interinstitucional. El GBV AoR trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de las sobrevivientes sean reconocidas y reforzadas y que los esfuerzos de prevención primaria se empleen de manera efectiva para abordar la desigualdad de género subyacente. a lo largo de la serie. Cada seminario web también se ofreció en francés ",
 
 
+        "title_en": "Webinaire: Pratiques émergentes de localisation des interventions VBG dans la réponse COVID-19",
+        "description_en": "L'un des six webinaires d'une série organisée par le domaine de responsabilité VBG dans le cadre de l'approche du cluster du Comité permanent interinstitutions. L'AoR VBG travaille collectivement pour améliorer l'efficacité et la responsabilité de la réponse humanitaire pour la prévention, l'atténuation des risques et riposte à toutes les formes de violence sexiste, pour garantir que l'agence et les capacités des survivantes soient reconnues et renforcées et que les efforts de prévention primaire soient efficacement utilisés pour lutter contre les inégalités sous-jacentes entre les sexes. tout au long de la série. Chaque webinaire était également offert en français. ",
         "link": "https://drive.google.com/file/d/1H9CSRHReeYolUiHrXmp2v2OACIHoY95nz1/view",
         "category": "gender-based violence",
         "country": "Global",
@@ -7399,6 +7435,8 @@ online_data = [
         "description_es": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de Violencia de Género (AoR GBV) como parte del enfoque grupal del Comité Permanente entre Agencias. El GBV trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de los sobrevivientes sean reconocidos y fortalecidos, y que Los esfuerzos de prevención primaria se utilizan efectivamente para abordar las desigualdades de género subyacentes. El equipo de coordinación de VG de AoR y los oradores invitados compartieron su experiencia y mejores prácticas a lo largo de la serie ",
 
 
+        "title_en": "Webinaire: L’impact du COVID-19 sur les Femmes et les Filles",
+        "description_en": "L'un des six webinaires d'une série hébergés par la Zone de Responsabilité de la Violence liée au Sexe (AoR GBV) dans le cadre de l'approche par groupes du Comité permanent interorganisations. Le GBV travaille collectivement pour améliorer l'efficacité et la responsabilité de la réponse humanitaire pour la prévention, l'atténuation des risques et la réponse à toutes les formes de violence sexiste, afin de garantir que l'agence et la capacité des survivants soient reconnues et renforcées, et que les efforts de prévention primaire sont efficacement utilisés pour s'attaquer aux inégalités sous-jacentes entre les sexes. L'équipe de coordination de l'AoR sur la violence liée au sexe et les orateurs invités ont partagé leur expertise et leurs meilleures pratiques tout au long de la série.",
         "link": "https://drive.google.com/file/d/19O-R-C9hydUoIhvhi9FY_z-dHGeVYvA9/view",
         "category": "gender-based violence, healthcare, gendered health impacts",
         "country": "Global",
@@ -7412,6 +7450,8 @@ online_data = [
         "description_es": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de Violencia de Género (AoR GBV) como parte del enfoque grupal del Comité Permanente entre Agencias. El GBV trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de los sobrevivientes sean reconocidos y fortalecidos, y que Los esfuerzos de prevención primaria se utilizan efectivamente para abordar las desigualdades de género subyacentes. El equipo de coordinación de VG de AoR y los oradores invitados compartieron su experiencia y mejores prácticas a lo largo de la serie ",
 
 
+        "title_en": "Webinaire: évaluations à distance de la VBG et transition vers la prestation de services à distance - GBV AoR",
+        "description_en": "L'un des six webinaires d'une série hébergés par la Zone de Responsabilité de la Violence liée au Sexe (AoR GBV) dans le cadre de l'approche par groupes du Comité permanent interorganisations. Le GBV travaille collectivement pour améliorer l'efficacité et la responsabilité de la réponse humanitaire pour la prévention, l'atténuation des risques et la réponse à toutes les formes de violence sexiste, afin de garantir que l'agence et la capacité des survivants soient reconnues et renforcées, et que les efforts de prévention primaire sont efficacement utilisés pour s'attaquer aux inégalités sous-jacentes entre les sexes. L'équipe de coordination de l'AoR sur la violence liée au sexe et les orateurs invités ont partagé leur expertise et leurs meilleures pratiques tout au long de la série.",
         "link": "https://drive.google.com/file/d/1BM6_k-aZ94U9MU6ohJk1UmgcR-iR2QID/view",
         "category": "gender-based violence",
         "country": "Global",
@@ -7425,6 +7465,8 @@ online_data = [
         "description_es": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de Violencia de Género (AoR GBV) como parte del enfoque grupal del Comité Permanente entre Agencias. El GBV trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de los sobrevivientes sean reconocidos y fortalecidos, y que Los esfuerzos de prevención primaria se utilizan de manera efectiva para abordar las desigualdades de género subyacentes.El equipo de coordinación de VG de AoR y los oradores invitados compartieron su experiencia y mejores prácticas a lo largo de a lo largo de la serie ",
 
 
+        "title_en": "Webinaire: VBG et Covid-19: Comment Assurer la Continuite des Services Essentiels de Sante pour les Survivant(e)s des Violences Basees sur le Genre Pendant la Crise a Covid-19",
+        "description_en": "L'un des six webinaires d'une série hébergés par la Zone de Responsabilité de la Violence liée au Sexe (AoR GBV) dans le cadre de l'approche par groupes du Comité permanent interorganisations. Le GBV travaille collectivement pour améliorer l'efficacité et la responsabilité de la réponse humanitaire pour la prévention, l'atténuation des risques et la réponse à toutes les formes de violence sexiste, afin de garantir que l'agence et la capacité des survivants soient reconnues et renforcées, et que les efforts de prévention primaire sont efficacement utilisés pour s'attaquer aux inégalités sous-jacentes entre les sexes. L'équipe de coordination de l'AoR sur la violence liée au sexe et les orateurs invités ont partagé leur expertise et leurs meilleures pratiques tout au long de la série.",
         "link": "https://drive.google.com/file/d/1Cb6kQKkYUFbawS9UfA7Z1kSFrmcgfzQW/view",
         "category": "gender-based violence, healthcare, gendered health impacts",
         "country": "Global",
@@ -7438,6 +7480,8 @@ online_data = [
         "description_es": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de Violencia de Género (AoR GBV) como parte del enfoque grupal del Comité Permanente entre Agencias. El GBV trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de los sobrevivientes sean reconocidos y fortalecidos, y que Los esfuerzos de prevención primaria se utilizan de manera efectiva para abordar las desigualdades de género subyacentes.El equipo de coordinación de VG de AoR y los oradores invitados compartieron su experiencia y mejores prácticas a lo largo de a lo largo de la serie ",
 
 
+        "title_en": "Webinaire: Mobilisation des Ressources pour les Programmes de Lutte Contre les VBG Coordination dans la Reponse Humanitaire liée au COVID-19",
+        "description_en": "L'un des six webinaires d'une série hébergés par la Zone de Responsabilité de la Violence liée au Sexe (AoR GBV) dans le cadre de l'approche par groupes du Comité permanent interorganisations. Le GBV travaille collectivement pour améliorer l'efficacité et la responsabilité de la réponse humanitaire pour la prévention, l'atténuation des risques et la réponse à toutes les formes de violence sexiste, afin de garantir que l'agence et la capacité des survivants soient reconnues et renforcées, et que les efforts de prévention primaire sont efficacement utilisés pour s'attaquer aux inégalités sous-jacentes entre les sexes. L'équipe de coordination de l'AoR sur la violence liée au sexe et les orateurs invités ont partagé leur expertise et leurs meilleures pratiques tout au long de la série.",
         "link": "https://drive.google.com/file/d/1VTlu6ODlrPrZdCnXFrtq_uZlKe80tug2/view",
         "category": "gender-based violence",
         "country": "Global",
@@ -7451,6 +7495,8 @@ online_data = [
         "description_es": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de Violencia de Género (AoR GBV) como parte del enfoque grupal del Comité Permanente entre Agencias. El GBV trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de los sobrevivientes sean reconocidos y fortalecidos, y que Los esfuerzos de prevención primaria se utilizan efectivamente para abordar las desigualdades de género subyacentes. El equipo de coordinación de VG de AoR y los oradores invitados compartieron su experiencia y mejores prácticas a lo largo de la serie ",
 
 
+        "title_en": "Webinaire: COVID-19: comment adapter la gestion des cas de VBG?",
+        "description_en": "L'un des six webinaires d'une série hébergés par la Zone de Responsabilité de la Violence liée au Sexe (AoR GBV) dans le cadre de l'approche par groupes du Comité permanent interorganisations. Le GBV travaille collectivement pour améliorer l'efficacité et la responsabilité de la réponse humanitaire pour la prévention, l'atténuation des risques et la réponse à toutes les formes de violence sexiste, afin de garantir que l'agence et la capacité des survivants soient reconnues et renforcées, et que les efforts de prévention primaire sont efficacement utilisés pour s'attaquer aux inégalités sous-jacentes entre les sexes. L'équipe de coordination de l'AoR sur la violence liée au sexe et les orateurs invités ont partagé leur expertise et leurs meilleures pratiques tout au long de la série.",
         "link": "https://drive.google.com/file/d/1Fln-IgsSa942n04wRery-L8qD6hTlaborFe/view",
         "category": "gender-based violence",
         "country": "Global",
@@ -7464,6 +7510,8 @@ online_data = [
         "description_es": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de Violencia de Género (AoR GBV) como parte del enfoque grupal del Comité Permanente entre Agencias. El GBV trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de los sobrevivientes sean reconocidos y fortalecidos, y que Los esfuerzos de prevención primaria se utilizan efectivamente para abordar las desigualdades de género subyacentes. El equipo de coordinación de VG de AoR y los oradores invitados compartieron su experiencia y mejores prácticas a lo largo de la serie ",
 
 
+        "title_en": "Webinaire: La Lutte Contre les VBG pendant la Réponse du COVID-19: Pratiques Prometteuses Nationales",
+        "description_en": "L'un des six webinaires d'une série hébergés par la Zone de Responsabilité de la Violence liée au Sexe (AoR GBV) dans le cadre de l'approche par groupes du Comité permanent interorganisations. Le GBV travaille collectivement pour améliorer l'efficacité et la responsabilité de la réponse humanitaire pour la prévention, l'atténuation des risques et la réponse à toutes les formes de violence sexiste, afin de garantir que l'agence et la capacité des survivants soient reconnues et renforcées, et que les efforts de prévention primaire sont efficacement utilisés pour s'attaquer aux inégalités sous-jacentes entre les sexes. L'équipe de coordination de l'AoR sur la violence liée au sexe et les orateurs invités ont partagé leur expertise et leurs meilleures pratiques tout au long de la série.",
         "link": "https://drive.google.com/file/d/1HJDRcM2s4Y4UW0g0lavjVRyAuGo4fhbK/view",
         "category": "gender-based violence",
         "country": "Global",
@@ -7477,6 +7525,8 @@ online_data = [
         "description_es": "Organizado por la African Girls Empowerment Network (AGE Network), que trabaja para promover la igualdad de género a través de la educación de las niñas, terminar con el matrimonio infantil, promover la buena salud y el bienestar de las mujeres y empoderar a las sobrevivientes de violaciones, madres adolescentes, víctimas de mutilación genital femenina y mujeres y niñas económicamente desfavorecidas en África, este seminario web contó con los panelistas Dr. Chris N Ugwu (Sociedad para la Mejora de la Gente Rural); Sra. Priscilla Ingbian (Iniciativa de Apoyo y Empoderamiento Comunitario de Salud), Sr. Kolawole Olatosimi (Fundación para la Protección de Niños y Jóvenes), Margaret Onah (Iniciativa de Desarrollo Safe Haven) y Olori Bimbo Kolawole (AGE) ",
 
 
+        "title_en": "Webinaire: Covid-19: Protection des filles et violence basée sur le genre pendant le verrouillage au Nigeria",
+        "description_en": "Hébergé par l'African Girls Empowerment Network (AGE Network), qui œuvre pour faire progresser l'égalité des sexes par l'éducation des filles, mettre fin au mariage des enfants, promouvoir la bonne santé et le bien-être des femmes et autonomiser les victimes de viol, les mères adolescentes, victimes de mutilations génitales féminines et femmes et filles économiquement défavorisées en Afrique, ce webinaire a présenté les panélistes Dr. Chris N Ugwu (Society for the Improvement of Rural People); Mme Priscilla Ingbian (Community Health Support & Empowerment Initiative), Mr.Kolawole Olatosimi (Fondation pour la protection des enfants et des jeunes), Margaret Onah (Safe Haven Development Initiative) et Olori Bimbo Kolawole (AGE). ",
         "link": "https://www.youtube.com/playlist?list=PL5C1JNjZoJkltDnVdciGd-lUTKMFCjCo-",
         "category": "gender-based violence",
         "country": "Nigeria",
@@ -7490,6 +7540,8 @@ online_data = [
         "description_es": "Organizado por el Fondo Mundial para las Mujeres, este seminario web abordó cómo los movimientos de justicia de género están respondiendo a esta crisis. Como COVID-19 ha puesto al descubierto las desigualdades sistémicas, la solidaridad feminista, la construcción de movimientos y la curación de la justicia son necesarias. Leila Hessini, moderada por Maria Al Abdeh, Mujeres Ahora, Siria; Rima Majed, Universidad Americana de Beirut, Líbano; Yanar Mohammed, Organización de La libertad de las mujeres en Iraq; Fahima Hashim, Centro de recursos para mujeres de Salmmah en Sudán; y Lina Abou Habib, Colectivo para la investigación y la capacitación en acciones de desarrollo, Líbano ",
 
 
+        "title_en": "Webinaire: Féministes menant des révolutions: Partage entre mouvements",
+        "description_en": "Animé par le Fonds mondial pour les femmes, ce webinaire a traité de la manière dont les mouvements pour la justice de genre réagissent à cette crise. Comme COVID-19 a mis à nu les inégalités systémiques, la solidarité féministe, la construction de mouvements et la guérison de la justice sont nécessaires. La discussion sur l'apprentissage transversal, quelles tactiques fonctionnent et où, et la narration de la justice de genre pour le changement a été animée par Leila Hessini, avec Maria Al Abdeh, Women Now, Syrie; Rima Majed, Université américaine de Beyrouth, Liban; Yanar Mohammed, Organisation of La liberté des femmes en Irak; Fahima Hashim, Centre de ressources pour les femmes de Salmmah au Soudan; et Lina Abou Habib, Collectif pour la recherche et la formation sur les actions de développement, Liban. ",
         "link": "https://globalfundforwomen.zoom.us/rec/play/7pZ_Ju6grz83HNyRtgSDCvRxW424J6Os0CgYrqVYzUu2AXdXYQambrcRM-XgbkrdZZvDCEiIBXGtk8PN?continueMode=true&_x_zm_rtaid=y3x16hi6RueX-sd392XBCg.1588108205113.4528629bb8d6bbc571d3546a871741b6&_x_zm_rhtaid=132",
         "category": "SRHR, healthcare, education, economy, childcare, labor, gendered health impacts, gender-based violence",
         "country": "Middle East and North Africa",
@@ -7503,6 +7555,8 @@ online_data = [
         "description_es": "Organizado por PLAAS con Women on Farms, Nkuzi Development Association y CSAAWU",
 
 
+        "title_en": "Webinaire: L'effet de Covid-19 sur les travailleurs agricoles sud-africains",
+        "description_en": "Hébergé par PLAAS avec Women on Farms, Nkuzi development Association et CSAAWU",
         "link": "https://www.plaas.org.za/plaas-webinar-covid-19s-effect-on-south-african-farm-workers/",
         "category": "labor, food",
         "country": "South Africa",
@@ -7516,6 +7570,8 @@ online_data = [
         "description_es": "Únase a este seminario web de la IRG para escuchar a un grupo diverso de oradores que representan a comunidades vulnerables en primera línea y agencias de ayuda internacional, junto con la codirectora de la Comisión Global de Adaptación y directora de la Práctica de Resiliencia Climática de la IRG, Christina Chan",
 
 
+        "title_en": "Webinaire: Reconstruire en mieux: la résilience des populations vulnérables et COVID-19",
+        "description_en": "Rejoignez ce webinaire de l'IRG pour entendre un groupe diversifié de conférenciers représentant les communautés vulnérables en première ligne et les agences d'aide internationales, ainsi que la codirectrice de la Commission mondiale sur l'adaptation et la directrice de la pratique de la résilience climatique de l'IRG Christina Chan.",
         "link": "https://www.wri.org/events/2020/05/webinar-build-back-better-resilience-vulnerable-populations",
         "category": "economy, democratic institutions",
         "country": "Global",
@@ -7529,6 +7585,8 @@ online_data = [
         "description_es": "¿Cuáles son las repercusiones sociales y económicas de COVID-19 para el Sur global? Un seminario web presentado por el Diálogo de los Pueblos. El Diálogo de los Pueblos es una red de formaciones del sur de África y América Latina que promueven alternativas emancipadoras",
 
 
+        "title_en": "COVID-19 à l'ère de l'extractivisme et de l'économie des soins - Voix du Sud",
+        "description_en": "Quelles sont les répercussions sociales et économiques de COVID-19 pour les pays du Sud? Un webinaire présenté par le Peoples Dialogue. Le Peoples Dialogue est un réseau de formations d'Afrique australe et d'Amérique latine promouvant des alternatives émancipatrices.",
         "link": "https://www.youtube.com/watch?v=7TxlwD8_nR4&t=33s",
         "category": "punitive, digital surveillance, economy, childcare, gendered health impacts, misinformation",
         "country": "Global",
@@ -7542,6 +7600,8 @@ online_data = [
         "description_es": "Únase a la aclamada autora para debatir este ensayo y sus escritos recientes sobre la amenaza existencial planteada a la democracia india por un nacionalismo hindú envalentonado, las nuevas leyes de ciudadanía de la India que discriminan a los musulmanes y las comunidades marginadas y podrían crear una crisis de apatridia en una escala previamente desconocida, y el significado de libertad en un mundo de creciente autoritarismo ",
 
 
+        "title_en": "Arundhati Roy: 'La pandémie est un portail' ",
+        "description_en": "Rejoignez l'auteure acclamée pour discuter de cet essai et de ses écrits récents sur la menace existentielle posée à la démocratie indienne par un nationalisme hindou enhardi, les nouvelles lois indiennes sur la citoyenneté qui discriminent les musulmans et les communautés marginalisées et pourraient créer une crise d'apatridie sur une échelle jusque-là inconnue et le sens de la liberté dans un monde d'autoritarisme croissant. ",
         "link": "https://www.haymarketbooks.org/blogs/130-arundhati-roy-the-pandemic-is-a-portal",
         "category": "punitive, digital surveillance, economy, childcare, gendered health impacts, misinformation",
         "country": "Global",
@@ -7555,6 +7615,8 @@ online_data = [
         "description_es": "¿Cómo podemos lograr el encarcelamiento que se necesita con urgencia para los millones de personas encerradas en cárceles, prisiones y centros de detención de inmigrantes?",
 
 
+        "title_en": "Webinaire: Covid-19, Décarcération et Abolition",
+        "description_en": "Comment pouvons-nous parvenir à la décarcération urgente des millions de personnes mises en cage dans les prisons, les prisons et les centres de détention pour immigrants?",
         "link": "https://www.youtube.com/watch?v=lyTOspzD1ZQ",
         "category": "punitive, economy",
         "country": "United States, Canada, Australia",
