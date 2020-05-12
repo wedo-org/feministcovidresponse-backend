@@ -4159,6 +4159,8 @@ response_data = [
         "description_es": "Breve descripción del gobierno de Mariana del Norte sobre sus medidas para proteger contra COVID-19",
 
 
+        "title_en": "Mesures de préparation du CHCC en cours pour la pandémie de COVID-19 (4/6/20)",
+        "description_en": "Bref aperçu du gouvernement de la Marianne du Nord sur ses mesures de protection contre le COVID-19",
         "link": "https://www.chcc.gov.mp/DocumentFiles/coronavirusinformation_142_1454553753.pdf",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -4173,6 +4175,8 @@ response_data = [
         "description_es": "Detalla cómo la Ley US CARES brinda beneficios directos para CMNI",
 
 
+        "title_en": "Marianas obtient l'aide de CARES Act",
+        "description_en": "Détaille comment l'US CARES Act offre des avantages directs au CMNI",
         "link": "https://sablan.house.gov/marianas-gets-cares-act-aid",
         "progressive": "progressive",
         "category": "education, childcare, labor, food",
@@ -4183,12 +4187,12 @@ response_data = [
     {
         "title_en": "President Panuelo Meets with the Nation’s Governors to Discuss Social Distancing",
         "description_en": "Briefly outlines response to unemployment, economic stimulus, testing capacities, ventilators, and forthcoming social distancing measures",
-
-
         "title_es": "El presidente Panuelo se reúne con los gobernadores de la nación para discutir el distanciamiento social",
         "description_es": "Describe brevemente la respuesta al desempleo, el estímulo económico, las capacidades de prueba, los ventiladores y las próximas medidas de distanciamiento social",
 
 
+        "title_en": "Le président Panuelo rencontre les gouverneurs de la nation pour discuter de l'éloignement social",
+        "description_en": "Décrit brièvement la réponse au chômage, à la relance économique, aux capacités de test, aux ventilateurs et aux mesures de distanciation sociale à venir",
         "link": "https://gov.fm/index.php/component/content/article/35-pio-articles/news-and-updates/304-president-panuelo-meets-with-the-nation-s-governors-to-discuss-social-distancing-economic-stimulus-the-covid-19-response-framework-more?Itemid=177",
         "progressive": "need to watch",
         "category": "healthcare, economy, labor",
@@ -4202,6 +4206,8 @@ response_data = [
         "description_es": "Detalles de EPP, financiación, pruebas y asistencia de preparación para emergencias de EE. UU. a FSIM",
 
 
+        "title_en": "Assistance américaine aux États fédérés de Micronésie sur COVID-19",
+        "description_en": "Détails de l'EPI, du financement, des tests et de l'assistance de préparation aux situations d'urgence des États-Unis à la FSIM",
         "link": "https://fm.usembassy.gov/u-s-assistance-to-federated-states-of-micronesia-on-covid-19/",
         "progressive": "progressive",
         "category": "healthcare",
@@ -4215,6 +4221,8 @@ response_data = [
         "description_es": "Describe las medidas preventivas que incluyen restricciones de viaje, puntos de control de salud y restricciones de reunión social en Fiji",
 
 
+        "title_en": "Coronavirus Information Fiji",
+        "description_en": "Décrit les mesures préventives, y compris les restrictions de voyage, les points de contrôle de santé et les restrictions de rassemblement social aux Fidji",
         "link": "https://www.fiji.travel/covid-19",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -4228,6 +4236,8 @@ response_data = [
         "description_es": "Difusión de información errónea sobre la propagación de COVID-19 y curas en Fiji",
 
 
+        "title_en": "La peur et la désinformation deviennent virales aux Fidji",
+        "description_en": "Diffusion d'informations erronées sur la propagation du COVID-19 et les traitements aux Fidji",
         "link": "https://www.newsroom.co.nz/2020/04/17/1131565/fear-and-misinformation-go-viral-in-fiji",
         "progressive": "regressive",
         "category": "misinformation",
@@ -4241,6 +4251,8 @@ response_data = [
         "description_es": "Detalla las restricciones de viaje y las prohibiciones establecidas como medidas preventivas",
 
 
+        "title_en": "Comment la Polynésie française se protège contre Covid-19",
+        "description_en": "Détaille les restrictions et interdictions de voyager mises en place à titre préventif",
         "link": "https://www.forbes.com/sites/lauriewerner/2020/02/28/how-french-polynesia-is-protecting-against-covid-19/#7f09dd25c0bd",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -4254,6 +4266,8 @@ response_data = [
         "description_es": "Detalles de la prohibición de viaje temporal para todos los no residentes de la Polinesia Francesa y orientación de repatriación",
 
 
+        "title_en": "Coronavirus COVID-19 - Interdiction de voyager en Polynésie française",
+        "description_en": "Détails de l'interdiction temporaire de voyager pour tous les non-résidents de la Polynésie française et conseils de rapatriement",
         "link": "https://tahititourisme.com/en-us/covid-19/",
         "progressive": "need to watch",
         "category": "economy",
@@ -4267,6 +4281,8 @@ response_data = [
         "description_es": "Nauru emitió una declaración conjunta con otros 9 países para mantener el comercio a pesar de COVID-19",
 
 
+        "title_en": "Nauru rejoint le pacte multi-pays pour maintenir les chaînes d'approvisionnement ouvertes",
+        "description_en": "Nauru a publié une déclaration conjointe avec 9 autres pays pour maintenir le commerce malgré COVID-19",
         "link": "https://www.rnz.co.nz/international/pacific-news/414999/nauru-joins-multi-country-pact-to-keep-supply-chains-open-despite-covid-19-pandemic",
         "progressive": "need to watch",
         "category": "economy",
@@ -4280,6 +4296,8 @@ response_data = [
         "description_es": "Se permite nuevamente la libre circulación y comenzarán a abrir negocios, se recomienda el distanciamiento social aún",
 
 
+        "title_en": "La Nouvelle-Calédonie assouplit les restrictions de Covid 19 à partir de lundi",
+        "description_en": "La libre circulation est de nouveau autorisée et ils commenceront à ouvrir des entreprises, la distanciation sociale est recommandée",
         "link": "https://www.rnz.co.nz/international/pacific-news/414480/new-caledonia-eases-covid-19-restrictions-from-monday",
         "progressive": "need to watch",
         "category": "economy",
@@ -4293,6 +4311,8 @@ response_data = [
         "description_es": "Discute el bloqueo de la frontera de Nueva Zelanda, su estricta política de aislamiento y su impacto económico",
 
 
+        "title_en": "La stratégie d'élimination de la Nouvelle-Zélande est peu susceptible de fonctionner ailleurs",
+        "description_en": "Discute du verrouillage des frontières de la Nouvelle-Zélande, de sa politique d'isolement stricte et de son impact économique",
         "link": "https://time.com/5824042/new-zealand-coronavirus-elimination/",
         "progressive": "progressive",
         "category": "education, economy, labor",
@@ -4306,6 +4326,8 @@ response_data = [
         "description_es": "Discute diferentes respuestas en 6 países y destaca las disparidades de raza, clase y género",
 
 
+        "title_en": "Débats sur la Suède et la Nouvelle-Zélande, dont les politiques en cas de pandémie sont opposées",
+        "description_en": "Discute des réponses différentes dans 6 pays et met en évidence la race, la classe et le sexe",
         "link": "https://thetyee.ca/News/2020/04/20/Sweden-New-Zealand-Pandemic-Policies/",
         "progressive": "progressive (NZL, KOR, DEU), regressive (BRA, SWE, SAF)",
         "category": "healthcare, food, gendered health impacts, race",
@@ -4319,6 +4341,8 @@ response_data = [
         "description_es": "Descripción general de las medidas de protección y la política de salud que se toman en el país en su informe diario",
 
 
+        "title_en": "Coronavirus Disease 2019 (COVID-19) Situation Report",
+        "description_en": "Aperçu des mesures de protection et de la politique de santé prises dans le pays dans leur rapport quotidien",
         "link": "http://www.palauhealth.org/2019nCoV_SitRep/MOH-COVID-19%20Daily%20Update.pdf",
         "progressive": "progressive",
         "category": "healthcare, education",
@@ -4332,6 +4356,8 @@ response_data = [
         "description_es": "El gobierno inculcará un toque de queda de fin de semana durante la Etapa 1 desde el viernes por la noche hasta el domingo por la mañana",
 
 
+        "title_en": "Les Îles Salomon prolongent l'état d'urgence de 4 mois dans le cadre du COVID-19",
+        "description_en": "Le gouvernement instaure un couvre-feu le week-end pendant l'étape 1 du vendredi soir au dimanche matin",
         "link": "http://www.xinhuanet.com/english/2020-04/09/c_138961225.htm",
         "progressive": "regressive",
         "category": "punitive",
@@ -4345,6 +4371,8 @@ response_data = [
         "description_es": "El gobierno amenaza a los funcionarios públicos que serán despedidos si critican la respuesta COVID-19 del gobernador",
 
 
+        "title_en": "Les responsables de Salomon risquent d'être licenciés s'ils critiquent la réponse de Covid-19",
+        "description_en": "Le gouvernement menace de licencier des fonctionnaires s'ils critiquent la réponse COVID-19 du gouvernement",
         "link": "https://www.rnz.co.nz/international/pacific-news/413067/solomons-officials-face-sack-if-critical-of-covid-19-response",
         "progressive": "regressive",
         "category": "punitive",
@@ -4358,6 +4386,8 @@ response_data = [
         "description_es": "Página de inicio para todas las órdenes y recursos gubernamentales actuales relacionados con COVID-19",
 
 
+        "title_en": "En savoir plus sur le coronavirus",
+        "description_en": "Page d'accueil de tous les ordres et ressources gouvernementaux en cours concernant COVID-19",
         "link": "https://solomons.gov.sb/ministry-of-health-medical-services/essential-services/learn-about-coronavirus/",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -4371,6 +4401,8 @@ response_data = [
         "description_es": "Analiza la ayuda y describe brevemente los impactos de las respuestas sobre la educación, la economía y la capacidad de atención médica",
 
 
+        "title_en": "La BAD renforce la réponse de Covid-19 aux Tonga et aux Samoa",
+        "description_en": "Discute de l'aide et décrit brièvement les effets des réponses sur l'éducation, l'économie et la capacité des soins de santé",
         "link": "https://www.rnz.co.nz/international/pacific-news/414679/adb-boosts-covid-19-response-in-tonga-and-samoa",
         "progressive": "progressive",
         "category": "healthcare, education, economy",
@@ -4384,6 +4416,8 @@ response_data = [
         "description_es": "Discute cómo el reciente ciclón tropical ha impactado la respuesta COVID-19",
 
 
+        "title_en": "Cyclone Harold et coronavirus: les îles du Pacifique se battent sur deux fronts",
+        "description_en": "Discute de l'impact du récent cyclone tropical sur la réponse du COVID-19",
         "link": "https://www.bbc.com/news/world-asia-52268119",
         "progressive": "regressive",
         "category": "healthcare, economy",
@@ -4397,6 +4431,8 @@ response_data = [
         "description_es": "El gobierno de Tuvalu se hace eco de la importancia de abordar la violencia de género en la respuesta COVID 19",
 
 
+        "title_en": "Tuvalu soutient l'appel du Secrétaire général sur la violence sexiste et COVID-19",
+        "description_en": "Le gouvernement de Tuvalu fait écho à l'importance de lutter contre la violence sexiste dans la réponse à COVID 19",
         "link": "https://www.un.int/tuvalu/fr/activities/tuvalu-supports-secretary-generals-call-gender-based-violence-and-covid-19",
         "progressive": "progressive",
         "category": "gender-based violence",
@@ -4410,6 +4446,8 @@ response_data = [
         "description_es": "Detalla la respuesta actual y cómo cambiará si llega un caso confirmado",
 
 
+        "title_en": "Comment Tuvalu se protège-t-il contre COVID-19?",
+        "description_en": "Détaille la réponse actuelle et comment elle changera si un cas confirmé arrivait",
         "link": "https://devpolicy.org/how-is-tuvalu-securing-against-covid-19-20200406/",
         "progressive": "need to watch",
         "category": "punitive, healthcare, education, economy, labor, food, misinformation",
@@ -4419,12 +4457,12 @@ response_data = [
     {
         "title_en": "After a Devastating Cyclone, Vanuatu is Refusing Foreign Aid Workers",
         "description_en": "Discussion of government's initial response and how it has been threatened by the hurricane",
-
-
         "title_es": "Después de un devastador ciclón, Vanuatu se niega a los trabajadores de ayuda extranjera",
         "description_es": "Discusión de la respuesta inicial del gobierno y cómo ha sido amenazada por el huracán",
 
 
+        "title_en": "Après un cyclone dévastateur, Vanuatu refuse les travailleurs étrangers",
+        "description_en": "Discussion sur la réponse initiale du gouvernement et comment il a été menacé par l'ouragan",
         "link": "https://time.com/5820382/coronavirus-cyclone-harold-vanuatu/",
         "progressive": "regressive",
         "category": "healthcare, education",
@@ -4438,6 +4476,8 @@ response_data = [
         "description_es": "Explica la amenaza de COVID-19 para el sistema de salud y la economía de Vanuatu y su respuesta actual",
 
 
+        "title_en": "La vie dans l'un des seuls pays sans coronavirus",
+        "description_en": "Explique la menace du COVID-19 pour le système de santé et l'économie de Vanuatu et leur réponse actuelle",
         "link": "https://www.theguardian.com/world/2020/apr/08/if-it-comes-it-will-be-a-disaster-life-in-vanuatu-one-of-the-only-countries-without-coronavirus",
         "progressive": "regressive",
         "category": "healthcare, economy, race",
@@ -4451,6 +4491,8 @@ response_data = [
         "description_es": "Detalla cómo UNICEF ha proporcionado equipos médicos y materiales de comunicación para ayudar a la respuesta COVID-19",
 
 
+        "title_en": "L'ONU aide le Pacifique à se préparer à la pandémie de COVID-19",
+        "description_en": "Détaille comment l'UNICEF a fourni du matériel médical et du matériel de communication pour faciliter la réponse au COVID-19",
         "link": "https://news.un.org/en/story/2020/03/1060622",
         "progressive": "progressive",
         "category": "healthcare, education, misinformation",
@@ -4464,6 +4506,8 @@ response_data = [
         "description_es": "Kiribati Health Champions se ha asociado con el Departamento de Salud Pública para difundir materiales de comunicación",
 
 
+        "title_en": "La sensibilisation au COVID-19 à Kiribati: un partenariat à plusieurs niveaux",
+        "description_en": "Les champions de la santé de Kiribati se sont associés au Département de la santé publique pour diffuser du matériel de communication"
         "link": "https://reliefweb.int/report/kiribati/covid-19-awareness-kiribati-multi-level-partnership",
         "progressive": "progressive",
         "category": "healthcare, misinformation",
@@ -4477,6 +4521,8 @@ response_data = [
         "description_es": "Ayuda a la Isla Marshall para promover medidas preventivas y proporcionar asistencia sanitaria",
 
 
+        "title_en": "Appui de la Banque mondiale à la réponse COVID-19 des Îles Marshall",
+        "description_en": "Aide accordée à l'île Marshall pour promouvoir des mesures préventives et fournir une assistance médicale",
         "link": "https://www.worldbank.org/en/news/press-release/2020/04/20/world-bank-support-for-marshall-islands-covid-19-response",
         "progressive": "progressive",
         "category": "healthcare",
@@ -4490,6 +4536,8 @@ response_data = [
         "description_es": "Detalla las medidas de respuesta tomadas, incluidas las restricciones de viaje, los preparativos de atención médica y el cierre de escuelas",
 
 
+        "title_en": "Garder COVID-19 à distance aux Îles Marshall",
+        "description_en": "Détaille les mesures d'intervention prises, y compris les restrictions de voyage, les préparatifs médicaux et les fermetures d'écoles"
         "link": "https://devpolicy.org/keeping-covid-19-at-bay-in-the-marshall-islands-202004",
         "progressive": "progressive",
         "category": "healthcare, education",
@@ -4503,6 +4551,8 @@ response_data = [
         "description_es": "La recuperación completa no ocurrirá sin incluir las disparidades de género que revelan que las mujeres han sido más afectadas",
 
 
+        "title_en": "Qu'est-ce qui manque à la gestion de COVID-19? Femmes.",
+        "description_en": "Le rétablissement complet ne se fera pas sans inclure les disparités entre les sexes qui révèlent que les femmes ont été plus durement touchées",
         "link": "https://blogs.timesofisrael.com/whats-missing-from-covid-19-management-women/",
         "progressive": "need to watch",
         "category": "healthcare, economy, labor",
@@ -4516,6 +4566,8 @@ response_data = [
         "description_es": "La encuesta de ONU Mujeres sobre mujeres libias, que afecta el empleo femenino, los servicios de salud, el informe promueve a las mujeres en la toma de decisiones",
 
 
+        "title_en": "Libye: COVID-19- Rapport de situation n ° 2, au 21 avril 2020",
+        "description_en": "Enquête d'ONU Femmes sur les femmes libyennes - impact sur l'emploi des femmes, les services de santé, le rapport encourage les femmes à prendre des décisions."
         "link": "https://reliefweb.int/report/libya/libya-covid-19-situation-report-no-2-21-april-2020",
         "progressive": "regressive",
         "category": "healthcare, economy",
@@ -4529,6 +4581,8 @@ response_data = [
         "description_es": "La Unión de Mujeres de Libia ha publicado un folleto para sensibilizar sobre COVID-19 a las familias aisladas",
 
 
+        "title_en": "Une organisation de femmes en Libye sensibilise COVID-19",
+        "description_en": "L'Union des femmes libyennes a publié une brochure pour sensibiliser les familles isolées au COVID-19.",
         "link": "http://cmi.fi/2020/04/09/womens-organisation-in-libya-raises-covid-19-awareness/",
         "progressive": "progressive",
         "category": "gendered health impacts",
@@ -4542,6 +4596,8 @@ response_data = [
         "description_es": "Advertir a las mujeres que tienen un mayor riesgo de exposición y violencia doméstica, servicios de salud femeninos disminuidos",
 
 
+        "title_en": "Coronavirus - Libye: impact des mesures de prévention COVID-19 sur les opérations humanitaires",
+        "description_en": "Les femmes sont exposées à un risque accru d'exposition et de violence domestique, et les services de santé des femmes ont diminué.",
         "link": "https://www.africanews.com/2020/04/24/coronavirus-libya-impact-of-covid-19-prevention-measures-on-humanitarian-operations-for-health-sector-in-libya/",
         "progressive": "need to watch",
         "category": "gendered health impacts",
@@ -4555,6 +4611,8 @@ response_data = [
         "description_es": "Túnez, Líbano crea una línea directa las 24 horas para víctimas de abuso doméstico",
 
 
+        "title_en": "HRW: COVID-19, la plus grande crise des droits de l'homme dans la région MENA depuis le printemps arabe",
+        "description_en": "La Tunisie et le Liban créent une permanence téléphonique 24h / 24 pour les victimes de violences domestiques.",
         "link": "https://www.moroccoworldnews.com/2020/04/299826/hrw-covid-19-is-biggest-mena-human-rights-crisis-since-arab-spring/",
         "progressive": "progressive",
         "category": "gender-based violence",
@@ -4568,6 +4626,8 @@ response_data = [
         "description_es": "Iniciativa SALAMA que distribuye kits de higiene a mujeres embarazadas, profesionales de la salud, especialmente parteras y más vulnerables",
 
 
+        "title_en": "Opération SALAMA pour protéger les femmes marocaines vulnérables du COVID-19",
+        "description_en": "Initiative SALAMA distribuant des kits d'hygiène aux femmes enceintes, aux professionnels de la santé, en particulier aux sages-femmes, et aux personnes plus vulnérables.",
         "link": "https://www.moroccoworldnews.com/2020/04/298419/operation-salama-to-protect-vulnerable-moroccan-women-from-covid-19/",
         "progressive": "progressive",
         "category": "gendered health impacts",
@@ -4581,6 +4641,8 @@ response_data = [
         "description_es": "Centro de ayuda y atención a las ONG locales accesible por teléfono, aplicación de teléfono público para seguridad",
 
 
+        "title_en": "Le Maroc co-parraine une initiative internationale pour protéger les femmes et les filles pendant le verrouillage",
+        "description_en": "Centre local d'écoute et d'aide aux ONG locales accessible par téléphone, application téléphonique publique pour la sécurité.",
         "link": "https://northafricapost.com/39935-covid-19-morocco-co-sponsor-of-international-initiative-to-protect-women-girls-during-lockdown.html",
         "progressive": "progressive",
         "category": "gender-based violence",
@@ -4594,6 +4656,8 @@ response_data = [
         "description_es": "Marruecos se une a la cooperación internacional contra la violencia doméstica durante el parto",
 
 
+        "title_en": "Le Maroc s'associe à une initiative de lutte contre la violence domestique",
+        "description_en": "Le Maroc se joint à la coopération internationale contre la violence domestique pendant la détention.",
         "link": "https://www.moroccoworldnews.com/2020/04/299391/morocco-joins-un-initiative-against-domestic-violence-under-lockdown/",
         "progressive": "progressive",
         "category": "gender-based violence",
@@ -4607,6 +4671,8 @@ response_data = [
         "description_es": "Reconoce que las trabajadoras domésticas y las madres pueden enfrentar condiciones financieras más severas",
 
 
+        "title_en": "Quand les soins de santé sont décimés par la guerre",
+        "description_en": "reconnaît que les travailleuses domestiques et les mères de famille peuvent être confrontées à des conditions financières plus difficiles",
         "link": "https://www.hrw.org/news/2020/04/16/when-health-care-decimated-war-covid-19-middle-east-and-north-africa",
         "progressive": "regressive",
         "category": "economy",
@@ -4620,6 +4686,8 @@ response_data = [
         "description_es": "Aumento de la violencia doméstica, el movimiento feminicidios promueve protestas y solidaridad desde el balcón",
 
 
+        "title_en": "Violence domestique à COVID-19: des Palestiniennes meurent",
+        "description_en": "Augmentation de la violence domestique, les féminicides - le mouvement encourage les manifestations et la solidarité depuis le balcon.",
         "link": "https://egyptianstreets.com/2020/04/24/domestic-violence-in-covid-19-lockdown-palestinian-women-are-dying-at-an-alarming-rate/",
         "progressive": "need to watch",
         "category": "gender-based violence",
@@ -4633,6 +4701,8 @@ response_data = [
         "description_es": "Seminario web que reclama un aumento en los matrimonios forzados, y solicita apoyo financiero a las mujeres y niñas de África",
 
 
+        "title_en": "Des militantes font appel à l'UA alors que la violence contre les femmes monte en flèche, Covid-19",
+        "description_en": "Webinaire réclamant une augmentation des mariages forcés et faisant appel à un soutien financier pour les femmes et les filles africaines.",
         "link": "http://www.rfi.fr/en/africa/20200427-activists-appeal-to-au-as-abuse-against-women-girls-soars-under-covid-19",
         "progressive": "need to watch",
         "category": "SRHR, gendered health impacts, gender-based violence",
@@ -4646,6 +4716,8 @@ response_data = [
         "description_es": "Impacto del encierro en los trabajadores informales, derecho a la alimentación, recomendaciones para reducir las dificultades",
 
 
+        "title_en": "Verrouillage du Covid-19 au Zimbabwe: garantir le droit à l'alimentation des pauvres",
+        "description_en": "Impact du verrouillage sur les travailleurs informels, droit à l'alimentation, recommandations pour réduire les difficultés",
         "link": "https://www.plaas.org.za/zimbabwes-covid-19-lockdown-ensuring-the-right-to-food-for-the-poor/",
         "progressive": "regressive",
         "category": "economy, labor, food",
@@ -4659,6 +4731,8 @@ response_data = [
         "description_es": "Impacto del encierro en los trabajadores informales, derecho a la alimentación, recomendaciones para reducir las dificultades",
 
 
+        "title_en": "la nourriture au temps des coronavirus: pourquoi nous devrions avoir très, très peur",
+        "description_en": "Impact du verrouillage sur les travailleurs informels, droit à l'alimentation, recommandations pour réduire les difficultés",
         "link": "https://www.plaas.org.za/food-in-the-time-of-the-coronavirus-why-we-should-be-very-very-afraid/",
         "progressive": "regressive",
         "category": "economy, labor, food",
@@ -4672,6 +4746,8 @@ response_data = [
         "description_es": "Impacto del bloqueo en SRHR para womxn",
 
 
+        "title_en": "SRHR SERVICES LIMITED TANT QUE LA CRISE COVIDE CONTINUE",
+        "description_en": "Impact du verrouillage sur les SDSR pour womxn",
         "link": "https://genderlinks.org.za/news/access-to-srhr-services-limited-as-covid-crisis-continues/",
         "progressive": "regressive",
         "category": "SRHR, gendered health impacts",
@@ -4685,6 +4761,8 @@ response_data = [
         "description_es": "Impacto de covid en los derechos de SSR de womxn",
 
 
+        "title_en": "SADC: SAUVEGARDER LES DROITS DES FEMMES PENDANT L'ARRÊT DE COVID",
+        "description_en": "Impact du covid sur les droits de SSR des femmes",
         "link": "https://genderlinks.org.za/news/safeguarding-womens-rights-during-the-covid-19-shutdown/",
         "progressive": "regressive",
         "category": "SRHR, gendered health impacts",
@@ -4698,6 +4776,8 @@ response_data = [
         "description_es": "portal del gobierno sudafricano en covid-19",
 
 
+        "title_en": "Covid-19 South Africa Resource Portal",
+        "description_en": "Portail du gouvernement sud-africain sur covid-19",
         "link": "https://sacoronavirus.co.za/",
         "category": "gendered health impacts",
         "progressive": "Neutral",
@@ -4711,6 +4791,8 @@ response_data = [
         "description_es": "Desafío y miedo a la regresión en los derechos y servicios de SSR durante la respuesta codiciosa en Malawi",
 
 
+        "title_en": "Covid menace les droits des femmes et des filles",
+        "description_en": "Défi et peur de la régression des droits et services de SSR lors de la réponse convoitée au Malawi",
         "link": "https://www.mwnation.com/covid-19-threatens-women-girls-rights/",
         "progressive": "regressive",
         "category": "SRHR",
@@ -4724,6 +4806,8 @@ response_data = [
         "description_es": "El gobierno de Malawi proporcionará transferencias temporales de efectivo a familias vulnerables",
 
 
+        "title_en": "Le Malawi versera un transfert en espèces aux familles vulnérables",
+        "description_en": "Le gouvernement du Malawi accordera temporairement des transferts en espèces aux familles vulnérables",
         "link": "https://www.mwnation.com/voices-are-ringing-malawi-to-give-vulnerable-families-cash-transfers/",
         "progressive": "need to watch",
         "category": "economy",
@@ -4737,6 +4821,8 @@ response_data = [
         "description_es": "Ayuda brindada por varias ONG",
 
 
+        "title_en": "Des ONG fournissent des secours pendant le verrouillage",
+        "description_en": "Des secours sont fournis par diverses ONG",
         "link": "https://www.investindia.gov.in/bip/resources/list-ngos-providing-relief-during-covid-19",
         "progressive": "progressive",
         "category": "healthcare, childcare, food, gendered health impacts, gender-based violence",
@@ -4750,6 +4836,8 @@ response_data = [
         "description_es": "El gobierno de Madagascar lanza un programa para ayudar a los necesitados dando 100.000 ariarios por hogar",
 
 
+        "title_en": "Une réponse de protection sociale est lancée pour aider les familles pendant Covid-19",
+        "description_en": "Le gouvernement de Madagascar lance un programme pour aider les personnes dans le besoin en donnant 100 000 ariary par ménage",
         "link": "https://www.africanews.com/2020/04/28/coronavirus-in-madagascar-a-social-protection-response-is-launched-in-urban-and-suburban-areas-to-aid-families-and-their-children-during-covid-19-pandemic/",
         "progressive": "progressive",
         "category": "economy",
@@ -4763,6 +4851,8 @@ response_data = [
         "description_es": "La Ley de Producción de Defensa evita que los estadounidenses envíen suministros relacionados con COVID-19 a otros países necesitados",
 
 
+        "title_en": "Les pays des Caraïbes ne peuvent pas obtenir de masques américains, ni de ventillartors pour COVID-19 dans le cadre de la politique de Trump",
+        "description_en": "Defence Production Act empêche les Américains d'expédier des fournitures liées au COVID-19 vers d'autres pays dans le besoin",
         "link": "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article241922071.html",
         "progressive": "regressive",
         "category": "healthcare",
@@ -4776,6 +4866,8 @@ response_data = [
         "description_es": "Malí recibió ayuda financiera para ayudar en medio de una pandemia",
 
 
+        "title_en": "Le FMI approuve un décaissement de 200 millions de dollars au Mali",
+        "description_en": "Le Mali reçoit une aide financière pour aider en période de pandémie",
         "link": "https://www.imf.org/en/News/Articles/2020/04/30/pr20196-mali-imf-executive-board-approves-disbursement-to-mali-to-address-the-covid-19-pandemic",
         "progressive": "progressive",
         "category": "economy",
@@ -4789,6 +4881,8 @@ response_data = [
         "description_es": "El programa de caridad de Mónaco brinda apoyo financiero a la Cruz Roja Monegasca",
 
 
+        "title_en": "L'AS Monaco se mobilise contre COVID-19",
+        "description_en": "Le programme caritatif de Monaco apporte un soutien financier à la Croix-Rouge monégasque",
         "link": "https://www.hellomonaco.com/news/sport/as-monaco-is-mobilizing-against-covid-19/",
         "progressive": "progressive",
         "category": "economy",
@@ -4802,6 +4896,8 @@ response_data = [
         "description_es": "El Banco Mundial aprobó la distribución de $ 14 millones para fortalecer los sistemas de salud pública",
 
 
+        "title_en": "Le Niger recevra 13,95 millions de dollars pour la réponse COVID-19",
+        "description_en": "La Banque mondiale a approuvé la distribution de 14 millions de dollars pour renforcer les systèmes de santé publique",
         "link": "https://reliefweb.int/report/niger/niger-receive-1395-million-covid-19-response",
         "progressive": "progressive",
         "category": "economy",
@@ -4815,6 +4911,8 @@ response_data = [
         "description_es": "La Fundación Lombard Odier brinda apoyo a las personas con discapacidad, que sufren violencia doméstica y hospitales",
 
 
+        "title_en": "Soutenir les populations vulnérables pour lutter contre COVID-19",
+        "description_en": "La Fondation Lombard Odier apporte son soutien aux personnes handicapées, victimes de violence domestique et aux hôpitaux",
         "link": "https://www.lombardodier.com/contents/corporate-news/corporate/2020/april/supporting-vulnerable-population.html",
         "progressive": "progressive",
         "category": "healthcare, economy, disability",
@@ -4828,6 +4926,8 @@ response_data = [
         "description_es": "Los trabajadores diarios en Pakistán sufren las condiciones del encierro de COVID-19",
 
 
+        "title_en": "Les paris quotidiens pakistanais luttent pour survivre au blocage des coronavirus",
+        "description_en": "Les travailleurs journaliers au Pakistan souffrent des conditions du blocage de COVID-19",
         "link": "https://www.aljazeera.com/news/2020/03/pakistan-daily-wagers-struggle-survive-coronavirus-lockdown-200325115143152.html",
         "progressive": "regressive",
         "category": "economy, labor",
@@ -4841,6 +4941,8 @@ response_data = [
         "description_es": "El campamento de mujeres de Taftan en la frontera entre Pakistán e Irán se ha convertido en un epicentro del virus aquí con condiciones terribles",
 
 
+        "title_en": "A l'intérieur du camp de quarantaine pour femmes Taftan",
+        "description_en": "Le camp de Taftan pour femmes à la frontière entre le Pakistan et l'Iran est devenu un épicentre du virus ici dans des conditions épouvantables.",
         "link": "https://www.aljazeera.com/programmes/newsfeed/2020/03/coronavirus-pakistan-taftan-quarantine-camp-200323110255493.html?utm_source=website&utm_medium=article_page&utm_campaign=read_more_links",
         "progressive": "regressive",
         "category": "economy, labor, gendered health impacts",
@@ -4854,6 +4956,8 @@ response_data = [
         "description_es": "Pakistán llega a un acuerdo para mantener abiertas las mezquitas durante el mes sagrado del Ramadán",
 
 
+        "title_en": "Le Pakistan se bat pour imposer la distance sociale pendant le Ramadan",
+        "description_en": "Le Pakistan parvient à un accord pour maintenir les mosquées ouvertes pendant le mois sacré du Ramadan",
         "link": "https://foreignpolicy.com/2020/04/24/pakistan-ramadan-coronavirus-pandemic-mosques/",
         "progressive": "need to watch",
         "category": "economy",
@@ -4863,12 +4967,12 @@ response_data = [
     {
         "title_en": "Pakistan eases aid restrictions as coronavirus cases rise",
         "description_en": "Pakistan has temporarily eased restrictions on national and international aid groups seeking to carry out relief work in the cash-strapped country as it confronts the deadly coronavirus.",
-
-
         "title_es": "Pakistán alivia las restricciones de ayuda a medida que aumentan los casos de coronavirus",
         "description_es": "Pakistán ha aliviado temporalmente las restricciones a los grupos de ayuda nacionales e internacionales que buscan llevar a cabo trabajos de ayuda en el país con problemas de liquidez mientras se enfrenta al mortal coronavirus",
 
 
+        "title_en": "Le Pakistan assouplit les restrictions de l'aide à mesure que les cas de coronavirus augmentent",
+        "description_en": "Le Pakistan a temporairement assoupli les restrictions imposées aux groupes d'aide nationaux et internationaux qui cherchent à effectuer des opérations de secours dans le pays à court d'argent alors qu'il affronte le coronavirus mortel.",
         "link": "https://www.thenewhumanitarian.org/news/2020/04/15/coronavirus-Pakistan-aid-access-NGO-restrictions",
         "progressive": "progressive",
         "category": "healthcare",
@@ -4882,6 +4986,8 @@ response_data = [
         "description_es": "La experiencia de Kuwait del Síndrome Respiratorio del Medio Oriente le ha servido para responder eficazmente a la pandemia actual de Covid-19",
 
 
+        "title_en": "Réponse coordonnée du Koweït à Covid-19",
+        "description_en": "L'expérience du Koweït en ce qui concerne le syndrome respiratoire du Moyen-Orient lui a permis de réagir efficacement à la pandémie actuelle de Covid-19.",
         "link": "https://oxfordbusinessgroup.com/news/kuwait-s-coordinated-response-covid-19",
         "progressive": "progressive",
         "category": "economy, childcare",
@@ -4895,6 +5001,8 @@ response_data = [
         "description_es": "Detalla la respuesta integral de Arabia Saudita, incluida la atención médica, la cobertura salarial y la suspensión de peregrinajes",
 
 
+        "title_en": "Mise à jour des traditions: réponse du coronavirus de l'Arabie saoudite",
+        "description_en": "détaille la réponse globale de l'Arabie saoudite, notamment la fourniture de soins de santé, la couverture salariale et la suspension des pèlerinages"
         "link": "https://carnegieendowment.org/2020/04/07/updating-traditions-saudi-arabia-s-coronavirus-response-pub-81481",
         "progressive": "progressive",
         "category": "punitive, healthcare, economy, labor, misinformation",
@@ -4908,6 +5016,8 @@ response_data = [
         "description_es": "King Salman cubrirá los costos de atención médica relacionados con el coronavirus y el ministerio de agricultura está tomando medidas para impulsar el suministro de alimentos",
 
 
+        "title_en": "Le roi saoudien propose de payer le traitement des patients atteints de coronavirus",
+        "description_en": "Le roi Salman couvrira tous les frais de santé liés aux coronavirus et le ministère de l'Agriculture prend des mesures pour augmenter l'approvisionnement alimentaire",
         "link": "https://www.reuters.com/article/us-health-coronavirus-saudi/saudi-king-offers-to-pay-for-coronavirus-patients-treatment-idUSKBN21H29F",
         "progressive": "progressive",
         "category": "healthcare, food",
@@ -4921,6 +5031,8 @@ response_data = [
         "description_es": "Detalla las medidas punitivas que varios países del Medio Oriente implementaron para detener la propagación de información errónea",
 
 
+        "title_en": "Le Moyen-Orient sévit contre les rumeurs de COVID-19",
+        "description_en": "Détaille les mesures punitives que plusieurs pays du Moyen-Orient ont mises en place pour empêcher la propagation de la désinformation",
         "link": "https://www.arabnews.com/node/1649286/middle-east",
         "progressive": "need to watch",
         "category": "punitive, misinformation",
@@ -4934,6 +5046,8 @@ response_data = [
         "description_es": "Arabia Saudita ha estado deportando inmigrantes a Addis Adaba, lo que podría amenazar la salud pública de Etiopía",
 
 
+        "title_en": "L'ONU dit que les déportations saoudiennes de migrants éthiopiens risquent de propager le coronavirus",
+        "description_en": "L'Arabie saoudite expulse des migrants vers Addis-Abeba, ce qui pourrait menacer la santé publique de l'Éthiopie",
         "link": "https://www.reuters.com/article/us-health-coronavirus-ethiopia-migrants-idUSKCN21V1OT",
         "progressive": "regressive",
         "category": "punitive",
@@ -4947,6 +5061,8 @@ response_data = [
         "description_es": "Las organizaciones de mujeres en Arabia Saudita han proporcionado recursos comunitarios cruciales durante la pandemia",
 
 
+        "title_en": "Comment les organisations de femmes saoudiennes ont relevé le défi du coronavirus",
+        "description_en": "Les organisations de femmes en Arabie saoudite ont fourni des ressources communautaires cruciales pendant la pandémie",
         "link": "https://www.arabnews.com/node/1668611/saudi-arabia",
         "progressive": "progressive",
         "category": "education, childcare, food",
@@ -4960,6 +5076,8 @@ response_data = [
         "description_es": "La IDF ha desempeñado un papel destacado en la ejecución de la respuesta COVID-19 y la vigilancia digital ha aumentado",
 
 
+        "title_en": "La titrisation et la politique dans la réponse israélienne au COVID-19",
+        "description_en": "Tsahal a joué un rôle de premier plan dans l'exécution de la réponse COVID-19 et la surveillance numérique a augmenté",
         "link": "https://www.fpri.org/article/2020/04/securitization-and-politics-in-the-israeli-covid-19-response/",
         "progressive": "regressive",
         "category": "healthcare, gender-based violence",
@@ -4973,6 +5091,8 @@ response_data = [
         "description_es": "Ciertas mujeres judías todavía debían participar en baños rituales, lo que representa un riesgo para la salud durante la pandemia",
 
 
+        "title_en": "Israël estime que les bains rituels des femmes sont essentiels, laissant certains en conflit sur le risque de virus",
+        "description_en": "Certaines femmes juives doivent encore participer à des bains rituels, ce qui pose un risque pour la santé pendant la pandémie",
         "link": "https://www.washingtonpost.com/world/middle_east/israel-deems-womens-ritual-baths-essential-leaving-some-conflicted-over-virus-risk/2020/04/28/a8544dbc-83e8-11ea-81observed response-9690c9881111_story.html",
         "progressive": "regressive",
         "category": "gendered health impacts",
@@ -4986,6 +5106,8 @@ response_data = [
         "description_es": "Israel ha liberado a prisioneros israelíes como protección COVID, pero ha mantenido detenidos a prisioneros palestinos",
 
 
+        "title_en": "Israël doit libérer les prisonniers palestiniens en situation vulnérable, disent les experts de l'ONU",
+        "description_en": "Israël a libéré des prisonniers israéliens à titre de protection COVID, mais a maintenu en détention des prisonniers palestiniens",
         "link": "https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25822&LangID=E",
         "progressive": "regressive",
         "category": "punitive, race",
@@ -4999,6 +5121,8 @@ response_data = [
         "description_es": "Israel está realizando una encuesta nacional de pruebas de anticuerpos para determinar los próximos pasos en su respuesta",
 
 
+        "title_en": "Immunité du troupeau, ou grande 2e vague? Israël veut tester les anticorps",
+        "description_en": "Israël mène une enquête nationale sur les tests d'anticorps pour déterminer les prochaines étapes de sa réponse",
         "link": "https://www.nytimes.com/2020/05/05/world/middleeast/coronavirus-israel-antibody-testing.html",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5012,6 +5136,8 @@ response_data = [
         "description_es": "El gobierno israelí utiliza la vigilancia antiterrorista previamente no revelada y el tesoro de datos para rastrear COVID-19",
 
 
+        "title_en": "Pour suivre le coronavirus, Israël s'apprête à exploiter des données secrètes sur les téléphones portables",
+        "description_en": "Le gouvernement israélien utilise une surveillance antiterroriste et des données non divulguées pour retrouver COVID-19",
         "link": "https://www.nytimes.com/2020/03/16/world/middleeast/israel-coronavirus-cellphone-tracking.html",
         "progressive": "regressive",
         "category": "punitive, digital surveillance",
@@ -5025,6 +5151,8 @@ response_data = [
         "description_es": "Las experiencias de oficina en casa fomentan la reorganización política del trabajo diario y los hombres experimentan cosas nuevas. (GE)",
 
 
+        "title_en": "Abrupter Rückfall in alte Rollenmuster",
+        "description_en": "Les expériences de bureau à domicile encouragent la réorganisation politique du travail quotidien et les hommes vivent de nouvelles choses. (GE)",
         "link": "https://www.gwi-boell.de/de/2020/04/28/abrupter-rueckfall-alte-rollenmuster",
         "progressive": "need to watch",
         "category": "economy, childcare",
@@ -5038,6 +5166,8 @@ response_data = [
         "description_es": "Los que viven en hogares con números pares pueden salir en fechas pares",
 
 
+        "title_en": "L'Andorre ordonnée a un système inhabituel pour assouplir les restrictions de verrouillage",
+        "description_en": "Ceux qui vivent dans des maisons à nombre pair sont autorisés à sortir à des dates paires.",
         "link": "https://www.euronews.com/2020/04/21/orderly-andorra-has-an-unusual-system-for-easing-lockdown-restrictions",
         "progressive": "need to watch",
         "category": "economy",
@@ -5051,6 +5181,8 @@ response_data = [
         "description_es": "Las autoridades de Andorra redujeron las restricciones relacionadas con la enfermedad por coronavirus (COVID-19) a partir del 16 de abril",
 
 
+        "title_en": "Les autorités d'Andorre ont assoupli les restrictions liées au COVID-19",
+        "description_en": "Les autorités d'Andorre ont assoupli les restrictions liées à la maladie à coronavirus (COVID-19) à partir du 16 avril.",
         "link": "https://www.worldaware.com/covid-19-alert-andorra-eases-some-restrictions-april-16",
         "progressive": "need to watch",
         "category": "economy",
@@ -5064,6 +5196,8 @@ response_data = [
         "description_es": "Un periodista ruso fue expulsado de Bielorrusia por un informe que describía la grave situación de coronavirus del país vecino aliado",
 
 
+        "title_en": "Le Bélarus expulse un journaliste russe pour un 'faux' rapport sur le coronavirus: médias",
+        "description_en": "Un journaliste russe a été expulsé du Bélarus à cause d'un rapport décrivant la situation dramatique du coronavirus du pays allié voisin.",
         "link": "https://www.themoscowtimes.com/2020/05/07/belarus-expels-russian-journalist-over-fake-coronavirus-report-media-a70203",
         "progressive": "need to watch",
         "category": "punitive",
@@ -5077,6 +5211,8 @@ response_data = [
         "description_es": "El líder fuerte de Bielorrusia de toda la vida continuará con las celebraciones del Día de la Victoria de la Segunda Guerra Mundial",
 
 
+        "title_en": "Lukashenka Hell-Bent à l'occasion de la célébration du Jour de la Victoire au Bélarus, le coronavirus soit damné",
+        "description_en": "Le chef de file de longue date du Bélarus poursuivra les célébrations du Jour de la Victoire de la Seconde Guerre mondiale.",
         "link": "https://www.rferl.org/a/lukashenka-hell-bent-on-holding-victory-day-celebration-in-belarus-coronavirus-be-damned/30597609.html",
         "progressive": "need to watch",
         "category": "economy",
@@ -5090,6 +5226,8 @@ response_data = [
         "description_es": "Los ciudadanos luchan para contener la propagación en Bielorrusia, que tiene una de las tasas de infección per cápita más altas de Europa",
 
 
+        "title_en": "Biélorussie: une vie normale malgré une épidémie de coronavirus ravageuse",
+        "description_en": "Les citoyens se battent pour contenir la propagation au Bélarus, qui a l'un des taux d'infection par habitant les plus élevés d'Europe.",
         "link": "https://www.aljazeera.com/indepth/features/belarus-life-normal-ravaging-coronavirus-epidemic-200507104734893.html",
         "progressive": "need to watch",
         "category": "economy",
@@ -5103,6 +5241,8 @@ response_data = [
         "description_es": "Los bielorrusos dan un paso al frente mientras el presidente enfrenta la amenaza COVID-19",
 
 
+        "title_en": "Qui le fera, si nous ne le faisons pas? '",
+        "description_en": "Les Biélorusses intensifient leurs efforts alors que le président dénonce la menace COVID-19",
         "link": "https://www.rferl.org/a/belarusians-colunteer-coronavirus-lukashenka-plays-down-covid-19-threat/30594557.html",
         "progressive": "need to watch",
         "category": "economy",
@@ -5115,6 +5255,9 @@ response_data = [
         "title_es": "Barbados acusa a EE. UU. de bloquear los ventiladores para el coronavirus y luego rechaza la acusación",
         "description_es": "El Ministro de Salud, teniente coronel Jeffrey Bostic, dijo que 20 ventiladores comprados por un filántropo habían sido 'incautados' en los Estados Unidos",
 
+
+        "title_en": "La Barbade accuse les États-Unis de bloquer les ventilateurs pour coronavirus, puis revient sur ses allégations",
+        "description_en": "Le lieutenant-colonel Jeffrey Bostic, ministre de la Santé, a déclaré que 20 ventilateurs achetés par un philanthrope avaient été' saisis 'aux États-Unis",
 
         "link": "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article241labor3756.html",
         "progressive": "need to watch",
@@ -5129,6 +5272,8 @@ response_data = [
         "description_es": "Hay pocos lugares donde el impacto económico de la pandemia puede ser tan inmediato",
 
 
+        "title_en": "Les centres de villégiature vides provoquent une longue crise pour les Caraïbes à la suite d'un coronavirus",
+        "description_en": "Il existe peu d'endroits où l'impact économique de la pandémie peut être aussi immédiat.",
         "link": "https://www.reuters.com/article/us-health-coronavirus-caribbean-tourism/empty-resorts-spell-long-crisis-for-caribbean-as-coronavirus-hits-idUSKBN222189",
         "progressive": "need to watch",
         "category": "economy",
@@ -5142,6 +5287,8 @@ response_data = [
         "description_es": "El Gobierno de Barbados ha puesto a todo su personal en cuarentena",
 
 
+        "title_en": "Barbade: plus de 200 employés de l'agence en quarantaine sur les coronavirus",
+        "description_en": "Le gouvernement de la Barbade a mis son personnel en quarantaine.",
         "link": "https://www.stabroeknews.com/2020/04/26/news/regional/barbados/barbados-over-200-staff-of-agency-in-quarantine-over-coronavirus/",
         "progressive": "need to watch",
         "category": "economy",
@@ -5155,6 +5302,8 @@ response_data = [
         "description_es": "Argumenta que los gobiernos del Caribe necesitarán ayuda del sector privado para llenar la brecha turística",
 
 
+        "title_en": "Le tourisme dans les Caraïbes a été décimé par COVID-19.",
+        "description_en": "Affirme que les gouvernements des Caraïbes auront besoin de l'aide du secteur privé pour combler le déficit touristique.",
         "link": "https://www.weforum.org/agenda/2020/05/caribbean-tourism-has-been-decimated-by-covid-19-but-the-private-sector-can-cushion-the-blow/",
         "progressive": "need to watch",
         "category": "economy",
@@ -5168,6 +5317,8 @@ response_data = [
         "description_es": "Hay 23 naciones repartidas en los continentes de América del Norte y del Sur, pero solo Belice aún tiene que informar un caso conocido de COVID-19",
 
 
+        "title_en": "Le Belize est le dernier pays exempt de coronavirus sur le continent américain",
+        "description_en": "Il existe 23 nations réparties sur les continents nord et sud-américain, mais seul le Belize n'a pas encore signalé de cas connu de COVID-19.",
         "link": "https://www.rtmagazine.com/disorders-diseases/infectious-diseases/other-infections/belize-last-coronavirus-free-country-american-continent/",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5181,6 +5332,8 @@ response_data = [
         "description_es": "Las fronteras de Belice ahora están cerradas tanto para los visitantes extranjeros como para los beliceños que desean reingresar al país",
 
 
+        "title_en": "Le Belize ferme ses frontières dans la lutte contre les coronavirus",
+        "description_en": "Les frontières du Belize sont désormais fermées tant aux visiteurs étrangers qu'aux Belize qui souhaitent rentrer dans le pays.",
         "link": "https://www.caribjournal.com/2020/04/06/belize-borders-coronavirus-fight/",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5194,6 +5347,8 @@ response_data = [
         "description_es": "Benin ha establecido una gama de plataformas digitales para ayudar a combatir tanto la propagación de la enfermedad como la información errónea sobre la salud",
 
 
+        "title_en": "Coronavirus - Le Bénin passe à l'offensive numérique contre COVID-19",
+        "description_en": "Le Bénin a mis en place une gamme de plateformes numériques pour lutter contre la propagation de la maladie et la désinformation sanitaire.",
         "link": "https://www.africanews.com/2020/04/10/coronavirus-benin-goes-on-digital-offensive-against-covid-19//",
         "progressive": "need to watch",
         "category": "misinformation",
@@ -5207,6 +5362,8 @@ response_data = [
         "description_es": "Bután prohibirá a los turistas que lleguen durante dos semanas después de confirmar su primer caso del coronavirus",
 
 
+        "title_en": "Le Bhoutan interdit les touristes après le premier cas de coronavirus, le total de l'Inde atteint 31",
+        "description_en": "Le Bhoutan interdira les touristes qui arrivent pendant deux semaines après avoir confirmé son premier cas de coronavirus.",
         "link": "https://www.reuters.com/article/us-health-coronavirus-southasia/bhutan-bans-tourists-after-first-coronavirus-case-india-total-hits-31-idUSKBN20T0QB",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5220,6 +5377,8 @@ response_data = [
         "description_es": "La corrupción, los bloqueos políticos, amenazan los esfuerzos internacionales para ayudar a Bosnia y Herzegovina a combatir el coronavirus",
 
 
+        "title_en": "Évolution politique au milieu de la réponse du coronavirus en Bosnie-Herzégovine",
+        "description_en": "La corruption, les blocages politiques menacent les efforts internationaux pour aider la Bosnie-Herzégovine à surmonter le coronavirus",
         "link": "https://news.un.org/en/story/2020/05/1063432",
         "progressive": "regressive",
         "category": "economy",
@@ -5233,6 +5392,8 @@ response_data = [
         "description_es": "Bosnia informó el miércoles su mayor aumento diario de nuevas infecciones por coronavirus este mes",
 
 
+        "title_en": "La Bosnie signale une forte augmentation des cas de coronavirus après avoir assoupli le verrouillage",
+        "description_en": "La Bosnie a signalé mercredi sa plus forte augmentation quotidienne de nouvelles infections à coronavirus ce mois-ci.",
         "link": "https://www.reuters.com/article/us-health-coronavirus-bosnia-cases/bosnia-reports-sharp-rise-in-coronavirus-cases-after-relaxing-lockdown-idUSKBN22B2DB",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5246,6 +5407,8 @@ response_data = [
         "description_es": "En Botswana, al menos seis rinocerontes han sido saqueados desde que el virus cerró el turismo allí",
 
 
+        "title_en": "Les braconniers tuent plus d'animaux alors qu'un coronavirus écrase le tourisme en Afrique",
+        "description_en": "Au Botswana, au moins six rhinocéros ont été braconnés depuis que le virus y a fermé le tourisme.",
         "link": "https://www.cnbc.com/2020/04/24/coronavirus-poachers-kill-more-animals-as-tourism-to-africa-plummets.html",
         "progressive": "regressive",
         "category": "economy",
@@ -5259,6 +5422,8 @@ response_data = [
         "description_es": "Botswana comenzará un levantamiento gradual de su bloqueo el 8 de mayo",
 
 
+        "title_en": "La levée progressive du verrouillage commence le 8 mai",
+        "description_en": "Le Botswana commencera une levée progressive de son verrouillage à compter du 8 mai",
         "link": "https://www.africanews.com/2020/05/06/botswana-president-in-self-isolation-after-namibia-trip/",
         "progressive": "need to watch",
         "category": "economy",
@@ -5272,6 +5437,8 @@ response_data = [
         "description_es": "Todos los parlamentarios de Botswana, incluido el presidente Mokgweetsi Masisi, serán puestos en cuarentena durante 14 días",
 
 
+        "title_en": "L'ensemble du Parlement du Botswana mis en quarantaine après une alerte au coronavirus",
+        "description_en": "Tous les parlementaires du Botswana, y compris le président Mokgweetsi Masisi, seront mis en quarantaine pendant 14 jours.",
         "link": "https://www.reuters.com/article/us-health-coronavirus-botswana/botswanas-entire-parliament-quarantined-after-coronavirus-scare-idUSKCN21R29I",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5285,6 +5452,8 @@ response_data = [
         "description_es": "Los legisladores de Botwana completaron una cuarentena de dos semanas el jueves después de dar negativo para el nuevo coronavirus",
 
 
+        "title_en": "Le président du Botswana, les législateurs mettent fin à la quarantaine après un test négatif pour le coronavirus",
+        "description_en": "Les législateurs de Botwana ont achevé une quarantaine de deux semaines jeudi après avoir testé négatif pour le nouveau coronavirus.",
         "link": "https://www.voanews.com/covid-19-pandemic/botswana-president-lawmakers-end-quarantine-after-testing-negative-coronavirus",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5298,6 +5467,8 @@ response_data = [
         "description_es": "Brunei ha reportado 115 casos del virus hasta ahora, algunos de los cuales estaban relacionados con una reunión religiosa en Malasia",
 
 
+        "title_en": "Le Brunei signale le premier décès de coronavirus",
+        "description_en": "Le Brunei a signalé 115 cas de virus à ce jour, dont certains étaient liés à un rassemblement religieux en Malaisie.",
         "link": "https://www.reuters.com/article/us-health-coronavirus-brunei/brunei-reports-first-coronavirus-death-idUSKBN21F02K",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5311,6 +5482,8 @@ response_data = [
         "description_es": "El ministro de Salud, Kiril Ananiev, dijo que los viajes hacia y desde Sofía, hogar de unos 2 millones de personas, serán prohibidos hasta nuevo aviso",
 
 
+        "title_en": "La capitale bulgare Sofia a été bouclée pour contenir la propagation du coronavirus",
+        "description_en": "Le ministre de la Santé, Kiril Ananiev, a déclaré que les voyages à destination et en provenance de Sofia, où vivent quelque 2 millions de personnes, seront interdits jusqu'à nouvel ordre.",
         "link": "https://www.reuters.com/article/us-health-coronavirus-bulgaria-sofia/bulgarian-capital-sofia-sealed-off-to-contain-spread-of-coronavirus-idUSKBN21Y3D3",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5324,6 +5497,8 @@ response_data = [
         "description_es": "Bulgaria prohibió la entrada a su territorio a ciudadanos de todo el mundo, excepto 19 Estados miembros de la UE",
 
 
+        "title_en": "La Bulgarie interdit l'entrée aux étrangers de presque tout le monde via COVID-19",
+        "description_en": "La Bulgarie a interdit l'entrée sur son territoire aux citoyens du monde entier, à l'exception de 19 États membres de l'UE",
         "link": "https://www.euractiv.com/section/justice-home-affairs/news/bulgaria-bans-entry-to-foreigners-from-almost-all-the-world-over-covid-19/",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5337,6 +5512,8 @@ response_data = [
         "description_es": "Bulgaria declaró el estado de emergencia nacional el 13 de marzo y lo extendió por un mes más",
 
 
+        "title_en": "Les cas de coronavirus bulgare dépassent 1 000, selon le ministère de la Santé",
+        "description_en": "La Bulgarie a déclaré l'état d'urgence nationale le 13 mars et l'a prolongé d'un mois",
         "link": "https://www.reuters.com/article/us-health-coronavirus-bulgaria/bulgarian-coronavirus-cases-pass-1000-health-ministry-says-idUSKCN2240UJ",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5350,6 +5527,8 @@ response_data = [
         "description_es": "Un joven creó la primera escuela digital del país, gratuita y en línea que garantiza que los alumnos no se queden atrás",
 
 
+        "title_en": "Le Burkina Faso dévoile une école en ligne gratuite et ouverte alors que la pandémie de coronavirus affecte le système",
+        "description_en": "Un jeune homme a créé la première école numérique du pays, une école gratuite et en ligne qui garantit que les élèves ne prennent pas de retard.",
         "link": "https://www.france24.com/en/video/20200507-burkina-faso-unveils-free-and-open-online-school-as-coronavirus-pandemic-affects-system",
         "progressive": "progressive",
         "category": "education",
@@ -5363,6 +5542,8 @@ response_data = [
         "description_es": "Cómo los cómicos en Burkina Faso están usando el humor para crear conciencia sobre el coronavirus",
 
 
+        "title_en": "Les humoristes du Burkina Faso combattent l'anxiété avec COVID-19 avec humour",
+        "description_en": "Comment les humoristes du Burkina Faso utilisent l'humour pour sensibiliser le public aux coronavirus.",
         "link": "https://www.aljazeera.com/news/2020/05/burkina-faso-comedians-combat-covid-19-anxiety-humour-200502104518662.html",
         "progressive": "progressive",
         "category": "economy",
@@ -5376,6 +5557,8 @@ response_data = [
         "description_es": "Con la pandemia interrumpiendo las cadenas de suministro, miles de desplazados por la guerra luchan por la falta de alimentos durante el mes sagrado musulmán",
 
 
+        "title_en": "'COVID-19 a tout changé:' le Ramadan pour les PDI au Burkina Faso ",
+        "description_en": "Avec une pandémie perturbant les chaînes d'approvisionnement, des milliers de personnes déplacées par la guerre luttent contre le manque de nourriture pendant le mois sacré musulman.",
         "link": "https://www.aljazeera.com/indepth/features/changed-ramadan-idps-burkina-faso-200502070210775.html",
         "progressive": "need to watch",
         "category": "food",
@@ -5389,6 +5572,8 @@ response_data = [
         "description_es": "Como las últimas semanas trajeron noticias de los primeros casos registrados del coronavirus en Burundi, también han presentado cobertura de manifestaciones de campaña abarrotadas",
 
 
+        "title_en": "COVID-19 coïncide avec des tendances dangereuses dans la démocratie burundaise",
+        "description_en": "Alors que les dernières semaines ont fait part des premiers cas enregistrés de coronavirus au Burundi, ils ont également couvert les rassemblements électoraux surpeuplés",
         "link": "https://www.cfr.org/blog/covid-19-coinciding-dangerous-trends-burundis-democracy",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5402,6 +5587,8 @@ response_data = [
         "description_es": "HRW informa que las organizaciones humanitarias han sido bloqueadas para proporcionar asistencia a cientos de personas",
 
 
+        "title_en": "Groupes d'aide bloqués des sites de quarantaine des coronavirus du Burundi",
+        "description_en": "HRW signale que les organisations humanitaires ont été empêchées de fournir une assistance à des centaines de personnes.",
         "link": "https://www.thenewhumanitarian.org/news/2020/04/02/burundi-coronavirus-aid",
         "progressive": "regressive",
         "category": "healthcare, food",
@@ -5415,6 +5602,8 @@ response_data = [
         "description_es": "El presidente Biya no se ha dirigido a la nación en semanas, planteando preguntas, pero el gobierno ha tomado una serie de pasos para detener el virus",
 
 
+        "title_en": "Masques, interdictions et questions: à l'intérieur de la réponse COVID-19 du Cameroun",
+        "description_en": "Le président Biya ne s'est pas adressé à la nation depuis des semaines, soulevant des questions, mais le gouvernement a pris une série de mesures pour endiguer le virus.",
         "link": "https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html",
         "progressive": "need to watch",
         "category": "healthcare, labor",
@@ -5428,6 +5617,8 @@ response_data = [
         "description_es": "El consejo científico de Camerún propuso el uso generalizado del tratamiento con cloroquina",
 
 
+        "title_en": "Au Cameroun, la chloroquine saluée par un expert français devient protocole d'État",
+        "description_en": "Le conseil scientifique du Cameroun a proposé l'utilisation généralisée du traitement à la chloroquine",
         "link": "https://www.france24.com/en/20200503-covid-19-in-cameroon-a-chloroquine-therapy-hailed-by-french-expert-becomes-state-protocol",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5441,6 +5632,8 @@ response_data = [
         "description_es": "Chad confirmó su primer caso de coronavirus el jueves, un ciudadano marroquí que había viajado al país desde Camerún",
 
 
+        "title_en": "Le Tchad confirme le premier cas de coronavirus: déclaration du gouvernement",
+        "description_en": "Le Tchad a confirmé jeudi son premier cas de coronavirus, un ressortissant marocain qui s'était rendu dans le pays depuis le Cameroun",
         "link": "https://www.reuters.com/article/us-health-coronavirus-chad/chad-confirms-first-case-of-coronavirus-government-statement-idUSKBN2162LO",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5454,6 +5647,8 @@ response_data = [
         "description_es": "Preocupación en Chad rural de dejarlos fuera de los mensajes críticos de sensibilización COVID-19",
 
 
+        "title_en": "Tchad: Des crieurs publics et des troubadours sensibilisent au COVID-19 dans le Tchad rural",
+        "description_en": "Préoccupation dans les zones rurales du Tchad de les exclure des messages critiques de sensibilisation au COVID-19",
         "link": "https://www.africanews.com/2020/04/24/coronavirus-chad-town-criers-troubadors-raise-covid-19-awareness-in-rural-chad//",
         "progressive": "need to watch",
         "category": "healthcare, misinformation",
@@ -5467,6 +5662,8 @@ response_data = [
         "description_es": "Los expertos advierten que el coronavirus podría atravesar la RCA cuando se propague un rayo si el país vulnerable no recibe apoyo",
 
 
+        "title_en": "En République centrafricaine, une lutte colossale contre COVID-19",
+        "description_en": "Les experts avertissent que le coronavirus pourrait traverser la RCA en cas de 'propagation de la foudre' si le pays vulnérable n'obtenait pas d'aide.",
         "link": "https://www.aljazeera.com/indepth/features/central-african-republic-colossal-struggle-covid-19-200421142222924.html",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5480,6 +5677,8 @@ response_data = [
         "description_es": "Los países africanos temen que estén indefensos contra la propagación inevitable del coronavirus",
 
 
+        "title_en": "Peu de médecins, moins de ventilateurs",
+        "description_en": "Les pays africains craignent d'être sans défense contre la propagation inévitable du coronavirus",
         "link": "https://time.com/5816299/coronavirus-africa-ventilators-doctors/",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5493,6 +5692,8 @@ response_data = [
         "description_es": "Un estado de emergencia a nivel nacional está en curso en Cabo Verde para detener la propagación de COVID-19",
 
 
+        "title_en": "Le Cap-Vert déclare l'état d'urgence dans tout le pays",
+        "description_en": "Un état d'urgence à l'échelle nationale est en cours au Cap-Vert pour arrêter la propagation du COVID-19.",
         "link": "https://www.worldaware.com/covid-19-alert-cape-verde-declares-nationwide-state-emergency",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5506,6 +5707,8 @@ response_data = [
         "description_es": "Las interrupciones en los viajes y el comercio presentan amenazas existenciales para la economía del país",
 
 
+        "title_en": "Les accolades du Cabo Verde pour la chute des revenus touristiques",
+        "description_en": "Les perturbations des voyages et du commerce présentent des menaces existentielles pour l'économie du pays.",
         "link": "https://www.atlanticcouncil.org/blogs/africasource/cabo-verde-braces-for-plummeting-tourism-revenue/",
         "progressive": "need to watch",
         "category": "economy",
@@ -5519,6 +5722,8 @@ response_data = [
         "description_es": "El caso involucra a un hombre de unos 50 años que conoció a alguien con un historial reciente de viajes a Francia', dice el presidente.",
 
 
+        "title_en": "Les Comores vérifient le premier cas de coronavirus confirmé",
+        "description_en": "L'affaire concerne un homme d'une cinquantaine d'années qui a rencontré une personne ayant récemment voyagé en France, a déclaré le président. ",
         "link": "https://www.aljazeera.com/news/2020/04/comoros-verifies-confirmed-coronavirus-case-200430155748926.html",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5532,6 +5737,8 @@ response_data = [
         "description_es": "Las personas en las naciones isleñas tienen algunas de las tasas más altas de diabetes y obesidad en el mundo, y los sistemas de salud son débiles",
 
 
+        "title_en": "Les îles isolées du Pacifique se préparent au pire alors que le coronavirus se profile",
+        "description_en": "Les habitants des nations insulaires ont certains des taux de diabète et d'obésité les plus élevés au monde, et les systèmes de santé sont faibles.",
         "link": "https://www.aljazeera.com/news/2020/04/remote-pacific-islands-prepare-worst-coronavirus-looms-200403045004961.html",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -5545,6 +5752,8 @@ response_data = [
         "description_es": "Cubre las crecientes preocupaciones a medida que se acerca el verano y la industria del turismo se verá afectada",
 
 
+        "title_en": "Coronavirus: la Grèce et la Croatie ont agi rapidement, doivent maintenant sauver l'été",
+        "description_en": "Couvre les inquiétudes croissantes à l'approche de l'été et de l'industrie touristique.",
         "link": "https://www.bbc.com/news/world-europe-52491204",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -5558,6 +5767,8 @@ response_data = [
         "description_es": "La prohibición de la República Checa de la libre circulación, impuesta para frenar el coronavirus, se ha levantado",
 
 
+        "title_en": "Coronavirus: les Tchèques sont libres de se déplacer à nouveau",
+        "description_en": "L'interdiction imposée par la République tchèque à la libre circulation, imposée pour lutter contre les coronavirus, a été levée.",
         "link": "https://www.bbc.com/news/world-europe-52411989",
         "progressive": "need to watch",
         "category": "economy",
@@ -5571,6 +5782,8 @@ response_data = [
         "description_es": "Desde coser máscaras hasta proporcionar refrescos gratuitos, la tercera minoría más grande de la República Checa ha desempeñado un papel importante",
 
 
+        "title_en": "Coeurs et masques: solidarité tchéco-vietnamienne lors du coronavirus",
+        "description_en": "Des masques de couture aux rafraîchissements gratuits, la troisième minorité de République tchèque a joué un rôle majeur.",
         "link": "https://www.aljazeera.com/indepth/features/hearts-masks-czech-vietnamese-solidarity-coronavirus-200407101254028.html",
         "progressive": "progressive",
         "category": "economy, labor",
@@ -5584,6 +5797,8 @@ response_data = [
         "description_es": "A 'estudio de inmunidad colectiva' que prueba la presencia de anticuerpos COVID-19 ha mostrado una incidencia muy baja de la enfermedad",
 
 
+        "title_en": "Une étude tchèque montre une très faible incidence de COVID-19 dans la population",
+        "description_en": "Une étude d'immunité collective testant la présence d'anticorps COVID-19 a montré une très faible incidence de la maladie",
         "link": "https://medicalxpress.com/news/2020-05-czech-covid-incidence-population.html",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5597,6 +5812,8 @@ response_data = [
         "description_es": "La OMS dijo que Corea del Norte tenía la capacidad de probar coronavirus en su laboratorio nacional de referencia",
 
 
+        "title_en": "Les tests en Corée du Nord, la mise en quarantaine de COVID-19, ne disent toujours aucun cas",
+        "description_en": "L'OMS a déclaré que la Corée du Nord avait la capacité de tester les coronavirus dans son laboratoire national de référence",
         "link": "https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korea-testing-quarantining-for-covid-19-still-says-no-cases-who-representative-idUSKBN21P3C2",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5610,6 +5827,8 @@ response_data = [
         "description_es": "La nación del Cuerno de África ha impuesto un bloqueo nacional a medida que aumenta el número de casos de coronavirus",
 
 
+        "title_en": "Le coronavirus augmente à Djibouti alors que la population ignore les mesures",
+        "description_en": "La nation de la Corne de l'Afrique a imposé un verrouillage à l'échelle nationale alors que le nombre de cas de coronavirus augmente"
         "link": "https://www.aljazeera.com/news/2020/04/coronavirus-surges-djibouti-population-ignores-measures-200424100351031.html",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5623,6 +5842,8 @@ response_data = [
         "description_es": "Un experto en salud describió el martes la estrategia de respuesta de la nación caribeña más afectada por la pandemia",
 
 
+        "title_en": "La République dominicaine répond localement au COVID-19",
+        "description_en": "Un expert en santé a décrit mardi la stratégie de riposte de la nation caribéenne la plus touchée par la pandémie",
         "link": "https://www.usnews.com/news/best-countries/articles/2020-05-05/the-dominican-republic-responds-to-the-coronavirus-with-local-efforts",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5636,6 +5857,8 @@ response_data = [
         "description_es": "Un éxodo diario de haitianos que huyen del rápido aumento de los casos de coronavirus en la vecina República Dominicana",
 
 
+        "title_en": "Les Haïtiens fuient la République dominicaine à cause du coronavirus",
+        "description_en": "Un exode quotidien d'Haïtiens fuyant l'augmentation rapide des cas de coronavirus en République dominicaine voisine",
         "link": "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article241854611.html",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5649,6 +5872,8 @@ response_data = [
         "description_es": "La República Dominicana, que debía ir a las urnas en una primera ronda de elecciones presidenciales en mayo, pospondrá la votación hasta julio",
 
 
+        "title_en": "La République dominicaine retarde le vote présidentiel sur les problèmes de coronavirus",
+        "description_en": "La République dominicaine, qui devait se rendre aux urnes lors du premier tour des élections présidentielles en mai, reportera le vote jusqu'en juillet",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/04/14/833866572/dominican-republic-delays-presidential-vote-over-coronavirus-concerns",
         "progressive": "need to watch",
         "category": "healthcare, democratic institutions",
@@ -5662,6 +5887,8 @@ response_data = [
         "description_es": "El Banco Mundial activó el 15 de abril US $ 6.6 millones para proporcionar financiamiento inmediato para la respuesta de emergencia de Dominica",
 
 
+        "title_en": "La Banque mondiale va renforcer la réponse COVID-19 de la Dominique avec 6,6 millions de dollars",
+        "description_en": "La Banque mondiale a activé le 15 avril 6,6 millions de dollars pour fournir un financement immédiat à la réponse d'urgence de la Dominique",
         "link": "https://www.worldbank.org/en/news/press-release/2020/04/20/world-bank-to-strengthen-dominicas-covid-19-response-with-us66-million",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -5675,6 +5902,8 @@ response_data = [
         "description_es": "Guinea Ecuatorial es el primer país en recibir brebajes herbales, promocionado para curar pacientes con coronavirus",
 
 
+        "title_en": "Madagascar fait don d'un médicament anti-COVID-19 à la Guinée équatoriale",
+        "description_en": "La Guinée équatoriale est le premier pays à recevoir des préparations à base de plantes, destinées à soigner les patients atteints de coronavirus",
         "link": "https://www.aa.com.tr/en/africa/madagascar-donates-anti-covid-19-drug-to-eq-guinea/1825645",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5688,6 +5917,8 @@ response_data = [
         "description_es": "Treinta trabajadores en una plataforma petrolera costa afuera operada por ExxonMobil en Guinea Ecuatorial han dado positivo",
 
 
+        "title_en": "Les travailleurs offshore d'Exxon en Guinée équatoriale testent positifs pour les sources de coronavirus",
+        "description_en": "Trente travailleurs d'une plate-forme pétrolière offshore exploitée par ExxonMobil en Guinée équatoriale se sont révélés positifs",
         "link": "https://www.reuters.com/article/us-health-coronavirus-exxon-equatorialgu/thirty-workers-on-equatorial-guinea-offshore-oil-platform-test-positive-for-coronavirus-sources-idUSKCN2291PP",
         "progressive": "need to watch",
         "category": "healthcare, economy, labor",
@@ -5701,6 +5932,8 @@ response_data = [
         "description_es": "El hecho de que Eritrea no responda eficientemente a la pandemia podría derribar a su gobierno autoritario",
 
 
+        "title_en": "Le gouvernement de l'Érythrée peut-il survivre au coronavirus?",
+        "description_en": "L'incapacité de l'Érythrée à réagir efficacement à la pandémie pourrait faire tomber son gouvernement autoritaire.",
         "link": "https://www.aljazeera.com/indepth/opinion/eritrea-government-survive-coronavirus-200424113745581.html",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5714,6 +5947,8 @@ response_data = [
         "description_es": "Argumenta que Estonia estaba preparada para las consecuencias de la pandemia de coronavirus, tanto económica como socialmente",
 
 
+        "title_en": "Pourquoi l'Estonie a-t-elle été priée de gérer comment une pandémie changerait tout",
+        "description_en": "Argues Estonie a été préparée aux conséquences de la pandémie de coronavirus, tant sur le plan économique que social.",
         "link": "https://www.newyorker.com/news/our-columnists/why-estonia-was-poised-to-handle-how-a-pandemic-would-change-everything",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -5727,6 +5962,8 @@ response_data = [
         "description_es": "Los funcionarios de salud estiman que la mitad de la población de la isla ha contraído el virus",
 
 
+        "title_en": "La vie sur l'île corona <<d'Estonie, Saaremaa>>",
+        "description_en": "Les autorités sanitaires estiment que la moitié de la population de l'île a contracté le virus.",
         "link": "https://www.bbc.com/news/av/world-europe-52282118/coronavirus-life-on-estonia-s-corona-island-saaremaa",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5740,6 +5977,8 @@ response_data = [
         "description_es": "Describe la decisión de Gabón de frenar la propagación del nuevo coronavirus",
 
 
+        "title_en": "Le Gabon commence le verrouillage",
+        "description_en": "Décrit la décision du Gabon de freiner la propagation du nouveau coronavirus.",
         "link": "https://www.africanews.com/2020/04/14/covid-19-gabon-begins-lockdown//",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -5753,6 +5992,8 @@ response_data = [
         "description_es": "Gabón declaró el estado de emergencia y ajustó sus pronósticos económicos a la luz del brote de coronavirus",
 
 
+        "title_en": "Le Gabon déclare l'état d'urgence sur Covid-19, révise les perspectives",
+        "description_en": "Le Gabon a déclaré l'état d'urgence et ajusté ses prévisions économiques à la lumière de l'épidémie de coronavirus.",
         "link": "https://www.bloomberg.com/news/articles/2020-04-11/gabon-declares-state-of-emergency-over-covid-19-revises-outlook",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -5766,6 +6007,8 @@ response_data = [
         "description_es": "España anunció un bloqueo nacional ya que Francia se movió para cerrar todos los negocios no esenciales",
 
 
+        "title_en": "L'Espagne et la France prennent des mesures drastiques pour lutter contre les coronavirus",
+        "description_en": "L'Espagne a annoncé un verrouillage national, la France ayant décidé de fermer toutes les entreprises non essentielles",
         "link": "https://www.washingtonpost.com/world/2020/03/14/coronavirus-latest-news/",
         "progressive": "need to watch",
         "category": "economy",
@@ -5779,6 +6022,8 @@ response_data = [
         "description_es": "El gobernante de Qatar, Emir Sheikh Tamim bin Hamad al-Thani, ordenó la evacuación de los ciudadanos de Qatar y Kuwait de Irán",
 
 
+        "title_en": "Le coronavirus se propage au Moyen-Orient et au-delà: mises à jour en direct",
+        "description_en": "Le souverain du Qatar, l'émir cheikh Tamim bin Hamad al-Thani, a ordonné l'évacuation d'Iran des citoyens qatariens et koweïtiens",
         "link": "https://www.aljazeera.com/news/2020/02/china-coronavirus-outbreak-latest-updates-200226003835539.html",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5792,6 +6037,8 @@ response_data = [
         "description_es": "Bajo el cierre de las fronteras estatales, la aldea en Gambia se divide por la mitad con desafíos de movilidad",
 
 
+        "title_en": "La fermeture des frontières en Gambie laisse le village divisé",
+        "description_en": "Sous la fermeture des frontières nationales, le village de Gambie est divisé en deux avec des problèmes de mobilité",
         "link": "https://www.washingtonpost.com/world/africa/borders-are-closing-to-fight-the-coronavirus-now-this-village-is-split-in-two/2020/04/01/d601cd4e-72c1-11ea-ae50-7148009252e3_story.html",
         "progressive": "need to watch",
         "category": "punitive",
@@ -5805,6 +6052,8 @@ response_data = [
         "description_es": "ciudadano georgiano, que viajaba desde Irán, cruzó la frontera desde el vecino Azerbaiyán",
 
 
+        "title_en": "La Géorgie signale le premier coronavirus du pays: ministre de la Santé",
+        "description_en": "Un citoyen géorgien, qui venait d'Iran, a traversé la frontière avec l'Azerbaïdjan voisin.",
         "link": "https://www.aljazeera.com/news/2020/02/china-coronavirus-outbreak-latest-updates-200226003835539.html",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5818,6 +6067,8 @@ response_data = [
         "description_es": "Grecia evitó la primera ola Covid-19 con un cierre anticipado. Ahora el primer ministro quiere dar la bienvenida a los turistas",
 
 
+        "title_en": "La Grèce a esquivé Covid-19. Maintenant, elle veut des touristes",
+        "description_en": "La Grèce a évité la première vague de Covid-19 avec un verrouillage anticipé. Maintenant, le Premier ministre veut accueillir les touristes.",
         "link": "https://www.cnn.com/videos/world/2020/05/05/greece-coronavirus-nic-robertson.cnn",
         "progressive": "need to watch",
         "category": "economy",
@@ -5831,6 +6082,8 @@ response_data = [
         "description_es": "Granada dijo que rechazaría la entrada en la isla a la lista de países que están de guardia que no son nacionales",
 
 
+        "title_en": "La Grenade annonce de nouvelles conditions d'entrée au milieu des coronavirus",
+        "description_en": "La Grenade a déclaré qu'elle refuserait l'entrée dans l'île aux non-ressortissants visitant la liste des pays sous surveillance.",
         "link": "http://jamaica-gleaner.com/article/caribbean/20200319/grenada-announces-new-entry-requirements-amid-coronavirus",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5844,6 +6097,8 @@ response_data = [
         "description_es": "Los grupos de ayuda temen que los efectos de COVID-19 afecten fuertemente a Guatemala",
 
 
+        "title_en": "COVID-19 aggrave une longue liste de problèmes au Guatemala",
+        "description_en": "Les groupes humanitaires craignent que le Guatemala ne soit durement touché par les effets du COVID-19",
         "link": "https://www.thenewhumanitarian.org/feature/2020/05/04/coronavirus-Guatemala-violence-drought-poverty",
         "progressive": "need to watch",
         "category": "healthcare, economy, labor",
@@ -5857,6 +6112,8 @@ response_data = [
         "description_es": "Los funcionarios del gobierno guineano mueren por coronavirus y el país impone medidas",
 
 
+        "title_en": "Deux responsables du gouvernement guinéen meurent après avoir contracté un coronavirus",
+        "description_en": "Des responsables du gouvernement guinéen meurent d'un coronavirus et le pays impose des mesures",
         "link": "https://www.bloomberg.com/news/articles/2020-04-19/two-guinean-government-officials-die-after-getting-coronavirus",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5870,6 +6127,8 @@ response_data = [
         "description_es": "Tanzania, Guinea-Bissau, entusiasmada con el remedio a base de hierbas para curar el coronavirus",
 
 
+        "title_en": "L'OMS dit que le tonique à base de plantes de Madagascar contre COVID-19 n'est pas un remède",
+        "description_en": "La Tanzanie et la Guinée-Bissau enthousiasmées par un remède à base de plantes censé guérir le coronavirus.",
         "link": "https://www.aljazeera.com/news/2020/05/madagascars-herbal-tonic-covid-19-cure-200504081212753.html",
         "progressive": "need to watch",
         "category": "healthcare, misinformation",
@@ -5883,6 +6142,8 @@ response_data = [
         "description_es": "Los funcionarios se pusieron en cuarentena inmediatamente en el hotel en la capital, dice el médico más importante del país, estimula el encierro",
 
 
+        "title_en": "Premier ministre de la Guinée-Bissau, 3 ministres contractent COVID-19",
+        "description_en": "Des fonctionnaires immédiatement mis en quarantaine dans un hôtel de la capitale, selon le meilleur médecin du pays, encouragent le verrouillage",
         "link": "https://www.aa.com.tr/en/africa/guinea-bissau-premier-3-ministers-contract-covid-19/1823380",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5896,6 +6157,8 @@ response_data = [
         "description_es": "Discusión de cómo la corrupción exacerbará las implicaciones del coronavirus",
 
 
+        "title_en": "La crise des coronavirus révèle une autre pandémie au Honduras",
+        "description_en": "Discussion sur la manière dont la corruption aggravera les implications du coronavirus",
         "link": "https://www.aljazeera.com/news/2020/03/coronavirus-crisis-exposes-pandemic-honduras-analysts-200327183808256.html",
         "progressive": "regressive",
         "category": "healthcare",
@@ -5909,6 +6172,8 @@ response_data = [
         "description_es": "Trabajadores de la economía informal en Tegucigalpa que ya no pueden pagar los apartamentos que habían estado alquilando anteriormente",
 
 
+        "title_en": "Dans un Honduras déjà pauvre, le coronavirus pousse certains sans-abri",
+        "description_en": "Les travailleurs de l'économie informelle à Tegucigalpa qui ne peuvent plus se payer les appartements qu'ils louaient auparavant",
         "link": "https://www.reuters.com/article/us-health-coronavirus-honduras-poverty/in-already-poor-honduras-coronavirus-pushes-some-into-homelessness-idUSKCN227006",
         "progressive": "regressive",
         "category": "economy, labor",
@@ -5922,6 +6187,8 @@ response_data = [
         "description_es": "El gobierno de Honduras extendió el domingo el toque de queda hasta el 26 de abril",
 
 
+        "title_en": "Le Honduras prolonge le couvre-feu d'une semaine pour lutter contre le coronavirus",
+        "description_en": "Le gouvernement du Honduras a prolongé dimanche le couvre-feu jusqu'au 26 avril",
         "link": "https://www.reuters.com/article/us-health-coronavirus-honduras-curfew/honduras-extends-curfew-by-one-week-in-fight-against-coronavirus-idUSKBN2210SV",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5935,6 +6202,8 @@ response_data = [
         "description_es": "La UE parece impotente, incluso cómplice, ya que los gobiernos de mentalidad autoritaria citan la pandemia para consolidar su poder",
 
 
+        "title_en": "La Pologne et la Hongrie utilisent le coronavirus pour punir l'opposition",
+        "description_en": "L'UE semble impuissante, voire complice, alors que des gouvernements autoritaires citent la pandémie pour consolider leur pouvoir",
         "link": "https://www.nytimes.com/2020/04/22/world/europe/poland-hungary-coronavirus.html",
         "progressive": "regressive",
         "category": "punitive, democratic institutions",
@@ -5948,6 +6217,8 @@ response_data = [
         "description_es": "Lo que sucedió en Hungría en las últimas semanas es un estudio de caso de cómo la pandemia amenaza la democracia",
 
 
+        "title_en": "Le coup d'État contre les coronavirus de la Hongrie, a expliqué ",
+        "description_en": "Ce qui s'est passé en Hongrie ces dernières semaines est une étude de cas sur la manière dont la pandémie menace la démocratie.",
         "link": "https://www.vox.com/policy-and-politics/2020/4/15/21193960/coronavirus-covid-19-hungary-orban-trump-populism",
         "progressive": "regressive",
         "category": "punitive, democratic institutions",
@@ -5961,6 +6232,8 @@ response_data = [
         "description_es": "Discusión de cómo las pruebas tempranas y frecuentes resultaron fundamentales para controlar el virus",
 
 
+        "title_en": "Ce que l'Islande peut enseigner au monde sur la réduction des émissions de COVID-19",
+        "description_en": "Discussion sur la façon dont les tests précoces et fréquents se sont révélés essentiels pour contrôler le virus",
         "link": "https://www.usnews.com/news/best-countries/articles/2020-05-04/what-iceland-can-teach-the-world-about-minimizing-the-coronavirus",
         "progressive": "progressive",
         "category": "healthcare",
@@ -5974,6 +6247,8 @@ response_data = [
         "description_es": "Las autoridades utilizaron una política rigurosa de pruebas y seguimiento para encontrar y aislar a las personas infectadas",
 
 
+        "title_en": "L'Islande a testé 13% de l'ensemble de sa population pour le coronavirus",
+        "description_en": "Les autorités ont utilisé une politique rigoureuse de test et de suivi pour trouver et isoler les personnes infectées",
         "link": "https://time.com/5831580/iceland-coronavirus-tests/",
         "progressive": "progressive",
         "category": "healthcare",
@@ -5987,6 +6262,8 @@ response_data = [
         "description_es": "El ministro de salud de Papua Nueva Guinea analiza las respuestas regionales a Covid-19",
 
 
+        "title_en": "Nous étions derrière le huitième ballon ",
+        "description_en": "Le ministre de la Santé de Papouasie-Nouvelle-Guinée discute des réponses régionales à Covid-19",
         "link": "https://www.theguardian.com/world/2020/apr/30/papua-new-guinea-png-health-minister-covid-19-coronavirus-ppe",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -6000,6 +6277,8 @@ response_data = [
         "description_es": "Las escuelas y guarderías están cerradas y los abuelos están en riesgo cuando los padres regresan al trabajo",
 
 
+        "title_en": "Les parents retournent nerveusement au travail en Italie. Les enfants sont toujours à la maison.",
+        "description_en": "Les écoles et les garderies sont fermées et les grands-parents sont menacés lorsque les parents retournent au travail",
         "link": "https://www.nytimes.com/2020/05/06/world/europe/italy-coronavirus-reopening-parents.html",
         "progressive": "need to watch",
         "category": "healthcare, economy, childcare, labor",
@@ -6013,6 +6292,8 @@ response_data = [
         "description_es": "Italia comenzó a reabrir tentativamente ciertas empresas y puso a millones de ciudadanos a trabajar nuevamente el 4 de mayo",
 
 
+        "title_en": "Les États-Unis peuvent-ils apprendre de l'Italie, où les fabricants de tests d'anticorps se battent pour un nouveau marché?",
+        "description_en": "L'Italie a commencé à rouvrir provisoirement certaines entreprises et à remettre des millions de citoyens au travail le 4 mai.",
         "link": "https://www.forbes.com/sites/giacomotognini/2020/05/07/can-the-us-learn-from-italy-where-coronavirus-antibody-test-makers-are-fighting-for-a-new-market/#74416e4f4628",
         "progressive": "need to watch",
         "category": "healthcare, economy, labor",
@@ -6026,6 +6307,8 @@ response_data = [
         "description_es": "La mayoría de los médicos y enfermeras de Italia son mujeres. Su respuesta oficial al coronavirus está dominada por hombres",
 
 
+        "title_en": "Les femmes exigent une voix dans la réponse du coronavirus en Italie dominée par les hommes",
+        "description_en": "La plupart des médecins et infirmières italiens sont des femmes. Sa réponse officielle aux coronavirus est dominée par les hommes.",
         "link": "https://www.latimes.com/world-nation/story/2020-05-07/women-demand-voice-in-italy-virus-response-dominated-by-men",
         "progressive": "need to watch",
         "category": "healthcare, economy, labor",
@@ -6039,6 +6322,8 @@ response_data = [
         "description_es": "Las escuelas que habían cerrado para evitar la propagación del coronavirus reabrieron el jueves en algunas regiones de Japón",
 
 
+        "title_en": "Des écoles rouvrent dans certaines régions du Japon après la fermeture d'une pandémie",
+        "description_en": "Les écoles qui avaient fermé pour empêcher la propagation du coronavirus ont rouvert jeudi dans certaines régions du Japon",
         "link": "https://english.kyodonews.net/news/2020/05/770242811ab7-schools-reopen-in-some-parts-of-japan-after-pandemic-shutdown.html",
         "progressive": "need to watch",
         "category": "education, economy",
@@ -6052,6 +6337,8 @@ response_data = [
         "description_es": "Los manifestantes en la capital comercial de Costa de Marfil, Abidjan, han destruido un centro de coronavirus",
 
 
+        "title_en": "Coronavirus: des manifestants ivoiriens ciblent un centre de test",
+        "description_en": "Des manifestants à Abidjan, la capitale commerciale de la Côte d'Ivoire, ont détruit un centre de coronavirus",
         "link": "https://www.bbc.com/news/world-africa-52189144",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -6065,6 +6352,8 @@ response_data = [
         "description_es": "La pandemia de coronavirus está cambiando muchos aspectos de las formas en que funciona Japón",
 
 
+        "title_en": "La crise des coronavirus change la culture du travail au Japon",
+        "description_en": "La pandémie de coronavirus modifie de nombreux aspects du fonctionnement du Japon",
         "link": "https://www.dw.com/en/coronavirus-crisis-changing-japans-work-culture/a-53350759",
         "progressive": "need to watch",
         "category": "economy, labor",
@@ -6078,6 +6367,8 @@ response_data = [
         "description_es": "El gobierno de Laos aún no ha confirmado un caso del virus, pero probablemente sea falso",
 
 
+        "title_en": "Les revendications d'un Laos sans coronavirus sont probablement fictives",
+        "description_en": "Le gouvernement du Laos n'a pas encore confirmé un cas de virus, mais probablement faux"
         "link": "https://foreignpolicy.com/2020/03/20/laos-coronavirus-free-claims-probably-fiction/",
         "progressive": "need to watch",
         "category": "misinformation",
@@ -6091,6 +6382,8 @@ response_data = [
         "description_es": "El gobierno letón analiza posibles respuestas y la extensión al estado de emergencia",
 
 
+        "title_en": "Le gouvernement letton promet de décider de la sortie progressive de l'état d'urgence COVID-19",
+        "description_en": "Le gouvernement letton examine les réponses potentielles et l'extension à l'état d'urgence",
         "link": "https://bnn-news.com/latvian-government-promises-to-decide-on-gradual-exit-from-covid-19-state-of-emergency-213010",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -6104,6 +6397,8 @@ response_data = [
         "description_es": "Liechtenstein ha introducido un programa tecnológico para proporcionar pulseras biométricas para que sus ciudadanos supervisen COVID-19",
 
 
+        "title_en": "Le Liechtenstein fournira aux citoyens des bracelets biométriques pour contenir le coronavirus",
+        "description_en": "Le Liechtenstein a introduit un programme technologique pour fournir des bracelets biométriques à ses citoyens afin de surveiller COVID-19",
         "link": "https://www.biometricupdate.com/202004/liechtenstein-to-provide-citizens-with-biometric-bracelets-to-contain-coronavirus",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -6117,6 +6412,8 @@ response_data = [
         "description_es": "Maldivas instala cuarentena en la ciudad capital",
 
 
+        "title_en": "Les cas de coronavirus en Asie du Sud ont atteint 22 000 alors que les Maldives verrouillent leur capitale",
+        "description_en": "Les Maldives instaurent la quarantaine dans la capitale",
         "link": "https://www.reuters.com/article/us-health-coronavirus-southasia/south-asia-coronavirus-cases-hit-22000-as-maldives-locks-down-capital-idUSKBN21Z1VA",
         "progressive": "need to watch",
         "category": "economy",
@@ -6130,6 +6427,8 @@ response_data = [
         "description_es": "Se permitirá la reapertura de tiendas, restaurantes al aire libre y muchos otros servicios en Lituania para aliviar las restricciones",
 
 
+        "title_en": "La Lituanie va alléger les mesures de verrouillage des coronavirus cette semaine",
+        "description_en": "Les magasins, les restaurants en plein air et de nombreux autres services seront autorisés à rouvrir en Lituanie en allégeant les restrictions",
         "link": "https://www.reuters.com/article/health-coronavirus-lithuania/lithuania-to-ease-coronavirus-lockdown-measures-this-week-idUSL5N2CA4DP",
         "progressive": "need to watch",
         "category": "economy",
@@ -6143,6 +6442,8 @@ response_data = [
         "description_es": "El gobierno maltés dijo que no podía garantizar más rescates ya que sus recursos se vieron afectados por la pandemia",
 
 
+        "title_en": "Malte accueille des migrants quelques heures après l'annonce de l'interdiction des coronavirus",
+        "description_en": "Le gouvernement maltais a déclaré qu'il ne pouvait garantir de nouveaux sauvetages car ses ressources ont été mises à rude épreuve par la pandémie.",
         "link": "https://www.aljazeera.com/news/2020/04/malta-takes-migrants-hours-announcing-coronavirus-ban-200410160333984.html",
         "progressive": "need to watch",
         "category": "punitive",
@@ -6156,6 +6457,8 @@ response_data = [
         "description_es": "El sólido sistema de protección social proporciona una base sólida que el gobierno puede usar para ampliar el apoyo",
 
 
+        "title_en": "Maurice entre dans une tempête de coronavirus avec de solides tampons de protection sociale",
+        "description_en": "Un système de protection sociale solide fournit une base solide que le gouvernement peut utiliser pour étendre le soutien",
         "link": "https://theconversation.com/mauritius-heads-into-coronavirus-storm-with-strong-social-welfare-buffers-135702",
         "progressive": "progressive",
         "category": "healthcare, economy, labor",
@@ -6169,6 +6472,8 @@ response_data = [
         "description_es": "Los líderes políticos de Moldavia están pisando una línea muy fina cuando se trata de asegurar la adhesión de la iglesia a las restricciones",
 
 
+        "title_en": "La Moldavie se bat pour garantir le respect par l'Église des restrictions concernant les coronavirus",
+        "description_en": "Les dirigeants politiques moldaves sont sur la bonne voie lorsqu'il s'agit de garantir le respect des restrictions par l'église",
         "link": "https://balkaninsight.com/2020/04/20/moldova-struggles-to-secure-church-respect-for-coronavirus-restrictions/",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -6182,6 +6487,8 @@ response_data = [
         "description_es": "La pequeña población de Mongolia podría ser una ventaja en la lucha contra la nueva pandemia",
 
 
+        "title_en": "Stratégie des petits pays de la Mongolie pour contenir le COVID-19",
+        "description_en": "La petite population de la Mongolie pourrait être un atout pour lutter contre la nouvelle pandémie",
         "link": "https://thediplomat.com/2020/03/mongolias-small-country-strategy-for-containing-covid-19/",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -6195,6 +6502,8 @@ response_data = [
         "description_es": "Montenegro introdujo un bloqueo el lunes para frenar la propagación del coronavirus",
 
 
+        "title_en": "Le Monténégro introduit un verrouillage pour lutter contre les coronavirus",
+        "description_en": "Le Monténégro a introduit lundi un verrouillage pour freiner la propagation du coronavirus",
         "link": "https://www.reuters.com/article/health-coronavirus-montenegro/montenegro-introduces-lockdown-to-fight-coronavirus-idUSL8N2BN88Z",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -6208,6 +6517,8 @@ response_data = [
         "description_es": "Está prohibido viajar a Namibia desde todos los países con efecto inmediato por un período de 30 días",
 
 
+        "title_en": "La Namibie annonce une interdiction de voyager et un verrouillage partiel après le septième cas de coronavirus",
+        "description_en": "Les voyages en Namibie de tous les pays sont interdits avec effet immédiat pour une période de 30 jours",
         "link": "https://www.reuters.com/article/us-health-coronavirus-namibia/namibia-announces-travel-ban-partial-lockdown-after-seventh-coronavirus-case-idUSKBN21B30R",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -6221,6 +6532,8 @@ response_data = [
         "description_es": "La ONU debe desempeñar un papel de liderazgo en el desarrollo de un marco global para garantizar un comportamiento responsable en el ciberespacio",
 
 
+        "title_en": "Au milieu des cybermenaces liées aux COVID, les Pays-Bas mènent les efforts des Nations Unies",
+        "description_en": "L'ONU devrait jouer un rôle de premier plan dans la poursuite du développement d'un cadre mondial pour garantir un comportement responsable dans le cyberespace",
         "link": "https://www.cfr.org/blog/amid-covid-related-cyber-threats-netherlands-leads-un-efforts",
         "progressive": "need to watch",
         "category": "digital surveillance",
@@ -6234,6 +6547,8 @@ response_data = [
         "description_es": "Los casos de Suecia aún no se han estabilizado, mientras que el recuento de casos de Noruega parece estar a la baja",
 
 
+        "title_en": "La Suède compte près de 10 fois plus de morts que ses voisins nordiques",
+        "description_en": "Les cas de la Suède n'ont pas encore atteint un plateau, tandis que le nombre de cas en Norvège semble être en baisse",
         "link": "https://www.businessinsider.com/how-sweden-and-norway-handled-coronavirus-differently-2020-4",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -6247,6 +6562,8 @@ response_data = [
         "description_es": "Muscat se encuentra en una fase delicada de sus esfuerzos de diversificación económica, ya que las reservas de petróleo disminuyen mientras las deudas aumentan",
 
 
+        "title_en": "Coronavirus: Oman fait face à des choix difficiles alors que la crise frappe les finances",
+        "description_en": "Muscat est dans une phase délicate de ses efforts de diversification économique, alors que les réserves de pétrole diminuent tandis que les dettes augmentent",
         "link": "https://www.middleeasteye.net/opinion/coronavirus-will-oman-seek-financial-relief-gcc-neighbours",
         "progressive": "need to watch",
         "category": "economy",
@@ -6260,6 +6577,8 @@ response_data = [
         "description_es": "El presidente Duda se adelantó en las encuestas originalmente programadas para el domingo pero la pandemia dejó incertidumbre sobre la votación y su futuro",
 
 
+        "title_en": "La Pologne reporte le vote présidentiel en raison de la fermeture du coronavirus",
+        "description_en": "Le président Duda en tête dans les sondages initialement prévus dimanche mais la pandémie a laissé des incertitudes sur le vote et son avenir.",
         "link": "https://www.aljazeera.com/news/2020/05/poland-postpones-presidential-vote-coronavirus-lockdown-200507011915451.html",
         "progressive": "need to watch",
         "category": "democratic institutions",
@@ -6273,6 +6592,8 @@ response_data = [
         "description_es": "Los migrantes y solicitantes de asilo en el país proporcionaron el mismo acceso total a los servicios públicos que reciben los residentes permanentes",
 
 
+        "title_en": "Un modèle de migrant à suivre: la réponse du Portugal au coronavirus",
+        "description_en": "Les migrants et les demandeurs d'asile du pays ont eu le même accès complet aux services publics que les résidents permanents",
         "link": "https://www.americanprogress.org/issues/security/news/2020/04/10/482998/migrant-model-follow-portugals-response-coronavirus/",
         "progressive": "progressive",
         "category": "economy, childcare, labor",
@@ -6286,6 +6607,8 @@ response_data = [
         "description_es": "Dentro de África, Zimbabwe y Sudán del Sur entre los más vulnerables",
 
 
+        "title_en": "Plus de 10 000 cas confirmés de COVID-19 en Afrique",
+        "description_en": "En Afrique, au Zimbabwe et au Soudan du Sud parmi les plus vulnérables",
         "link": "https://news.un.org/en/story/2020/04/1061352",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -6299,6 +6622,8 @@ response_data = [
         "description_es": "En medio de continuos combates y amenazas de coronavirus, Sudán del Sur enfrenta desafíos humanitarios",
 
 
+        "title_en": "Le HCR met en garde contre une crise humanitaire imminente au Soudan du Sud",
+        "description_en": "Au milieu des combats en cours et de la menace des coronavirus, le Soudan du Sud fait face à des défis humanitaires",
         "link": "https://www.unhcr.org/news/press/2020/4/5eaa991c4/unhcr-warns-looming-humanitarian-crisis-south-sudan-amidst-ongoing-fighting.html",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -6312,6 +6637,8 @@ response_data = [
         "description_es": "Rumania ha emitido 200,000 multas en menos de un mes a las personas que no cumplieron con las restricciones",
 
 
+        "title_en": "Coronavirus: la Roumanie inflige de lourdes amendes pour verrouillage",
+        "description_en": "La Roumanie a infligé 200 000 amendes en moins d'un mois à des personnes qui n'ont pas respecté les restrictions",
         "link": "https://www.bbc.com/news/world-europe-52370421",
         "progressive": "need to watch",
         "category": "punitive",
@@ -6325,6 +6652,8 @@ response_data = [
         "description_es": "El gobierno ha extendido el estado de emergencia y sus reglamentos COVID-19, que incluyen un toque de queda de 24 horas, hasta el 25 de abril",
 
 
+        "title_en": "Saint-Kitts-et-Nevis prorogeant l'état d'urgence",
+        "description_en": "Le gouvernement a prolongé l'état d'urgence et ses réglementations COVID-19, qui incluent un couvre-feu de 24 heures, jusqu'au 25 avril.",
         "link": "https://www.caribjournal.com/2020/04/16/st-kitts-nevis-emergency-coronavirus/",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -6338,6 +6667,8 @@ response_data = [
         "description_es": "El Director Médico anunció que todos los pacientes con COVID-19 de la isla ya se han recuperado",
 
 
+        "title_en": "Tous les patients atteints de COVID-19 à Sainte-Lucie sont maintenant rétablis",
+        "description_en": "Le médecin-chef a annoncé que tous les patients COVID-19 de l'île étaient maintenant rétablis.",
         "link": "https://www.loopjamaica.com/content/all-st-lucias-covid-19-patients-have-now-recovered-1",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -6351,6 +6682,8 @@ response_data = [
         "description_es": "Describe la amplia estrategia e implementación de pruebas de San Marino",
 
 
+        "title_en": "La stratégie de test COVID-19 'agressive' de Saint-Marin peut-elle sauver l'Europe?",
+        "description_en": "Décrit la stratégie de test et la mise en œuvre étendues de Saint-Marin",
         "link": "https://www.euronews.com/2020/04/25/can-san-marino-s-aggressive-covid-19-testing-strategy-save-europe",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -6364,6 +6697,8 @@ response_data = [
         "description_es": "Serbia terminará su estado de emergencia por el coronavirus la próxima semana, ya que la tasa de infecciones ha disminuido lo suficiente",
 
 
+        "title_en": "La Serbie mettra fin à l'état d'urgence alors que les infections à coronavirus ralentissent",
+        "description_en": "La Serbie mettra fin à son état d'urgence concernant le coronavirus la semaine prochaine, car le taux d'infections a suffisamment ralenti",
         "link": "https://www.reuters.com/article/us-health-coronavirus-serbia/serbia-to-end-state-of-emergency-as-coronavirus-infections-slow-idUSKBN22F0UT",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -6377,6 +6712,8 @@ response_data = [
         "description_es": "India envió el primer envío de 4 toneladas de medicamentos esenciales para salvar vidas a Seychelles",
 
 
+        "title_en": "Les Seychelles expriment leur gratitude à l'Inde pour les fournitures médicales en raison de la crise du COVID-19",
+        "description_en": "L'Inde a envoyé le premier lot de 4 tonnes de médicaments essentiels aux Seychelles",
         "link": "https://www.africanews.com/2020/04/15/coronavirus-seychelles-expresses-gratitude-to-india-for-medical-supplies-in-view-of-covid-19-crisis//",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -6390,6 +6727,8 @@ response_data = [
         "description_es": "Sin una cuarentena inteligente, la confianza pública y los medios de comunicación han sido cruciales para el éxito del país",
 
 
+        "title_en": "Comment la Slovaquie aplatit la courbe",
+        "description_en": "Sans une quarantaine intelligente en place, la confiance du public et des médias a été cruciale pour le succès du pays",
         "link": "https://foreignpolicy.com/2020/05/06/slovakia-coronavirus-pandemic-public-trust-media/",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -6403,6 +6742,8 @@ response_data = [
         "description_es": "Todos siguieron un libro de jugadas similar que hasta ahora ha ayudado a frenar un brote de coronavirus más grande",
 
 
+        "title_en": "Vietnam, Slovénie et 3 autres réussites de coronavirus négligées",
+        "description_en": "Ils ont tous suivi un livre de jeu similaire qui, jusqu'à présent, a contribué à freiner une plus grande épidémie de coronavirus",
         "link": "https://www.vox.com/2020/5/5/2124labor37/coronavirus-vietnam-slovenia-jordan-iceland-greece",
         "progressive": "progressive",
         "category": "healthcare, economy",
@@ -6416,6 +6757,8 @@ response_data = [
         "description_es": "el avión privado registrado en Kenia transportaba suministros humanitarios para su uso en la lucha contra el coronavirus",
 
 
+        "title_en": "Le Kenya et la Somalie enquêtent conjointement sur l'écrasement d'un avion-cargo",
+        "description_en": "Un avion privé immatriculé au Kenya transportait des fournitures humanitaires à utiliser dans la lutte contre le coronavirus",
         "link": "https://www.nytimes.com/2020/05/06/world/africa/somalia-kenya-coronavirus-aid-plane-crash.html",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -6429,6 +6772,8 @@ response_data = [
         "description_es": "La policía ordenó arrestar a los críticos en la respuesta COVID-19 dirigida por militares",
 
 
+        "title_en": "Le Sri Lanka utilise une pandémie pour restreindre la liberté d'expression",
+        "description_en": "La police a été ordonnée d'arrêter des détracteurs de la réponse du COVID-19 dirigée par des militaires",
         "link": "https://www.hrw.org/news/2020/04/03/sri-lanka-uses-pandemic-curtail-free-expression#",
         "progressive": "need to watch",
         "category": "punitive, digital surveillance",
@@ -6442,6 +6787,8 @@ response_data = [
         "description_es": "Interrelaciones entre la pandemia de coronavirus, el sector empresarial y medidas cada vez más autoritarias",
 
 
+        "title_en": "La crise économique invite à une confrontation et à un arrêt, au Suriname",
+        "description_en": "Liens entre la pandémie de coronavirus, le secteur des entreprises et des mesures de plus en plus autoritaires",
         "link": "https://www.nytimes.com/2020/03/25/world/americas/suriname-economic-crisis.html",
         "progressive": "regressive",
         "category": "economy, labor",
@@ -6455,6 +6802,8 @@ response_data = [
         "description_es": "El gobierno de eSwatini está refutando los informes de los medios de que el Rey Mswati II de la nación",
 
 
+        "title_en": "Le gouvernement de Tiny eSwatini réfute les informations faisant état de la maladie du roi",
+        "description_en": "Le gouvernement d'eSwatini réfute les informations des médias selon lesquelles le roi de la nation Mswati II",
         "link": "https://www.voanews.com/science-health/coronavirus-outbreak/government-tiny-eswatini-refutes-reports-kings-illness",
         "progressive": "need to watch",
         "category": "democratic institutions",
@@ -6468,6 +6817,8 @@ response_data = [
         "description_es": "La contención local y las restricciones de viaje debido a la actual pandemia mundial de coronavirus (COVID-19) siguen vigentes",
 
 
+        "title_en": "Trinité-et-Tobago: les restrictions de voyage se poursuivent",
+        "description_en": "Les restrictions locales de confinement et de déplacement en raison de la pandémie mondiale actuelle de coronavirus (COVID-19) restent en vigueur",
         "link": "https://www.garda.com/crisis24/news-alerts/329131/trinidad-and-tobago-travel-restrictions-continue-amid-covid-19-pandemic-april-3-update-2",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -6481,6 +6832,8 @@ response_data = [
         "description_es": "Los agentes de seguridad en varios países africanos han estado golpeando, hostigando y, en algunos casos, matando a personas mientras aplican medidas",
 
 
+        "title_en": "Coronavirus en Afrique: fouetter, tirer et espionner",
+        "description_en": "Les agents de sécurité de plusieurs pays africains ont battu, harcelé et, dans certains cas, tué des gens alors qu'ils appliquaient des mesures",
         "link": "https://www.bbc.com/news/world-africa-52214740",
         "progressive": "regressive",
         "category": "punitive",
@@ -6494,6 +6847,8 @@ response_data = [
         "description_es": "El refugio LGBTQ tenía más de 10 residentes, por lo que el grupo fue acusado de facilitar la propagación de una enfermedad infecciosa",
 
 
+        "title_en": "L'Ouganda utilise les règles du coronavirus pour attaquer un refuge LGBTQ et des résidents de prison",
+        "description_en": "Le refuge LGBTQ comptait plus de 10 résidents, le groupe a donc été accusé d'avoir facilité la propagation d'une maladie infectieuse.",
         "link": "https://www.buzzfeednews.com/article/lesterfeder/uganda-jails-lgbtq-people-coronavirus",
         "progressive": "regressive",
         "category": "punitive",
@@ -6507,6 +6862,8 @@ response_data = [
         "description_es": "Campamentos de refugiados saharauis, ubicados a pocos kilómetros de Tinduf, sur de Argelia, batalla COVID-19",
 
 
+        "title_en": "#StayInYourTent: les mesures de protection COVID-19 atteignent le désert du Sahara",
+        "description_en": "Camps de réfugiés sahraouis, situés à quelques kilomètres de Tindouf, sud de l'Algérie, bataille COVID-19",
         "link": "https://www.euronews.com/2020/04/10/stayinyourtent-covid-19-protective-measures-reach-sahara-desert",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -6520,6 +6877,8 @@ response_data = [
         "description_es": "En medio de prisiones peligrosamente abarrotadas, Ghali Bani teme que solo sea cuestión de tiempo antes de que el virus llegue a su marido",
 
 
+        "title_en": "L'épouse d'un militant sahraoui emprisonné appelle le Maroc à libérer les prisonniers politiques",
+        "description_en": "Au milieu de prisons dangereusement surpeuplées, Ghali Bani craint que ce ne soit qu'une question de temps avant que le virus n'atteigne son mari",
         "link": "https://www.middleeasteye.net/news/coronavirus-morocco-western-sahara-wife-sahrawi-activist-call-free-prisoners",
         "progressive": "need to watch",
         "category": "punitive, healthcare",
@@ -6533,6 +6892,8 @@ response_data = [
         "description_es": "Descripción general de cómo el coronavirus y la respuesta del gobierno se verán afectados por la violencia en curso",
 
 
+        "title_en": "'Le virus est maintenant au Yémen', et il ne reste plus grand chose dans le pays déchiré par la guerre pour l'arrêter.",
+        "description_en": "Vue d'ensemble de la façon dont le coronavirus et la réponse du gouvernement seront affectés par la violence en cours",
         "link": "https://www.cbsnews.com/news/yemen-war-coronavirus-little-left-to-stop-spread-of-covid-19-2020-05-04/",
         "progressive": "need to watch",
         "category": "healthcare",
