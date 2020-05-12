@@ -349,8 +349,10 @@ response_data = [
         
 #         "title_fr": "Aide aux femmes fuyant la violence sexiste",
 #         "description_fr": "Le Canada accordera 40 millions de dollars à Women and Gender Equality Canada (WAGE), dont jusqu'à 30 millions de dollars répondront aux besoins immédiats des refuges et des centres d'agression sexuelle.",
-#         "title_es": "Apoyo a las mujeres que huyen de la violencia de género",
-#         "description_es": "Canadá otorgará $ 40 millones a Mujeres e Igualdad de Género de Canadá (WAGE), de los cuales hasta $ 30 millones cubrirán las necesidades inmediatas de refugios y centros de agresión sexual",
+#         "titleses": "Apoyo a las mujeres que huyen de la violencia de género",
+#         "descriptionses": "Canadá otorgará $ 40 millones a Mujeres e Igualdad de Género de Canadá (WAGE), de los cuales hasta $ 30 millones cubrirán las necesidades inmediatas de refugios y centros de agresión sexual",
+
+
 #         "link": "https://www.canada.ca/en/employment-social-development/news/2020/04/canada-announces-support-to-those-experiencing-homelessness-and-women-fleeing-gender-based-violence-during-the-coronavirus-disease-covid-19-pandemic.html",
 #         "progressive": "progressive",
 #         "category": "gender-based violence",
@@ -363,8 +365,10 @@ response_data = [
         
 #         "title_fr": "Sautez dans les affaires de violence domestique",
 #         "description_fr": "Les petites ressources de la Russie pour les victimes de DV deviennent encore plus tendues avec l'augmentation des cas",
-#         "title_es": "Saltar en casos de violencia doméstica",
-#         "description_es": "Los escasos recursos de Rusia para las víctimas de DV se vuelven aún más tensos con el aumento de los casos",
+#         "titleses": "Saltar en casos de violencia doméstica",
+#         "descriptionses": "Los escasos recursos de Rusia para las víctimas de DV se vuelven aún más tensos con el aumento de los casos",
+
+
 #         "link": "https://www.wilsoncenter.org/blog-post/womens-choice-covid-19-or-abusive-partner",
 #         "progressive": "regressive",
 #         "category": "gender-based violence",
@@ -377,8 +381,10 @@ response_data = [
 
 #         "title_fr": "Les ONG demandent au gouvernement de fournir une assistance aux victimes de DV",
 #         "description_fr": "Neuf organisations russes demandent au gouvernement de prendre d'urgence des mesures pour venir en aide aux victimes en quarantaine.",       
-#         "title_es": "Las ONG piden al gobierno que brinde asistencia a las víctimas de DV",
-#         "description_es": "Nueve organizaciones rusas están pidiendo al gobierno que tome medidas urgentes para brindar asistencia a las víctimas en cuarentena",
+#         "titleses": "Las ONG piden al gobierno que brinde asistencia a las víctimas de DV",
+#         "descriptionses": "Nueve organizaciones rusas están pidiendo al gobierno que tome medidas urgentes para brindar asistencia a las víctimas en cuarentena",
+
+
 #         "link": "https://www.kommersant.ru/doc/4310901?fbclid=IwAR3bHlWrDg6XXW2pn3JScientific Data5-fV8a8lqKwIrVnPSBpkxMugUwrAk-pcEWSzTo",
 #         "progressive": "need to watch",
 #         "category": "gender-based violence",
@@ -391,8 +397,10 @@ response_data = [
         
 #         "title_fr": "Le coronavirus prend un sérieux tournant en Russie, et Poutine ne rayonne plus de confiance",
 #         "description_fr": "La Russie a enregistré une augmentation record du nombre de cas, 2 558, même avec des restrictions strictes",
-#         "title_es": "El coronavirus da un giro serio en Rusia y Putin ya no irradia confianza",
-#         "description_es": "Rusia tuvo un aumento récord en los casos, 2,558, incluso con restricciones estrictas",
+#         "titleses": "El coronavirus da un giro serio en Rusia y Putin ya no irradia confianza",
+#         "descriptionses": "Rusia tuvo un aumento récord en los casos, 2,558, incluso con restricciones estrictas",
+
+
 #         "link": "https://www.cnn.com/2020/04/14/europe/russia-coronavirus-putin-response-intl/index.html",
 #         "progressive": "need to watch",
 #         "category": "healthcare",
@@ -405,8 +413,10 @@ response_data = [
         
 # "title_fr": "Admission sombre de Poutine Covid-19: Nous n'avons pas grand-chose à nous vanter",
 # "description_fr": "Poutine admet que la Russie est vulnérable à Covid après avoir revendiqué l'invincibilité de la Russie",
-#         "title_es": "Admisión de Putin Bleak Covid-19: 'No tenemos mucho de qué alardear'",
-#         "description_es": "Putin admite que Rusia es vulnerable a Covid después de reclamar la invencibilidad de Rusia",
+#         "titleses": "Admisión de Putin Bleak Covid-19: 'No tenemos mucho de qué alardear'",
+#         "descriptionses": "Putin admite que Rusia es vulnerable a Covid después de reclamar la invencibilidad de Rusia",
+
+
 #         "link": "https://www.nytimes.com/2020/04/13/world/europe/coronavirus-russia-putin.html",
 #         "progressive": "need to watch",
 #         "category": "healthcare",
@@ -419,8 +429,10 @@ response_data = [
         
 # "title_fr": "Poutine a récemment ordonné de vastes changements de politique pour atténuer les effets économiques de la pandémie",
 # "description_fr": "Les changements comprennent une suggestion de relever le plafond de la plupart des prestations de chômage d'environ 50% et un moratoire de 6 mois sur la faillite",
-#         "title_es": "Putin ordenó recientemente amplios cambios de política para suavizar los efectos económicos de la pandemia",
-#         "description_es": "Los cambios incluyen sugerencias para aumentar el límite de la mayoría de las prestaciones por desempleo en alrededor del 50% y una moratoria de 6 meses en caso de quiebra",
+#         "titleses": "Putin ordenó recientemente amplios cambios de política para suavizar los efectos económicos de la pandemia",
+#         "descriptionses": "Los cambios incluyen sugerencias para aumentar el límite de la mayoría de las prestaciones por desempleo en alrededor del 50% y una moratoria de 6 meses en caso de quiebra",
+
+
 #         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/04/02/825859574/putin-extends-no-work-order-for-russia-until-may-in-over-covid-19-pandemic",
 #         "progressive": "progressive",
 #         "category": "economy",
@@ -433,8 +445,10 @@ response_data = [
         
 # "title_fr": "Proposition de régime intrusif en ligne de Moscou pour la prévention du COVID-19",
 # "description_fr": "Les autorités peuvent utiliser les données de géolocalisation des résidents et les transactions financières pour suivre les mouvements et garantir le respect du verrouillage.",
-#         "title_es": "Propuesta intrusiva del régimen en línea de Moscú para la prevención COVID-19",
-#         "description_es": "Las autoridades pueden utilizar los datos de geolocalización de los residentes y las transacciones financieras para rastrear movimientos y garantizar el cumplimiento del bloqueo",
+#         "titleses": "Propuesta intrusiva del régimen en línea de Moscú para la prevención COVID-19",
+#         "descriptionses": "Las autoridades pueden utilizar los datos de geolocalización de los residentes y las transacciones financieras para rastrear movimientos y garantizar el cumplimiento del bloqueo",
+
+
 #         "link": "https://www.hrw.org/news/2020/04/01/moscows-intrusive-proposal-covid-19-prevention",
 #         "progressive": "need to watch",
 #         "category": "digital surveillance, punitive",
@@ -447,8 +461,10 @@ response_data = [
         
 # "title_fr": "Coronavirus: le Pérou annule la mesure de verrouillage de la séparation des sexes",
 # "description_fr": "Le Pérou a annulé une mesure controversée restreignant les mouvements publics par sexe",
-#         "title_es": "Coronavirus: Perú cancela la medida de bloqueo de separación de género",
-#         "description_es": "Perú canceló una medida controvertida que restringe el movimiento público por género",
+#         "titleses": "Coronavirus: Perú cancela la medida de bloqueo de separación de género",
+#         "descriptionses": "Perú canceló una medida controvertida que restringe el movimiento público por género",
+
+
 #         "link": "https://www.straitstimes.com/world/americas/coronavirus-peru-cancels-gender-separation-lockdown-measure",
 #         "progressive": "need to watch",
 #         "category": "punitive",
@@ -461,8 +477,10 @@ response_data = [
         
 # "title_fr": "Coronavirus: des hommes malaisiens font leurs courses dans un contexte de verrouillage",
 # "description_fr": "Des hommes malasiens se retrouvent de façon inattendue responsables de l'épicerie.",
-#         "title_es": "Coronavirus: hombres malayos en problemas de compras en medio del encierro",
-#         "description_es": "Los hombres de Malasia se encuentran inesperadamente responsables de las compras de comestibles",
+#         "titleses": "Coronavirus: hombres malayos en problemas de compras en medio del encierro",
+#         "descriptionses": "Los hombres de Malasia se encuentran inesperadamente responsables de las compras de comestibles",
+
+
 #         "link": "https://www.bbc.com/news/blogs-news-from-elsewhere-52040256",
 #         "progressive": "need to watch",
 #         "category": "food",
@@ -475,8 +493,10 @@ response_data = [
         
 # "title_fr": "Les travailleurs tadjiks font face à un avenir sombre alors que la Russie ferme ses frontières sur le coronavirus",
 # "description_fr": "Préoccupations concernant les répercussions financières de la fermeture prolongée des frontières",
-#         "title_es": "Los trabajadores tayikos se enfrentan al futuro terrible a medida que Rusia cierra las fronteras sobre el coronavirus",
-#         "description_es": "Preocupaciones por las repeticiones financieras de un cierre fronterizo extendido",
+#         "titleses": "Los trabajadores tayikos se enfrentan al futuro terrible a medida que Rusia cierra las fronteras sobre el coronavirus",
+#         "descriptionses": "Preocupaciones por las repeticiones financieras de un cierre fronterizo extendido",
+
+
 #         "link": "https://www.rferl.org/a/tajik-workers-face-dire-future-as-russia-closes-borders-over-coronavirus/30495815.html",
 #         "progressive": "need to watch",
 #         "category": "economy, labor",
@@ -489,8 +509,10 @@ response_data = [
         
 # "title_fr": "Ralentissement économique pour 2020 et 2021",
 # "description_fr": "Impacts déjà sur le commerce, les projets d'investissement, le tourisme, les revenus, la monnaie nationale, les migrations de main-d'œuvre",
-#         "title_es": "Desaceleración económica para 2020 y 2021",
-#         "description_es": "Impactos ya en el comercio, proyectos de inversión, turismo, ingresos, moneda nacional, migración laboral",
+#         "titleses": "Desaceleración económica para 2020 y 2021",
+#         "descriptionses": "Impactos ya en el comercio, proyectos de inversión, turismo, ingresos, moneda nacional, migración laboral",
+
+
 #         "link": "https://www.adb.org/news/tajikistan-economy-slow-down-sharply-2020-and-2021-weighed-covid-19-pandemic-adb",
 #         "progressive": "need to watch",
 #         "category": "economy",
@@ -503,8 +525,10 @@ response_data = [
         
 # "title_fr": "Le Turkménistan nie l'existence des affaires Covid",
 # "description_fr": "Des Turkmènes ont été arrêtés pour avoir discuté de la pandémie en public et n'ont pas pu obtenir d'informations fiables de leur gouvernement",
-#         "title_es": "Turkmenistán niega la existencia de casos Covid",
-#         "description_es": "Los turcomanos han sido arrestados por discutir la pandemia en público y no pueden obtener información confiable de su gobierno",
+#         "titleses": "Turkmenistán niega la existencia de casos Covid",
+#         "descriptionses": "Los turcomanos han sido arrestados por discutir la pandemia en público y no pueden obtener información confiable de su gobierno",
+
+
 #         "link": "https://thediplomat.com/2020/04/did-turkmenistan-really-ban-the-word-coronavirus/",
 #         "progressive": "regressive",
 #         "category": "healthcare, economy",
@@ -517,8 +541,10 @@ response_data = [
         
 # "title_fr": "Journée mondiale de la santé au Turkménistan",
 # "description_fr": "Les médias d'État ont rapporté que les festivités se déroulaient comme d'habitude, mais des sources disent qu'elles ont été annulées",
-#         "title_es": "Día Mundial de la Salud en Turkmenistán",
-#         "description_es": "Los medios estatales informaron que las festividades se realizaban como de costumbre, pero las fuentes dicen que fueron canceladas",
+#         "titleses": "Día Mundial de la Salud en Turkmenistán",
+#         "descriptionses": "Los medios estatales informaron que las festividades se realizaban como de costumbre, pero las fuentes dicen que fueron canceladas",
+
+
 #         "link": "https://thediplomat.com/2020/04/turkmenistan-celebrates-world-health-day-unwisely/",
 #         "progressive": "regressive",
 #         "category": "healthcare, economy",
@@ -531,8 +557,10 @@ response_data = [
         
 # "title_fr": "Le Kazakhstan expérimente une technologie de surveillance pour combattre la pandémie de coronavirus",
 # "description_fr": "Le gouvernement utilise l'application de suivi SmartAstana et la technologie de surveillance vidéo Sergek",
-#         "title_es": "Kazajstán experimenta con tecnología de vigilancia para combatir la pandemia de coronavirus",
-#         "description_es": "El gobierno está utilizando la aplicación de seguimiento SmartAstana y la tecnología de videovigilancia 'Sergek'",
+#         "titleses": "Kazajstán experimenta con tecnología de vigilancia para combatir la pandemia de coronavirus",
+#         "descriptionses": "El gobierno está utilizando la aplicación de seguimiento SmartAstana y la tecnología de videovigilancia 'Sergek'",
+
+
 #         "link": "https://jamestown.org/program/kazakhstan-experiments-with-surveillance-technology-to-battle-coronavirus-pandemic/",
 #         "progressive": "regressive",
 #         "category": "digital surveillance, healthcare",
@@ -545,8 +573,10 @@ response_data = [
         
 # "title_fr": "Le gouvernement met davantage de pression sur les militants kazakhs des droits civiques au milieu de la propagation de la convoitise",
 # "description_fr": "Les inquiétudes du gouvernement face à la réponse convoitée les conduisent à faire taire les manifestants",
-#         "title_es": "El gobierno ejerce más presión sobre los activistas de derechos civiles de Kazajstán en medio de una propagación codiciosa",
-#         "description_es": "La preocupación del gobierno por destacar las respuestas codiciosas los lleva a silenciar a los manifestantes",
+#         "titleses": "El gobierno ejerce más presión sobre los activistas de derechos civiles de Kazajstán en medio de una propagación codiciosa",
+#         "descriptionses": "La preocupación del gobierno por destacar las respuestas codiciosas los lleva a silenciar a los manifestantes",
+
+
 #         "link": "https://www.rferl.org/a/kazakhstan-kazakh-activists-coronavirus-human-rights-economy/30542645.html",
 #         "progressive": "regressive",
 #         "category": "punitive",
@@ -559,8 +589,10 @@ response_data = [
         
 # "title_fr": "Le Kazakhstan annonce un paquet économique de 10 milliards de dollars",
 # "description_fr": "Le gouvernement vise à aider à conjurer l'impact du coronavirus, car la guerre des prix du pétrole entre l'Arabie saoudite et la Russie rend plus difficile la stabilisation de l'économie.",
-#         "title_es": " Kazajstán anuncia paquete económico de $ 10 mil millones",
-#         "description_es": "El gobierno tiene como objetivo ayudar a evitar el impacto del coronavirus ya que la guerra de precios del petróleo entre Arabia Saudita y Rusia dificulta la estabilización de la economía",
+#         "titleses": " Kazajstán anuncia paquete económico de $ 10 mil millones",
+#         "descriptionses": "El gobierno tiene como objetivo ayudar a evitar el impacto del coronavirus ya que la guerra de precios del petróleo entre Arabia Saudita y Rusia dificulta la estabilización de la economía",
+
+
 #         "link": "https://www.aljazeera.com/news/2020/03/kazakhstan-announces-10bn-economic-package-200328091921790.html",
 #         "progressive": "progressive",
 #         "category": "economy",
@@ -573,8 +605,10 @@ response_data = [
         
 # "title_fr": "Le Kazakhstan prévoit d'augmenter les quotas d'exportation mensuels de blé et de farine",
 # "description_fr": "Le Kazakhstan a choisi de limiter ses exportations le mois dernier pour garantir un approvisionnement intérieur stable malgré les fermetures et les fermetures de frontières",
-#         "title_es": "Kazajstán planea aumentar las cuotas mensuales de exportación de trigo y harina",
-#         "description_es": "Kazajstán optó por limitar las exportaciones el mes pasado para garantizar un sumini,stro interno estable en medio de cierres y cierres de fronteras",
+#         "titleses": "Kazajstán planea aumentar las cuotas mensuales de exportación de trigo y harina",
+#         "descriptionses": "Kazajstán optó por limitar las exportaciones el mes pasado para garantizar un sumini,stro interno estable en medio de cierres y cierres de fronteras",
+
+
 #         "link": "https://www.reuters.com/article/kazakhstan-grains-export-quotas/kazakhstan-to-increase-wheat-flour-export-quotas-in-coming-months-idUSL8N2BW317",
 #         "progressive": "need to watch",
 #         "category": "economy, food",
@@ -587,8 +621,10 @@ response_data = [
         
 # "title_fr": "Absence de refuge pour les survivants de la violence domestique au Kazakhstan",
 # "description_fr": "La plupart des refuges ont cessé d'accepter de nouveaux survivants en raison des mesures de quarantaine obligatoires",
-#         "title_es": "Falta de refugio para los sobrevivientes de violencia doméstica de Kazajstán",
-#         "description_es": "La mayoría de los refugios dejaron de aceptar nuevos sobrevivientes debido a las medidas de cuarentena obligatorias",
+#         "titleses": "Falta de refugio para los sobrevivientes de violencia doméstica de Kazajstán",
+#         "descriptionses": "La mayoría de los refugios dejaron de aceptar nuevos sobrevivientes debido a las medidas de cuarentena obligatorias",
+
+
 #         "link": "https://www.hrw.org/news/2020/04/09/lack-refuge-kazakhstans-domestic-violence-survivors",
 #         "progressive": "need to watch",
 #         "category": "gender-based violence",
@@ -601,8 +637,10 @@ response_data = [
         
 # "title_fr": "Affaiblissement de l'application des lois pour les cas de violence domestique",
 # "description_fr": "Les mesures de quarantaine empêchent l'application de lois qui, au départ, n'étaient pas bien appliquées",
-#         "title_es": "Aplicación legal debilitada para casos de violencia doméstica",
-#         "description_es": "Las medidas de cuarentena inhiben la aplicación de las leyes que, para empezar, no se aplicaron bien",
+#         "titleses": "Aplicación legal debilitada para casos de violencia doméstica",
+#         "descriptionses": "Las medidas de cuarentena inhiben la aplicación de las leyes que, para empezar, no se aplicaron bien",
+
+
 #         "link": "https://www.unwomen.org/en/news/stories/2020/4/from-where-i-stand-dina-smailova-on-covid-19",
 #         "progressive": "regressive",
 #         "category": "gender-based violence",
@@ -615,8 +653,10 @@ response_data = [
 
 # "title_en": "Kyrgyzstan has proposed measures to help economy but warns funds are limited",
 # "description_en": "Even with foreign aid government announces that it will not be able to respond like more developed countries have",
-#         "title_es": "Kirguistán ha propuesto medidas para ayudar a la economía pero advierte que los fondos son limitados",
-#         "description_es": "Incluso con ayuda exterior, el gobierno anuncia que no podrá responder como lo han hecho los países más desarrollados",
+#         "titleses": "Kirguistán ha propuesto medidas para ayudar a la economía pero advierte que los fondos son limitados",
+#         "descriptionses": "Incluso con ayuda exterior, el gobierno anuncia que no podrá responder como lo han hecho los países más desarrollados",
+
+
 #         "link": "https://eurasianet.org/kyrgyzstan-government-promises-help-but-warns-of-limited-options",
 #         "progressive": "progressive",
 #         "category": "economy",
@@ -629,8 +669,10 @@ response_data = [
         
 # "title_fr": "Le couvre-feu, il est plus difficile d'échapper à la violence domestique",
 # "description_fr": "",
-#         "title_es": "El toque de queda hace que sea más difícil escapar de la violencia doméstica",
-#         "description_es": "",
+#         "titleses": "El toque de queda hace que sea más difícil escapar de la violencia doméstica",
+#         "descriptionses": "",
+
+
 #         "link": "https://www.hrw.org/news/2020/04/08/women-risk-domestic-violence-during-kyrgyzstans-lockdown",
 #         "progressive": "regressive",
 #         "category": "gender-based violence",
@@ -643,8 +685,10 @@ response_data = [
         
 # "title_fr": "Un député soulève la question de l'augmentation de la violence domestique en quarantaine",
 # "description_fr": "",
-#         "title_es": "MP plantea la cuestión del crecimiento de la violencia doméstica en cuarentena",
-#         "description_es": "",
+#         "titleses": "MP plantea la cuestión del crecimiento de la violencia doméstica en cuarentena",
+#         "descriptionses": "",
+
+
 #         "link": "https://kaktus.media/doc/409757_depytat:_razreshaetsia_li_vyhodit_iz_doma_jertvam_semeynogo_nasiliia_pri_ygroze_jizni_video.html",
 #         "progressive": "regressive",
 #         "category": "gender-based violence",
@@ -657,8 +701,10 @@ response_data = [
         
 # "title_fr": "Adoption d'un règlement strict pour lutter contre le COVID-19",
 # "description_fr": "les forces de l'ordre et les forces armées du pays ont été dotés de pouvoirs renouvelés",
-#         "title_es": "Adoptado un reglamento estricto para combatir COVID-19",
-#         "description_es": "los cuerpos policiales y las fuerzas armadas del país han recibido poderes renovados",
+#         "titleses": "Adoptado un reglamento estricto para combatir COVID-19",
+#         "descriptionses": "los cuerpos policiales y las fuerzas armadas del país han recibido poderes renovados",
+
+
 #         "link": "https://thediplomat.com/2020/04/uzbekistan-adopts-strict-regulations-to-fight-covid-19/",
 #         "progressive": "need to watch",
 #         "category": "punitive, healthcare",
@@ -671,8 +717,10 @@ response_data = [
         
 # "title_fr": "L'USAID a annoncé une contribution supplémentaire aux efforts de l'Ouzbékistan pour lutter contre le COVID-19",
 # "description_fr": "Pour les domaines prioritaires destinés à répondre aux besoins des citoyens, des professionnels de la santé et du gouvernement de l'Ouzbékistan",
-#         "title_es": "USAID ha anunciado una contribución adicional a los esfuerzos de Uzbekistán para combatir COVID-19",
-#         "description_es": "Para áreas prioritarias que brinden apoyo a las necesidades de los ciudadanos, profesionales de la salud y el gobierno de Uzbekistán",
+#         "titleses": "USAID ha anunciado una contribución adicional a los esfuerzos de Uzbekistán para combatir COVID-19",
+#         "descriptionses": "Para áreas prioritarias que brinden apoyo a las necesidades de los ciudadanos, profesionales de la salud y el gobierno de Uzbekistán",
+
+
 #         "link": "https://www.usaid.gov/uzbekistan/press-releases/apr-2-2020-usaid-announces-850000-support-uzbekistan-efforts-covid-19",
 #         "progressive": "progressive",
 #         "category": "healthcare",
@@ -685,8 +733,10 @@ response_data = [
         
 # "title_fr": "Au Panama, le verrouillage des coronavirus signifie la séparation des hommes et des femmes",
 # "description_fr": "Déclaration décrivant la ségrégation sexuelle de Panamas pour limiter le nombre d'individus à l'extérieur à la fois",
-#         "title_es": "En Panamá, el bloqueo del coronavirus significa separar hombres y mujeres",
-#         "description_es": "Declaración que describe la segregación de género en Panamá para limitar el número de personas afuera a la vez",
+#         "titleses": "En Panamá, el bloqueo del coronavirus significa separar hombres y mujeres",
+#         "descriptionses": "Declaración que describe la segregación de género en Panamá para limitar el número de personas afuera a la vez",
+
+
 #         "link": "https://www.cnn.com/2020/04/01/world/panama-coronavirus-sex-intl/index.html",
 #         "progressive": "need to watch",
 #         "category": "economy",
@@ -699,8 +749,10 @@ response_data = [
         
 # "title_fr": "Le Parti socialiste veut un meilleur soutien aux femmes",
 # "description_fr": "Le Parti socialiste encourage le lancement économique national sur les professions à prédominance féminine afin de protéger le travail essentiel.",
-#         "title_es": "El Partido Socialista quiere un mejor apoyo para las mujeres",
-#         "description_es": "El Partido Socialista alienta el enfoque de lanzamiento económico nacional en profesiones dominadas por mujeres para proteger el trabajo esencial",
+#         "titleses": "El Partido Socialista quiere un mejor apoyo para las mujeres",
+#         "descriptionses": "El Partido Socialista alienta el enfoque de lanzamiento económico nacional en profesiones dominadas por mujeres para proteger el trabajo esencial",
+
+
 #         "link": "https://www.24heures.ch/suisse/ps-veut-meilleur-soutien-femmes/story/10231664",
 #         "progressive": "need to watch",
 #         "category": "economy",
@@ -713,8 +765,10 @@ response_data = [
         
 # "title_fr": "En raison du coronavirus, la situation des sans-abri devient préoccupante",
 # "description_fr": "Les problèmes de sans-abrisme augmentent, le refuge pour femmes est fermé, le gymnase est proposé comme alternative, le refuge pour hommes reste ouvert.",
-#         "title_es": "Debido a Coronavirus, la situación de las personas sin hogar se vuelve preocupante",
-#         "description_es": "Los problemas de personas sin hogar aumentan, el refugio para mujeres está cerrado, el gimnasio se ofrece como alternativa, el refugio para hombres permanece abierto",
+#         "titleses": "Debido a Coronavirus, la situación de las personas sin hogar se vuelve preocupante",
+#         "descriptionses": "Los problemas de personas sin hogar aumentan, el refugio para mujeres está cerrado, el gimnasio se ofrece como alternativa, el refugio para hombres permanece abierto",
+
+
 #         "link": "https://www.rts.ch/info/suisse/11205350-face-au-coronavirus-la-situation-des-sans-domicile-fixe-inquiete.html",
 #         "progressive": "need to watch",
 #         "category": "",
@@ -727,8 +781,10 @@ response_data = [
         
 # "title_fr": "Conséquences du virus: vulnérabilité pour les prostituées sans revenus",
 # "description_fr": "Les travailleuses du sexe, interdites de travail, se retrouvent sans abri, sans savoir comment demander l'aide sociale.",
-#         "title_es": "Consecuencias del virus: vulnerabilidad para las prostitutas sin ingresos",
-#         "description_es": "A las trabajadoras sexuales se les prohíbe trabajar, quedan sin hogar, sin saber cómo solicitar asistencia social ofrecido como alternativa, el refugio masculino permanece abierto",
+#         "titleses": "Consecuencias del virus: vulnerabilidad para las prostitutas sin ingresos",
+#         "descriptionses": "A las trabajadoras sexuales se les prohíbe trabajar, quedan sin hogar, sin saber cómo solicitar asistencia social ofrecido como alternativa, el refugio masculino permanece abierto",
+
+
 #         "link": "https://www.swissinfo.ch/fre/les-cons%C3%A9quences-de-la-pand%C3%A9mie_pr%C3%A9carit%C3%A9-ou-clandestinit%C3%A9-pour-des-prostitu%C3%A9es-sans-revenu/45679246",
 #         "progressive": "regressive",
 #         "category": "SRHR",
@@ -741,8 +797,10 @@ response_data = [
         
 # "title_fr": "L'isolement contre le virus plus difficile à contrôler en prison",
 # "description_fr": "Pas de visites pour les prisonniers, compensation: 20% de bonus salarial pour les prisonniers et services postaux gratuits.",
-#         "title_es": "El aislamiento contra el virus es más difícil de controlar en prisión",
-#         "description_es": "No visitas para prisioneros, compensación: bonificación salarial del 20% para trabajadores presos y servicios postales gratuitos",
+#         "titleses": "El aislamiento contra el virus es más difícil de controlar en prisión",
+#         "descriptionses": "No visitas para prisioneros, compensación: bonificación salarial del 20% para trabajadores presos y servicios postales gratuitos",
+
+
 #         "link": "https://www.rts.ch/info/regions/vaud/11214097-l-isolement-contre-le-coronavirus-encore-plus-dur-a-gerer-en-prison.html",
 #         "progressive": "progressive",
 #         "category": "punitive",
@@ -755,8 +813,10 @@ response_data = [
         
 # "title_fr": "Augmentation des naissances à domicile en raison de Covid-19",
 # "description_fr": "Augmentation de la demande d'accouchements à domicile due aux peurs et aux restrictions hospitalières mais nécessite beaucoup de préparation.",
-#         "title_es": "Aumento de los nacimientos en el hogar debido a Covid-19",
-#         "description_es": "Demanda aumentada de partos en el hogar por miedo y restricciones hospitalarias, pero necesita mucha preparación",
+#         "titleses": "Aumento de los nacimientos en el hogar debido a Covid-19",
+#         "descriptionses": "Demanda aumentada de partos en el hogar por miedo y restricciones hospitalarias, pero necesita mucha preparación",
+
+
 #         "link": "https://www.rts.ch/info/suisse/11191496-hausse-des-accouchements-a-domicile-en-raison-de-la-pandemie-de-covid-19.html",
 #         "progressive": "need to watch",
 #         "category": "SRHR",
@@ -769,8 +829,10 @@ response_data = [
         
 # "title_fr": "Les victimes mises en quarantaine avec leur agresseur, un cauchemar",
 # "description_fr": "Les rapports de violence domestique sont constants, mais les craintes d'augmentation encouragent le voisin à agir et à appeler la ligne.",
-#         "title_es": "Víctimas en cuarentena con su abusador, una pesadilla",
-#         "description_es": "Los informes de violencia doméstica son constantes, pero el temor al aumento fomenta la actuación del vecino y la línea de llamada",
+#         "titleses": "Víctimas en cuarentena con su abusador, una pesadilla",
+#         "descriptionses": "Los informes de violencia doméstica son constantes, pero el temor al aumento fomenta la actuación del vecino y la línea de llamada",
+
+
 #         "link": "https://www.swissinfo.ch/fre/crise-du-coronavirus-_victimes-confin%C3%A9es-avec-leur-agresseur--le-cauchemar-/45646534",
 #         "progressive": "need to watch",
 #         "category": "gender-based violence",
@@ -783,8 +845,10 @@ response_data = [
         
 # "title_fr": "Violence domestique: pendant la quarantaine, gardez le dialogue ouvert à tout prix",
 # "description_fr": "32% d'augmentation de la DV, 1 million de dollars de dépenses publiques pour les centres d'assistance et les alertes dans les pharmacies.",
-#         "title_es": "Violencia doméstica: durante la cuarentena, mantener el diálogo abierto a toda costa",
-#         "description_es": "aumento del 32% en DV, $ 1 millón de gastos gubernamentales para centros de apoyo y alertas en farmacias",
+#         "titleses": "Violencia doméstica: durante la cuarentena, mantener el diálogo abierto a toda costa",
+#         "descriptionses": "aumento del 32% en DV, $ 1 millón de gastos gubernamentales para centros de apoyo y alertas en farmacias",
+
+
 #         "link": "https://www.france24.com/fr/20200409-violences-conjugales-pendant-le-confinement-maintenir-%C3%A0-tout-prix-le-dialogue-avec-les-victimes",
 #         "progressive": "regressive",
 #         "category": "gender-based violence",
@@ -797,8 +861,10 @@ response_data = [
         
 # "title_fr": "Covid-19: Qu'est-ce qui est prévu pour les femmes enceintes pendant la quarantaine?",
 # "description_fr": "Fort encouragement de la médecine en ligne pour les femmes enceintes, avec des visites essentielles limitées.",
-#         "title_es": "Covid-19: ¿Qué se planea para las mujeres embarazadas durante la cuarentena?",
-#         "description_es": "Fuerte promoción de la medicina en línea para mujeres embarazadas, con visitas esenciales limitadas",
+#         "titleses": "Covid-19: ¿Qué se planea para las mujeres embarazadas durante la cuarentena?",
+#         "descriptionses": "Fuerte promoción de la medicina en línea para mujeres embarazadas, con visitas esenciales limitadas",
+
+
 #         "link": "https://www.liberation.fr/checknews/2020/03/19/covid-19-qu-est-il-prevu-pour-les-femmes-enceintes-pendant-le-confinement_1782158",
 #         "progressive": "progressive",
 #         "category": "SRHR, healthcare, gendered health impacts",
@@ -811,8 +877,10 @@ response_data = [
         
 # "title_fr": "Virus Corona: un centre accueillera les mères et les bébés infectés",
 # "description_fr": "Le centre de protection de la mère et de l'enfant se transformera en centre pour les mères infectées et les nouveaux-nés",
-#         "title_es": "Corona Virus: un centro dará la bienvenida a madres y bebés infectados",
-#         "description_es": "El centro de protección maternoinfantil se reformará como un centro para madres infectadas y nuevos bebés",
+#         "titleses": "Corona Virus: un centro dará la bienvenida a madres y bebés infectados",
+#         "descriptionses": "El centro de protección maternoinfantil se reformará como un centro para madres infectadas y nuevos bebés",
+
+
 #         "link": "https://www.ouest-france.fr/sante/virus/coronavirus/coronavirus-un-centre-pmi-de-l-essonne-va-accueillir-les-jeunes-meres-atteintes-de-covid-19-et-leurs-6805105",
 #         "progressive": "progressive",
 #         "category": "childcare",
@@ -825,8 +893,10 @@ response_data = [
         
 # "title_fr": "Covid 19: Combiner travail en ligne et garde d'enfants, mission impossible?",
 # "description_fr": "Les parents trouvent impossible la garde des enfants et le travail en ligne avec une action gouvernementale insuffisante.",
-#         "title_es": "Covid 19: combinación de trabajo en línea y cuidado de niños, ¿misión imposible?",
-#         "description_es": "Padres que consideran que el cuidado de niños y el trabajo en línea son imposibles debido a que la acción del gobierno es insuficiente",
+#         "titleses": "Covid 19: combinación de trabajo en línea y cuidado de niños, ¿misión imposible?",
+#         "descriptionses": "Padres que consideran que el cuidado de niños y el trabajo en línea son imposibles debido a que la acción del gobierno es insuficiente",
+
+
 #         "link": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/coronavirus-covid-19-concilier-teletravail-garde-enfants-mission-impossible-1806632.html",
 #         "progressive": "regressive",
 #         "category": "childcare, economy",
@@ -839,8 +909,10 @@ response_data = [
         
 # "title_fr": "Corona Virus: Quarantine and mental load",
 # "description_fr": "Emploi féminin à risque sans garde d'enfants, le travail masculin en ligne domine dans le ménage.",
-#         "title_es": "Virus Corona: Cuarentena y carga mental",
-#         "description_es": "Empleo femenino en riesgo sin cuidado infantil disponible, el trabajo en línea masculino domina en el hogar",
+#         "titleses": "Virus Corona: Cuarentena y carga mental",
+#         "descriptionses": "Empleo femenino en riesgo sin cuidado infantil disponible, el trabajo en línea masculino domina en el hogar",
+
+
 #         "link": "https://www.forbes.fr/business/coronavirus-confinement-et-charge-mentale/?cn-reloaded=1",
 #         "progressive": "regressive",
 #         "category": "economy, labor",
@@ -853,8 +925,10 @@ response_data = [
         
 # "title_fr": "Covid-19: les proches aidants sont harcelés par leurs voisins de peur d'être infectés",
 # "description_fr": "Les travailleurs médicaux reçoivent des lettres et des menaces de voisins / propriétaires à travers le pays de peur de la contamination",
-#         "title_es": "Covid-19: Los cuidadores son hostigados por vecinos por miedo a la infección",
-#         "description_es": "Trabajadores médicos que reciben cartas y amenazas de vecinos / propietarios de todo el país por temor a la contaminación",
+#         "titleses": "Covid-19: Los cuidadores son hostigados por vecinos por miedo a la infección",
+#         "descriptionses": "Trabajadores médicos que reciben cartas y amenazas de vecinos / propietarios de todo el país por temor a la contaminación",
+
+
 #         "link": "https://francais.rt.com/france/73558-covid-19-soignants-harceles-par-leurs-voisins-par-peur-contagion",
 #         "progressive": "regressive",
 #         "category": "healthcare",
@@ -867,8 +941,10 @@ response_data = [
         
 # "title_fr": "La France étend son accès aux avortements pendant la pendule Covid-19",
 # "description_fr": "Des pilules pour l'avortement médicamenteux peuvent être prescrites par téléphone ou par vidéoconférence",
-#         "title_es": "Francia extiende el acceso a los abortos durante la Península de Covid-19",
-#         "description_es": "Las píldoras de aborto con medicamentos se pueden recetar por teléfono o por videoconferencia",
+#         "titleses": "Francia extiende el acceso a los abortos durante la Península de Covid-19",
+#         "descriptionses": "Las píldoras de aborto con medicamentos se pueden recetar por teléfono o por videoconferencia",
+
+
 #         "link": "http://www.rfi.fr/en/france/20200411-france-extends-access-to-abortions-during-covid-19-pandemic",
 #         "progressive": "progressive",
 #         "category": "SRHR",
@@ -881,8 +957,10 @@ response_data = [
         
 # "title_fr": "Contre le coronavirus, les femmes sont surtout en première ligne",
 # "description_fr": "Bien que les victimes soient majoritairement des hommes, la crainte que l'infection féminine ne découle de la domination féminine dans le domaine médical.",
-#         "title_es": "Contra el coronavirus, las mujeres están principalmente en primera línea",
-#         "description_es": "Aunque las víctimas son mayoritariamente masculinas, el miedo a la infección femenina surgirá del dominio médico femenino en el campo",
+#         "titleses": "Contra el coronavirus, las mujeres están principalmente en primera línea",
+#         "descriptionses": "Aunque las víctimas son mayoritariamente masculinas, el miedo a la infección femenina surgirá del dominio médico femenino en el campo",
+
+
 #         "link": "https://www.bastamag.net/coronavirus-Covid19-femmes-soignantes-TheLancet-inegalites-epidemies-sante",
 #         "progressive": "need to watch",
 #         "category": "gendered health impacts",
@@ -895,8 +973,10 @@ response_data = [
         
 # "title_fr": "Coronavirus en Belgique: les pharmacies sont précieuses pour les victimes de violences domestiques",
 # "description_fr": "La ville applique la pharmacie comme lieu sûr pour que les victimes atteignent les autorités.",
-#         "title_es": "Coronavirus en Bélgica: las farmacias son preciosas para las víctimas de violencia doméstica",
-#         "description_es": "La ciudad impone la farmacia como lugares seguros para que las víctimas lleguen a las autoridades",
+#         "titleses": "Coronavirus en Bélgica: las farmacias son preciosas para las víctimas de violencia doméstica",
+#         "descriptionses": "La ciudad impone la farmacia como lugares seguros para que las víctimas lleguen a las autoridades",
+
+
 #         "link": "https://www.rtl.be/info/belgique/societe/coronavirus-en-belgique-les-pharmacies-relais-precieux-pour-les-victimes-de-violences-conjugales-a-mons-1208638.aspx",
 #         "progressive": "progressive",
 #         "category": "gender-based violence",
@@ -909,8 +989,10 @@ response_data = [
         
 # "title_fr": "Les femmes sont fortement impactées par les explications de COVID-19: 4",
 # "description_fr": "Augmentation du nombre de signalements de violences domestiques, ligne de front dominée par les femmes, conséquences financières plus élevées, journées de travail plus longues.",
-#         "title_es": "Las explicaciones de COVID-19: 4 impactan fuertemente a las mujeres",
-#         "description_es": "Aumento de los informes de violencia doméstica, primera línea dominada por mujeres, mayores consecuencias financieras, más días de trabajo",
+#         "titleses": "Las explicaciones de COVID-19: 4 impactan fuertemente a las mujeres",
+#         "descriptionses": "Aumento de los informes de violencia doméstica, primera línea dominada por mujeres, mayores consecuencias financieras, más días de trabajo",
+
+
 #         "link": "https://www.solidaire.org/articles/les-femmes-durement-touchees-par-la-crise-du-coronavirus-la-preuve-par-4",
 #         "progressive": "regressive",
 #         "category": "labor, gendered health impacts, gender-based violence",
@@ -923,8 +1005,10 @@ response_data = [
         
 # "title_fr": "Mères célibataires et quarantaine: un défi",
 # "description_fr": "Le nombre élevé de mères célibataires rend les situations pratiques et financières difficiles.",
-#         "title_es": "Madres solteras y cuarentena: un desafío",
-#         "description_es": "El elevado número de madres solteras dificulta las situaciones prácticas y financieras",
+#         "titleses": "Madres solteras y cuarentena: un desafío",
+#         "descriptionses": "El elevado número de madres solteras dificulta las situaciones prácticas y financieras",
+
+
 #         "link": "https://www.rtbf.be/info/dossier/les-grenades/detail_meres-solo-et-confinement-la-galere?id=10462565",
 #         "progressive": "regressive",
 #         "category": "labor",
@@ -937,8 +1021,10 @@ response_data = [
         
 # "title_fr": "Coronavirus: le risque de violence domestique augmente en raison de la quarantaine",
 # "description_fr": "Ligne téléphonique ouverte pour les victimes, mais manque d'espaces / d'abris pour que les femmes quittent les agresseurs.",
-#         "title_es": "Coronavirus: el riesgo de violencia doméstica aumenta debido a la cuarentena",
-#         "description_es": "Línea de llamada abierta para víctimas, pero falta de espacios / refugios para que las mujeres dejen a los abusadores",
+#         "titleses": "Coronavirus: el riesgo de violencia doméstica aumenta debido a la cuarentena",
+#         "descriptionses": "Línea de llamada abierta para víctimas, pero falta de espacios / refugios para que las mujeres dejen a los abusadores",
+
+
 #         "link": "https://www.rtbf.be/info/dossier/les-grenades/detail_coronavirus-le-risque-de-violences-conjugales-augmente-a-cause-du-confinement?id=10460606",
 #         "progressive": "regressive",
 #         "category": "gender-based violence",
@@ -951,8 +1037,10 @@ response_data = [
         
 # "title_fr": "Amérique latine: réduire la surpopulation carcérale pour lutter contre le COVID-19",
 # "description_fr": "Human Rights Watch propose des alternatives à la détention pour les femmes enceintes, les filles et les principaux dispensateurs de soins",
-#         "title_es": "América Latina: reducir el hacinamiento en las cárceles para luchar contra COVID-19",
-#         "description_es": "Human Rights Watch sugiere alternativas a la detención para mujeres embarazadas, niñas, cuidadores primarios",
+#         "titleses": "América Latina: reducir el hacinamiento en las cárceles para luchar contra COVID-19",
+#         "descriptionses": "Human Rights Watch sugiere alternativas a la detención para mujeres embarazadas, niñas, cuidadores primarios",
+
+
 #         "link": "https://www.hrw.org/news/2020/04/02/latin-america-cut-prison-crowding-fight-covid-19",
 #         "progressive": "need to watch",
 #         "category": "gendered health impacts",
@@ -965,8 +1053,10 @@ response_data = [
         
 # "title_fr": "Des femmes et des filles déplacées en Amérique latine menacées par COVID-19",
 # "description_fr": "Absence de politiques de santé fondées sur les droits protégeant le groupe contre la faim, le sans-abrisme, la xénophobie, les services de santé",
-#         "title_es": "Mujeres y niñas desplazadas en América Latina amenazadas por COVID-19",
-#         "description_es": "Falta de políticas de salud basadas en derechos que protejan al grupo del hambre, la falta de vivienda, la xenofobia, los servicios de salud",
+#         "titleses": "Mujeres y niñas desplazadas en América Latina amenazadas por COVID-19",
+#         "descriptionses": "Falta de políticas de salud basadas en derechos que protejan al grupo del hambre, la falta de vivienda, la xenofobia, los servicios de salud",
+
+
 #         "link": "https://www.opendemocracy.net/en/democraciaabierta/displaced-women-and-girls-latin-america-threatened-covid-19/",
 #         "progressive": "regressive",
 #         "category": "SRHR, gendered health impacts, race",
@@ -979,8 +1069,10 @@ response_data = [
         
 # "title_fr": "Quaratine: Alertes d'augmentation des cas de violence contre les jeunes féministes Statement ou Analysis4kids",
 # "description_fr": "Atteindre et éduquer les enfants victimes de violence par le biais de lignes téléphoniques et de hashtags (principalement des filles).",
-#         "title_es": "Cuaratina: alertas de aumento de casos de violencia contra jóvenes feministas Declaración o Análisis4kids",
-#         "description_es": "Llegar y educar a las víctimas de violencia infantil a través de líneas de llamada y hashtags (principalmente niñas)",
+#         "titleses": "Cuaratina: alertas de aumento de casos de violencia contra jóvenes feministas Declaración o Análisis4kids",
+#         "descriptionses": "Llegar y educar a las víctimas de violencia infantil a través de líneas de llamada y hashtags (principalmente niñas)",
+
+
 #         "link": "https://www.lanacion.com.ar/comunidad/cuarentena-alertan-aumento-casos-violencia-ninos-ninas-nid2352289",
 #         "progressive": "progressive",
 #         "category": "childcare, gender-based violence",
@@ -993,8 +1085,10 @@ response_data = [
         
 # "title_fr": "Atténuer les risques et s'adapter à l'isolement: comment l'Argentine s'en sort",
 # "description_fr": "Seize personnes ont signalé des décès dus à la violence domestique en trois semaines, les rapports de violence ont augmenté de 39%",
-#         "title_es": "Mitigación de riesgos y adaptación al aislamiento: cómo está lidiando Argentina",
-#         "description_es": "Dieciséis reportaron muertes por violencia doméstica en tres semanas, la violencia reporta un aumento del 39%",
+#         "titleses": "Mitigación de riesgos y adaptación al aislamiento: cómo está lidiando Argentina",
+#         "descriptionses": "Dieciséis reportaron muertes por violencia doméstica en tres semanas, la violencia reporta un aumento del 39%",
+
+
 #         "link": "https://www.orfonline.org/expert-speak/mitigating-risks-and-adjusting-to-isolation-how-argentina-is-dealing-with-covid19-64567/",
 #         "progressive": "regressive",
 #         "category": "gender-based violence",
@@ -1007,8 +1101,10 @@ response_data = [
         
 # "title_fr": "La justice argentine propose une assignation à résidence pour COVID-19 pour des prisonniers spéciaux",
 # "description_fr": "Le gouvernement argentin recommande des mesures alternatives aux femmes enceintes incarcérées ou aux femmes incarcérées avec leurs enfants",
-#         "title_es": "La justicia argentina sugiere arresto domiciliario por COVID-19 para presos especiales",
-#         "description_es": "El gobierno argentino recomienda medidas alternativas para las mujeres embarazadas encarceladas o las mujeres encarceladas con sus hijos",
+#         "titleses": "La justicia argentina sugiere arresto domiciliario por COVID-19 para presos especiales",
+#         "descriptionses": "El gobierno argentino recomienda medidas alternativas para las mujeres embarazadas encarceladas o las mujeres encarceladas con sus hijos",
+
+
 #         "link": "https://www.vistazo.com/seccion/mundo/actualidad-mundial/justicia-argentina-sugiere-prision-domiciliaria-por-covid-19-en",
 #         "progressive": "need to watch",
 #         "category": "gendered health impacts",
@@ -1021,8 +1117,10 @@ response_data = [
         
 # "title_fr": "Que faire si vous êtes enceinte pendant cette épidémie?",
 # "description_fr": "Pendant une pandémie, la grossesse, l'accouchement, les soins aux nouveau-nés sont tous classés comme essentiels et doivent être maintenus",
-#         "title_es": "¿Qué hacer si está embarazada durante esta epidemia?",
-#         "description_es": "Durante la pandemia, el embarazo, el parto, el cuidado del recién nacido se clasifican como esenciales y deben mantenerse",
+#         "titleses": "¿Qué hacer si está embarazada durante esta epidemia?",
+#         "descriptionses": "Durante la pandemia, el embarazo, el parto, el cuidado del recién nacido se clasifican como esenciales y deben mantenerse",
+
+
 #         "link": "https://www.animalpolitico.com/2020/04/que-hacer-epidemia-covid-si-estas-embarazada/",
 #         "progressive": "progressive",
 #         "category": "SRHR, gendered health impacts",
@@ -1035,8 +1133,10 @@ response_data = [
         
 # "title_fr": "Les prostituées mexicaines sans abri, car le coronavirus garde les clients à la maison et ferme les hôtels",
 # "description_fr": "La fermeture d'hôtels laisse les travailleurs du sexe affamés et dans la rue, très vulnérables, aide gouvernementale insuffisante",
-#         "title_es": "Las prostitutas de México sin hogar como coronavirus mantienen a los clientes en casa, cierran hoteles",
-#         "description_es": "El cierre de los hoteles deja a las trabajadoras sexuales hambrientas y en la calle, muy vulnerables, asistencia gubernamental insuficiente",
+#         "titleses": "Las prostitutas de México sin hogar como coronavirus mantienen a los clientes en casa, cierran hoteles",
+#         "descriptionses": "El cierre de los hoteles deja a las trabajadoras sexuales hambrientas y en la calle, muy vulnerables, asistencia gubernamental insuficiente",
+
+
 #         "link": "https://www.reuters.com/article/us-health-coronavirus-mexico-sex-workers/mexicos-prostitutes-end-up-homeless-as-coronavirus-keeps-clients-at-home-shuts-hotels-idUSKCN21R26C",
 #         "progressive": "regressive",
 #         "category": "SRHR, economy, gendered health impacts",
@@ -1049,8 +1149,10 @@ response_data = [
         
 # "title_fr": "Le football féminin colombien subit des coupes plus importantes que le football masculin",
 # "description_fr": "Seuls trois clubs de joueuses contractent, laissant les joueuses restantes sans sécurité sociale pendant la crise.",
-#         "title_es": "El fútbol femenino colombiano sufre cortes mayores que el de los hombres",
-#         "description_es": "Solo tres clubes contratan jugadoras, dejando a las jugadoras restantes sin seguridad social durante la crisis",
+#         "titleses": "El fútbol femenino colombiano sufre cortes mayores que el de los hombres",
+#         "descriptionses": "Solo tres clubes contratan jugadoras, dejando a las jugadoras restantes sin seguridad social durante la crisis",
+
+
 #         "link": "https://www.dw.com/en/colombian-womens-football-cries-foul-after-suffering-bigger-cuts-than-mens-game/a-53161998",
 #         "progressive": "regressive",
 #         "category": "labor",
@@ -1063,8 +1165,10 @@ response_data = [
         
 # "title_fr": "Pour vaincre le virus, la Colombie essaie de séparer les hommes et les femmes",
 # "description_fr": "Les hommes et les femmes ne sont autorisés à sortir que tous les deux jours à Bogota pour réduire la foule.",
-#         "title_es": "Para vencer al virus, Colombia intenta separar a hombres y mujeres",
-#         "description_es": "Los hombres y las mujeres solo pueden salir en días alternos en Bogotá para reducir las multitudes",
+#         "titleses": "Para vencer al virus, Colombia intenta separar a hombres y mujeres",
+#         "descriptionses": "Los hombres y las mujeres solo pueden salir en días alternos en Bogotá para reducir las multitudes",
+
+
 #         "link": "https://www.nytimes.com/2020/04/15/world/americas/virus-colombia-bogota-men-women.html",
 #         "progressive": "need to watch",
 #         "category": "",
@@ -1077,8 +1181,10 @@ response_data = [
         
 # "title_fr": "Le verrouillage en Colombie affectera le droit à l'avortement",
 # "description_fr": "L'accès aux services de santé sexuelle et reproductive est entravé pour les femmes colombiennes et vénézuéliennes, principalement les avortements.",
-#         "title_es": "El bloqueo en Colombia afectará el derecho al aborto",
-#         "description_es": "El acceso a los servicios de salud sexual y reproductiva obstaculizó a las mujeres colombianas y venezolanas, principalmente los abortos",
+#         "titleses": "El bloqueo en Colombia afectará el derecho al aborto",
+#         "descriptionses": "El acceso a los servicios de salud sexual y reproductiva obstaculizó a las mujeres colombianas y venezolanas, principalmente los abortos",
+
+
 #         "link": "https://Globalvoices.org/2020/04/03/lockdown-in-colombia-will-affect-the-right-to-abortion-says-human-rights-lawyer/",
 #         "progressive": "regressive",
 #         "category": "SRHR, gender-based violence",
@@ -1091,8 +1197,10 @@ response_data = [
         
 # "title_fr": "COVID-19 retarde la collecte de données sur le genre à la frontière colombienne",
 # "description_fr": "Les groupes et organisations de femmes ont entravé la collecte de données pour l'autonomisation des femmes, retardant la promotion de l'égalité des sexes.",
-#         "title_es": "COVID-19 retrasa la recopilación de datos de género en la frontera colombiana",
-#         "description_es": "Los grupos y organizaciones de mujeres obstaculizaron la recopilación de datos para el empoderamiento de las mujeres, retrasando el avance de la igualdad de género",
+#         "titleses": "COVID-19 retrasa la recopilación de datos de género en la frontera colombiana",
+#         "descriptionses": "Los grupos y organizaciones de mujeres obstaculizaron la recopilación de datos para el empoderamiento de las mujeres, retrasando el avance de la igualdad de género",
+
+
 #         "link": "https://www.devex.com/news/covid-19-delays-gender-data-collection-on-colombian-border-96839",
 #         "progressive": "regressive",
 #         "category": "",
@@ -1105,8 +1213,10 @@ response_data = [
         
 # "title_fr": "Trois femmes assassinées le premier jour de la fermeture du coronavirus en Colombie",
 # "description_fr": "Les signalements de violences domestiques ont triplé depuis la mise en quarantaine, les féminicides ont augmenté.",
-#         "title_es": "Tres mujeres asesinadas el primer día del encierro de Coronavirus en Colombia",
-#         "description_es": "Los informes de violencia doméstica se han triplicado desde la cuarentena, los feminicidios aumentaron",
+#         "titleses": "Tres mujeres asesinadas el primer día del encierro de Coronavirus en Colombia",
+#         "descriptionses": "Los informes de violencia doméstica se han triplicado desde la cuarentena, los feminicidios aumentaron",
+
+
 #         "link": "https://colombiareports.com/three-women-murdered-on-first-day-of-colombias-coronavirus-lockdown/",
 #         "progressive": "regressive",
 #         "category": "gender-based violence",
@@ -1119,8 +1229,10 @@ response_data = [
         
 # "title_fr": "Les femmes sont-elles les plus vulnérables au COVID-19?",
 # "description_fr": "Pourcentage élevé d'emplois informels féminins, entraînant une instabilité financière, de faibles revenus, de faibles mécanismes de protection",
-#         "title_es": "¿Son las mujeres las más vulnerables a COVID-19?",
-#         "description_es": "Alto porcentaje de empleo informal femenino, que causa inestabilidad financiera, bajos ingresos, mecanismos de protección bajos",
+#         "titleses": "¿Son las mujeres las más vulnerables a COVID-19?",
+#         "descriptionses": "Alto porcentaje de empleo informal femenino, que causa inestabilidad financiera, bajos ingresos, mecanismos de protección bajos",
+
+
 #         "link": "https://www.telesurtv.net/news/mujeres-mas-vulnerables-pandemia-coronavirus-20200408-0051.html",
 #         "progressive": "regressive",
 #         "category": "labor",
@@ -1133,8 +1245,10 @@ response_data = [
         
 # "title_fr": "COVID-19 et ses impacts sur la vie des femmes",
 # "description_fr": "Appel à une action collective pour l'inclusion économique, un soutien renforcé, des programmes pour les femmes en période de crise et d'avenir",
-#         "title_es": "COVID-19 y sus impactos en la vida de las mujeres",
-#         "description_es": "Llamado a la acción colectiva para la inclusión económica, apoyo reforzado, programas para mujeres durante la crisis y el futuro",
+#         "titleses": "COVID-19 y sus impactos en la vida de las mujeres",
+#         "descriptionses": "Llamado a la acción colectiva para la inclusión económica, apoyo reforzado, programas para mujeres durante la crisis y el futuro",
+
+
 #         "link": "https://www.elespectador.com/opinion/covid-19-y-su-impacto-en-la-vida-de-las-mujeres-columna-911064",
 #         "progressive": "progressive",
 #         "category": "labor",
@@ -1147,8 +1261,10 @@ response_data = [
         
 # "title_fr": "Les organisations colombiennes se mobilisent pour aider les plus vulnérables",
 # "description_fr": "Initiatives d'action collective, une par Trans Community Network pour collecter des fonds / de la nourriture pour les professionnel (le) s du sexe",
-#         "title_es": "Las organizaciones colombianas se movilizan para ayudar a los más vulnerables",
-#         "description_es": "Iniciativas de acción colectiva, una de Trans Community Network para recaudar fondos / alimentos para trabajadoras sexuales",
+#         "titleses": "Las organizaciones colombianas se movilizan para ayudar a los más vulnerables",
+#         "descriptionses": "Iniciativas de acción colectiva, una de Trans Community Network para recaudar fondos / alimentos para trabajadoras sexuales",
+
+
 #         "link": "https://www.france24.com/es/20200321-covid19-colombia-organizaciones-ayuda-vulnerables",
 #         "progressive": "progressive",
 #         "category": "SRHR",
@@ -1161,8 +1277,10 @@ response_data = [
         
 # "title_fr": "Subvention Covid-19 au Chili: voyez comment vous pouvez en bénéficier",
 # "description_fr": "Subvention d'environ 60 $ US aux parents, tuteurs et étendue aux femmes enceintes.",
-#         "title_es": "Subsidio Covid-19 en Chile: vea cómo puede beneficiarse",
-#         "description_es": "Subsidio de aproximadamente $ 60USD a padres, cuidadores y extendido a mujeres embarazadas",
+#         "titleses": "Subsidio Covid-19 en Chile: vea cómo puede beneficiarse",
+#         "descriptionses": "Subsidio de aproximadamente $ 60USD a padres, cuidadores y extendido a mujeres embarazadas",
+
+
 #         "link": "https://libero.pe/ocio/1553605-bono-ayuda-familiar-covid-19-chile-2020-rut-revisa-beneficiario-dv-rut-ips-fecha-pago-familiar-banco",
 #         "progressive": "progressive",
 #         "category": "economy",
@@ -1175,8 +1293,10 @@ response_data = [
         
 # "title_fr": "Quarantaine au Chili: les cas de violence domestique augmentent de 70%",
 # "description_fr": "Une augmentation de 70% des signalements de violences domestiques a été signalée après la première semaine de quarantaine, faisant la promotion de la ligne téléphonique.",
-#         "title_es": "Cuarentena en Chile: los casos de violencia doméstica aumentan en un 70%",
-#         "description_es": "Se informó un aumento del 70% en los informes de violencia doméstica después de la primera semana de cuarentena, promoviendo la línea de llamada",
+#         "titleses": "Cuarentena en Chile: los casos de violencia doméstica aumentan en un 70%",
+#         "descriptionses": "Se informó un aumento del 70% en los informes de violencia doméstica después de la primera semana de cuarentena, promoviendo la línea de llamada",
+
+
 #         "link": "https://larepublica.pe/genero/2020/04/10/cuarentena-en-chile-denuncias-por-violencia-de-genero-aumentaron-en-un-70-atmp/",
 #         "progressive": "regressive",
 #         "category": "gender-based violence",
@@ -1189,8 +1309,10 @@ response_data = [
         
 # "title_fr": "Subvention de 380 semelles: et vous ne pouviez pas la recevoir?",
 # "description_fr": "Subvention gouvernementale aux travailleurs financièrement indépendants. Subvention à recevoir uniquement par la femme de la famille.",
-#         "title_es": "Subsidio de 380 soles: ¿Y no pudo recibirlo?",
-#         "description_es": "Subvención del gobierno a trabajadores económicamente independientes. Subvención que solo puede recibir una mujer de familia",
+#         "titleses": "Subsidio de 380 soles: ¿Y no pudo recibirlo?",
+#         "descriptionses": "Subvención del gobierno a trabajadores económicamente independientes. Subvención que solo puede recibir una mujer de familia",
+
+
 #         "link": "https://mag.elcomercio.pe/respuestas/bono-380-soles-que-hacer-si-mi-familiar-no-ha-podido-cobrar-bono-yo-me-quedo-en-casa-por-razones-de-fuerza-mayor-nnda-nnlt-noticia/",
 #         "progressive": "progressive",
 #         "category": "economy",
@@ -1203,8 +1325,10 @@ response_data = [
         
 # "title_fr": "Le Pérou met des hommes et des femmes en quarantaine à des jours différents",
 # "description_fr": "Politique concernant les jours spécifiques au sexe pour quitter le domicile. Préoccupations de la communauté LGBTQ +.",
-#         "title_es": "Perú está poniendo en cuarentena a hombres y mujeres en diferentes días",
-#         "description_es": "Política para días específicos de género para salir de la casa. Preocupaciones para la comunidad LGBTQ +",
+#         "titleses": "Perú está poniendo en cuarentena a hombres y mujeres en diferentes días",
+#         "descriptionses": "Política para días específicos de género para salir de la casa. Preocupaciones para la comunidad LGBTQ +",
+
+
 #         "link": "https://www.businessinsider.com/peru-quarantining-men-and-women-different-days-2020-4",
 #         "progressive": "need to watch",
 #         "category": "",
@@ -1217,8 +1341,10 @@ response_data = [
         
 # "title_fr": "Covid-19: Comment l'État protège-t-il les victimes de violence domestique dans la quarantaine?",
 # "description_fr": "Le gouvernement déclare que les victimes de DV peuvent demander l'intervention de la police, appeler la ligne n ° 100 et 14 abris fournis.",
-#         "title_es": "Covid-19: ¿Cómo protege el Estado a las víctimas de violencia doméstica en cuarentena?",
-#         "description_es": "El gobierno declara que las víctimas de DV pueden buscar intervención policial, llame a la línea # 100 y 14 refugios proporcionados",
+#         "titleses": "Covid-19: ¿Cómo protege el Estado a las víctimas de violencia doméstica en cuarentena?",
+#         "descriptionses": "El gobierno declara que las víctimas de DV pueden buscar intervención policial, llame a la línea # 100 y 14 refugios proporcionados",
+
+
 #         "link": "https://rpp.pe/politica/estado/covid-19-en-medio-de-la-cuarentena-como-protege-el-estado-a-las-victimas-de-violencia-familiar-noticia-1254585?ref=rpp",
 #         "progressive": "progressive",
 #         "category": "gender-based violence",
@@ -1231,8 +1357,10 @@ response_data = [
         
 # "title_fr": "Affrontement entre personnes transgenres et contrôles de police lors de mouvements à caractère sexiste",
 # "description_fr": "La police exige une pièce d'identité pour les personnes transgenres pendant une quarantaine séparée selon le sexe - forte discrimination / abus de pouvoir.",
-#         "title_es": "Choque de ID transgénero con controles policiales durante los movimientos de género restringido",
-#         "description_es": "La policía exige una identificación para las personas transgénero durante la cuarentena separada por género: alta discriminación / abuso de poder",
+#         "titleses": "Choque de ID transgénero con controles policiales durante los movimientos de género restringido",
+#         "descriptionses": "La policía exige una identificación para las personas transgénero durante la cuarentena separada por género: alta discriminación / abuso de poder",
+
+
 #         "link": "https://peru21.pe/lima/coronavirus-lgtb-peru-i-coronavirus-peru-policia-exige-dni-a-personas-transgenero-pese-a-aclaracion-del-presidente-martin-vizcarra-video-video-pandemia-coronavirus-covid-19-emergencia-sanitaria-estado-de-emergencia-nacional-noticia/",
 #         "progressive": "regressive",
 #         "category": "SRHR",
@@ -1245,8 +1373,10 @@ response_data = [
         
 # "title_fr": "Protocole pour les femmes en Équateur confrontées à une double pandémie",
 # "description_fr": "Les rapports de DV ont rapidement diminué, donc des lignes d'appel plus sûres ont été installées, 700 psychologues ont été embauchés.",
-#         "title_es": "Protocolo para mujeres en Ecuador que enfrentan una doble pandemia",
-#         "description_es": "Los informes de DV han disminuido rápidamente, por lo que se instalaron líneas de llamada más seguras, se contrataron 700 psicólogos",
+#         "titleses": "Protocolo para mujeres en Ecuador que enfrentan una doble pandemia",
+#         "descriptionses": "Los informes de DV han disminuido rápidamente, por lo que se instalaron líneas de llamada más seguras, se contrataron 700 psicólogos",
+
+
 #         "link": "http://laoferta.com/2020/04/12/protocolo-de-auxilio-para-las-mujeres-en-ecuador-que-afrontan-una-doble-pandemia/",
 #         "progressive": "need to watch",
 #         "category": "gender-based violence",
@@ -1259,8 +1389,10 @@ response_data = [
         
 # "title_fr": "Virus Corona: Cynthia Viteri fait don de son salaire à l'attention de la grossesse",
 # "description_fr": "Le maire de Guayaquil fait don d'un salaire pour aider les grossesses alors que le système de santé s'est effondré.",
-#         "title_es": "Virus Corona: Cynthia Viteri dona su salario para atención del embarazo",
-#         "description_es": "El alcalde de Guayaquil dona un salario para ayudar a los embarazos a medida que el sistema de salud ha colapsado",
+#         "titleses": "Virus Corona: Cynthia Viteri dona su salario para atención del embarazo",
+#         "descriptionses": "El alcalde de Guayaquil dona un salario para ayudar a los embarazos a medida que el sistema de salud ha colapsado",
+
+
 #         "link": "https://www.eluniverso.com/guayaquil/2020/04/12/nota/7812021/coronavirus-ecuador-alcaldesa-cynthia-viteri-donara-su-sueldo",
 #         "progressive": "regressive",
 #         "category": "healthcare, gendered health impacts",
@@ -1273,8 +1405,10 @@ response_data = [
         
 # "title_fr": "Plus d'obstacles pendant la pandémie pour des avortements sans risque en Amérique latine",
 # "description_fr": "Les avortements légaux sont très difficiles à obtenir, les organisations aident à communiquer pour accéder aux médicaments de terminaison.",
-#         "title_es": "Más obstáculos durante la pandemia para abortos seguros en América Latina",
-#         "description_es": "Los abortos legales son muy difíciles de obtener, las organizaciones ayudan a comunicarse para acceder a la medicina de terminación",
+#         "titleses": "Más obstáculos durante la pandemia para abortos seguros en América Latina",
+#         "descriptionses": "Los abortos legales son muy difíciles de obtener, las organizaciones ayudan a comunicarse para acceder a la medicina de terminación",
+
+
 #         "link": "https://elpais.com/sociedad/2020-04-09/la-pandemia-obstaculiza-aun-mas-el-aborto-seguro-en-america-latina.html",
 #         "progressive": "need to watch",
 #         "category": "SRHR, healthcare",
@@ -1287,8 +1421,10 @@ response_data = [
         
 # "title_fr": "Féminicide pendant la quarantaine d'une pandémie au Panama",
 # "description_fr": "Deux femmes assassinées, des féminicides signalés en hausse en 2020, craignent le pire pendant la quarantaine.",
-#         "title_es": "Feminicidio durante la cuarentena por pandemia en Panamá",
-#         "description_es": "Dos mujeres asesinadas, reportaron feminicidios en aumento en 2020, temen lo peor durante la cuarentena",
+#         "titleses": "Feminicidio durante la cuarentena por pandemia en Panamá",
+#         "descriptionses": "Dos mujeres asesinadas, reportaron feminicidios en aumento en 2020, temen lo peor durante la cuarentena",
+
+
 #         "link": "https://www.elmostrador.cl/braga/2020/04/20/asesinatos-de-mujeres-durante-confinamiento-por-pandemia-impactan-en-panama/",
 #         "progressive": "regressive",
 #         "category": "gender-based violence",
@@ -1301,8 +1437,10 @@ response_data = [
         
 # "title_fr": "La nouvelle discrimination LGBTI par Covid-19",
 # "description_fr": "Séjours extérieurs séparés par sexe sur la carte d'identité, déclare le ministre de la Santé. Peur de la communauté LGBTI.",
-#         "title_es": "La nueva discriminación LGBTI por Covid-19",
-#         "description_es": "Días separados al aire libre por sexo de la tarjeta de identidad, declara Ministro de Salud. Temor de la comunidad LGBTI",
+#         "titleses": "La nueva discriminación LGBTI por Covid-19",
+#         "descriptionses": "Días separados al aire libre por sexo de la tarjeta de identidad, declara Ministro de Salud. Temor de la comunidad LGBTI",
+
+
 #         "link": "https://www.lavanguardia.com/participacion/lectores-corresponsales/20200405/48284394819/panama-secregacion-sexo-cuarentena-covid-19-discriminacion-lgbti.html",
 #         "progressive": "regressive",
 #         "category": "gender-based violence",
@@ -1315,8 +1453,10 @@ response_data = [
         
 # "title_fr": "Comment les restrictions de genre fonctionneront au Panama",
 # "description_fr": "Jours et heures de départ spécifiques au sexe en fonction du numéro d'identification et du sexe pour obtenir les biens essentiels.",
-#         "title_es": "Cómo funcionarán las restricciones de género en Panamá",
-#         "description_es": "Días específicos de género y hora de salida basados ​​en el número de identificación y sexo para obtener bienes esenciales",
+#         "titleses": "Cómo funcionarán las restricciones de género en Panamá",
+#         "descriptionses": "Días específicos de género y hora de salida basados ​​en el número de identificación y sexo para obtener bienes esenciales",
+
+
 #         "link": "https://peru21.pe/mundo/coronavirus-panamai-periodista-detalla-como-funciona-la-restriccion-de-transito-segun-el-sexo-en-panama-fotos-pandemia-coronavirus-covid-19-emergencia-sanitaria-estado-de-emergencia-nacional-lgtb-noticia/",
 #         "progressive": "need to watch",
 #         "category": "",
@@ -1329,8 +1469,10 @@ response_data = [
         
 # "title_fr": "La pharmacie avance 3 millions USD pour la santé maternelle",
 # "description_fr": "Pharmacie 3 millions USD pour éviter les décès maternels, en améliorant les services aux femmes enceintes pendant la quarantaine.",
-#         "title_es": "Farmacia adelanta $ 3 millones de dólares para la salud materna",
-#         "description_es": "Farmacia $ 3 millones de dólares para evitar muertes maternas, al mejorar los servicios de mujeres embarazadas durante la cuarentena",
+#         "titleses": "Farmacia adelanta $ 3 millones de dólares para la salud materna",
+#         "descriptionses": "Farmacia $ 3 millones de dólares para evitar muertes maternas, al mejorar los servicios de mujeres embarazadas durante la cuarentena",
+
+
 #         "link": "https://www.laestrella.com.pa/nacional/200420/farmaceutica-aportara-3-millones-atencion-critica-madres-covid-19",
 #         "progressive": "progressive",
 #         "category": "gendered health impacts",
@@ -1343,8 +1485,10 @@ response_data = [
         
 # "title_fr": "Les femmes, répercussions de la quarantaine et de la violence domestique",
 # "description_fr": "Observés une augmentation de la violence domestique, ils se demandent pourquoi le Costa Rica n'a pas mis en place de mécanismes pour les femmes.",
-#         "title_es": "Mujeres, represalias de cuarentena y violencia doméstica",
-#         "description_es": "Se observó un aumento de la violencia doméstica, se preguntan por qué Costa Rica no ha implementado mecanismos para las mujeres",
+#         "titleses": "Mujeres, represalias de cuarentena y violencia doméstica",
+#         "descriptionses": "Se observó un aumento de la violencia doméstica, se preguntan por qué Costa Rica no ha implementado mecanismos para las mujeres",
+
+
 #         "link": "https://www.elpais.cr/2020/04/17/mujeres-repercusiones-del-confinamiento-a-raiz-del-coronavirus-y-violencia-domestica/",
 #         "progressive": "regressive",
 #         "category": "gender-based violence",
@@ -1357,8 +1501,10 @@ response_data = [
         
 # "title_fr": "Enceinte, naissance et lactation en période de coronavirus",
 # "description_fr": "Les services de maternité ont reçu des conseils pour des accouchements sans risque. Bien que les femmes choisissent de plus en plus les accouchements à domicile.",
-#         "title_es": "Embarazada, nacimiento y lactancia en tiempos de coronavirus",
-#         "description_es": "Los servicios de maternidad recibieron consejos para partos seguros. Aunque las mujeres cada vez eligen más partos en el hogar",
+#         "titleses": "Embarazada, nacimiento y lactancia en tiempos de coronavirus",
+#         "descriptionses": "Los servicios de maternidad recibieron consejos para partos seguros. Aunque las mujeres cada vez eligen más partos en el hogar",
+
+
 #         "link": "https://www.lostiempos.com/doble-click/vida/20200329/embarazo-parto-lactancia-tiempos-coronavirus",
 #         "progressive": "need to watch",
 #         "category": "SRHR",
@@ -1371,8 +1517,10 @@ response_data = [
         
 # "title_fr": "Une mère et des filles cubaines meurent entre les mains de leur ancien partenaire",
 # "description_fr": "Le premier féminicide signalé au milieu de la pandémie de Covid-19, met en garde contre l'augmentation de la violence domestique.",
-#         "title_es": "Madre e hijas cubanas mueren en manos de su ex pareja",
-#         "description_es": "El primer feminicidio denunciado en medio de la pandemia de Covid-19, advierte el aumento de la violencia doméstica",
+#         "titleses": "Madre e hijas cubanas mueren en manos de su ex pareja",
+#         "descriptionses": "El primer feminicidio denunciado en medio de la pandemia de Covid-19, advierte el aumento de la violencia doméstica",
+
+
 #         "link": "https://diariodecuba.com/cuba/1587466942_16976.html",
 #         "progressive": "regressive",
 #         "category": "gender-based violence",
@@ -1385,8 +1533,10 @@ response_data = [
         
 # "title_fr": "Violence et Covid-19: abus contestés",
 # "description_fr": "Peur de l'augmentation de la violence domestique, assistance psycholocale et juridique des victimes par téléphone et courrier disponible.",
-#         "title_es": "Violencia y Covid-19: abuso en disputa",
-#         "description_es": "Temor de aumentar la violencia doméstica, apoyo psicológico y legal a las víctimas por teléfono y correo disponible",
+#         "titleses": "Violencia y Covid-19: abuso en disputa",
+#         "descriptionses": "Temor de aumentar la violencia doméstica, apoyo psicológico y legal a las víctimas por teléfono y correo disponible",
+
+
 #         "link": "http://www.juventudrebelde.cu/suplementos/sexo-sentido/2020-04-14/violencia-y-covid-19-flagelos-en-disputa",
 #         "progressive": "need to watch",
 #         "category": "gender-based violence",
@@ -1399,8 +1549,10 @@ response_data = [
         
 # "title_fr": "L'Amérique latine lutte contre la violence domestique pendant Covid-19",
 # "description_fr": "Deux initiatives de la société civile: deux plateformes de conseil en ligne indépendantes par téléphone, e-mail et médias sociaux.",
-#         "title_es": "América Latina lucha contra la violencia doméstica durante Covid-19",
-#         "description_es": "Dos iniciativas de la sociedad civil: dos plataformas independientes de asesoramiento en línea por teléfono, correo electrónico y redes sociales",
+#         "titleses": "América Latina lucha contra la violencia doméstica durante Covid-19",
+#         "descriptionses": "Dos iniciativas de la sociedad civil: dos plataformas independientes de asesoramiento en línea por teléfono, correo electrónico y redes sociales",
+
+
 #         "link": "https://www.dw.com/es/am%C3%A9rica-latina-lucha-contra-la-violencia-de-g%C3%A9nero-en-tiempos-del-coronavirus/a-52971832",
 #         "progressive": "progressive",
 #         "category": "gender-based violence",
@@ -1413,8 +1565,10 @@ response_data = [
         
 # "title_fr": "Cambodge: réduction de la liberté d'expression de COVID-19",
 # "description_fr": "HRW a documenté l'arrestation de 17 personnes depuis fin janvier 2020 pour avoir partagé des informations sur le coronavirus au Cambodge, dont 5 femmes et une fille de 14 ans.",
-#         "title_es": "Camboya: COVID-19 Reprimir la libertad de expresión",
-#         "description_es": "HRW ha documentado las detenciones de 17 personas desde fines de enero de 2020 por compartir información sobre el coronavirus en Camboya, incluidas 5 mujeres y una niña de 14 años",
+#         "titleses": "Camboya: COVID-19 Reprimir la libertad de expresión",
+#         "descriptionses": "HRW ha documentado las detenciones de 17 personas desde fines de enero de 2020 por compartir información sobre el coronavirus en Camboya, incluidas 5 mujeres y una niña de 14 años",
+
+
 #         "link": "https://www.hrw.org/news/2020/03/24/cambodia-covid-19-clampdown-free-speech#",
 #         "progressive": "regressive",
 #         "category": "punitive",
@@ -1427,8 +1581,10 @@ response_data = [
         
 # "title_fr": "Donner la priorité aux besoins des personnes exposées à un risque accru de violence sexiste dans la réponse à la situation COVID-19",
 # "description_fr": "Les organisations de la société civile au Cambodge ont écrit une lettre ouverte au gouvernement pour exprimer leur inquiétude quant aux problèmes liés au genre à exacerber pendant et après la pandémie actuelle.",
-#         "title_es": "Priorizar las necesidades de las personas con mayor riesgo de violencia de género al responder a la situación COVID-19",
-#         "description_es": "Las organizaciones de la sociedad civil en Camboya escribieron una carta abierta al gobierno para expresar su preocupación por los problemas de género que se exacerbarán durante y después de la pandemia actual",
+#         "titleses": "Priorizar las necesidades de las personas con mayor riesgo de violencia de género al responder a la situación COVID-19",
+#         "descriptionses": "Las organizaciones de la sociedad civil en Camboya escribieron una carta abierta al gobierno para expresar su preocupación por los problemas de género que se exacerbarán durante y después de la pandemia actual",
+
+
 #         "link": "https://www.business-humanrights.org/en/cambodia-15-ngos-call-on-govt-to-prioritise-the-needs-of-people-at-increased-risk-of-gender-based-violence-in-responding-to-the-covid-19",
 #         "progressive": "progressive",
 #         "category": "gender-based violence",
@@ -1441,8 +1597,10 @@ response_data = [
         
 # "title_fr": "Peur du coronavirus, les femmes enceintes évitent les hôpitaux",
 # "description_fr": "Un grand nombre de femmes enceintes restent loin des hôpitaux et annulent les rendez-vous prénataux en raison de la crainte d'une infection.",
-#         "title_es": "Miedo al coronavirus, las mujeres embarazadas evitan los hospitales",
-#         "description_es": "Un gran número de mujeres embarazadas se mantienen alejadas de los hospitales y cancelan las citas prenatales por temor a la infección",
+#         "titleses": "Miedo al coronavirus, las mujeres embarazadas evitan los hospitales",
+#         "descriptionses": "Un gran número de mujeres embarazadas se mantienen alejadas de los hospitales y cancelan las citas prenatales por temor a la infección",
+
+
 #         "link": "https://www.voacambodia.com/a/scared-of-coronavirus-pregnant-women-avoid-hospitals-/5368829.html",
 #         "progressive": "need to watch",
 #         "category": "healthcare",
@@ -1455,8 +1613,10 @@ response_data = [
         
 # "title_fr": "Myanmar Factory utilise COVID-19 pour faire exploser l'Union",
 # "description_fr": "L'usine de confection de Myan Mode a licencié en permanence les 520 membres du syndicat (principalement des jeunes femmes) et retenu les salaires de mars, invoquant une baisse des commandes en raison de COVID-19",
-#         "title_es": "La fábrica de Myanmar utiliza COVID-19 para el busto de la Unión",
-#         "description_es": "La fábrica de ropa Myan Mode despidió permanentemente a todos los 520 miembros del sindicato (en su mayoría mujeres jóvenes) y retuvo los salarios de marzo, citando una disminución en los pedidos debido a COVID-19",
+#         "titleses": "La fábrica de Myanmar utiliza COVID-19 para el busto de la Unión",
+#         "descriptionses": "La fábrica de ropa Myan Mode despidió permanentemente a todos los 520 miembros del sindicato (en su mayoría mujeres jóvenes) y retuvo los salarios de marzo, citando una disminución en los pedidos debido a COVID-19",
+
+
 #         "link": "https://www.solidaritycenter.org/myanmar-factory-uses-covid-19-to-union-bust/",
 #         "progressive": "regressive",
 #         "category": "labor",
@@ -1469,8 +1629,10 @@ response_data = [
         
 # "title_fr": "MSWRR établira un plan de projet pour la prévention et le contrôle du COVID-19 dans les camps de déplacés",
 # "description_fr": "Le Ministère de la protection sociale, des secours et de la réinstallation rédigera un plan de projet pour la prévention, le contrôle et le traitement de l'infection à coronavirus dans les camps de déplacés.",
-#         "title_es": "MSWRR elaborará un plan de proyecto para la prevención, el control de COVID-19 en los campamentos de desplazados internos",
-#         "description_es": "Ministerio de Bienestar Social, Socorro y Reasentamiento del borrador del plan del proyecto para la prevención, control y tratamiento de la infección por Coronavirus en los campamentos de desplazados internos",
+#         "titleses": "MSWRR elaborará un plan de proyecto para la prevención, el control de COVID-19 en los campamentos de desplazados internos",
+#         "descriptionses": "Ministerio de Bienestar Social, Socorro y Reasentamiento del borrador del plan del proyecto para la prevención, control y tratamiento de la infección por Coronavirus en los campamentos de desplazados internos",
+
+
 #         "link": "https://www.Globalnewlightofmyanmar.com/mswrr-to-draw-project-plan-for-covid-19-prevention-control-at-idp-camps/",
 #         "progressive": "need to watch",
 #         "category": "healthcare",
@@ -1483,8 +1645,10 @@ response_data = [
         
 # "title_fr": "Pourriture des melons, volet des usines: retombées du COVID-19 au Myanmar",
 # "description_fr": "Des milliers d'emplois dans les usines (occupés en majorité par des femmes) ont été perdus et le commerce frontalier avec la Chine a été décimé alors que le Myanmar est sous le choc de la pandémie de coronavirus.",
-#         "title_es": "Podredumbre de melones, obturación de fábricas: consecuencias de COVID-19 de Myanmar",
-#         "description_es": "Se han perdido miles de empleos en las fábricas (en su mayoría controlados por mujeres) y el comercio fronterizo con China se ha diezmado a medida que Myanmar se tambalea por el impacto de la pandemia de coronavirus",
+#         "titleses": "Podredumbre de melones, obturación de fábricas: consecuencias de COVID-19 de Myanmar",
+#         "descriptionses": "Se han perdido miles de empleos en las fábricas (en su mayoría controlados por mujeres) y el comercio fronterizo con China se ha diezmado a medida que Myanmar se tambalea por el impacto de la pandemia de coronavirus",
+
+
 #         "link": "https://frontiermyanmar.net/en/melons-rot-factories-shutter-myanmars-covid-19-fallout",
 #         "progressive": "need to watch",
 #         "category": "economy",
@@ -1497,8 +1661,10 @@ response_data = [
         
 # "title_fr": "L'isolement au Myanmar entraîne une augmentation de la violence domestique",
 # "description_fr": "Il y a eu une augmentation du nombre de plaintes pour violence familiale depuis que le gouvernement a commencé les fermetures.",
-#         "title_es": "El bloqueo de Myanmar provoca un aumento de la violencia doméstica",
-#         "description_es": "Ha habido un aumento en el número de denuncias de violencia doméstica desde que el gobierno comenzó los bloqueos",
+#         "titleses": "El bloqueo de Myanmar provoca un aumento de la violencia doméstica",
+#         "descriptionses": "Ha habido un aumento en el número de denuncias de violencia doméstica desde que el gobierno comenzó los bloqueos",
+
+
 #         "link": "https://www.nst.com.my/world/region/2020/04/580944/myanmar-lockdown-leads-rise-domestic-violence",
 #         "progressive": "regressive",
 #         "category": "gender-based violence",
@@ -1511,8 +1677,10 @@ response_data = [
         
 # "title_fr": "Au Myanmar, la faim éclipse le COVID-19 pour les plus pauvres de Yangon",
 # "description_fr": "25 000 travailleurs de l'habillement du Myanmar provenant de plus de 40 usines ont perdu leur emploi en raison de la pandémie; la plupart des femmes sont confrontées à une famine imminente pendant le verrouillage.",
-#         "title_es": "En Myanmar, el hambre eclipsa COVID-19 para los más pobres de Yangon",
-#         "description_es": "25,000 trabajadores de la confección de Myanmar de más de 40 fábricas perdieron sus empleos debido a la pandemia; en su mayoría mujeres, enfrentan un hambre inminente durante el encierro",
+#         "titleses": "En Myanmar, el hambre eclipsa COVID-19 para los más pobres de Yangon",
+#         "descriptionses": "25,000 trabajadores de la confección de Myanmar de más de 40 fábricas perdieron sus empleos debido a la pandemia; en su mayoría mujeres, enfrentan un hambre inminente durante el encierro",
+
+
 #         "link": "https://thediplomat.com/2020/04/in-myanmar-hunger-overshadows-covid-19-for-yangons-poorest/",
 #         "progressive": "need to watch",
 #         "category": "food",
@@ -1525,8 +1693,10 @@ response_data = [
         
 # "title_fr": "L'UE promet son soutien aux travailleuses des usines de confection au Myanmar",
 # "description_fr": "L'UE fournira 5 millions d'euros (7,9 milliards de kyats) en tant que fonds d'urgence pour soutenir les travailleuses du secteur de l'habillement du Myanmar touchées par COVID-19.",
-#         "title_es": "La UE promete apoyo a las trabajadoras de la fábrica de prendas de vestir en Myanmar",
-#         "description_es": "La UE proporcionará 5 millones de euros (7.900 millones de kyats) como fondo de emergencia para apoyar a las trabajadoras del sector de la confección de Myanmar que se ven afectadas por COVID-19",
+#         "titleses": "La UE promete apoyo a las trabajadoras de la fábrica de prendas de vestir en Myanmar",
+#         "descriptionses": "La UE proporcionará 5 millones de euros (7.900 millones de kyats) como fondo de emergencia para apoyar a las trabajadoras del sector de la confección de Myanmar que se ven afectadas por COVID-19",
+
+
 #         "link": "https://www.irrawaddy.com/specials/myanmar-covid-19/eu-pledges-support-for-women-garment-factory-workers-in-myanmar.html",
 #         "progressive": "progressive",
 #         "category": "labor",
@@ -1539,8 +1709,10 @@ response_data = [
         
 # "title_fr": "Myanmar: 3 inculpés pour le street art COVID-19",
 # "description_fr": "Le gouvernement du Myanmar a inculpé trois artistes de rue (une femme) arrêtés pour avoir peint une peinture murale qui sensibilise à la pandémie de coronavirus parce qu'elle viole la loi criminalisant le discours qui insulte la religion.",
-#         "title_es": "Myanmar: 3 acusados ​​de arte callejero COVID-19",
-#         "description_es": "El gobierno de Myanmar acusó a tres artistas callejeros (una mujer) arrestados por pintar un mural que crea conciencia sobre la pandemia de coronavirus porque viola la ley que criminaliza el discurso que insulta a la religión",
+#         "titleses": "Myanmar: 3 acusados ​​de arte callejero COVID-19",
+#         "descriptionses": "El gobierno de Myanmar acusó a tres artistas callejeros (una mujer) arrestados por pintar un mural que crea conciencia sobre la pandemia de coronavirus porque viola la ley que criminaliza el discurso que insulta a la religión",
+
+
 #         "link": "https://www.hrw.org/news/2020/04/08/myanmar-3-charged-covid-19-street-art",
 #         "progressive": "regressive",
 #         "category": "punitive",
@@ -1553,8 +1725,10 @@ response_data = [
         
 # "title_fr": "Impact de Covid-19 et réponses: Myanmar",
 # "description_fr": "Les chômeuses doivent recevoir 6 mois de soins de santé et certaines prestations de maternité; les travailleuses enceintes ne sont pas autorisées dans les usines, mais reçoivent un soutien financier.",
-#         "title_es": "Impacto de Covid-19 y respuestas: Myanmar",
-#         "description_es": "Las trabajadoras desempleadas recibirán 6 meses de atención médica y algunos beneficios de maternidad; las trabajadoras embarazadas no están permitidas en las fábricas, pero recibirán algún tipo de apoyo financiero",
+#         "titleses": "Impacto de Covid-19 y respuestas: Myanmar",
+#         "descriptionses": "Las trabajadoras desempleadas recibirán 6 meses de atención médica y algunos beneficios de maternidad; las trabajadoras embarazadas no están permitidas en las fábricas, pero recibirán algún tipo de apoyo financiero",
+
+
 #         "link": "https://www.fairwear.org/covid-19-dossier/covid-19-guidance-for-production-countries/covid-19-impact-and-responses-myanmar/",
 #         "progressive": "need to watch",
 #         "category": "labor",
@@ -1567,8 +1741,10 @@ response_data = [
         
 # "title_fr": "Covid-19 (Indonésie): le syndicat critique le plan de test rapide corona pour House alors que les travailleurs sont toujours au travail",
 # "description_fr": "La Confédération des travailleurs indonésiens unis a critiqué le plan visant à effectuer un test rapide pour Covid-19 sur 575 membres de la Chambre des représentants (DPR) mais pas sur les travailleurs (principalement des femmes) qui travaillent à proximité sans protection.",
-#         "title_es": "Covid-19 (Indonesia): el sindicato critica el plan de prueba rápida de corona para House mientras los trabajadores aún están en el trabajo",
-#         "description_es": "La Confederación de Trabajadores Unidos de Indonesia criticó el plan de llevar a cabo una prueba rápida para Covid-19 en 575 miembros de la Cámara de Representantes (DPR) pero no en los trabajadores (en su mayoría mujeres) que trabajan en las proximidades sin protección",
+#         "titleses": "Covid-19 (Indonesia): el sindicato critica el plan de prueba rápida de corona para House mientras los trabajadores aún están en el trabajo",
+#         "descriptionses": "La Confederación de Trabajadores Unidos de Indonesia criticó el plan de llevar a cabo una prueba rápida para Covid-19 en 575 miembros de la Cámara de Representantes (DPR) pero no en los trabajadores (en su mayoría mujeres) que trabajan en las proximidades sin protección",
+
+
 #         "link": "http://www.europe-solidaire.org/spip.php?article52591",
 #         "progressive": "need to watch",
 #         "category": "labor",
@@ -1581,8 +1757,10 @@ response_data = [
         
 # "title_fr": "COVID-19: les impacts sexospécifiques de l'épidémie",
 # "description_fr": "Les restrictions de voyage entraînent des difficultés financières et de l'incertitude pour la plupart des employées de maison étrangères, dont beaucoup voyagent en Asie du Sud-Est entre les Philippines, l'Indonésie, Hong Kong et Singapour.",
-#         "title_es": "COVID-19: los impactos de género del brote",
-#         "description_es": "Las restricciones de viaje causan desafíos financieros e incertidumbre para la mayoría de las trabajadoras domésticas extranjeras, muchas de las cuales viajan al sudeste asiático entre Filipinas, Indonesia, Hong Kong y Singapur",
+#         "titleses": "COVID-19: los impactos de género del brote",
+#         "descriptionses": "Las restricciones de viaje causan desafíos financieros e incertidumbre para la mayoría de las trabajadoras domésticas extranjeras, muchas de las cuales viajan al sudeste asiático entre Filipinas, Indonesia, Hong Kong y Singapur",
+
+
 #         "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30526-2/fulltext",
 #         "progressive": "need to watch",
 #         "category": "labor",
@@ -1595,8 +1773,10 @@ response_data = [
         
 # "title_fr": "La violence domestique s'intensifie au milieu des blocages de coronavirus en Asie",
 # "description_fr": "Parce que la disparité entre les sexes pour le travail domestique est élevée en Asie, la Commission nationale sur la violence contre les femmes a averti que les femmes faisaient face à une violence physique accrue pendant le verrouillage partiel, a appelé à une répartition égale du travail dans les familles.",
-#         "title_es": "La violencia doméstica aumenta en medio de los bloqueos de coronavirus en Asia",
-#         "description_es": "Debido a que la disparidad de género en el trabajo doméstico es alta en Asia, la Comisión Nacional de Violencia contra la Mujer advirtió que las mujeres enfrentan un aumento de la violencia física durante el encierro parcial, exhortó a la distribución equitativa del trabajo en las familias",
+#         "titleses": "La violencia doméstica aumenta en medio de los bloqueos de coronavirus en Asia",
+#         "descriptionses": "Debido a que la disparidad de género en el trabajo doméstico es alta en Asia, la Comisión Nacional de Violencia contra la Mujer advirtió que las mujeres enfrentan un aumento de la violencia física durante el encierro parcial, exhortó a la distribución equitativa del trabajo en las familias",
+
+
 #         "link": "https://www.dw.com/en/domestic-violence-rises-amid-coronavirus-lockdowns-in-asia/a-53077378",
 #         "progressive": "need to watch",
 #         "category": "childcare, labor",
@@ -1609,8 +1789,10 @@ response_data = [
         
 # "title_fr": "Options du plan de travail pour les entreprises affectées par COVID-19",
 # "description_fr": "D'après les directives du ministère de la Santé du Vietnam: les travailleurs de l'habillement (principalement des femmes) ne paieront pas de pénalité pour le travail manquant en raison de COVID-19; les employés doivent négocier une indemnité de départ en cas de maladie; les employeurs peuvent résilier unilatéralement les contrats de travail mais donnez juste un avis approprié.",
-#         "title_es": "Opciones del plan laboral para empresas afectadas por COVID-19",
-#         "description_es": "Basado en la guía del Ministerio de Salud de Vietnam: los trabajadores de la confección (en su mayoría mujeres) no pagarán multas por falta de trabajo debido a COVID-19; los empleados deben negociar la indemnización en caso de enfermedad; los poderes pueden rescindir unilateralmente los contratos laborales pero solo dale el aviso correspondiente",
+#         "titleses": "Opciones del plan laboral para empresas afectadas por COVID-19",
+#         "descriptionses": "Basado en la guía del Ministerio de Salud de Vietnam: los trabajadores de la confección (en su mayoría mujeres) no pagarán multas por falta de trabajo debido a COVID-19; los empleados deben negociar la indemnización en caso de enfermedad; los poderes pueden rescindir unilateralmente los contratos laborales pero solo dale el aviso correspondiente",
+
+
 #         "link": "https://betterwork.org/wp-content/uploads/2020/04/BWV-Guide-for-factories_07.04.pdf",
 #         "progressive": "need to watch",
 #         "category": "labor",
@@ -1623,8 +1805,10 @@ response_data = [
         
 # "title_fr": "Les habitants des bidonvilles de Bangkok se préparent au pire alors que le virus envahit la Thaïlande",
 # "description_fr": "Les personnes âgées, en particulier les femmes, jouent souvent un rôle très important pour s'occuper des enfants et des parents malades. Ceux qui vivent dans la pauvreté dans des bidonvilles exigus peuvent souffrir de manière disproportionnée.",
-#         "title_es": "Los residentes de los barrios bajos de Bangkok se preparan para lo peor mientras el virus se apodera de Tailandia",
-#         "description_es": "Las personas mayores, especialmente las mujeres, a menudo juegan un papel muy importante cuidando a los niños y parientes enfermos. Los que viven en la pobreza en barrios marginales estrechos pueden sufrir de manera desproporcionada",
+#         "titleses": "Los residentes de los barrios bajos de Bangkok se preparan para lo peor mientras el virus se apodera de Tailandia",
+#         "descriptionses": "Las personas mayores, especialmente las mujeres, a menudo juegan un papel muy importante cuidando a los niños y parientes enfermos. Los que viven en la pobreza en barrios marginales estrechos pueden sufrir de manera desproporcionada",
+
+
 #         "link": "https://www.aljazeera.com/news/2020/03/bangkok-slum-residents-prepare-worst-virus-grips-thailand-200322074123038.html",
 #         "progressive": "need to watch",
 #         "category": "economy, childcare",
@@ -1637,8 +1821,10 @@ response_data = [
         
 # "title_fr": "La violence domestique liée à l'AGC augmente",
 # "description_fr": "Les données du ministère du Développement de la femme et de la famille montrent que la Malaisie a constaté une augmentation du nombre de cas de violence domestique suite à l'ordonnance de contrôle des mouvements (MCO).",
-#         "title_es": "aumenta la violencia doméstica vinculada a la MCO",
-#         "description_es": "Los datos del Ministerio de Desarrollo de la Mujer y la Familia muestran que Malasia ha visto un aumento en el número de casos de violencia doméstica después de la Orden de Control de Movimiento (MCO)",
+#         "titleses": "aumenta la violencia doméstica vinculada a la MCO",
+#         "descriptionses": "Los datos del Ministerio de Desarrollo de la Mujer y la Familia muestran que Malasia ha visto un aumento en el número de casos de violencia doméstica después de la Orden de Control de Movimiento (MCO)",
+
+
 #         "link": "https://www.nst.com.my/news/exclusive/2020/04/581233/mco-linked-domestic-violence-rises",
 #         "progressive": "regressive",
 #         "category": "gender-based violence",
@@ -1651,8 +1837,10 @@ response_data = [
         
 # "title_fr": "Ne harcelez pas votre mari pendant le verrouillage, le gouvernement malaisien conseille les femmes",
 # "description_fr": "Le ministère du Développement de la femme et de la famille a créé des affiches en ligne exhortant les femmes à s'abstenir de sarcasmes, à s'habiller pour le bureau, à ne pas harceler leur mari et à maintenir l'harmonie familiale (le ministère s'est excusé le lendemain)",
-#         "title_es": "No regañe a su esposo durante el encierro, el gobierno de Malasia aconseja a las mujeres",
-#         "description_es": "El Ministerio de Desarrollo de la Mujer y la Familia creó carteles en línea instando a las mujeres a abstenerse del sarcasmo, vestirse para la oficina, no molestar a sus esposos y más para mantener la armonía familiar (el ministerio se disculpó al día siguiente)",
+#         "titleses": "No regañe a su esposo durante el encierro, el gobierno de Malasia aconseja a las mujeres",
+#         "descriptionses": "El Ministerio de Desarrollo de la Mujer y la Familia creó carteles en línea instando a las mujeres a abstenerse del sarcasmo, vestirse para la oficina, no molestar a sus esposos y más para mantener la armonía familiar (el ministerio se disculpó al día siguiente)",
+
+
 #         "link": "https://www.npr.org/2020/04/01/825051317/dont-nag-your-husband-during-lock-down-malaysias-government-advises-women",
 #         "progressive": "regressive",
 #         "category": "gendered health impacts",
@@ -1665,8 +1853,10 @@ response_data = [
         
 # "title_fr": "Service et sacrifices indicibles: les femmes sur la ligne de front de Covid-19 en Malaisie",
 # "description_fr": "Plusieurs projets de loi, dont le projet de loi sur le harcèlement sexuel, le projet de loi contre la discrimination à l'égard des femmes et les lois contre le harcèlement, devraient être déposés à la prochaine session du Parlement.",
-#         "title_es": "Servicio y sacrificios incalculables: mujeres en la primera línea de Covid-19 en Malasia",
-#         "description_es": "Varios proyectos de ley, incluido el proyecto de ley sobre el acoso sexual, el proyecto de ley contra la discriminación contra la mujer y las leyes contra el acoso, se presentarán en la próxima sesión del Parlamento",
+#         "titleses": "Servicio y sacrificios incalculables: mujeres en la primera línea de Covid-19 en Malasia",
+#         "descriptionses": "Varios proyectos de ley, incluido el proyecto de ley sobre el acoso sexual, el proyecto de ley contra la discriminación contra la mujer y las leyes contra el acoso, se presentarán en la próxima sesión del Parlamento",
+
+
 #         "link": "https://www.malaymail.com/news/malaysia/2020/04/13/service-and-untold-sacrifices-women-on-the-covid-19-frontline-in-malaysia/1856067",
 #         "progressive": "regressive",
 #         "category": "gender-based violence",
@@ -1679,8 +1869,10 @@ response_data = [
         
 # "title_fr": "Timor oriental: l'UE et l'ONU réaffectent 1 million de dollars pour lutter contre la violence à l'égard des femmes pendant une pandémie",
 # "description_fr": "1 million de dollars (914 000 €) provenant de leur programme Spotlight existant au Timor oriental pour répondre au risque de violence à l'égard des femmes dans le contexte de la pandémie de Covid-19.",
-#         "title_es": "Timor Oriental: UE y ONU reasignan US $ 1 millón para combatir la violencia contra las mujeres durante la pandemia",
-#         "description_es": "$ 1 millón (€ 914,000) de su programa Spotlight existente en Timor Oriental para responder al riesgo de violencia contra las mujeres en el contexto de la pandemia de Covid-19",
+#         "titleses": "Timor Oriental: UE y ONU reasignan US $ 1 millón para combatir la violencia contra las mujeres durante la pandemia",
+#         "descriptionses": "$ 1 millón (€ 914,000) de su programa Spotlight existente en Timor Oriental para responder al riesgo de violencia contra las mujeres en el contexto de la pandemia de Covid-19",
+
+
 #         "link": "https://www.macaubusiness.com/east-timor-eu-un-reassign-us1-mln-to-combat-violence-against-women-during-pandemic/",
 #         "progressive": "progressive",
 #         "category": "gender-based violence",
@@ -1693,8 +1885,10 @@ response_data = [
         
 # "title_fr": "Comment la pandémie de COVID-19 affecte les femmes vulnérables à Singapour",
 # "description_fr": "L'article examine comment cette catastrophe se déroule pour cinq groupes de femmes particulièrement vulnérables à Singapour.",
-#         "title_es": "Cómo la pandemia de COVID-19 afecta a las mujeres vulnerables en Singapur",
-#         "description_es": "El artículo analiza cómo se desarrolla este desastre para cinco grupos de mujeres particularmente vulnerables en Singapur",
+#         "titleses": "Cómo la pandemia de COVID-19 afecta a las mujeres vulnerables en Singapur",
+#         "descriptionses": "El artículo analiza cómo se desarrolla este desastre para cinco grupos de mujeres particularmente vulnerables en Singapur",
+
+
 #         "link": "https://www.aware.org.sg/2020/03/how-the-covid-19-pandemic-affects-vulnerable-women-in-singapore/",
 #         "progressive": "regressive",
 #         "category": "economy, labor, gendered health impacts, gender-based violence",
@@ -1707,8 +1901,10 @@ response_data = [
         
 # "title_fr": "Covid-19 et l'augmentation de la violence domestique en Asie-Pacifique",
 # "description_fr": "L'assistance téléphonique pour les femmes de l'Association of Women for Action and Research (AWARE) a enregistré une augmentation de 33% des appels liés à la violence familiale en février par rapport à février dernier, même si les données nationales indiquent une baisse du nombre de cas entre 2016 et 2019." ,
-#         "title_es": "Covid-19 y el aumento de la violencia doméstica en Asia Pacífico",
-#         "description_es": "La línea de ayuda para mujeres de la Asociación de Mujeres para la Acción y la Investigación (AWARE) experimentó un aumento del 33 por ciento en las llamadas relacionadas con la violencia familiar en febrero en comparación con febrero pasado, aunque los datos nacionales muestran una disminución en los casos de 2016 a 2019",
+#         "titleses": "Covid-19 y el aumento de la violencia doméstica en Asia Pacífico",
+#         "descriptionses": "La línea de ayuda para mujeres de la Asociación de Mujeres para la Acción y la Investigación (AWARE) experimentó un aumento del 33 por ciento en las llamadas relacionadas con la violencia familiar en febrero en comparación con febrero pasado, aunque los datos nacionales muestran una disminución en los casos de 2016 a 2019",
+
+
 #         "link": "https://www.eco-business.com/news/covid-19-and-the-increase-in-domestic-violence-in-asia-pacific/",
 #         "progressive": "regressive",
 #         "category": "gender-based violence",
@@ -1721,8 +1917,10 @@ response_data = [
         
 # "title_fr": "Philippines: Plan de réponse COVID-19 (03 avril 2020)",
 # "description_fr": "Le plan de réponse COVID-19 de l'Équipe humanitaire des pays (HCT) ne semble pas s'attaquer actuellement à l'augmentation de la violence sexiste.",
-#         "title_es": "Filipinas: Plan de respuesta COVID-19 (03 de abril de 2020)",
-#         "description_es": "El Plan de Respuesta COVID-19 del Equipo Humanitario de País (HCT) no parece abordar actualmente el aumento de la violencia de género",
+#         "titleses": "Filipinas: Plan de respuesta COVID-19 (03 de abril de 2020)",
+#         "descriptionses": "El Plan de Respuesta COVID-19 del Equipo Humanitario de País (HCT) no parece abordar actualmente el aumento de la violencia de género",
+
+
 #         "link": "https://reliefweb.int/report/philippines/philippines-covid-19-response-plan-03-april-2020",
 #         "progressive": "need to watch",
 #         "category": "gender-based violence",
@@ -1735,8 +1933,10 @@ response_data = [
         
 # "title_fr": "Les Philippines invitées à lutter contre l'escalade des cas de violence domestique dans un contexte de verrouillage des virus",
 # "description_fr": "Au moins une femme ou un enfant est victime de violence toutes les 10 minutes aux Philippines, a déclaré le Center for Women's Resources dans un récent rapport, et les mesures de quarantaine compliquent la tâche des victimes qui demandent de l'aide.",
-#         "title_es": "Filipinas instó a combatir la escalada de casos de violencia doméstica en medio de bloqueos de virus",
-#         "description_es": "Al menos una mujer o niño es maltratado cada 10 minutos en Filipinas, dijo el Centro de Recursos para la Mujer en un informe reciente, y las medidas de cuarentena dificultan que las víctimas busquen ayuda",
+#         "titleses": "Filipinas instó a combatir la escalada de casos de violencia doméstica en medio de bloqueos de virus",
+#         "descriptionses": "Al menos una mujer o niño es maltratado cada 10 minutos en Filipinas, dijo el Centro de Recursos para la Mujer en un informe reciente, y las medidas de cuarentena dificultan que las víctimas busquen ayuda",
+
+
 #         "link": "https://www.philstar.com/headlines/2020/04/06/2005855/philippines-urged-combat-escalating-domestic-violence-cases-amid-virus-lockdowns",
 #         "progressive": "regressive",
 #         "category": "gender-based violence",
@@ -1749,8 +1949,10 @@ response_data = [
         
 # "title_fr": "Rester à la maison et travailler? Implications de COVID-19 et du gouvernement britannique",
 # "description_fr": "Impact économique potentiel de COVID-19 sur les travailleurs indépendants au Royaume-Uni, comment soutenir éventuellement les femmes indépendantes",
-#         "title_es": "Quedarse en casa y trabajar? Implicaciones de COVID-19 y el gobierno del Reino Unido",
-#         "description_es": "Impacto económico potencial de COVID-19 en los trabajadores por cuenta propia en el Reino Unido, cómo posiblemente apoyar a las mujeres que trabajan por cuenta propia",
+#         "titleses": "Quedarse en casa y trabajar? Implicaciones de COVID-19 y el gobierno del Reino Unido",
+#         "descriptionses": "Impacto económico potencial de COVID-19 en los trabajadores por cuenta propia en el Reino Unido, cómo posiblemente apoyar a las mujeres que trabajan por cuenta propia",
+
+
 #         "link": "https://isbegen.wordpress.com/2020/03/27/stay-home-and-work/",
 #         "progressive": "regressive",
 #         "category": "economy",
@@ -1763,8 +1965,10 @@ response_data = [
         
 # "title_fr": "La plupart des Américains bruns et noirs s'exposent au coronavirus",
 # "description_fr": "La disparité du télétravail affecte de manière disproportionnée les travailleurs noirs et bruns, en particulier les travailleurs à faible revenu",
-#         "title_es": "La mayoría de los estadounidenses marrones y negros se exponen al coronavirus",
-#         "description_es": "La disparidad del teletrabajo afecta desproporcionadamente a los trabajadores negros y marrones, particularmente el trabajo de bajos ingresos",
+#         "titleses": "La mayoría de los estadounidenses marrones y negros se exponen al coronavirus",
+#         "descriptionses": "La disparidad del teletrabajo afecta desproporcionadamente a los trabajadores negros y marrones, particularmente el trabajo de bajos ingresos",
+
+
 #         "link": "https://www.vice.com/en_us/article/xgqpyq/most-brown-and-black-americans-are-exposing-themselves-to-coronavirus-for-a-paycheck",
 #         "progressive": "regressive",
 #         "category": "economy",
@@ -1777,8 +1981,10 @@ response_data = [
         
 # "title_fr": "Les femmes mal rémunérées au Royaume-Uni à risque élevé de Corona Exposure",
 # "description_fr": "89% des infirmières, 84% des soignants sont des femmes, certaines à haut risque sont les moins bien payées",
-#         "title_es": "Mujeres mal pagadas en el Reino Unido en 'alto riesgo' de exposición corona",
-#         "description_es": "el 89% de las enfermeras, el 84% de los trabajadores de atención son mujeres, algunas de mayor riesgo tienen el salario más bajo",
+#         "titleses": "Mujeres mal pagadas en el Reino Unido en 'alto riesgo' de exposición corona",
+#         "descriptionses": "el 89% de las enfermeras, el 84% de los trabajadores de atención son mujeres, algunas de mayor riesgo tienen el salario más bajo",
+
+
 #         "link": "https://www.theguardian.com/world/2020/mar/29/low-paid-women-in-uk-at-high-risk-of-coronavirus-exposure",
 #         "progressive": "regressive",
 #         "category": "economy",
@@ -1794,8 +2000,10 @@ response_data = [
 #         "title_es": "Cuando las interacciones cara a cara se convierten en un peligro laboral: trabajos en la época de COVID-19",
 # "description_es": "Es probable que el patrón de posibles pérdidas de empleo durante el brote de COVID-19 afecte desproporcionadamente a los grupos vulnerables (mujeres, bajos ingresos)",
 
-# "link": "https://www.brookings.edu/blog/future-development/2020/03/30/when-face-to-face-interactions-become-an-occupational-hazard-jobs-in-the-time-of-covid-19/",
+# "link": "https://wws.brookings.edu/blog/future-development/2020/03/30/when-face-to-face-interactions-become-an-occupational-hazard-jobs-in-the-time-of-covid-19/",
 #         "progressive": "regressive",
+
+
 #         "category": "economy, labor",
 #         "type": "observed response",
 #         "country": "United States, Global",
@@ -1806,8 +2014,10 @@ response_data = [
         
 # "title_fr": "La Journée de l'égalité salariale est plus importante que jamais au milieu de COVID-19",
 # "description_fr": "NYC lutte contre l'écart salarial en créant un lieu de travail plus favorable aux familles.",
-#         "title_es": "El día de igualdad de pago es más importante que nunca en medio de COVID-19",
-#         "description_es": "Nueva York trabajando contra la brecha salarial mediante la creación de un lugar de trabajo más favorable y familiar",
+#         "titleses": "El día de igualdad de pago es más importante que nunca en medio de COVID-19",
+#         "descriptionses": "Nueva York trabajando contra la brecha salarial mediante la creación de un lugar de trabajo más favorable y familiar",
+
+
 #         "link": "https://thehill.com/opinion/civil-rights/490088-equal-pay-day-more-important-than-ever-amid-covid-19",
 #         "progressive": "progressive",
 #         "category": "economy, labor",
@@ -1820,8 +2030,10 @@ response_data = [
         
 # "title_fr": "Verrouillage: les travailleurs domestiques ont du mal à joindre les deux bouts alors que les familles refusent de payer",
 # "description_fr": "Les travailleurs domestiques en Inde sont en difficulté car ils ne peuvent pas travailler et n'ont donc aucun revenu",
-#         "title_es": "Bloqueo: las trabajadoras domésticas luchan para llegar a fin de mes mientras las familias se niegan a pagar",
-#         "description_es": "Las trabajadoras domésticas en India están luchando porque no pueden trabajar y, por lo tanto, no tienen ingresos",
+#         "titleses": "Bloqueo: las trabajadoras domésticas luchan para llegar a fin de mes mientras las familias se niegan a pagar",
+#         "descriptionses": "Las trabajadoras domésticas en India están luchando porque no pueden trabajar y, por lo tanto, no tienen ingresos",
+
+
 #         "link": "https://www.hindustantimes.com/mumbai-news/lockdown-domestic-workers-struggle-to-make-ends-meet-as-families-refuse-to-pay/story-aB6zzwdUyQYnivAJoCMtEJ.html",
 #         "progressive": "regressive",
 #         "category": "labor",
@@ -1834,8 +2046,10 @@ response_data = [
         
 # "title_fr": "Comment le virus Corona affecte les professionnels des RH, des avantages sociaux et de la retraite",
 # "description_fr": "COVID-19 aggravera les inégalités de rémunération entre les sexes",
-#         "title_es": "Cómo afecta el virus Corona a los profesionales de recursos humanos, beneficios y jubilación",
-#         "description_es": "COVID-19 empeorará las desigualdades salariales de género",
+#         "titleses": "Cómo afecta el virus Corona a los profesionales de recursos humanos, beneficios y jubilación",
+#         "descriptionses": "COVID-19 empeorará las desigualdades salariales de género",
+
+
 #         "link": "https://www.benefitspro.com/2020/04/07/covid-19-will-make-gender-pay-inequities-worse/?cmp=share_twitter",
 #         "progressive": "regressive",
 #         "category": "",
@@ -1848,8 +2062,10 @@ response_data = [
         
 # "title_fr": "COVID-19 aggravant les inégalités entre les sexes, davantage de femmes ont perdu leur emploi-ONU",
 # "description_fr": "Secrétaire général de l'ONU: bien que le virus puisse tuer plus d'hommes que de femmes, les femmes risquent davantage de tomber dans la pauvreté",
-#         "title_es": "COVID-19 empeora la desigualdad de género, más mujeres han perdido empleos-ONU",
-#         "description_es": "Secretario General de la ONU: aunque el virus podría estar matando a más hombres que mujeres, las mujeres corren mayor riesgo de caer en la pobreza",
+#         "titleses": "COVID-19 empeora la desigualdad de género, más mujeres han perdido empleos-ONU",
+#         "descriptionses": "Secretario General de la ONU: aunque el virus podría estar matando a más hombres que mujeres, las mujeres corren mayor riesgo de caer en la pobreza",
+
+
 #         "link": "https://dailypost.ng/2020/04/10/covid-19-worsening-gender-inequality-more-women-have-lost-jobs-un/",
 #         "progressive": "regressive",
 #         "category": "economy",
@@ -1862,8 +2078,10 @@ response_data = [
         
 # "title_fr": "Les travailleuses de première ligne en Chine, typiques du fardeau économique et domestique des coronavirus",
 # "description_fr": "Les femmes représentent plus de 90% des agents de santé de première ligne dans la province du Hubei, exposées de manière disproportionnée.",
-#         "title_es": "Trabajadoras de primera línea en China, típicas de la carga económica y doméstica del coronavirus",
-#         "description_es": "Las mujeres representan más del 90% de los trabajadores de salud de primera línea en la provincia de Hubei, expuestas desproporcionadamente",
+#         "titleses": "Trabajadoras de primera línea en China, típicas de la carga económica y doméstica del coronavirus",
+#         "descriptionses": "Las mujeres representan más del 90% de los trabajadores de salud de primera línea en la provincia de Hubei, expuestas desproporcionadamente",
+
+
 #         "link": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/society/article/3079363/female-frontline-workers-china-typical-coronavirus-economic-and",
 #         "progressive": "regressive",
 #         "category": "labor",
@@ -1876,8 +2094,10 @@ response_data = [
         
 # "title_fr": "L'impact économique du coronavirus sur les femmes dévaste et exacerbe les inégalités entre les sexes",
 # "description_fr": "La crise du COVID-19 aggrave les inégalités structurelles pour les femmes et les femmes de couleur",
-#         "title_es": "El impacto económico del coronavirus en las mujeres es 'devastador' y excarcerba la desigualdad de género",
-#         "description_es": "La crisis de COVID-19 está exacerbando las inequidades estructurales para las mujeres y las mujeres de color",
+#         "titleses": "El impacto económico del coronavirus en las mujeres es 'devastador' y excarcerba la desigualdad de género",
+#         "descriptionses": "La crisis de COVID-19 está exacerbando las inequidades estructurales para las mujeres y las mujeres de color",
+
+
 #         "link": "https://www.newsweek.com/economic-impact-coronavirus-women-devastating-exacerbating-gender-inequality-says-1497325",
 #         "progressive": "regressive",
 #         "category": "economy, labor",
@@ -1890,8 +2110,10 @@ response_data = [
         
 # "title_fr": "Les femmes en première ligne de COVID-19",
 # "description_fr": "Les femmes de la classe ouvrière n'ont pas été préparées de manière dramatique et disproportionnée à la crise économique qui a suivi",
-#         "title_es": "Mujeres en primera línea de COVID-19",
-#         "description_es": "Las mujeres de la clase trabajadora se han quedado dramáticamente y desproporcionadamente sin preparación para la crisis económica que sigue",
+#         "titleses": "Mujeres en primera línea de COVID-19",
+#         "descriptionses": "Las mujeres de la clase trabajadora se han quedado dramáticamente y desproporcionadamente sin preparación para la crisis económica que sigue",
+
+
 #         "link": "https://www.liberationnews.org/women-on-the-frontlines-of-covid-19/",
 #         "progressive": "regressive",
 #         "category": "economy, labor",
@@ -1904,8 +2126,10 @@ response_data = [
         
 # "title_fr": "L'écart de rémunération entre les sexes pose un piège choquant si l'isolement se poursuit",
 # "description_fr": "L'écart de rémunération entre hommes et femmes est au cœur de la grave carence potentielle des travailleurs de première ligne, si l'isolement se poursuit",
-#         "title_es": "Gender Pay Gap poses 'shocking' pitfall if isolation goes on",
-#         "description_es": "Gender pay gap is at heart of serious potential frontline worker deficiency, if isolation continues",
+#         "titleses": "Gender Pay Gap poses 'shocking' pitfall if isolation goes on",
+#         "descriptionses": "Gender pay gap is at heart of serious potential frontline worker deficiency, if isolation continues",
+
+
 #         "link": "https://www.canberratimes.com.au/story/6721006/gender-pay-gap-poses-shocking-pitfall-if-isolation-goes-on/",
 #         "progressive": "regressive",
 #         "category": "economy, labor",
@@ -1918,8 +2142,10 @@ response_data = [
         
 # "title_fr": "Protéger les femmes utilisant les DFS pendant la pandémie",
 # "description_fr": "Accent accru sur les services bancaires en ligne, la formation pour empêcher les femmes analphabètes des arnaques ou des prêts", 
-#         "title_es": "Protección de mujeres que usan DFS durante la pandemia",
-#         "description_es": "Mayor énfasis en la banca en línea, capacitación para prevenir a las mujeres analfabetas de estafas o 'préstamos'",
+#         "titleses": "Protección de mujeres que usan DFS durante la pandemia",
+#         "descriptionses": "Mayor énfasis en la banca en línea, capacitación para prevenir a las mujeres analfabetas de estafas o 'préstamos'",
+
+
 #         "link": "https://www.siaedge.com/news/2020/3/27/protecting-women-using-dfs-during-the-pandemic",
 #         "progressive": "progressive",
 #         "category": "economy",
@@ -1932,8 +2158,10 @@ response_data = [
         
 # "title_fr": "La dévastation économique de COVID-19 frappe particulièrement les femmes",
 # "description_fr": "Les femmes, en particulier les femmes noires, perdent la majorité des emplois. Si 2008 a été une mancession, cela devient une femcession.",
-#         "title_es": "La devastación económica de COVID-19 está afectando especialmente a las mujeres",
-#         "description_es": "Las mujeres, especialmente las mujeres negras, están perdiendo la mayoría de los empleos. Si 2008 fue una 'mancesión', esto se está convirtiendo en una 'femcesión'",
+#         "titleses": "La devastación económica de COVID-19 está afectando especialmente a las mujeres",
+#         "descriptionses": "Las mujeres, especialmente las mujeres negras, están perdiendo la mayoría de los empleos. Si 2008 fue una 'mancesión', esto se está convirtiendo en una 'femcesión'",
+
+
 #         "link": "https://www.huffpost.com/entry/women-coronavirus-lost-jobs_n_5e90observed response63c5b685fbc7d4a557?",
 #         "progressive": "regressive",
 #         "category": "economy, labor",
@@ -1946,8 +2174,10 @@ response_data = [
         
 # "title_fr": "L'impact de COVID-19 sur l'égalité des sexes",
 # "description_fr": "Un document sur les effets de COVID-19 sur l'emploi, les besoins en matière de garde d'enfants, les normes de genre et les options politiques.",
-#         "title_es": "El impacto de COVID-19 en la igualdad de género",
-#         "description_es": "Un documento sobre los efectos de COVID-19 en el empleo, las necesidades de cuidado infantil, las normas de género y las opciones de política",
+#         "titleses": "El impacto de COVID-19 en la igualdad de género",
+#         "descriptionses": "Un documento sobre los efectos de COVID-19 en el empleo, las necesidades de cuidado infantil, las normas de género y las opciones de política",
+
+
 #         "link": "https://www.nber.org/papers/w26947",
 #         "progressive": "regressive",
 #         "category": "economy, labor",
@@ -1960,8 +2190,10 @@ response_data = [
         
 # "title_fr": "Comment des millions de femmes sont devenues les travailleuses les plus essentielles en Amérique",
 # "description_fr": "Les travailleurs essentiels sont plus susceptibles d'être des femmes non blanches et sont sous-payés et sous-évalués",
-#         "title_es": "Cómo millones de mujeres se convirtieron en los trabajadores más esenciales en Estados Unidos",
-#         "description_es": "Los trabajadores esenciales tienen más probabilidades de ser mujeres no blancas y están mal remunerados y subvalorados",
+#         "titleses": "Cómo millones de mujeres se convirtieron en los trabajadores más esenciales en Estados Unidos",
+#         "descriptionses": "Los trabajadores esenciales tienen más probabilidades de ser mujeres no blancas y están mal remunerados y subvalorados",
+
+
 #         "link": "https://www.nytimes.com/2020/04/18/us/coronavirus-women-essential-workers.html",
 #         "progressive": "regressive",
 #         "category": "economy, labor",
@@ -1974,8 +2206,10 @@ response_data = [
         
 # "title_fr": "COVID-19 alimente la violence domestique en Chine",
 # "description_fr": "La violence domestique augmente en Chine pendant la pandémie de COVID-19, la campagne a permis de sensibiliser davantage",
-#         "title_es": "COVID-19 alimenta la violencia doméstica en China",
-#         "description_es": "La violencia doméstica aumenta en China durante la pandemia de COVID-19, la campaña ha llevado a una mayor conciencia",
+#         "titleses": "COVID-19 alimenta la violencia doméstica en China",
+#         "descriptionses": "La violencia doméstica aumenta en China durante la pandemia de COVID-19, la campaña ha llevado a una mayor conciencia",
+
+
 #         "link": "https://supchina.com/2020/03/24/covid-19-fuels-domestic-violence-in-china/",
 #         "progressive": "regressive",
 #         "category": "gender-based violence",
@@ -1988,8 +2222,10 @@ response_data = [
         
 # "title_fr": "Mettre fin à la violence contre les femmes dans le contexte de COVID-19",
 # "description_fr": "Le Fonds d'affectation spéciale des Nations Unies pour mettre fin à la violence à l'égard des femmes (Fonds d'affectation spéciale des Nations Unies) reste attaché aux partenaires sur le terrain",
-#         "title_es": "Poner fin a la violencia contra las mujeres en el contexto de COVID-19",
-#         "description_es": "El Fondo Fiduciario de las Naciones Unidas para poner fin a la violencia contra la mujer (Fondo Fiduciario de las Naciones Unidas) sigue comprometido con sus asociados en el terreno",
+#         "titleses": "Poner fin a la violencia contra las mujeres en el contexto de COVID-19",
+#         "descriptionses": "El Fondo Fiduciario de las Naciones Unidas para poner fin a la violencia contra la mujer (Fondo Fiduciario de las Naciones Unidas) sigue comprometido con sus asociados en el terreno",
+
+
 #         "link": "https://www.unwomen.org/en/news/stories/2020/3/ending-violence-against-women-in-the-context-of-covid-19",
 #         "progressive": "regressive",
 #         "category": "gender-based violence",
@@ -2002,8 +2238,10 @@ response_data = [
         
 # "title_fr": "Augmentation de la violence domestique redoutée lors du verrouillage des virus",
 # "description_fr": "Les premiers rapports faisant état d'une augmentation de la violence domestique pendant la crise COVID-19, mais dans une large mesure peu probable avant la sortie de la crise",
-#         "title_es": "Aumento de la violencia doméstica temida durante el bloqueo de virus",
-#         "description_es": "Informes iniciales de aumento de la violencia doméstica durante la crisis de COVID-19 pero totalmente improbable hasta después de la crisis",
+#         "titleses": "Aumento de la violencia doméstica temida durante el bloqueo de virus",
+#         "descriptionses": "Informes iniciales de aumento de la violencia doméstica durante la crisis de COVID-19 pero totalmente improbable hasta después de la crisis",
+
+
 #         "link": "https://www.axios.com/coronavirus-domestic-violence-de98Organizing Tool02-51f2-49ec-919c-c70052e29eef.html",
 #         "progressive": "regressive",
 #         "category": "gender-based violence",
@@ -2016,8 +2254,10 @@ response_data = [
         
 # "title_fr": "Violence basée sur le genre à l'époque de Corona",
 # "description_fr": "L'augmentation de la violence basée sur le genre pendant le verrouillage corona est un problème mondial, qui n'est pas propre à l'Afrique du Sud",
-#         "title_es": "Gender based Violence on the time of Corona",
-#         "description_es": "The increase in gender based violence during corona lockdown is a Global problem, not unique to South Africa",
+#         "titleses": "Gender based Violence on the time of Corona",
+#         "descriptionses": "The increase in gender based violence during corona lockdown is a Global problem, not unique to South Africa",
+
+
 #         "link": "https://hsf.org.za/publications/hsf-briefs/gender-based-violence-in-the-time-of-corona",
 #         "progressive": "regressive",
 #         "category": "gender-based violence",
@@ -2030,8 +2270,10 @@ response_data = [
         
 # "title_fr": "La pandémie affecte les femmes en Amérique latine",
 # "description_fr": "Le travail informel élevé augmente le risque de perte de revenus / d'économies pour les femmes en raison de la suppression de leurs emplois.",
-#         "title_es": "La pandemia está afectando a las mujeres en toda América Latina",
-#         "description_es": "El trabajo informal alto hace que las mujeres corran más riesgo de no tener ingresos / ahorros a medida que cesa el trabajo",
+#         "titleses": "La pandemia está afectando a las mujeres en toda América Latina",
+#         "descriptionses": "El trabajo informal alto hace que las mujeres corran más riesgo de no tener ingresos / ahorros a medida que cesa el trabajo",
+
+
 #         "link": "https://www.france24.com/es/20200324-coronavirus-mujeres-latinas-violencia-trabajo-informal",
 #         "progressive": "regressive",
 #         "category": "economy",
@@ -2044,8 +2286,10 @@ response_data = [
         
 # "title_fr": "Des temps difficiles pour les prostituées françaises alors que Covid-19 chasse les clients",
 # "description_fr": "Les prostituées ne peuvent pas réclamer une aide de 1 500 euros car elles n'ont pas de statut d'indépendant, risquant de perdre la santé.",
-#         "title_es": "Tiempos difíciles para las prostitutas francesas porque Covid-19 ahuyenta a los clientes",
-#         "description_es": "Las prostitutas no pueden reclamar 1.500 euros en ayuda porque no tienen un empleo por cuenta propia y ponen en riesgo su salud",
+#         "titleses": "Tiempos difíciles para las prostitutas francesas porque Covid-19 ahuyenta a los clientes",
+#         "descriptionses": "Las prostitutas no pueden reclamar 1.500 euros en ayuda porque no tienen un empleo por cuenta propia y ponen en riesgo su salud",
+
+
 #         "link": "https://www.thecitizen.co.tz/news/Tough-times-for-France-prostitutes-as-Covid-19-lockdown-/1840386-5504006-6aumcz/index.html",
 #         "progressive": "regressive",
 #         "category": "SRHR, economy",
@@ -2058,8 +2302,10 @@ response_data = [
         
 # "title_fr": "Coronavirus: ouverture d'un hôtel à Bruxelles pour les femmes victimes de violence domestique",
 # "description_fr": "Tous les refuges et centres étant pleins, l'hôtel accueille 50 femmes et enfants victimes de violence domestique",
-#         "title_es": "Coronavirus: Hotel abre en Bruselas para mujeres víctimas de violencia doméstica",
-#         "description_es": "Con todos los refugios y centros llenos, el hotel da la bienvenida a 50 mujeres víctimas de violencia doméstica y niños",
+#         "titleses": "Coronavirus: Hotel abre en Bruselas para mujeres víctimas de violencia doméstica",
+#         "descriptionses": "Con todos los refugios y centros llenos, el hotel da la bienvenida a 50 mujeres víctimas de violencia doméstica y niños",
+
+
 #         "link": "https://www.rtbf.be/info/regions/bruxelles/detail_coronavirus-ouverture-a-bruxelles-d-un-hotel-pour-les-femmes-victimes-de-violences-familiales-ou-conjugales?id=10476521",
 #         "progressive": "progressive",
 #         "category": "gender-based violence",
@@ -2072,8 +2318,10 @@ response_data = [
         
 # "title_fr": "Coronavirus: les femmes handicapées expriment leur invisibilité",
 # "description_fr": "Les femmes handicapées, en particulier les mères, expliquent leur manque d'attention dans les mesures gouvernementales, créant un mode de vie difficile.",
-#         "title_es": "Coronavirus: las mujeres discapacitadas expresan su invisibilidad",
-#         "description_es": "Las mujeres discapacitadas, especialmente las madres, explican su falta de atención en las medidas gubernamentales, creando un estilo de vida difícil",
+#         "titleses": "Coronavirus: las mujeres discapacitadas expresan su invisibilidad",
+#         "descriptionses": "Las mujeres discapacitadas, especialmente las madres, explican su falta de atención en las medidas gubernamentales, creando un estilo de vida difícil",
+
+
 #         "link": "https://www.rtbf.be/info/dossier/les-grenades/detail_coronavirus-les-femmes-handicapees-s-expriment-contre-leur-invisibilite?id=10466980",
 #         "progressive": "regressive",
 #         "category": "disability",
@@ -2086,8 +2334,10 @@ response_data = [
         
 # "title_fr": "Projet du Royaume du Cambodge Gouvernement royal du Cambodge Ministère de la santé du Cambodge Projet d'intervention d'urgence COVID-19",
 # "description_fr": "Le projet contient des dispositions visant à prévenir l'exploitation et les abus sexuels à caractère sexuel (ESE), la violence basée sur le genre (VBG)",
-#         "title_es": "Proyecto de Reino de Camboya Gobierno Real de Camboya Ministerio de Salud Camboya COVID-19 Proyecto de Respuesta a Emergencias",
-#         "description_es": "El proyecto contiene disposiciones para prevenir la Explotación y el Abuso Sexual (SEA), la violencia de género (VBG)",
+#         "titleses": "Proyecto de Reino de Camboya Gobierno Real de Camboya Ministerio de Salud Camboya COVID-19 Proyecto de Respuesta a Emergencias",
+#         "descriptionses": "El proyecto contiene disposiciones para prevenir la Explotación y el Abuso Sexual (SEA), la violencia de género (VBG)",
+
+
 #         "link": "http://documents.worldbank.org/curated/en/439691585153106101/pdf/Environmental-and-Social-Commitment-Plan-ESCP-Cambodia-COVID-19-Emergency-Response-Project-P173815.pdf",
 #         "progressive": "need to watch",
 #         "category": "gender-based violence",
@@ -2100,8 +2350,10 @@ response_data = [
 
 # "title_en": "Myanmar: les camps de personnes déplacées sont des cartables COVID-19",
 # "description_en": "77% des 350 000 déplacés internes sont des femmes / enfants (Relief Web) et sont piégés dans des camps surpeuplés avec des soins de santé de qualité inférieure, manquant d'eau, d'assainissement et d'autres services.",
-#         "title_es": "Myanmar: los campamentos de desplazamiento son polvorines COVID-19",
-# "description_es": "El 77% de 350,000 desplazados internos son mujeres / niños (Relief Web) y están atrapados en campamentos superpoblados con atención médica deficiente, falta de agua, saneamiento y otros servicios",
+#         "titleses": "Myanmar: los campamentos de desplazamiento son polvorines COVID-19",
+# "description_es": "Es 77% de 350,000 desplazados internos son mujeres / niños (Relief Web) y están atrapados en campamentos superpoblados con atención médica deficiente, falta de agua, saneamiento y otros servicios",
+
+
 # "link": "https://www.hrw.org/news/2020/03/30/myanmar-displacement-camps-are-covid-19-tinderboxes",
 #         "progressive": "need to watch",
 #         "category": "healthcare",
@@ -2114,8 +2366,10 @@ response_data = [
         
 # "title_fr": "Impact et réponses de Covid-19: Indonésie",
 # "description_fr": "Les travailleurs de l'habillement (principalement des femmes) recevront le plein salaire en cas de suspicion d'infection; le gouvernement a alloué des fonds pour la Pre-Working Card afin de fournir aux employés licenciés des fonds pendant quatre mois.",
-#         "title_es": "Impacto de Covid-19 y respuestas: Indonesia",
-#         "description_es": "Los trabajadores de la confección (en su mayoría mujeres) recibirán el pago completo si sospechan infección; el gobierno ha asignado fondos para ' Tarjeta de trabajo previo 'para proporcionar fondos a los empleados despedidos durante cuatro meses",
+#         "titleses": "Impacto de Covid-19 y respuestas: Indonesia",
+#         "descriptionses": "Los trabajadores de la confección (en su mayoría mujeres) recibirán el pago completo si sospechan infección; el gobierno ha asignado fondos para ' Tarjeta de trabajo previo 'para proporcionar fondos a los empleados despedidos durante cuatro meses",
+
+
 #         "link": "https://www.fairwear.org/covid-19-dossier/covid-19-guidance-for-production-countries/covid-19-impact-and-responses-indonesia/",
 #         "progressive": "need to watch",
 #         "category": "labor",
@@ -2128,8 +2382,10 @@ response_data = [
         
 # "title_fr": "Ne vous inquiétez pas d'être détenu, présentez-vous simplement aux tests de Covid-19, s'il vous plaît",
 # "description_fr": "Le ministère de la Défense a déclaré que le gouvernement se concentrait désormais sur la lutte contre Covid-19, les réfugiés ne devraient pas craindre la détention s'ils se présentent pour subir un test.",
-#         "title_es": "No se preocupe por ser detenido, solo preséntese para la prueba de Covid-19, por favor",
-#         "description_es": "El departamento de Defensa dijo que el enfoque del gobierno ahora estaba en combatir a Covid-19, los refugiados no deberían temer la detención si se presentan para ser examinados",
+#         "titleses": "No se preocupe por ser detenido, solo preséntese para la prueba de Covid-19, por favor",
+#         "descriptionses": "El departamento de Defensa dijo que el enfoque del gobierno ahora estaba en combatir a Covid-19, los refugiados no deberían temer la detención si se presentan para ser examinados",
+
+
 #         "link": "https://www.nst.com.my/news/nation/2020/03/577004/dont-worry-about-being-detained-just-come-forward-covid-19-testing-please",
 #         "progressive": "progressive",
 #         "category": "healthcare",
@@ -2142,8 +2398,10 @@ response_data = [
         
 # "title_fr": "Augmentation de la violence domestique et sexuelle au Nigeria",
 # "description_fr": "L'équipe de l'État de Lagos sur la violence domestique et sexuelle mise en place grâce à la technologie pour mettre en place des services d'assistance téléphonique pour fournir une réponse rapide et aider les victimes",
-#         "title_es": "Aumento de la violencia doméstica y sexual en Nigeria",
-#         "description_es": "El equipo de Domestica y violencia sexual del estado de Lagos creó una tecnología apalancada para establecer líneas de ayuda para proporcionar una respuesta rápida y ayuda a las víctimas",
+#         "titleses": "Aumento de la violencia doméstica y sexual en Nigeria",
+#         "descriptionses": "El equipo de Domestica y violencia sexual del estado de Lagos creó una tecnología apalancada para establecer líneas de ayuda para proporcionar una respuesta rápida y ayuda a las víctimas",
+
+
 #         "link": "https://guardian.ng/tag/domestic-violence/",
 #         "progressive": "need to watch",
 #         "category": "",
@@ -2156,8 +2414,10 @@ response_data = [
         
 # "title_fr": "Assassinats extrajudiciaires et harcèlement sexuel",
 # "description_fr": "Les organismes chargés de l'application des lois et les citoyens doivent faire respecter le séjour à la maison et les violences sexuelles sur les femmes",
-#         "title_es": "Asesinatos extrajudiciales y acoso sexual",
-#         "description_es": "Los organismos encargados de hacer cumplir la ley, especialmente ciudadanos para hacer cumplir la estancia en el hogar y el abuso sexual de las mujeres",
+#         "titleses": "Asesinatos extrajudiciales y acoso sexual",
+#         "descriptionses": "Los organismos encargados de hacer cumplir la ley, especialmente ciudadanos para hacer cumplir la estancia en el hogar y el abuso sexual de las mujeres",
+
+
 #         "link": "http://venturesafrica.com/security-agents-killed-more-nigerians-than-covid-19-during-lockdown/",
 #         "progressive": "need to watch",
 #         "category": "",
@@ -2170,8 +2430,10 @@ response_data = [
         
 # "title_fr": "9,5 millions de femmes n'auront pas accès à un avortement sécurisé en 2020 en raison de la pandémie",
 # "description_fr": "La Colombie est l'un des pays de la région ALC qui sera le plus touché par les coupes budgétaires dans le domaine des SDSR",
-#         "title_es": "9.5 millones de mujeres no accederán a un aborto seguro en 2020 debido a la pandemia",
-#         "description_es": "Colombia es uno de los países de la región de ALC que se verá más afectado por los recortes de fondos para la SDSR",
+#         "titleses": "9.5 millones de mujeres no accederán a un aborto seguro en 2020 debido a la pandemia",
+#         "descriptionses": "Colombia es uno de los países de la región de ALC que se verá más afectado por los recortes de fondos para la SDSR",
+
+
 #         "link": "https://www.france24.com/es/20200417-9-5-millones-de-mujeres-no-podr%C3%ADan-acceder-a-un-aborto-seguro-en-2020-por-la-pandemia",
 #         "progressive": "regressive",
 #         "category": "SRHR",
@@ -2184,8 +2446,10 @@ response_data = [
         
 # "title_fr": "Boîtes de thon à 5 $: la corruption en Colombie prospère lors d'une épidémie de coronavirus",
 # "description_fr": "Les autorités colombiennes ont détecté une surfacturation généralisée pour la nourriture et les fournitures médicales destinées à aider le pays andin à faire face à son épidémie de coronavirus",
-#         "title_es": "$ 5 latas de atún: la corrupción en Colombia prospera durante el brote de coronavirus",
-#         "description_es": "Las autoridades colombianas han detectado una sobrecarga generalizada de alimentos y suministros médicos destinados a ayudar al país andino a enfrentar su brote de coronavirus",
+#         "titleses": "$ 5 latas de atún: la corrupción en Colombia prospera durante el brote de coronavirus",
+#         "descriptionses": "Las autoridades colombianas han detectado una sobrecarga generalizada de alimentos y suministros médicos destinados a ayudar al país andino a enfrentar su brote de coronavirus",
+
+
 #         "link": "https://www.nytimes.com/reuters/2020/04/14/world/americas/14reuters-health-coronavirus-colombia-corruption.html",
 #         "progressive": "regressive",
 #         "category": "punitive",
@@ -2198,8 +2462,10 @@ response_data = [
         
 # "title_fr": "Carte des cas et des décès par coronavirus par département en Colombie",
 # "description_fr": "Suivi des cas de Covid-19 par région en Colombie",
-#         "title_es": "Mapa de casos y muertes por coronavirus por departamento en Colombia",
-#         "description_es": "Rastreador de casos de Covid-19 por región en Colombia",
+#         "titleses": "Mapa de casos y muertes por coronavirus por departamento en Colombia",
+#         "descriptionses": "Rastreador de casos de Covid-19 por región en Colombia",
+
+
 #         "link": "https://colombia.as.com/colombia/2020/04/16/tikitakas/1587037898_987177.html?fbclid=IwAR2WZQTPaJB8S5_hQtIqPj8yaujO9lhD242gVVYff9Szb7L2ZTMk0h262zw",
 #         "progressive": "need to watch",
 #         "category": "digital surveillance",
@@ -2212,8 +2478,10 @@ response_data = [
         
 # "title_fr": "Les défis de l'éducation pendant la pandémie de Covid-19",
 # "description_fr": "Les enseignants et les élèves défient les histoires de la pandémie",
-#         "title_es": "Los desafíos que enfrenta la educación durante la pandemia de Covid-19",
-#         "description_es": "Maestros y estudiantes desafían historias de la pandemia",
+#         "titleses": "Los desafíos que enfrenta la educación durante la pandemia de Covid-19",
+#         "descriptionses": "Maestros y estudiantes desafían historias de la pandemia",
+
+
 #         "link": "https://www.elespectador.com/coronavirus/los-retos-que-enfrenta-la-educacion-durante-la-pandemia-del-covid-19-articulo-912593",
 #         "progressive": "regressive",
 #         "category": "education",
@@ -2226,8 +2494,10 @@ response_data = [
         
 # "title_fr": "La Colombie demande un soutien international pour venir en aide aux Vénézuéliens en pleine crise de coronavirus",
 # "description_fr": "Le gouvernement a lancé un appel urgent pour accroître les ressources allouées à la population migrante susceptible de contagion ou infectée par Covid-19",
-#         "title_es": "Colombia solicita apoyo internacional para ayudar a los venezolanos en medio de una crisis de coronavirus",
-#         "description_es": "El gobierno hizo un llamado urgente para aumentar los recursos asignados a la población migrante con posible contagio o infectado por Covid-19",
+#         "titleses": "Colombia solicita apoyo internacional para ayudar a los venezolanos en medio de una crisis de coronavirus",
+#         "descriptionses": "El gobierno hizo un llamado urgente para aumentar los recursos asignados a la población migrante con posible contagio o infectado por Covid-19",
+
+
 #         "link": "https://www.elespectador.com/coronavirus/colombia-pide-apoyo-internacional-para-atender-venezolanos-en-medio-de-crisis-por-coronavirus-articulo-914347?fbclid=IwAR0f6P7rrzLpsAueUGR7D7BtIxDLNZOsKRi2kWNsg7UCxwUN60VEnSy-53E",
 #         "progressive": "need to watch",
 #         "category": "healthcare, economy",
@@ -2240,8 +2510,10 @@ response_data = [
         
 # "title_fr": "La Colombie, le virus et toujours oublié",
 # "description_fr": "Le gouvernement punit ceux qui ne respectent pas la quarantaine, mais n'a pas été en mesure de fournir les conditions qui leur permettraient de rester chez eux sans mourir de faim",
-#         "title_es": "Colombia, el virus y lo siempre olvidado",
-#         "description_es": "El gobierno castiga a quienes violen la cuarentena, pero no ha podido proporcionar las condiciones que les permitan quedarse en casa sin morir de hambre",
+#         "titleses": "Colombia, el virus y lo siempre olvidado",
+#         "descriptionses": "El gobierno castiga a quienes violen la cuarentena, pero no ha podido proporcionar las condiciones que les permitan quedarse en casa sin morir de hambre",
+
+
 #         "link": "https://www.nytimes.com/es/2020/04/17/espanol/opinion/coronavirus-colombia.html?fbclid=IwAR0jjP1Edv3MCkdvnVxRktzuSlMlaborwQZ9qhaT_Q6DztgseQoGrS7-BnxebE",
 #         "progressive": "regressive",
 #         "category": "punitive, economy",
@@ -2254,8 +2526,10 @@ response_data = [
         
 # "title_fr": "Coronavirus: pour vaincre le virus, la Colombie essaie de séparer les hommes et les femmes",
 # "description_fr": "Les jours impairs, les hommes peuvent quitter la maison pour chercher l'essentiel. Les jours pairs, c'est le tour des femmes.",
-#         "title_es": "Coronavirus: para vencer al virus, Colombia intenta separar a hombres y mujeres",
-#         "description_es": "En los días impares, los hombres pueden salir de la casa para buscar lo esencial. En los días pares, es el turno de las mujeres",
+#         "titleses": "Coronavirus: para vencer al virus, Colombia intenta separar a hombres y mujeres",
+#         "descriptionses": "En los días impares, los hombres pueden salir de la casa para buscar lo esencial. En los días pares, es el turno de las mujeres",
+
+
 #         "link": "https://www.straitstimes.com/world/americas/coronavirus-to-beat-the-virus-colombia-tries-separating-men-and-women?fbclid=IwAR3wthnzlzRgjVXMRpylXP1wUa4b7S-35v04HMjv7dP_-PFFtn9QUnp00TU",
 #         "progressive": "need to watch",
 #         "category": "healthcare, gender-based violence",
@@ -2268,8 +2542,10 @@ response_data = [
         
 # "title_fr": "Colombie: les peuples autochtones mourront du COVID-19 ou de la faim si l'État n'agit pas immédiatement",
 # "description_fr": "La Colombie doit prendre d'urgence des mesures appropriées pour garantir les droits des peuples autochtones",
-#         "title_es": "Colombia: Indigenous Peoples will die from COVID-19 or from hunger if the state does not act immediately",
-#         "description_es": "Colombia must urgently take appropriate measures to guarantee the rights of Indigenous Peoples",
+#         "titleses": "Colombia: Indigenous Peoples will die from COVID-19 or from hunger if the state does not act immediately",
+#         "descriptionses": "Colombia must urgently take appropriate measures to guarantee the rights of Indigenous Peoples",
+
+
 #         "link": "https://www.amnesty.org/en/latest/news/2020/04/colombia-pueblos-indigenas-covid19-hambre/",
 #         "progressive": "regressive",
 #         "category": "healthcare, food, race",
@@ -2282,8 +2558,10 @@ response_data = [
         
 # "title_fr": "Face à l'épidémie de COVID-19 de Bogotá",
 # "description_fr": "le rapport qui résume les mesures visant à contenir le COVID-19 mises en œuvre par le bureau du maire de Bogotá",
-#         "title_es": "Frente al brote de COVID-19 Ciudad de Bogotá",
-#         "description_es": "el informe que resume las medidas para contener COVID-19 implementadas por la Alcaldía de Bogotá",
+#         "titleses": "Frente al brote de COVID-19 Ciudad de Bogotá",
+#         "descriptionses": "el informe que resume las medidas para contener COVID-19 implementadas por la Alcaldía de Bogotá",
+
+
 #         "link": "http://internacional.secretariageneral.gov.co/Facing_the_COVID-19_Outbreak_Bogota_City_Hall_eng",
 #         "progressive": "progressive",
 #         "category": "digital surveillance, healthcare, economy, food, gender-based violence, labor",
@@ -2296,8 +2574,10 @@ response_data = [
         
 # "title_fr": "Nous devons résoudre ce problème: l'incroyable course en Colombie pour construire un ventilateur de 1 000 $",
 # "description_fr": "Au fur et à mesure que COVID-19 s'effondre, une alliance spontanée de techniciens et de professionnels de la santé à Medellin fait des progrès prometteurs sur un problème médical urgent.",
-#         "title_es": "Necesitamos resolver esto: la increíble carrera de Colombia para construir un ventilador de $ 1,000",
-#         "description_es": "A medida que avanza COVID-19, una alianza espontánea de profesionales de la tecnología y la salud en Medellín logra avances prometedores en un problema médico urgente",
+#         "titleses": "Necesitamos resolver esto: la increíble carrera de Colombia para construir un ventilador de $ 1,000",
+#         "descriptionses": "A medida que avanza COVID-19, una alianza espontánea de profesionales de la tecnología y la salud en Medellín logra avances prometedores en un problema médico urgente",
+
+
 #         "link": "https://www.vanityfair.com/news/2020/04/colombias-amazing-race-to-build-a-1000-ventilator?fbclid=IwAR0wJapnFmiBVbuEQ7_pmwv922DALMLAdp4F75LQ34beasfkm5ZbZmnJLBA",
 #         "progressive": "progressive",
 #         "category": "healthcare",
@@ -2310,8 +2590,10 @@ response_data = [
         
 # "title_fr": "Le gouvernement permet à la ligne WhatsApp de répondre aux questions sur le coronavirus",
 # "description_fr": "Ligne de réponse citoyenne Whatsapp pour Covid-19",
-#         "title_es": "El gobierno habilita la línea de WhatsApp para responder preguntas sobre el coronavirus",
-#         "description_es": "Línea de respuesta ciudadana de Whatsapp para Covid-19",
+#         "titleses": "El gobierno habilita la línea de WhatsApp para responder preguntas sobre el coronavirus",
+#         "descriptionses": "Línea de respuesta ciudadana de Whatsapp para Covid-19",
+
+
 #         "link": "https://www.publimetro.co/co/noticias/2020/04/15/gobierno-habilita-linea-whatsapp-atender-dudas-coronavirus.html?fbclid=IwAR3UZL2y7XZAvTY2DOEF9Uv_s-EqNeg0ka0x4xmwR4ZH2-Tht0IRzwK9orc",
 #         "progressive": "progressive",
 #         "category": "digital surveillance, healthcare",
@@ -2324,8 +2606,10 @@ response_data = [
         
 # "title_fr": "Nouvelles mesures d'allégement économique pour le paiement des services de base",
 # "description_fr": "",
-#         "title_es": "Nuevas medidas de ayuda económica para el pago de servicios básicos",
-#         "description_es": "",
+#         "titleses": "Nuevas medidas de ayuda económica para el pago de servicios básicos",
+#         "descriptionses": "",
+
+
 #         "link": "https://twitter.com/JoMalagon/status/1250946202356547584?s=20",
 #         "progressive": "progressive",
 #         "category": "economy",
@@ -2338,8 +2622,10 @@ response_data = [
         
 # "title_fr": "Ce que dit la loi sur le pic et le genre au sujet de la population transgenre",
 # "description_fr": "La mesure est appliquée à Bogotá pour contrôler l'agglomération des personnes dans les supermarchés et les banques dans le cadre de la quarantaine nationale.",
-#         "title_es": "Lo que dice la Ley de Pico y Género sobre la población transgénero",
-#         "description_es": "La medida se aplica en Bogotá para controlar la aglomeración de personas en supermercados y bancos en el marco de la cuarentena nacional",
+#         "titleses": "Lo que dice la Ley de Pico y Género sobre la población transgénero",
+#         "descriptionses": "La medida se aplica en Bogotá para controlar la aglomeración de personas en supermercados y bancos en el marco de la cuarentena nacional",
+
+
 #         "link": "https://colombia.as.com/colombia/2020/04/14/tikitakas/1586886106_102899.html?omnil=resscrlltit",
 #         "progressive": "progressive",
 #         "category": "gender-based violence, healthcare",
@@ -2352,8 +2638,10 @@ response_data = [
         
 # "title_fr": "Les dimensions de genre dans la crise du COVID-19 en Colombie: Lintégration des femmes et lapproche de légalité des sexes dans la réponse au COVID-19 est une priorité.",
 # "description_fr": "Les hommes et les femmes sont confrontés à des impacts différents face à l'urgence sanitaire et à la surcharge émotionnelle due à l'incertitude, à l'isolement et au fardeau économique qui augmente en raison de la perte d'emplois",
-#         "title_es": "Dimensiones de género en la crisis de COVID-19 en Colombia: incorporar las mujeres y el enfoque de igualdad de género en la respuesta a COVID-19 es una prioridad",
-#         "description_es": "Los hombres y las mujeres enfrentan diferentes impactos ante la emergencia de salud y la sobrecarga emocional debido a la incertidumbre, el aislamiento y la carga económica que aumenta debido a la pérdida de empleos",
+#         "titleses": "Dimensiones de género en la crisis de COVID-19 en Colombia: incorporar las mujeres y el enfoque de igualdad de género en la respuesta a COVID-19 es una prioridad",
+#         "descriptionses": "Los hombres y las mujeres enfrentan diferentes impactos ante la emergencia de salud y la sobrecarga emocional debido a la incertidumbre, el aislamiento y la carga económica que aumenta debido a la pérdida de empleos",
+
+
 #         "link": "https://www2.unwomen.org/-/media/field%20office%20colombia/documentos/publicaciones/2020/01/covid19_onu_mujeres-colombia.pdf?la=es&vs=1437",
 #         "progressive": "need to watch",
 #         "category": "punitive, childcare, economy, gendered health impacts",
@@ -2366,8 +2654,10 @@ response_data = [
         
 # "title_fr": "Pour non-respect de la quarantaine, il y a 8 405 amendes à Medellín",
 # "description_fr": "Bien que les rues soient vides, il y a encore du monde dans certaines zones.",
-#         "title_es": "Por no cumplir con la cuarentena hay 8,405 multas en Medellín",
-#         "description_es": "Aunque las calles están vacías, en algunas áreas todavía hay multitudes",
+#         "titleses": "Por no cumplir con la cuarentena hay 8,405 multas en Medellín",
+#         "descriptionses": "Aunque las calles están vacías, en algunas áreas todavía hay multitudes",
+
+
 #         "link": "https://www.eltiempo.com/colombia/medellin/por-no-acatar-la-cuarentena-van-8-405-multas-en-medellin-y-su-area-metropolitana-480998",
 #         "progressive": "progressive",
 #         "category": "punitive",
@@ -2380,8 +2670,10 @@ response_data = [
         
 # "title_fr": "Envoyé de l'ONU en Colombie: des ex-combattants fabriquent des masques en période de pandémie",
 # "description_fr": "d'anciens combattants fabriquent maintenant des masques pour répondre à la nouvelle pandémie de coronavirus, mais COVID-19 n'a pas mis fin à la violence contre les dirigeants sociaux, les défenseurs des droits de l'homme et les anciens combattants",
-#         "title_es": "UN Colombia Envoy: Ex-Combatants Making Masks Amid Pandemic",
-#         "description_es": "former combatants are now making face masks to respond to the new coronavirus pandemic, but COVID-19 hasn't stopped violence against social leaders, human rights defenders and ex-fighters",
+#         "titleses": "UN Colombia Envoy: Ex-Combatants Making Masks Amid Pandemic",
+#         "descriptionses": "former combatants are now making face masks to respond to the new coronavirus pandemic, but COVID-19 hasn't stopped violence against social leaders, human rights defenders and ex-fighters",
+
+
 #         "link": "https://www.nytimes.com/aponline/2020/04/14/world/americas/ap-un-virus-outbreak-un-colombia.html",
 #         "progressive": "regressive",
 #         "category": "punitive",
@@ -2394,8 +2686,10 @@ response_data = [
         
 # "title_fr": "L'odyssée des familles vénézuéliennes de retourner dans leur pays depuis la Colombie et de fuir le coronavirus",
 # "description_fr": "Les migrants marchent depuis plusieurs semaines pour arriver dans leur pays",
-#         "title_es": "La odisea de las familias venezolanas para regresar a su país desde Colombia y huir del coronavirus",
-#         "description_es": "Los migrantes han estado caminando durante muchas semanas para llegar a su país",
+#         "titleses": "La odisea de las familias venezolanas para regresar a su país desde Colombia y huir del coronavirus",
+#         "descriptionses": "Los migrantes han estado caminando durante muchas semanas para llegar a su país",
+
+
 #         "link": "https://noticias.caracoltv.com/colombia/la-odisea-de-varias-familias-venezolanas-para-volver-su-pais-desde-colombia-y-huir-del-coronavirus-nid226373?fbclid=IwAR0ZnYvHEB9NM6far1u6OqCwZYSTABkMVoLNNyEWRdmLJkj2cUdSfQ6MDy8",
 #         "progressive": "need to watch",
 #         "category": "healthcare, economy, labor, gender-based violence",
@@ -2408,8 +2702,10 @@ response_data = [
         
 # "title_fr": "Chilbirth au Venezuela, où la mort des femmes est un secret d'État",
 # "description_fr": "Peu de parties de ce système ont été aussi endommagées que ses maternités, où les outils d'accouchement les plus critiques sont tombés en panne ou ont tout simplement disparu, obligeant parfois les médecins à refuser les femmes.",
-#         "title_es": "Nacimiento infantil en Venezuela, donde las muertes de mujeres son un secreto de estado",
-#         "description_es": "Pocas partes de ese sistema han sido tan dañadas como sus salas de maternidad, donde las herramientas de parto más críticas se han estropeado o simplemente desaparecido, a veces obligando a los médicos a rechazar a las mujeres",
+#         "titleses": "Nacimiento infantil en Venezuela, donde las muertes de mujeres son un secreto de estado",
+#         "descriptionses": "Pocas partes de ese sistema han sido tan dañadas como sus salas de maternidad, donde las herramientas de parto más críticas se han estropeado o simplemente desaparecido, a veces obligando a los médicos a rechazar a las mujeres",
+
+
 #         "link": "https://www.nytimes.com/2020/04/10/world/americas/venezuela-pregnancy-birth-death.html",
 #         "progressive": "regressive",
 #         "category": "SRHR, healthcare, gender-based violence, disability",
@@ -2422,8 +2718,10 @@ response_data = [
         
 # "title_fr": "Les États-Unis ignorent les appels à suspendre les sanctions contre le Venezuela et l'Iran en raison de la pandémie de coronavirus",
 # "description_fr": "La propagation du coronavirus n'a pas ralenti le rythme des couches successives de mesures punitives imposées par le département d'État",
-#         "title_es": "Estados Unidos ignora los llamados a suspender las sanciones de Venezuela e Irán en medio de la pandemia de coronavirus",
-#         "description_es": "La propagación del coronavirus no ha frenado el ritmo de las sucesivas capas de medidas punitivas impuestas por el departamento de estado",
+#         "titleses": "Estados Unidos ignora los llamados a suspender las sanciones de Venezuela e Irán en medio de la pandemia de coronavirus",
+#         "descriptionses": "La propagación del coronavirus no ha frenado el ritmo de las sucesivas capas de medidas punitivas impuestas por el departamento de estado",
+
+
 #         "link": "https://www.theguardian.com/world/2020/mar/31/us-ignores-Global-appeals-suspend-sanctions-coronavirus-pandemic-iran-venezuela",
 #         "progressive": "regressive",
 #         "category": "punitive",
@@ -2436,8 +2734,10 @@ response_data = [
         
 # "title_fr": "Les chiffres officiels inhabituels du régime Chavista sur le coronavirus au Venezuela",
 # "description_fr": "Maduro dit que son régime a fait plus de tests de diagnostic que tout autre pays de la région",
-#         "title_es": "Las inusuales cifras oficiales del régimen chavista sobre el coronavirus en Venezuela",
-#         "description_es": "Maduro dice que su régimen ha realizado más pruebas de diagnóstico que cualquier otro país de la región",
+#         "titleses": "Las inusuales cifras oficiales del régimen chavista sobre el coronavirus en Venezuela",
+#         "descriptionses": "Maduro dice que su régimen ha realizado más pruebas de diagnóstico que cualquier otro país de la región",
+
+
 #         "link": "https://www.infobae.com/america/venezuela/2020/04/13/las-insolitas-cifras-oficiales-del-regimen-chavista-sobre-el-coronavirus-en-venezuela/",
 #         "progressive": "need to watch",
 #         "category": "healthcare",
@@ -2450,8 +2750,10 @@ response_data = [
         
 # "title_fr": "Après avoir fui la crise, les migrants vénézuéliens se battent maintenant pour bloquer le coronavirus",
 # "description_fr": "les immigrants dans le pays se débattent après que les autorités ont adopté des mesures pour empêcher la propagation du nouveau coronavirus.",
-#         "title_es": "Después de huir de la crisis, los migrantes venezolanos ahora luchan contra el bloqueo del coronavirus",
-#         "description_es": "los inmigrantes en el país están luchando después de que las autoridades aprobaron medidas para prevenir la propagación del nuevo coronavirus",
+#         "titleses": "Después de huir de la crisis, los migrantes venezolanos ahora luchan contra el bloqueo del coronavirus",
+#         "descriptionses": "los inmigrantes en el país están luchando después de que las autoridades aprobaron medidas para prevenir la propagación del nuevo coronavirus",
+
+
 #         "link": "https://www.npr.org/2020/04/03/824004353/after-fleeing-crisis-venezuelan-migrants-now-struggle-in-coronavirus-lockdown",
 #         "progressive": "regressive",
 #         "category": "economy, labor, food",
@@ -2464,8 +2766,10 @@ response_data = [
         
 # "title_fr": "Coronavirus, sexe et drogues: comment les enfants privilégiés de l'élite du Venezuela continuent de faire partie de la pandémie",
 # "description_fr": "Le risque potentiel est élevé pour la pandémie de submerger un système de santé déjà paralysé, où les hôpitaux manquent d'eau, d'électricité et de fournitures.",
-#         "title_es": "Coronavirus, sexo y drogas: cómo los niños privilegiados de la élite venezolana aún participan en la pandemia",
-#         "description_es": "El riesgo potencial es alto para que la pandemia desborde un sistema de salud ya paralizado, donde los hospitales carecen de agua, electricidad y suministros",
+#         "titleses": "Coronavirus, sexo y drogas: cómo los niños privilegiados de la élite venezolana aún participan en la pandemia",
+#         "descriptionses": "El riesgo potencial es alto para que la pandemia desborde un sistema de salud ya paralizado, donde los hospitales carecen de agua, electricidad y suministros",
+
+
 #         "link": "https://www.scmp.com/news/world/americas/article/3078952/coronavirus-sex-and-drugs-how-privileged-kids-venezuelas-elite",
 #         "progressive": "regressive",
 #         "category": "punitive",
@@ -2478,8 +2782,10 @@ response_data = [
         
 # "title_fr": "Les personnes âgées du Venezuela se sentent condamnées à l'euthanasie sous mise en quarantaine des coronavirus",
 # "description_fr": "Le sort des personnes âgées était déjà aigu au Venezuela après six années de crise économique brutale et de problèmes chroniques avec les services d'électricité et d'eau",
-#         "title_es": "Los ancianos de Venezuela se sienten 'sentenciados a eutanasia' bajo la cuarentena de coronavirus",
-#         "description_es": "La difícil situación de las personas mayores ya era aguda en Venezuela luego de seis años de brutal crisis económica y problemas crónicos con los servicios de energía y agua",
+#         "titleses": "Los ancianos de Venezuela se sienten 'sentenciados a eutanasia' bajo la cuarentena de coronavirus",
+#         "descriptionses": "La difícil situación de las personas mayores ya era aguda en Venezuela luego de seis años de brutal crisis económica y problemas crónicos con los servicios de energía y agua",
+
+
 #         "link": "https://www.reuters.com/article/us-health-coronavirus-venezuela-elderly/venezuela-elderly-feel-sentenced-to-euthanasia-under-coronavirus-quarantine-idUSKBN21O1EE",
 #         "progressive": "regressive",
 #         "category": "healthcare, disability, economy",
@@ -2492,8 +2798,10 @@ response_data = [
         
 # "title_fr": "Les Vénézuéliens de retour font face à une quarantaine de coronavirus cauchemardesque",
 # "description_fr": "Les avocats disent que les migrants qui reviennent au Venezuela au milieu des blocages de coronavirus sont contraints à la quarantaine gouvernementale insalubre.",
-#         "title_es": "Los venezolanos que regresan se enfrentan a la cuarentena de coronavirus 'pesadilla'",
-#         "description_es": "Los defensores dicen que los migrantes que regresan a Venezuela en medio de encierros por coronavirus son forzados a la cuarentena sanitaria",
+#         "titleses": "Los venezolanos que regresan se enfrentan a la cuarentena de coronavirus 'pesadilla'",
+#         "descriptionses": "Los defensores dicen que los migrantes que regresan a Venezuela en medio de encierros por coronavirus son forzados a la cuarentena sanitaria",
+
+
 #         "link": "https://www.aljazeera.com/news/2020/04/returning-venezuelans-forced-stirring-pot-diseases-200408195801387.html",
 #         "progressive": "regressive",
 #         "category": "healthcare, economy, gender-based violence",
@@ -2506,8 +2814,10 @@ response_data = [
         
 # "title_fr": "De nombreux hôpitaux vénézuéliens manquent de bases pour fonctionner, laissez seul gérer le COVID-19",
 # "description_fr": "Le Venezuela fait face à des conséquences catastrophiques de la nouvelle pandémie de coronavirus, qui menace de submerger son système de santé en ruine.",
-#         "title_es": "Muchos hospitales venezolanos carecen de elementos básicos para funcionar, solo manejen COVID-19",
-#         "description_es": "Venezuela enfrenta consecuencias catastróficas de la nueva pandemia de coronavirus, que amenaza con desbordar su sistema de salud en ruinas",
+#         "titleses": "Muchos hospitales venezolanos carecen de elementos básicos para funcionar, solo manejen COVID-19",
+#         "descriptionses": "Venezuela enfrenta consecuencias catastróficas de la nueva pandemia de coronavirus, que amenaza con desbordar su sistema de salud en ruinas",
+
+
 #         "link": "https://www.npr.org/2020/04/10/831569313/many-venezuelan-hospitals-lack-basics-to-function-let-alone-handle-covid-19?utm_campaign=npr&utm_medium=social&utm_term=nprnews&utm_source=facebook.com&fbclid=IwAR0GWtjEwhULAGTHUG7DFeminist Statement or Analysis8bVDR84un1EtgqyNyPIIVJPvlho8-9OU6Xm00",
 #         "progressive": "regressive",
 #         "category": "healthcare, economy, disability",
@@ -2520,8 +2830,10 @@ response_data = [
         
 # "title_fr": "Le Paraguay a le meilleur record d'Amérique du Sud sur le coronavirus après un verrouillage précoce",
 # "description_fr": "Le Paraguay n'a pas attendu pour imposer un verrouillage strict début mars, devant les pays voisins.",
-#         "title_es": "Paraguay tiene el mejor récord de Coronavirus en Sudamérica después del cierre anticipado",
-#         "description_es": "Paraguay no esperó imponer un bloqueo estricto a principios de marzo, antes de los países vecinos",
+#         "titleses": "Paraguay tiene el mejor récord de Coronavirus en Sudamérica después del cierre anticipado",
+#         "descriptionses": "Paraguay no esperó imponer un bloqueo estricto a principios de marzo, antes de los países vecinos",
+
+
 #         "link": "https://www.nytimes.com/reuters/2020/04/14/world/americas/14reuters-health-coronavirus-paraguay.html",
 #         "progressive": "progressive",
 #         "category": "healthcare",
@@ -2534,8 +2846,10 @@ response_data = [
         
 # "title_fr": "Coronavirus au Paraguay: les cours en face à face ne reviendront pas cette année",
 # "description_fr": "",
-#         "title_es": "Coronavirus en Paraguay: las clases presenciales no volverían este año",
-#         "description_es": "",
+#         "titleses": "Coronavirus en Paraguay: las clases presenciales no volverían este año",
+#         "descriptionses": "",
+
+
 #         "link": "http://www.c9n.com.py/actualidad/coronavirus-en-paraguay-clases-presenciales-no-volver%C3%ADan-este-a%C3%Scientific Datao-73249?fbclid=IwAR148mL63y8xJSYhZ7hTQvEeC95EGFh42_1ABlefNf2z23wPQmfIx_0KhNE",
 #         "progressive": "need to watch",
 #         "category": "education",
@@ -2548,8 +2862,10 @@ response_data = [
         
 # "title_fr": "Les Paraguayens ont faim alors que le verrouillage des coronavirus ravage les moyens de subsistance",
 # "description_fr": "Des mesures agressives précoces semblent maîtriser la maladie mais la pandémie a mis à nu les inégalités sociales du pays",
-#         "title_es": "los paraguayos pasan hambre mientras el bloqueo del coronavirus destruye los medios de vida",
-#         "description_es": "Las primeras medidas agresivas parecen estar controlando la enfermedad, pero la pandemia ha puesto al descubierto las desigualdades sociales del país",
+#         "titleses": "los paraguayos pasan hambre mientras el bloqueo del coronavirus destruye los medios de vida",
+#         "descriptionses": "Las primeras medidas agresivas parecen estar controlando la enfermedad, pero la pandemia ha puesto al descubierto las desigualdades sociales del país",
+
+
 #         "link": "https://www.theguardian.com/Global-development/2020/apr/12/paraguay-coronavirus-hungry-social-inequalities?fbclid=IwAR04_TPgFrvaXWK8gR0oyZRjUhSRHROP8RXzWMjlX5P2FD7PKoj0tG3jGurcI",
 #         "progressive": "regressive",
 #         "category": "economy, food",
@@ -2562,8 +2878,10 @@ response_data = [
         
 # "title_fr": "Violence et séquestration: les services aux victimes continuent de fonctionner",
 # "description_fr": "Toutes les institutions ont enregistré une augmentation des cas de violence familiale depuis le début de la quarantaine",
-#         "title_es": "Violencia y confinamiento: los servicios para las víctimas continúan operando",
-#         "description_es": "Todas las instituciones han registrado aumentos en los casos de violencia familiar desde que comenzó la cuarentena",
+#         "titleses": "Violencia y confinamiento: los servicios para las víctimas continúan operando",
+#         "descriptionses": "Todas las instituciones han registrado aumentos en los casos de violencia familiar desde que comenzó la cuarentena",
+
+
 #         "link": "https://www.ultimahora.com/violencia-y-encierro-servicios-victimas-siguen-operando-n2878172.html",
 #         "progressive": "regressive",
 #         "category": "punitive, digital surveillance, gender-based violence",
@@ -2576,8 +2894,10 @@ response_data = [
         
 # "title_fr": "Le Paraguay est loin du pire scénario de Covid-19",
 # "description_fr": "Un pays comme le Paraguay, avec un grave déficit de son système de santé, la quarantaine a été établie en temps voulu",
-#         "title_es": "Paraguay está lejos del peor de los casos de Covid-19",
-#         "description_es": "Un país como Paraguay, con un grave déficit en su sistema de salud, la cuarentena se estableció a su debido tiempo",
+#         "titleses": "Paraguay está lejos del peor de los casos de Covid-19",
+#         "descriptionses": "Un país como Paraguay, con un grave déficit en su sistema de salud, la cuarentena se estableció a su debido tiempo",
+
+
 #         "link": "https://www.gender-based violence.cl/noticia/mundo/paraguay-se-aleja-del-peor-escenario-del-covid-19-segun-informo-gobierno",
 #         "progressive": "need to watch",
 #         "category": "healthcare",
@@ -2590,8 +2910,10 @@ response_data = [
         
 # "title_fr": "Paraguay: les salles à manger solidaires offrent de l'espoir à l'époque de Covid-19",
 # "description_fr": "La solidarité se présente comme un baume d'espoir, lorsque l'aide de l'État n'arrive pas.",
-#         "title_es": "Paraguay: los comedores solidarios ofrecen esperanza en tiempos de Covid-19",
-#         "description_es": "La solidaridad surge como un bálsamo de esperanza, cuando la asistencia estatal no llega",
+#         "titleses": "Paraguay: los comedores solidarios ofrecen esperanza en tiempos de Covid-19",
+#         "descriptionses": "La solidaridad surge como un bálsamo de esperanza, cuando la asistencia estatal no llega",
+
+
 #         "link": "https://es.aleteia.org/2020/04/14/paraguay-comedores-solidarios-brindan-esperanza-en-tiempos-de-covid-19/?fbclid=IwAR1xsP1P4EHuW_636QjrluIYbJXnrw3EhGihu6cXTiN7dV-11aygTgDM6SE",
 #         "progressive": "need to watch",
 #         "category": "economy, labor, food",
@@ -2604,8 +2926,10 @@ response_data = [
 
 # "title_en": "Paraguay: l'enseignement supérieur n'est pas une priorité du gouvernement, dénoncent les étudiants",
 # "description_en": "Le ministre de l'éducation appelle à des cours virtuels jusqu'à la fin de l'année et les organisations dénoncent le fossé numérique qui empêche les jeunes d'étudier",
-#         "title_es": "Paraguay: la educación superior no es una prioridad del gobierno, los estudiantes denuncian",
-# "description_es": "El ministro de educación pide clases virtuales hasta fin de año y las organizaciones denuncian la brecha digital que hace imposible que los jóvenes estudien",
+#         "titleses": "Paraguay: la educación superior no es una prioridad del gobierno, los estudiantes denuncian",
+# "description_es": "Es ministro de educación pide clases virtuales hasta fin de año y las organizaciones denuncian la brecha digital que hace imposible que los jóvenes estudien",
+
+
 # "link": "https://www.nodal.am/2020/04/paraguay-ministro-de-educacion-pide-clases-virtuales-hasta-fin-de-ano-y-organizaciones-denuncian-brecha-digital-que-imposibilita-estudiar-a-miles-de-jovenes/",
 #         "progressive": "need to watch",
 #         "category": "education, economy, food",
@@ -2618,8 +2942,10 @@ response_data = [
 
 # "title_en": "Quel sera l'impact de Covid-19 sur l'économie selon la BID et quelles mesures propose-t-elle?",
 # "description_en": "Plus d'informations dans le rapport macroéconomique de la BID 2020",
-#         "title_es": "¿Cuál será el impacto de Covid-19 en la economía según el BID y qué medidas sugiere?",
-# "description_es": "Más en el informe macroeconómico BID 2020",
+#         "titleses": "¿Cuál será el impacto de Covid-19 en la economía según el BID y qué medidas sugiere?",
+# "description_es": "Mss en el informe macroeconómico BID 2020",
+
+
 # "link": "https://negocios.elpais.com.uy/noticias/sera-impacto-coronavirus-economia-bid-medidas-sugiere.html",
 #         "progressive": "need to watch",
 #         "category": "economy",
@@ -2632,8 +2958,10 @@ response_data = [
 
 # "title_en": "Amérique latine: de l'épidémie au coronavirus",
 # "description_en": "L'érosion de l'hégémonie américaine et la débâcle du bloc bolivarien créent un vide évident dans la direction régionale",
-#         "title_es": "América Latina: del brote al coronavirus",
-# "description_es": "La erosión de la hegemonía estadounidense y la debacle del bloque bolivariano producen un vacío evidente en el liderazgo regional",
+#         "titleses": "América Latina: del brote al coronavirus",
+# "description_es": "Ls erosión de la hegemonía estadounidense y la debacle del bloque bolivariano producen un vacío evidente en el liderazgo regional",
+
+
 # "link": "https://elpais.com/elpais/2020/04/03/opinion/1585883651_861157.html?ssm=FB_CC&fbclid=IwAR1Nd0c8s2i8i961A8ZnF17tkXVyuaC92Uqx7FZu0PEa4HWU0cPEVuDdcTw",
 #         "progressive": "need to watch",
 #         "category": "healthcare, economy",
@@ -2646,8 +2974,10 @@ response_data = [
 
 # "title_en": "Le coronavirus ne fait pas de discrimination, les inégalités le font",
 # "description_en": "Vaincre la pandémie nécessite de faire face aux inégalités",
-#         "title_es": "Coronavirus does not discriminate, Inequalities do",
-# "description_es": "Vencer la pandemia requiere enfrentar las desigualdades",
+#         "titleses": "Coronavirus does not discriminate, Inequalities do",
+# "description_es": "Vsncer la pandemia requiere enfrentar las desigualdades",
+
+
 # "link": "https://oi-files-d8-prod.s3.eu-west-2.amazonaws.com/s3fs-public/2020-03/Covid%2019%20en%20LAC_nota%20informativa_F_0.pdf",
 #         "progressive": "need to watch",
 #         "category": "healthcare, economy, labor, food",
@@ -2660,8 +2990,10 @@ response_data = [
 
 # "title_en": "Coronavirus en Uruguay | L'histoire du navire de croisière australien avec covid-19 rejeté par plusieurs pays et le couloir humanitaire qu'il a trouvé à Montevideo",
 # "description_en": "La situation sur le navire appartenant à Aurore Expeditions s'est encore compliquée lorsque 128 des 217 passagers et membres d'équipage ont été testés positifs pour le virus.",
-#         "title_es": "Coronavirus en Uruguay | La historia del crucero australiano con covid-19 rechazado por varios países y el 'corredor humanitario' que encontró en Montevideo",
-# "description_es": "La situación en el barco propiedad de Aurore Expeditions se complicó aún más cuando 128 de 217 pasajeros y miembros de la tripulación dieron positivo por el virus",
+#         "titleses": "Coronavirus en Uruguay | La historia del crucero australiano con covid-19 rechazado por varios países y el 'corredor humanitario' que encontró en Montevideo",
+# "description_es": "Ls situación en el barco propiedad de Aurore Expeditions se complicó aún más cuando 128 de 217 pasajeros y miembros de la tripulación dieron positivo por el virus",
+
+
 # "link": "https://www.guatevision.com/internacionales/bbc-news-mundo-internacionales/coronavirus-en-uruguay-la-historia-del-crucero-australiano-con-covid-19-rechazado-por-varios-paises-y-el-corredor-humanitario-que-encontro-en-montevideo?fbclid=IwAR2O4mJtFrnHMZFeminist Statement or AnalysisEYBhAuHBl24cnwQ77Y7lE0HHLbgAC2DSgwszCEm-NsQ",
 #         "progressive": "need to watch",
 #         "category": "healthcare",
@@ -2674,8 +3006,10 @@ response_data = [
         
 # "title_fr": "L'Argentine et l'Uruguay, les mieux évalués dans leur gestion de la crise des coronavirus",
 # "description_fr": "Selon une étude réalisée par le sondeur Ipsos, les deux pays sont en tête des pays qui ont le mieux répondu à l'apparition de Covid-19",
-#         "title_es": "Argentina y Uruguay, los mejor evaluados en su manejo de la crisis del coronavirus",
-#         "description_es": "Según un estudio realizado por el encuestador Ipsos, ambos países están en la cima de los países que mejor han respondido a la aparición de Covid-19",
+#         "titleses": "Argentina y Uruguay, los mejor evaluados en su manejo de la crisis del coronavirus",
+#         "descriptionses": "Según un estudio realizado por el encuestador Ipsos, ambos países están en la cima de los países que mejor han respondido a la aparición de Covid-19",
+
+
 #         "link": "http://enfoquejujuy.com/argentina-y-uruguay-los-mejores-evaluados-en-su-gestion-de-la-crisis-por-el-coronavirus/?fbclid=IwAR10qAsSConVFXaQG1YwsMDVSU-7yIVDNMWVqoFW4erY_OtlnpK6JzJy8bg",
 #         "progressive": "need to watch",
 #         "category": "healthcare",
@@ -2688,8 +3022,10 @@ response_data = [
         
 # "title_fr": "Uruguay: le pays qui était en avance sur le coronavirus et est pris en exemple",
 # "description_fr": "Depuis 2007, l'Uruguay a mis en œuvre le Plan Ceibal, une initiative d'inclusion technologique classée unique au monde",
-#         "title_es": "Uruguay: el país que estaba por delante del coronavirus y se toma como ejemplo",
-#         "description_es": "Desde 2007, Uruguay ha llevado a cabo el Plan Ceibal, una iniciativa de inclusión de tecnología que fue calificada como 'única en el mundo",
+#         "titleses": "Uruguay: el país que estaba por delante del coronavirus y se toma como ejemplo",
+#         "descriptionses": "Desde 2007, Uruguay ha llevado a cabo el Plan Ceibal, una iniciativa de inclusión de tecnología que fue calificada como 'única en el mundo",
+
+
 #         "link": "https://www.infobae.com/educacion/2020/04/17/educacion-el-pais-vecino-que-se-adelanto-al-coronavirus-y-es-tomado-como-ejemplo/",
 #         "progressive": "need to watch",
 #         "category": "education",
@@ -2702,8 +3038,10 @@ response_data = [
         
 # "title_fr": "Le Parlement uruguayen approuve l'approbation du Coronavirus Fund",
 # "description_fr": "",
-#         "title_es": "El Parlamento uruguayo acuerda la aprobación del 'Fondo Coronavirus",
-# "description_es": "",
+#         "titleses": "El Parlamento uruguayo acuerda la aprobación del 'Fondo Coronavirus",
+# "description_es": ""s
+
+
 # "link": "https://www.efe.com/efe/america/economia/el-parlamento-uruguayo-acuerda-la-aprobacion-del-fondo-coronavirus/20000011-4212287",
 #         "progressive": "need to watch",
 #         "category": "economy",
@@ -2716,8 +3054,10 @@ response_data = [
         
 # "title_fr": "Ligne de soutien émotionnel COVID-19 sans frais",
 # "description_fr": "La ligne téléphonique a commencé à fonctionner cette semaine pour tous ceux qui se sentent affectés par l'isolement et l'éloignement social et qui ont besoin d'un soutien émotionnel",
-#         "title_es": "Línea gratuita de apoyo emocional COVID-19",
-#         "description_es": "La línea telefónica comenzó a funcionar esta semana para todos aquellos que se sienten afectados por el aislamiento y el distanciamiento social y requieren apoyo emocional",
+#         "titleses": "Línea gratuita de apoyo emocional COVID-19",
+#         "descriptionses": "La línea telefónica comenzó a funcionar esta semana para todos aquellos que se sienten afectados por el aislamiento y el distanciamiento social y requieren apoyo emocional",
+
+
 #         "link": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/0800-1920-linea-gratuita-apoyo-emocional-frente-covid-19",
 #         "progressive": "need to watch",
 #         "category": "digital surveillance",
@@ -2730,8 +3070,10 @@ response_data = [
         
 # "title_fr": "La dépression, l'autre épidémie à laquelle l'Uruguay est confronté en plus du coronavirus",
 # "description_fr": "Le pays a l'un des taux de suicide les plus élevés de la région et une quarantaine générale peut avoir des effets psychologiques sur l'ensemble de la population.",
-#         "title_es": "Depresión, la otra epidemia que enfrenta Uruguay además del coronavirus",
-#         "description_es": "El país tiene una de las tasas de suicidio más altas de la región y una cuarentena general puede tener efectos psicológicos en toda la población",
+#         "titleses": "Depresión, la otra epidemia que enfrenta Uruguay además del coronavirus",
+#         "descriptionses": "El país tiene una de las tasas de suicidio más altas de la región y una cuarentena general puede tener efectos psicológicos en toda la población",
+
+
 #         "link": "https://expansion.mx/mundo/2020/03/27/la-depresion-la-otra-epidemia-que-uruguay-enfrenta-ademas-del-coronavirus?fbclid=IwAR2uW7tDHobpi0j3nIOokzOPZzkXuU_xhvzd8ZgulfwlePSAK3u8vMgy9r4",
 #         "progressive": "need to watch",
 #         "category": "healthcare",
@@ -2744,8 +3086,10 @@ response_data = [
         
 # "title_fr": "Coronavirus et avortement: le droit à l'interruption de grossesse n'est pas mis en quarantaine",
 # "description_fr": "La crise sanitaire n'arrête pas les grossesses non désirées, mais l'accès aux droits à l'avortement peut être entravé",
-#         "title_es": "Coronavirus y aborto: el derecho a la interrupción del embarazo no está en cuarentena",
-#         "description_es": "La crisis de salud no detiene los embarazos no deseados, pero el acceso a los derechos de aborto puede verse obstaculizado",
+#         "titleses": "Coronavirus y aborto: el derecho a la interrupción del embarazo no está en cuarentena",
+#         "descriptionses": "La crisis de salud no detiene los embarazos no deseados, pero el acceso a los derechos de aborto puede verse obstaculizado",
+
+
 #         "link": "https://latfem.org/coronavirus-y-aborto-el-derecho-a-la-interrupcion-del-embarazo-no-esta-en-cuarentena/",
 #         "progressive": "need to watch",
 #         "category": "SRHR, healthcare",
@@ -2758,8 +3102,10 @@ response_data = [
 
 # "title_en": "14% des personnes infectées par le coronavirus en Argentine sont des agents de santé",
 # "description_en": "Parmi 14% des médecins infectés, 33% ont des antécédents de voyage ou de contacts étroits avec des personnes infectées",
-#         "title_es": "14% de las personas infectadas con coronavirus en Argentina son trabajadores de la salud",
-# "description_es": "Entre el 14% de los médicos infectados, el 33% tiene antecedentes de viajes o contacto cercano con personas infectadas",
+#         "titleses": "14% de las personas infectadas con coronavirus en Argentina son trabajadores de la salud",
+# "description_es": "Estre el 14% de los médicos infectados, el 33% tiene antecedentes de viajes o contacto cercano con personas infectadas",
+
+
 # "link": "https://www.eldestapeweb.com/nota/el-14-de-los-infectados-de-coronavirus-en-argentina-son-trabajadores-de-la-salud-202041710160",
 #         "progressive": "need to watch",
 #         "category": "healthcare, gendered health impacts",
@@ -2772,8 +3118,10 @@ response_data = [
         
 # "title_fr": "Coronavirus en Argentine: les élèves seront-ils évalués pendant la suspension des cours?",
 # "description_fr": "Certaines provinces chercheront à accompagner sans mettre de notes jusqu'à leur retour en classe et d'autres viseront à prouver l'apprentissage",
-#         "title_es": "Coronavirus en Argentina: ¿serán evaluados los estudiantes mientras se suspenden las clases?",
-#         "description_es": "Algunas provincias buscarán acompañar sin poner notas hasta que regresen a las aulas y otras buscarán demostrar el aprendizaje",
+#         "titleses": "Coronavirus en Argentina: ¿serán evaluados los estudiantes mientras se suspenden las clases?",
+#         "descriptionses": "Algunas provincias buscarán acompañar sin poner notas hasta que regresen a las aulas y otras buscarán demostrar el aprendizaje",
+
+
 #         "link": "https://www.infobae.com/educacion/2020/04/15/coronavirus-en-argentina-los-alumnos-seran-evaluados-mientras-las-clases-esten-suspendidas/",
 #         "progressive": "need to watch",
 #         "category": "education",
@@ -2786,8 +3134,10 @@ response_data = [
         
 # "title_fr": "Revenu familial d'urgence",
 # "description_fr": "Le lien vise à atténuer l'impact de l'urgence sanitaire sur l'économie des familles argentines les plus touchées.",
-#         "title_es": "Ingresos familiares de emergencia",
-#         "description_es": "El bono busca aliviar el impacto de la emergencia sanitaria en la economía de las familias argentinas más afectadas",
+#         "titleses": "Ingresos familiares de emergencia",
+#         "descriptionses": "El bono busca aliviar el impacto de la emergencia sanitaria en la economía de las familias argentinas más afectadas",
+
+
 #         "link": "https://www.argentina.gob.ar/economia/medidas-economicas-COVID19/ingresofamiliardeemergencia",
 #         "progressive": "need to watch",
 #         "category": "economy",
@@ -2800,8 +3150,10 @@ response_data = [
         
 # "title_fr": "La demande d'aide due à la violence de genre en Argentine a augmenté de 39% pendant le COVID19",
 # "description_fr": "",
-#         "title_es": "La solicitud de ayuda por violencia de género en Argentina aumentó durante el COVID19 en un 39%",
-#         "description_es": "",
+#         "titleses": "La solicitud de ayuda por violencia de género en Argentina aumentó durante el COVID19 en un 39%",
+#         "descriptionses": "",
+
+
 #         "link": "https://www.onu.org.ar/se-incremento-un-39-el-pedido-de-ayuda-por-violencia-de-genero-en-argentina-durante-el-covid19/",
 #         "progressive": "need to watch",
 #         "category": "gender-based violence",
@@ -2814,8 +3166,10 @@ response_data = [
         
 # "title_fr": "Coronavirus: comment est autorisé le permis de circulation pour les plus de 70 ans",
 # "description_fr": "Le gouvernement de la ville mettra en œuvre la mesure pour empêcher le groupe le plus à risque de quitter son domicile.",
-#         "title_es": "Coronavirus: cómo es el permiso para que circulen los mayores de 70 años",
-#         "description_es": "El gobierno de la ciudad implementará la medida para evitar que el grupo de mayor riesgo salga de sus hogares",
+#         "titleses": "Coronavirus: cómo es el permiso para que circulen los mayores de 70 años",
+#         "descriptionses": "El gobierno de la ciudad implementará la medida para evitar que el grupo de mayor riesgo salga de sus hogares",
+
+
 #         "link": "https://www.eldestapeweb.com/nota/coronavirus-como-es-el-permiso-que-necesitaran-los-mayores-de-70-anos-para-circular-por-caba-202041621530",
 #         "progressive": "need to watch",
 #         "category": "punitive, digital surveillance",
@@ -2828,8 +3182,10 @@ response_data = [
         
 # "title_fr": "Coronavirus en Argentine, Alberto Fernández à certains entrepreneurs: Les garçons, il est temps de gagner moins",
 # "description_fr": "Le président a souligné qu'il avait pris une série de mesures pour les entreprises.",
-#         "title_es": "Coronavirus en Argentina, Alberto Fernández para algunos empresarios: 'Chicos, es hora de ganar menos",
-#         "description_es": "El presidente hizo hincapié en que tomaron una 'serie de medidas' para las empresas",
+#         "titleses": "Coronavirus en Argentina, Alberto Fernández para algunos empresarios: 'Chicos, es hora de ganar menos",
+#         "descriptionses": "El presidente hizo hincapié en que tomaron una 'serie de medidas' para las empresas",
+
+
 #         "link": "https://www.clarin.com/politica/coronavirus-argentina-alberto-fernandez-empresarios-muchachos-toco-hora-ganar-_0_GlMd13NhU.html",
 #         "progressive": "need to watch",
 #         "category": "economy",
@@ -2842,8 +3198,10 @@ response_data = [
         
 # "title_fr": "Paquet de soutien économique du gouvernement argentin",
 # "description_fr": "Le gouvernement a veillé à ce qu'aucun service essentiel ne soit supprimé pour les retraités, les assistés sociaux et les ménages gagnant moins de 33 750 pesos (environ 520 dollars) en raison d'un manque de paiement",
-#         "title_es": "paquete de apoyo económico del gobierno argentino",
-#         "description_es": "El gobierno se ha asegurado de que no se reduzcan los servicios esenciales para jubilados, beneficiarios de asistencia social y hogares que ganan menos de 33,750 pesos combinados (alrededor de $ 520) debido a la falta de pago",
+#         "titleses": "paquete de apoyo económico del gobierno argentino",
+#         "descriptionses": "El gobierno se ha asegurado de que no se reduzcan los servicios esenciales para jubilados, beneficiarios de asistencia social y hogares que ganan menos de 33,750 pesos combinados (alrededor de $ 520) debido a la falta de pago",
+
+
 #         "link": "https://www.boletinoficial.gob.ar/detalleAviso/primera/227120/20200325",
 #         "progressive": "progressive",
 #         "category": "economy",
@@ -2856,8 +3214,10 @@ response_data = [
         
 # "title_fr": "Les prêts de crise augmentent alors que le gouvernement oblige les banques à apporter leur aide",
 # "description_fr": "Le crédit est de retour en Argentine alors que le pays cherche à inonder ses rues de pesos pour atténuer les effets du coronavirus.",
-#         "title_es": "Crisis lending surges as government obliges banks to assist",
-#         "description_es": "Credit lending is making a comeback in Argentina as the country seeks to flood its streets with pesos to mitigate the effects of the coronavirus.",
+#         "titleses": "Crisis lending surges as government obliges banks to assist",
+#         "descriptionses": "Credit lending is making a comeback in Argentina as the country seeks to flood its streets with pesos to mitigate the effects of the coronavirus.",
+
+
 #         "link": "https://www.batimes.com.ar/news/economy/crisis-lending-surges-as-government-obliges-banks-to-assist.phtml",
 #         "progressive": "need to watch",
 #         "category": "economy",
@@ -2870,8 +3230,10 @@ response_data = [
         
 # "title_fr": "Alberto Fernández a soutenu la création d'une taxe extraordinaire pour les grandes fortunes",
 # "description_fr": "Le projet, qui cherche à générer de nouvelles ressources pour faire face à la pandémie, va à l'encontre de celui qui pousse Macrism à baisser les salaires élevés des 3 branches de l'État de 30%.",
-#         "title_es": "Alberto Fernández apoyó la creación de un impuesto extraordinario para grandes fortunas",
-#         "description_es": "El proyecto, que busca generar nuevos recursos para hacer frente a la pandemia, va en contra del que impulsa al macrismo a reducir los altos salarios de las 3 ramas del Estado en un 30%",
+#         "titleses": "Alberto Fernández apoyó la creación de un impuesto extraordinario para grandes fortunas",
+#         "descriptionses": "El proyecto, que busca generar nuevos recursos para hacer frente a la pandemia, va en contra del que impulsa al macrismo a reducir los altos salarios de las 3 ramas del Estado en un 30%",
+
+
 #         "link": "https://www.minutouno.com/notas/5093975-alberto-fernandez-apoyo-la-creacion-un-impuesto-extraordinario-las-grandes-fortunas",
 #         "progressive": "need to watch",
 #         "category": "economy",
@@ -2884,8 +3246,10 @@ response_data = [
         
 # "title_fr": "Le télétravail atteint à peine 3 millions de travailleurs",
 # "description_fr": "Avec l'extension de la quarantaine, plusieurs éléments sont incapables de transférer leurs tâches vers le monde virtuel",
-#         "title_es": "El teletrabajo apenas llega a 3 millones de trabajadores",
-#         "description_es": "Con la extensión de la cuarentena, hay varios elementos que no pueden transferir sus tareas al mundo virtual",
+#         "titleses": "El teletrabajo apenas llega a 3 millones de trabajadores",
+#         "descriptionses": "Con la extensión de la cuarentena, hay varios elementos que no pueden transferir sus tareas al mundo virtual",
+
+
 #         "link": "https://www.infobae.com/sociedad/2020/04/15/coronavirus-en-la-argentina-el-teletrabajo-apenas-alcanza-a-3-millones-de-trabajadores/?fbclid=IwAR3hDyJfUsnMUutHwDX02AmogRg8pSxr8FY5-QRpxScientific DataxuLb-xlNNwxCUCz4",
 #         "progressive": "need to watch",
 #         "category": "economy, food",
@@ -2898,8 +3262,10 @@ response_data = [
         
 # "title_fr": "L'Argentine, la première au monde en proportion de personnels de santé infectés par Covid-19",
 # "description_fr": "14% des agents de santé infectés dans le pays",
-#         "title_es": "Argentina, la primera en el mundo en proporción de personal de salud infectado con Covid-19",
-#         "description_es": "14% de los trabajadores de salud infectados en el país",
+#         "titleses": "Argentina, la primera en el mundo en proporción de personal de salud infectado con Covid-19",
+#         "descriptionses": "14% de los trabajadores de salud infectados en el país",
+
+
 #         "link": "http://www.laizquierdadiario.com/Argentina-primera-a-nivel-mundial-en-proporcion-de-personal-de-salud-infectado-con-Covid-19",
 #         "progressive": "need to watch",
 #         "category": "healthcare",
@@ -2912,8 +3278,10 @@ response_data = [
         
 # "title_fr": "Plan d'action sur le coronavirus",
 # "description_fr": "Guide des citoyens pour la réponse générale à Covid-19 et l'aide gouvernementale",
-#         "title_es": "Plan de acción sobre coronavirus",
-#         "description_es": "Guía de ciudadanos para la respuesta general de Covid-19 y la ayuda del gobierno",
+#         "titleses": "Plan de acción sobre coronavirus",
+#         "descriptionses": "Guía de ciudadanos para la respuesta general de Covid-19 y la ayuda del gobierno",
+
+
 #         "link": "https://www.gob.cl/coronavirus/plandeaccion/",
 #         "progressive": "progressive",
 #         "category": "punitive, digital surveillance, healthcare, education, labor, food",
@@ -2926,8 +3294,10 @@ response_data = [
         
 # "title_fr": "Le Chili va délivrer des cartes d'immunité contre les coronavirus à ceux qui se sont remis d'une maladie",
 # "description_fr": "Governmetn va bientôt commencer à distribuer les premières cartes d'immunité contre les coronavirus au monde à ceux qui se sont complètement remis de la maladie",
-#         "title_es": "Chile emitirá tarjetas de inmunidad al coronavirus para quienes se recuperaron de la enfermedad",
-#         "description_es": "Governmetn pronto comenzará a distribuir las primeras tarjetas de inmunidad de coronavirus del mundo a aquellos que se hayan recuperado completamente de la enfermedad",
+#         "titleses": "Chile emitirá tarjetas de inmunidad al coronavirus para quienes se recuperaron de la enfermedad",
+#         "descriptionses": "Governmetn pronto comenzará a distribuir las primeras tarjetas de inmunidad de coronavirus del mundo a aquellos que se hayan recuperado completamente de la enfermedad",
+
+
 #         "link": "https://www.nydailynews.com/coronavirus/ny-coronavirus-chile-to-give-out-immunity-cards-20200417-cjzrktfhqvezti5nay6vxqxl4m-story.html?fbclid=IwAR05wU2i7ggkLviOJ15E9observed responsezf4owDEwt9loIs3fiXr-digital surveillanceci6GViOtQMS6vQ",
 #         "progressive": "need to watch",
 #         "category": "digital surveillance, healthcare",
@@ -2940,8 +3310,10 @@ response_data = [
         
 # "title_fr": "Au Chili, l'éducation à l'époque du coronavirus se fera par signal de télévision ouvert",
 # "description_fr": "",
-#         "title_es": "En Chile, la educación en tiempos del coronavirus será por señal de televisión abierta",
-#         "description_es": "",
+#         "titleses": "En Chile, la educación en tiempos del coronavirus será por señal de televisión abierta",
+#         "descriptionses": "",
+
+
 #         "link": "https://www.eluniverso.com/noticias/2020/04/14/nota/7813446/chile-educacion-tiempos-coronavirus-sera-senal-abierta-television",
 #         "progressive": "progressive",
 #         "category": "education",
@@ -2954,8 +3326,10 @@ response_data = [
         
 # "title_fr": "L'économie chilienne chutera de 2% en 2020 en raison du coronavirus",
 # "description_fr": "L'économie chilienne chutera de 2% en 2020 affectée par la pandémie de coronavirus, ce qui obligera les dépenses publiques à augmenter et entraînera un déficit budgétaire de 8% du PIB",
-#         "title_es": "La economía chilena caerá un 2% en 2020 debido al coronavirus",
-#         "description_es": "La economía chilena caerá un 2% en 2020 afectada por la pandemia de coronavirus, lo que obligará a un mayor gasto público y generará un déficit fiscal del 8% del PIB",
+#         "titleses": "La economía chilena caerá un 2% en 2020 debido al coronavirus",
+#         "descriptionses": "La economía chilena caerá un 2% en 2020 afectada por la pandemia de coronavirus, lo que obligará a un mayor gasto público y generará un déficit fiscal del 8% del PIB",
+
+
 #         "link": "https://www.infobae.com/america/agencias/2020/04/17/economia-chilena-caera-2-en-2020-golpeada-por-coronavirus-gobierno/",
 #         "progressive": "need to watch",
 #         "category": "economy",
@@ -2968,8 +3342,10 @@ response_data = [
         
 # "title_fr": "Coronavirus au Chili: les rapports sur la violence sexiste augmentent de 70%",
 # "description_fr": "",
-#         "title_es": "Coronavirus en Chile: informes sobre violencia de género aumentan 70%",
-#         "description_es": "",
+#         "titleses": "Coronavirus en Chile: informes sobre violencia de género aumentan 70%",
+#         "descriptionses": "",
+
+
 #         "link": "https://www.nodal.am/2020/04/chile-aumentan-70-las-denuncias-por-violencia-de-genero-durante-la-emergencia-sanitaria/",
 #         "progressive": "need to watch",
 #         "category": "punitive, gender-based violence",
@@ -2982,8 +3358,10 @@ response_data = [
         
 # "title_fr": "Les migrants sont piégés à la frontière chilienne en raison des restrictions des coronavirus",
 # "description_fr": "Un millier de migrants, principalement des Boliviens, sont bloqués dans le nord du Chili après que les sources de travail dans le pays sont épuisées et qu'ils ne peuvent pas rentrer chez eux en raison de la fermeture territoriale",
-#         "title_es": "Los migrantes están atrapados en la frontera chilena debido a restricciones de coronavirus",
-#         "description_es": "Un millar de migrantes, principalmente bolivianos, están varados en el norte de Chile después de que se agotaron las fuentes de trabajo en el país y no pueden regresar a sus hogares debido al cierre territorial",
+#         "titleses": "Los migrantes están atrapados en la frontera chilena debido a restricciones de coronavirus",
+#         "descriptionses": "Un millar de migrantes, principalmente bolivianos, están varados en el norte de Chile después de que se agotaron las fuentes de trabajo en el país y no pueden regresar a sus hogares debido al cierre territorial",
+
+
 #         "link": "https://translate.google.com/translate?hl=en&sl=es&u=https://lta.reuters.com/articulo/salud-coronavirus-chile-migrantes-idLTAKBN21Y3CT&prev=search",
 #         "progressive": "need to watch",
 #         "category": "economy, labor, disability, race",
@@ -2996,8 +3374,10 @@ response_data = [
         
 # "title_fr": "Le groupe principal des personnes infectées au Chili a entre 30 et 44 ans",
 # "description_fr": "",
-#         "title_es": "El grupo principal de personas infectadas en Chile tiene entre 30 y 44 años",
-#         "description_es": "",
+#         "titleses": "El grupo principal de personas infectadas en Chile tiene entre 30 y 44 años",
+#         "descriptionses": "",
+
+
 #         "link": "https://www.meganoticias.cl/nacional/298007-informe-epidemiologico-coronavirus-covid19-edad-contagiados-region-comuna.html",
 #         "progressive": "need to watch",
 #         "category": "healthcare",
@@ -3010,8 +3390,10 @@ response_data = [
         
 # "title_fr": "La Bolivie approuve les bracelets électriques pour contrôler les suspects de Covid-19",
 # "description_fr": "L'utilisation de 500 bracelets de cheville électriques dotés d'une puce a été prévue pour suivre d'éventuels covid-19 infectés",
-#         "title_es": "Bolivia aprueba tobilleras eléctricas para controlar a los sospechosos de covid-19",
-#         "description_es": "Se ha dispuesto el uso de 500 tobilleras eléctricas que tienen un chip para rastrear posibles covid-19 infectados",
+#         "titleses": "Bolivia aprueba tobilleras eléctricas para controlar a los sospechosos de covid-19",
+#         "descriptionses": "Se ha dispuesto el uso de 500 tobilleras eléctricas que tienen un chip para rastrear posibles covid-19 infectados",
+
+
 #         "link": "https://andina.pe/agencia/noticia-bolivia-aprueba-tobilleras-electricas-para-controlar-sospechosos-covid19-792388.aspx?fbclid=IwAR1JcQCWXTAhJhwrMF-sBhq5tZYw5KSpQbJNO6LkHaFWkN63fCbZZRJ_dY0",
 #         "progressive": "need to watch",
 #         "category": "punitive, digital surveillance",
@@ -3024,8 +3406,10 @@ response_data = [
         
 # "title_fr": "La Bolivie demande 320 millions de dollars au FMI pour lutter contre la pandémie de coronavirus",
 # "description_fr": "Une partie du financement serait utilisée pour payer la caution universelle, qui consiste à octroyer 500 bolivianos (environ 72 dollars) à quatre millions de personnes sans revenu.",
-#         "title_es": "Bolivia solicita $ 320 millones al FMI para abordar la pandemia de coronavirus",
-#         "description_es": "Parte del financiamiento se usaría para pagar el Bono Universal, que consiste en otorgar 500 bolivianos (aproximadamente $ 72) a cuatro millones de personas sin ingresos",
+#         "titleses": "Bolivia solicita $ 320 millones al FMI para abordar la pandemia de coronavirus",
+#         "descriptionses": "Parte del financiamiento se usaría para pagar el Bono Universal, que consiste en otorgar 500 bolivianos (aproximadamente $ 72) a cuatro millones de personas sin ingresos",
+
+
 #         "link": "https://actualidad.rt.com/actualidad/350223-bolivia-solicitar-fmi-millones-bonos-coronavirus?fbclid=IwAR1SU6U78-JaLCAlI8lddqv23fwPNGIHBC_RYAl_r66ENVCjOe4k0lNKXfk",
 #         "progressive": "need to watch",
 #         "category": "economy",
@@ -3038,8 +3422,10 @@ response_data = [
         
 # "title_fr": "Quarantaine: 33 mineurs ont été violés et plus de 1 200 femmes ont été victimes de violences",
 # "description_fr": "",
-#         "title_es": "Cuarentena: 33 menores fueron violadas y más de 1.200 mujeres fueron víctimas de violencia",
-#         "description_es": "",
+#         "titleses": "Cuarentena: 33 menores fueron violadas y más de 1.200 mujeres fueron víctimas de violencia",
+#         "descriptionses": "",
+
+
 #         "link": "https://www.atb.com.bo/seguridad/cuarentena-33-menores-fueron-violadas-y-m%C3%policy or laws-de-1200-mujeres-fueron-v%C3%ADctimas-de-violencia?fbclid=IwAR12bUpq0lDAj0CO4cdbX45kywVF5Z8Ml5RaYC09s2QAoVuHTusw-R_mlIk",
 #         "progressive": "regressive",
 #         "category": "gender-based violence",
@@ -3052,8 +3438,10 @@ response_data = [
         
 # "title_fr": "La Bolivie distribuera jusqu'à 500 millions de dollars d'obligations pour COVID-19",
 # "description_fr": "L'aide affecte les groupes à faible revenu",
-#         "title_es": "Bolivia distribuirá hasta USD 500 millones en bonos para COVID-19",
-#         "description_es": "La ayuda afecta a los grupos de bajos ingresos",
+#         "titleses": "Bolivia distribuirá hasta USD 500 millones en bonos para COVID-19",
+#         "descriptionses": "La ayuda afecta a los grupos de bajos ingresos",
+
+
 #         "link": "https://www.dw.com/es/bolivia-repartir%C3%policy or law-hasta-usd-500-millones-en-bonos-por-covid-19/a-53141621",
 #         "progressive": "progressive",
 #         "category": "economy, disability",
@@ -3066,8 +3454,10 @@ response_data = [
         
 # "title_fr": "Bolivie: un ancien président versera un salaire au milieu d'un virus",
 # "description_fr": "Evo Morales a précédemment exhorté les fonctionnaires qui gagnent plus de 1 020 $ à donner leur salaire pour lutter contre la pandémie de coronavirus",
-#         "title_es": "Bolivia: ex presidente donará salario en medio del virus",
-#         "description_es": "Evo Morales instó previamente a los funcionarios públicos que ganan más de $ 1,020 a donar sus salarios para combatir la pandemia de coronavirus",
+#         "titleses": "Bolivia: ex presidente donará salario en medio del virus",
+#         "descriptionses": "Evo Morales instó previamente a los funcionarios públicos que ganan más de $ 1,020 a donar sus salarios para combatir la pandemia de coronavirus",
+
+
 #         "link": "https://www.aa.com.tr/en/americas/bolivia-ex-president-to-donate-salary-amid-virus/1804629?fbclid=IwAR3XKckQPsKy1fN5oLAqfHWnStyftmrjgDfu03GMuCj4Xk33C6ElG9FScientific DataFk",
 #         "progressive": "need to watch",
 #         "category": "economy",
@@ -3080,8 +3470,10 @@ response_data = [
         
 # "title_fr": "Le coronavirus laisse les élections boliviennes incertaines",
 # "description_fr": "",
-#         "title_es": "El coronavirus deja inciertas las elecciones bolivianas",
-#         "description_es": "",
+#         "titleses": "El coronavirus deja inciertas las elecciones bolivianas",
+#         "descriptionses": "",
+
+
 #         "link": "https://www.sandiegouniontribune.com/en-espanol/noticias/story/2020-04-08/coronavirus-deja-en-incertidumbre-elecciones-en-bolivia",
 #         "progressive": "need to watch",
 #         "category": "healthcare, economy",
@@ -3094,8 +3486,10 @@ response_data = [
         
 # "title_fr": "Répression des rassemblements féministes et harcèlement des anciennes détenues politiques",
 # "description_fr": "Détaille les cas de harcèlement en mars, une partie de la répression continue de l'État, tandis que des réponses COVID émergent",
-#         "title_es": "Represión de manifestaciones feministas y hostigamiento de ex presas políticas",
-#         "description_es": "Detalla los casos de acoso en marzo, parte de la represión estatal continua, mientras surgen respuestas COVID",
+#         "titleses": "Represión de manifestaciones feministas y hostigamiento de ex presas políticas",
+#         "descriptionses": "Detalla los casos de acoso en marzo, parte de la represión estatal continua, mientras surgen respuestas COVID",
+
+
 #         "link": "https://monitor.civicus.org/updates/2020/04/08/crackdown-feminist-rallies-and-harassment-former-political-prisoners-nicaragua/",
 #         "progressive": "regressive",
 #         "category": "punitive",
@@ -3108,8 +3502,10 @@ response_data = [
         
 # "title_fr": "La réponse d'El Salvador à Covid-19 restreint excessivement les droits fondamentaux, disent les OSC",
 # "description_fr": "Détaille le harcèlement en ligne des droits humains et des militantes féministes, les critiques du gouvernement et la censure des journalistes",
-#         "title_es": "El Salvador's Response To Covid-19 Excessively Restricts Fundamental Rights, Say CSOs",
-#         "description_es": "Details online harrassment of human rights and feminist activists, government criticism, and censoring of journalists",
+#         "titleses": "El Salvador's Response To Covid-19 Excessively Restricts Fundamental Rights, Say CSOs",
+#         "descriptionses": "Details online harrassment of human rights and feminist activists, government criticism, and censoring of journalists",
+
+
 #         "link": "https://monitor.civicus.org/updates/2020/04/07/el-salvadors-response-covid-19-has-excessively-restricted-fundamental-rights-say-csos/",
 #         "progressive": "regressive",
 #         "category": "punitive",
@@ -3122,8 +3518,10 @@ response_data = [
         
 # "title_fr": "La protection des victimes est étendue pendant le coronavirus",
 # "description_fr": "Extension du support de la hotline HelpChat pour les femmes et les filles victimes de violences psychologiques, physiques et / ou sexuelles",
-#         "title_es": "La protección de la víctima se expande durante el coronavirus",
-#         "description_es": "Expansión del apoyo a la línea de ayuda de HelpChat para mujeres y niñas que sufren violencia psicológica, física y / o sexual",
+#         "titleses": "La protección de la víctima se expande durante el coronavirus",
+#         "descriptionses": "Expansión del apoyo a la línea de ayuda de HelpChat para mujeres y niñas que sufren violencia psicológica, física y / o sexual",
+
+
 #         "link": "https://www.frauenring.at/opferschutz-corona-krise-ausgebaut",
 #         "progressive": "progressive",
 #         "category": "gender-based violence",
@@ -3136,8 +3534,10 @@ response_data = [
         
 # "title_fr": "Le Bangladesh envoie de l'aide alimentaire aux maisons closes alors que les femmes se battent pour survivre au verrouillage",
 # "description_fr": "Brève description du programme d'aide alimentaire dans le contexte de la fermeture de l'industrie du sexe, des conditions de travail",
-#         "title_es": "Bangladesh envía ayuda alimentaria a los burdeles mientras las mujeres luchan para sobrevivir el encierro",
-#         "description_es": "Breve descripción del programa de ayuda alimentaria en el contexto del cierre de la industria del trabajo sexual, las condiciones de los trabajadores",
+#         "titleses": "Bangladesh envía ayuda alimentaria a los burdeles mientras las mujeres luchan para sobrevivir el encierro",
+#         "descriptionses": "Breve descripción del programa de ayuda alimentaria en el contexto del cierre de la industria del trabajo sexual, las condiciones de los trabajadores",
+
+
 #         "link": "https://www.theguardian.com/Global-development/2020/apr/06/bangladesh-sends-food-aid-to-sex-workers-as-industry-goes-into-lockdown",
 #         "progressive": "need to watch",
 #         "category": "food",
@@ -3150,8 +3550,10 @@ response_data = [
         
 # "title_fr": "Des femmes se mobilisent pour empêcher le COVID-19 dans les camps de réfugiés Rohingya bondés",
 # "description_fr": "Les femmes dirigeantes rohingyas se sont auto-mobilisées, formant des réseaux et sensibilisant à COVID-19 dans tous les camps",
-#         "title_es": "Las mujeres se movilizan para prevenir COVID-19 en campamentos de refugiados rohingya llenos de gente",
-#         "description_es": "Las mujeres líderes rohingya se auto movilizaron, formaron redes y crearon conciencia sobre COVID-19 en todos los campamentos",
+#         "titleses": "Las mujeres se movilizan para prevenir COVID-19 en campamentos de refugiados rohingya llenos de gente",
+#         "descriptionses": "Las mujeres líderes rohingya se auto movilizaron, formaron redes y crearon conciencia sobre COVID-19 en todos los campamentos",
+
+
 #         "link": "https://reliefweb.int/report/bangladesh/women-mobilize-prevent-covid-19-crowded-rohingya-refugee-camps",
 #         "progressive": "progressive",
 #         "category": "healthcare, gendered health impacts, gender-based violence",
@@ -3164,8 +3566,10 @@ response_data = [
         
 # "title_fr": "#StayInYourTent: les mesures de protection COVID-19 atteignent le désert du Sahara",
 # "description_fr": "Le peuple sahraoui se bat avec toutes ses ressources contre la propagation du virus",
-#         "title_es": "#StayInYourTent: las medidas de protección de COVID-19 llegan al desierto del Sahara",
-#         "description_es": "El pueblo saharaui está luchando con todos sus recursos contra la propagación del virus",
+#         "titleses": "#StayInYourTent: las medidas de protección de COVID-19 llegan al desierto del Sahara",
+#         "descriptionses": "El pueblo saharaui está luchando con todos sus recursos contra la propagación del virus",
+
+
 #         "link": "https://www.euronews.com/2020/04/10/stayinyourtent-covid-19-protective-measures-reach-sahara-desert",
 #         "progressive": "need to watch",
 #         "category": "healthcare",
@@ -3178,8 +3582,10 @@ response_data = [
         
 # "title_fr": "Le principal laboratoire de l'Algérie ancre la réponse COVID-19",
 # "description_fr": "L'intégrité et la rapidité des tests COVID-19 se sont améliorées dans le laboratoire principal d'Algérie",
-#         "title_es": "El laboratorio principal de Argelia ancla la respuesta COVID-19",
-#         "description_es": "La integridad y la velocidad de las pruebas COVID-19 han mejorado en el laboratorio principal de Argelia",
+#         "titleses": "El laboratorio principal de Argelia ancla la respuesta COVID-19",
+#         "descriptionses": "La integridad y la velocidad de las pruebas COVID-19 han mejorado en el laboratorio principal de Argelia",
+
+
 #         "link": "https://www.afro.who.int/news/algerias-main-lab-anchors-covid-19-response",
 #         "progressive": "progressive",
 #         "category": "healthcare",
@@ -3192,8 +3598,10 @@ response_data = [
         
 # "title_fr": "Bahreïn lance des bracelets électroniques pour suivre les cas COVID-19 actifs",
 # "description_fr": "Le Royaume de Bahreïn surveille ses cas actifs de COVID-19 via des bracelets électroniques.",
-#         "title_es": "Bahrein lanza pulseras electrónicas para realizar un seguimiento de los casos activos de COVID-19",
-#         "description_es": "El Reino de Bahrein realiza un seguimiento de sus casos activos de COVID-19 a través de pulseras electrónicas",
+#         "titleses": "Bahrein lanza pulseras electrónicas para realizar un seguimiento de los casos activos de COVID-19",
+#         "descriptionses": "El Reino de Bahrein realiza un seguimiento de sus casos activos de COVID-19 a través de pulseras electrónicas",
+
+
 #         "link": "https://www.mobihealthnews.com/news/europe/bahrain-launches-electronic-bracelets-keep-track-active-covid-19-cases",
 #         "progressive": "progressive",
 #         "category": "digital surveillance, healthcare",
@@ -3206,8 +3614,10 @@ response_data = [
         
 # "title_fr": "Mesures gouvernementales et institutionnelles en réponse à COVID-19.",
 # "description_fr": "Bahreïn a l'un des taux de dépistage par habitant les plus élevés de la planète, obtenant la reconnaissance de l'Organisation mondiale de la santé pour sa réaction professionnelle",
-#         "title_es": "Medidas gubernamentales e institucionales en respuesta a COVID-19",
-#         "description_es": "Bahrein tiene una de las tasas de prueba per cápita más altas del planeta, obteniendo el reconocimiento de la Organización Mundial de la Salud por su reacción profesional",
+#         "titleses": "Medidas gubernamentales e institucionales en respuesta a COVID-19",
+#         "descriptionses": "Bahrein tiene una de las tasas de prueba per cápita más altas del planeta, obteniendo el reconocimiento de la Organización Mundial de la Salud por su reacción profesional",
+
+
 #         "link": "https://home.kpmg/xx/en/home/insights/2020/04/bahrain-government-and-institution-measures-in-response-to-covid.html",
 #         "progressive": "progressive",
 #         "category": "healthcare, economy, labor, food",
@@ -3220,8 +3630,10 @@ response_data = [
         
 # "title_fr": "Le secteur de la santé égyptien se précipite pour intensifier la préparation aux coronavirus",
 # "description_fr": "L'Egypte a ordonné aux fabricants de canaliser des équipements de protection médicale vers les hôpitaux publics et d'annoncer 1 milliard de livres égyptiennes",
-#         "title_es": "El sector de la salud de Egipto se apresura a ampliar la preparación para el coronavirus",
-#         "description_es": "Egipto ordenó a los fabricantes que canalizaran equipos de protección médica a hospitales públicos y anunciaran mil millones de libras egipcias",
+#         "titleses": "El sector de la salud de Egipto se apresura a ampliar la preparación para el coronavirus",
+#         "descriptionses": "Egipto ordenó a los fabricantes que canalizaran equipos de protección médica a hospitales públicos y anunciaran mil millones de libras egipcias",
+
+
 #         "link": "https://nationalpost.com/pmn/health-pmn/egypts-health-sector-races-to-scale-up-coronavirus-readiness",
 #         "progressive": "need to watch",
 #         "category": "healthcare",
@@ -3234,8 +3646,10 @@ response_data = [
         
 # "title_fr": "Lancement du numéro de téléphone pendant COVID-19",
 # "description_fr": "sans une action énergique des gouvernements et des campagnes médiatiques, nous pouvons nous attendre à une augmentation du nombre de travailleurs domestiques contraints de travailler",
-#         "title_es": "Lanzamiento del número de teléfono durante COVID-19",
-#         "description_es": "sin una fuerte acción de los gobiernos y las campañas de los medios de comunicación, podemos esperar un aumento en el número de trabajadoras domésticas obligadas a trabajar",
+#         "titleses": "Lanzamiento del número de teléfono durante COVID-19",
+#         "descriptionses": "sin una fuerte acción de los gobiernos y las campañas de los medios de comunicación, podemos esperar un aumento en el número de trabajadoras domésticas obligadas a trabajar",
+
+
 #         "link": "https://www.hrw.org/news/2020/04/06/domestic-workers-middle-east-risk-abuse-amid-covid-19-crisis",
 #         "progressive": "need to watch",
 #         "category": "healthcare, labor, race",
@@ -3248,8 +3662,10 @@ response_data = [
         
 # "title_fr": "À quoi ressemble la lutte en faveur de l'égalité des sexes en Irak pendant COVID-19",
 # "description_fr": "L'effet de COVID-19 sur les femmes déplacées dans la région du Kordistan en Irak",
-#         "title_es": "Cómo es estar en la primera línea de la lucha por la igualdad de género en Iraq durante COVID-19",
-#         "description_es": "El efecto de COVID-19 en las mujeres desplazadas en la región de Kordistan en Iraq",
+#         "titleses": "Cómo es estar en la primera línea de la lucha por la igualdad de género en Iraq durante COVID-19",
+#         "descriptionses": "El efecto de COVID-19 en las mujeres desplazadas en la región de Kordistan en Iraq",
+
+
 #         "link": "https://www.Globalcitizen.org/en/content/covid-19-womens-empowerment-iraq-syrian-conflict/",
 #         "progressive": "need to watch",
 #         "category": "education, economy, childcare, labor, race",
@@ -3262,8 +3678,10 @@ response_data = [
         
 # "title_fr": "Lancement du numéro de téléphone pendant la convocation",
 # "description_fr": "Pour signaler les cas de violence domestique pendant le verrouillage",
-#         "title_es": "Lanzamiento del número de teléfono durante covid",
-#         "description_es": "Para denunciar casos de violencia doméstica durante el bloqueo",
+#         "titleses": "Lanzamiento del número de teléfono durante covid",
+#         "descriptionses": "Para denunciar casos de violencia doméstica durante el bloqueo",
+
+
 #         "link": "http://ncw.nic.in/",
 #         "progressive": "progressive",
 #         "category": "gender-based violence",
@@ -3276,8 +3694,10 @@ response_data = [
         
 # "title_fr": "App pour Covid-19",
 # "description_fr": "Le gouvernement de l'Inde a lancé l'application Aarogya Setu pour passer un test d'auto-évaluation, comment maintenir la distance sociale, toutes les informations sur Covid-19, pour obtenir toutes les informations sur l'e-pass à utiliser uniquement dans le but de fournir l'essentiel et fournit également toutes les mises à jour de COVID-19",
-#         "title_es": "Aplicación para Covid-19",
-#         "description_es": "El Gobierno de la India lanzó la aplicación Aarogya Setu para realizar una prueba de autoevaluación, cómo mantener el distanciamiento social, toda la información sobre Covid-19, para obtener toda la información sobre el e-pass para ser utilizada únicamente con el fin de suministrar lo esencial y también proporciona todas las actualizaciones de COVID-19",
+#         "titleses": "Aplicación para Covid-19",
+#         "descriptionses": "El Gobierno de la India lanzó la aplicación Aarogya Setu para realizar una prueba de autoevaluación, cómo mantener el distanciamiento social, toda la información sobre Covid-19, para obtener toda la información sobre el e-pass para ser utilizada únicamente con el fin de suministrar lo esencial y también proporciona todas las actualizaciones de COVID-19",
+
+
 #         "link": "https://www.mygov.in/aarogya-setu-app/",
 #         "progressive": "progressive",
 #         "category": "digital surveillance, healthcare, education",
@@ -3290,8 +3710,10 @@ response_data = [
         
 # "title_fr": "Avec les blocages du week-end et les restrictions par âge, la Turquie adopte une approche différente pour les coronavirus",
 # "description_fr": "Détaille le processus de verrouillage de la Turquie et les défis liés aux tests et à la sous-déclaration",
-#         "title_es": "Con bloqueos de fin de semana y restricciones específicas por edad, Turquía adopta un enfoque diferente de coronavirus",
-#         "description_es": "Detalla el proceso de cierre de Turquía y los desafíos con las pruebas y el subregistro",
+#         "titleses": "Con bloqueos de fin de semana y restricciones específicas por edad, Turquía adopta un enfoque diferente de coronavirus",
+#         "descriptionses": "Detalla el proceso de cierre de Turquía y los desafíos con las pruebas y el subregistro",
+
+
 #         "link": "https://www.cnn.com/2020/04/17/europe/turkey-coronavirus-lockdown-response-intl/index.html",
 #         "progressive": "need to watch",
 #         "category": "healthcare",
@@ -3304,8 +3726,10 @@ response_data = [
         
 # "title_fr": "La crise des coronavirus en Turquie augmente à mesure que les infections dépassent celles de la Chine",
 # "description_fr": "La Turquie a lutté pour contenir le virus au milieu des défis économiques et d'un couvre-feu bâclé",
-#         "title_es": "La crisis del coronavirus de Turquía crece a medida que las infecciones superan a las de China",
-#         "description_es": "Turquía ha luchado por contener virus en medio de desafíos económicos y un toque de queda fallido",
+#         "titleses": "La crisis del coronavirus de Turquía crece a medida que las infecciones superan a las de China",
+#         "descriptionses": "Turquía ha luchado por contener virus en medio de desafíos económicos y un toque de queda fallido",
+
+
 #         "link": "https://foreignpolicy.com/2020/04/20/turkeys-coronavirus-crisis-grows-as-infections-exceed-chinas/",
 #         "progressive": "need to watch",
 #         "category": "digital surveillance, healthcare, economy",
@@ -3318,8 +3742,10 @@ response_data = [
         
 # "title_fr": "Le coronavirus détruira l'économie turque",
 # "description_fr": "COVID aggrave la crise macroéconomique en Turquie; le gouvernement n'est pas préparé et dispose de peu de ressources",
-#         "title_es": "El coronavirus destruirá la economía de Turquía",
-#         "description_es": "COVID está exacerbando la crisis macroeconómica en Turquía; el gobierno no está preparado y le quedan pocos recursos",
+#         "titleses": "El coronavirus destruirá la economía de Turquía",
+#         "descriptionses": "COVID está exacerbando la crisis macroeconómica en Turquía; el gobierno no está preparado y le quedan pocos recursos",
+
+
 #         "link": "https://foreignpolicy.com/2020/04/08/the-coronavirus-will-destroy-turkeys-economy/",
 #         "progressive": "regressive, need to watch",
 #         "category": "healthcare, economy, labor",
@@ -3332,8 +3758,10 @@ response_data = [
         
 # "title_fr": "La soupe populaire du frère Tayyip",
 # "description_fr": "détaille comment la réponse à la pandémie est entravée par la réticence de l'AKP à travailler avec les maires du CHP",
-#         "title_es": "Cocina de sopa del hermano Tayyip",
-#         "description_es": "Detalla cómo la respuesta pandémica se ve obstaculizada por la falta de voluntad de AKP para trabajar con los alcaldes de CHP",
+#         "titleses": "Cocina de sopa del hermano Tayyip",
+#         "descriptionses": "Detalla cómo la respuesta pandémica se ve obstaculizada por la falta de voluntad de AKP para trabajar con los alcaldes de CHP",
+
+
 #         "link": "https://foreignpolicy.com/2020/04/17/erdogan-turkey-coronavirus-relief-politics-akp-chp-brother-tayyip-soup-kitchen/",
 #         "progressive": "regressive",
 #         "category": "punitive, digital surveillance, healthcare, economy",
@@ -3346,8 +3774,10 @@ response_data = [
         
 # "title_fr": "La Turquie libère les réfugiés de la quarantaine au cours de la fermeture du coronavirus",
 # "description_fr": "La Turquie libère les réfugiés de la quarantaine en pleine période de verrouillage, avec un minimum de ressources",
-#         "title_es": "Turquía libera a los refugiados de la cuarentena en medio del bloqueo del coronavirus",
-#         "description_es": "Turquía está liberando a los refugiados de la cuarentena en medio del cierre, con recursos mínimos",
+#         "titleses": "Turquía libera a los refugiados de la cuarentena en medio del bloqueo del coronavirus",
+#         "descriptionses": "Turquía está liberando a los refugiados de la cuarentena en medio del cierre, con recursos mínimos",
+
+
 #         "link": "https://www.voanews.com/europe/turkey-releases-refugees-quarantine-amid-coronavirus-lockdown",
 #         "progressive": "regressive",
 #         "category": "healthcare, labor",
@@ -3360,8 +3790,10 @@ response_data = [
         
 # "title_fr": "La violence domestique augmente en Turquie pendant la pandémie de COVID-19",
 # "description_fr": "Les détails de la violence domestique grimpent en éclats et le gouvernement n'a pas répondu",
-#         "title_es": "La violencia doméstica aumenta en Turquía durante la pandemia de COVID-19",
-#         "description_es": "Los detalles aumentan la violencia doméstica en el cierre patronal y la falta de respuesta del gobierno",
+#         "titleses": "La violencia doméstica aumenta en Turquía durante la pandemia de COVID-19",
+#         "descriptionses": "Los detalles aumentan la violencia doméstica en el cierre patronal y la falta de respuesta del gobierno",
+
+
 #         "link": "https://www.dw.com/en/domestic-violence-rises-in-turkey-during-covid-19-pandemic/a-53082333",
 #         "progressive": "regressive",
 #         "category": "SRHR, gender-based violence",
@@ -3374,8 +3806,10 @@ response_data = [
         
 # "title_fr": "La Turquie cherche à contrôler les médias sociaux",
 # "description_fr": "De nouvelles autorités de censure des médias sociaux sont proposées dans le projet de loi COVID-19",
-#         "title_es": "Turquía busca poder para controlar las redes sociales",
-#         "description_es": "Se propusieron más autoridades de censura de redes sociales en el proyecto de ley COVID-19",
+#         "titleses": "Turquía busca poder para controlar las redes sociales",
+#         "descriptionses": "Se propusieron más autoridades de censura de redes sociales en el proyecto de ley COVID-19",
+
+
 #         "link": "https://www.hrw.org/news/2020/04/13/turkey-seeks-power-control-social-media",
 #         "progressive": "regressive",
 #         "category": "digital surveillance",
@@ -3388,8 +3822,10 @@ response_data = [
         
 # "title_fr": "La Turquie va libérer un tiers de ses prisonniers pour enrayer le coronavirus",
 # "description_fr": "La Turquie libère des prisonniers pour les protéger de la propagation du virus, mais exclut les opposants au gouvernement emprisonnés pour terrorisme",
-#         "title_es": "Turquía liberará a un tercio de sus prisioneros para frenar el coronavirus",
-#         "description_es": "Turquía libera a los prisioneros para protegerlos de la propagación del virus, pero excluye a los opositores del gobierno encarcelados por cargos de terrorismo",
+#         "titleses": "Turquía liberará a un tercio de sus prisioneros para frenar el coronavirus",
+#         "descriptionses": "Turquía libera a los prisioneros para protegerlos de la propagación del virus, pero excluye a los opositores del gobierno encarcelados por cargos de terrorismo",
+
+
 #         "link": "https://www.aljazeera.com/news/2020/04/turkey-free-prisoners-curb-coronavirus-200414062852220.html",
 #         "progressive": "regressive",
 #         "category": "healthcare, labor",
@@ -3402,8 +3838,10 @@ response_data = [
         
 # "title_fr": "La préparation au COVID-19, une réponse pour le nord-ouest de la Syrie",
 # "description_fr": "Décrit les efforts de l'OMS et humanitaires pour répondre à la pandémie dans le nord-ouest de la Syrie",
-#         "title_es": "preparación de COVID-19 una respuesta para el NO-Siria",
-#         "description_es": "Describe los esfuerzos humanitarios y de la OMS para responder a la pandemia en el noroeste de Siria",
+#         "titleses": "preparación de COVID-19 una respuesta para el NO-Siria",
+#         "descriptionses": "Describe los esfuerzos humanitarios y de la OMS para responder a la pandemia en el noroeste de Siria",
+
+
 #         "link": "https://reliefweb.int/sites/reliefweb.int/files/resources/health_task_force_nws_covid-19_sitrep_-_1_april_2020.pdf",
 #         "progressive": "progressive",
 #         "category": "healthcare",
@@ -3416,8 +3854,10 @@ response_data = [
         
 # "title_fr": "La guerre civile en Syrie rendra la lutte contre les coronavirus particulièrement difficile",
 # "description_fr": "Détaille les mesures prises par le régime et les défis de la réponse dans les zones tenues par l'opposition et parmi les populations déplacées",
-#         "title_es": "La guerra civil de Siria hará que la lucha contra el coronavirus sea particularmente difícil",
-#         "description_es": "Detalla los pasos que ha tomado el régimen y los desafíos de la respuesta en las áreas controladas por la oposición y entre las poblaciones desplazadas",
+#         "titleses": "La guerra civil de Siria hará que la lucha contra el coronavirus sea particularmente difícil",
+#         "descriptionses": "Detalla los pasos que ha tomado el régimen y los desafíos de la respuesta en las áreas controladas por la oposición y entre las poblaciones desplazadas",
+
+
 #         "link": "https://www.washingtonpost.com/politics/2020/04/02/syrias-civil-war-will-make-fighting-coronavirus-particularly-difficult/",
 #         "progressive": "need to watch",
 #         "category": "healthcare, labor",
@@ -3430,8 +3870,10 @@ response_data = [
         
 # "title_fr": "La Syrie, affirmant qu'elle est exempte de coronavirus, prend de larges mesures pour empêcher la propagation",
 # "description_fr": "Le gouvernement syrien couvrira probablement des affaires pour supprimer les numéros COVID-19",
-#         "title_es": "Siria, al insistir en que no contiene coronavirus, toma medidas amplias para evitar la propagación",
-#         "description_es": "Es probable que el gobierno sirio encubra casos para suprimir los números COVID-19",
+#         "titleses": "Siria, al insistir en que no contiene coronavirus, toma medidas amplias para evitar la propagación",
+#         "descriptionses": "Es probable que el gobierno sirio encubra casos para suprimir los números COVID-19",
+
+
 #         "link": "https://www.reuters.com/article/us-health-coronavirus-syria-idUSKBN2110SA",
 #         "progressive": "regressive",
 #         "category": "healthcare",
@@ -3444,8 +3886,10 @@ response_data = [
         
 # "title_fr": "La Syrie reconnaît un cas de coronavirus",
 # "description_fr": "Le régime insiste sur le fait que les chiffres sont bas mais arrêtent les voyages interurbains, les frontières fermées et les journaux fermés",
-#         "title_es": "Siria reconoce un caso de coronavirus",
-#         "description_es": "Los números que insisten en el régimen son bajos pero cierran los viajes interurbanos, las fronteras cerradas y la impresión de periódicos cerrados",
+#         "titleses": "Siria reconoce un caso de coronavirus",
+#         "descriptionses": "Los números que insisten en el régimen son bajos pero cierran los viajes interurbanos, las fronteras cerradas y la impresión de periódicos cerrados",
+
+
 #         "link": "https://www.voanews.com/science-health/coronavirus-outbreak/syria-acknowledges-one-coronavirus-case",
 #         "progressive": "regressive",
 #         "category": "healthcare, economy, labor",
@@ -3458,8 +3902,10 @@ response_data = [
         
 # "title_fr": "La Syrie a confirmé ses premiers cas de coronavirus. Une épidémie y serait en enfer.",
 # "description_fr": "Le régime a mis en place un couvre-feu, fermé des entreprises, lancé une campagne de désinfection, mais le système de santé est gravement affaibli",
-#         "title_es": "Siria ha confirmado sus primeros casos de coronavirus. Un brote allí sería el infierno",
-#         "description_es": "El régimen implementó el toque de queda, cerró negocios, lanzó una campaña de desinfección, pero el sistema de salud se debilitó severamente",
+#         "titleses": "Siria ha confirmado sus primeros casos de coronavirus. Un brote allí sería el infierno",
+#         "descriptionses": "El régimen implementó el toque de queda, cerró negocios, lanzó una campaña de desinfección, pero el sistema de salud se debilitó severamente",
+
+
 #         "link": "https://www.vox.com/world/2020/3/27/21195860/coronavirus-syria-idlib-covid-19-cases-outbreak-middle-east",
 #         "progressive": "need to watch",
 #         "category": "healthcare, economy, labor",
@@ -3472,8 +3918,10 @@ response_data = [
         
 # "title_fr": "Les camps syriens se préparent à une éventuelle épidémie de COVID-19",
 # "description_fr": "Décrit la réponse de l'opposition dans le nord-ouest de la Syrie et les défis de la prévention de la propagation dans les camps",
-#         "title_es": "Los campamentos sirios se preparan para un posible brote de COVID-19",
-#         "description_es": "Describe la respuesta de la oposición en el noroeste de Siria y los desafíos de prevenir la propagación en los campamentos",
+#         "titleses": "Los campamentos sirios se preparan para un posible brote de COVID-19",
+#         "descriptionses": "Describe la respuesta de la oposición en el noroeste de Siria y los desafíos de prevenir la propagación en los campamentos",
+
+
 #         "link": "https://www.al-monitor.com/pulse/originals/2020/04/syria-displaced-camps-aleppo-coronavirus-medical.html",
 #         "progressive": "need to watch",
 #         "category": "healthcare",
@@ -3486,8 +3934,10 @@ response_data = [
         
 # "title_fr": "W.H.O. n'a pas informé les Kurdes syriens de leur premier décès de coronavirus: couverture en direct",
 # "description_fr": "Le régime n'a pas partagé les informations clés sur les infections avec les autorités kurdes du nord-est de la Syrie",
-#         "title_es": "W.H.O. no pudo informar a los kurdos sirios de su primera muerte por coronavirus: cobertura en vivo",
-#         "description_es": "El régimen no pudo compartir información clave sobre la infección con las autoridades kurdas en el noreste de Siria",
+#         "titleses": "W.H.O. no pudo informar a los kurdos sirios de su primera muerte por coronavirus: cobertura en vivo",
+#         "descriptionses": "El régimen no pudo compartir información clave sobre la infección con las autoridades kurdas en el noreste de Siria",
+
+
 #         "link": "https://www.nytimes.com/2020/04/17/world/coronavirus-news-updates.html",
 #         "progressive": "regressive",
 #         "category": "healthcare",
@@ -3500,8 +3950,10 @@ response_data = [
         
 # "title_fr": "L'impact du COVID-19 sur les réfugiés est également politique",
 # "description_fr": "Les gouvernements dissimulent la propagation du COVID-19 ou ne répondent pas",
-#         "title_es": "El impacto de COVID-19 en los refugiados también es político",
-#         "description_es": "Los gobiernos están encubriendo la propagación de COVID-19 o no responden",
+#         "titleses": "El impacto de COVID-19 en los refugiados también es político",
+#         "descriptionses": "Los gobiernos están encubriendo la propagación de COVID-19 o no responden",
+
+
 #         "link": "https://www.chathamhouse.org/expert/comment/covid-19-impact-refugees-also-political",
 #         "progressive": "regressive",
 #         "category": "healthcare",
@@ -3514,8 +3966,10 @@ response_data = [
         
 # "title_fr": "Quand les soins de santé sont décimés par la guerre: COVID-19 au Moyen-Orient et en Afrique du Nord",
 # "description_fr": "Interview sur la réponse de la réponse des gouvernements de la région MENA à la pandémie et la nécessité d'une approche fondée sur les droits",
-#         "title_es": "Cuando la atención médica es diezmada por la guerra: COVID-19 en el Medio Oriente y África del Norte",
-#         "description_es": "Entrevista sobre la respuesta de la respuesta de los gobiernos de MENA a la pandemia y la necesidad de un enfoque basado en los derechos",
+#         "titleses": "Cuando la atención médica es diezmada por la guerra: COVID-19 en el Medio Oriente y África del Norte",
+#         "descriptionses": "Entrevista sobre la respuesta de la respuesta de los gobiernos de MENA a la pandemia y la necesidad de un enfoque basado en los derechos",
+
+
 #         "link": "https://www.hrw.org/news/2020/04/16/when-health-care-decimated-war-covid-19-middle-east-and-north-africa",
 #         "progressive": "regressive",
 #         "category": "digital surveillance, healthcare",
@@ -3528,8 +3982,10 @@ response_data = [
         
 # "title_fr": "La pandémie de coronavirus menace les communautés ravagées par les crises, l'ONU lance un appel au soutien mondial",
 # "description_fr": "Alors que les gouvernements mettent en place des verrouillages et des restrictions de mouvement, la VBG augmente",
-#         "title_es": "La pandemia de coronavirus amenaza a las comunidades devastadas por la crisis, las Naciones Unidas solicitan apoyo mundial",
-#         "description_es": "A medida que los gobiernos implementan bloqueos y restricciones de movimiento, la violencia de género está aumentando",
+#         "titleses": "La pandemia de coronavirus amenaza a las comunidades devastadas por la crisis, las Naciones Unidas solicitan apoyo mundial",
+#         "descriptionses": "A medida que los gobiernos implementan bloqueos y restricciones de movimiento, la violencia de género está aumentando",
+
+
 #         "link": "https://news.un.org/en/story/2020/04/1061922",
 #         "progressive": "regressive",
 #         "category": "SRHR, gender-based violence",
@@ -3542,8 +3998,10 @@ response_data = [
         
 # "title_fr": "COVID-19: l'Afrique a dit de se préparer au pire. Quelle est la réponse?",
 # "description_fr": "Détaille les mesures prises par les gouvernements à travers l'Afrique pour limiter la propagation et restreindre les mouvements",
-#         "title_es": "COVID-19: África dijo que se preparara para lo peor. ¿Cuál es la respuesta?",
-#         "description_es": "Detalla los pasos que están tomando los gobiernos de África para limitar la propagación y restringir el movimiento",
+#         "titleses": "COVID-19: África dijo que se preparara para lo peor. ¿Cuál es la respuesta?",
+#         "descriptionses": "Detalla los pasos que están tomando los gobiernos de África para limitar la propagación y restringir el movimiento",
+
+
 #         "link": "https://www.aljazeera.com/news/2020/03/covid-19-africa-told-prepare-worst-response-200319085112877.html",
 #         "progressive": "need to watch",
 #         "category": "healthcare, economy, labor",
@@ -3556,8 +4014,10 @@ response_data = [
         
 # "title_fr": "Réponses du gouvernement africain à COVID-19",
 # "description_fr": "Détaille 28 déclarations d'état d'urgence, d'urgence sanitaire nationale ou de catastrophe nationale dans 37 pays d'Afrique",
-#         "title_es": "Respuestas del gobierno africano a COVID-19",
-#         "description_es": "Detalla 28 declaraciones de estado de emergencia, emergencia sanitaria nacional o desastre nacional en 37 países de África",
+#         "titleses": "Respuestas del gobierno africano a COVID-19",
+#         "descriptionses": "Detalla 28 declaraciones de estado de emergencia, emergencia sanitaria nacional o desastre nacional en 37 países de África",
+
+
 #         "link": "https://www.icnl.org/post/analysis/african-government-response-to-covid-19",
 #         "progressive": "regressive",
 #         "category": "punitive, digital surveillance, healthcare, economy, labor",
@@ -3570,8 +4030,10 @@ response_data = [
         
 # "title_fr": "Un organisme régional pour l'Afrique de l'Est déploie des centres de test mobiles Covid-19",
 # "description_fr": "La Tanzanie déploie des laboratoires mobiles et des kits de test dans des véhicules 4x4",
-#         "title_es": "El organismo regional de África Oriental lanza centros de pruebas móviles Covid-19",
-#         "description_es": "Tanzania implementando laboratorios móviles y kits de prueba en vehículos 4x4",
+#         "titleses": "El organismo regional de África Oriental lanza centros de pruebas móviles Covid-19",
+#         "descriptionses": "Tanzania implementando laboratorios móviles y kits de prueba en vehículos 4x4",
+
+
 #         "link": "http://www.rfi.fr/en/international/20200326-east-africa-regional-body-rolls-out-mobile-covid-19-testing-centres",
 #         "progressive": "progressive",
 #         "category": "healthcare",
@@ -3584,8 +4046,10 @@ response_data = [
         
 # "title_fr": "L'impact économique du COVID-19 en Afrique: résumé de l'analyse de cette semaine",
 # "description_fr": "Détaille les effets des blocages sur l'économie et les chaînes d'approvisionnement",
-#         "title_es": "El impacto económico de COVID-19 en África: un resumen del análisis de esta semana",
-#         "description_es": "Detalla los efectos de los bloqueos en la economía y las cadenas de suministro",
+#         "titleses": "El impacto económico de COVID-19 en África: un resumen del análisis de esta semana",
+#         "descriptionses": "Detalla los efectos de los bloqueos en la economía y las cadenas de suministro",
+
+
 #         "link": "https://www.cgdev.org/blog/economic-impact-covid-19-africa-weeks-latest-analysis",
 #         "progressive": "need to watch",
 #         "category": "healthcare, economy, food",
@@ -3598,8 +4062,10 @@ response_data = [
         
 # "title_fr": "L'Afrique dans l'actualité: le COVID-19 a un impact sur les économies et la vie quotidienne africaines; les affrontements au Sahel",
 # "description_fr": "détaille les mesures macroéconomiques prises en Afrique et les conséquences de la pandémie sur les systèmes électoraux",
-#         "title_es": "África en las noticias: COVID-19 impacta las economías africanas y la vida cotidiana; enfrentamientos en el Sahel",
-#         "description_es": "Detalla los pasos macroeconómicos que se están tomando en África y las consecuencias de la pandemia para los sistemas electorales",
+#         "titleses": "África en las noticias: COVID-19 impacta las economías africanas y la vida cotidiana; enfrentamientos en el Sahel",
+#         "descriptionses": "Detalla los pasos macroeconómicos que se están tomando en África y las consecuencias de la pandemia para los sistemas electorales",
+
+
 #         "link": "https://www.brookings.edu/blog/africa-in-focus/2020/04/11/africa-in-the-news-covid-19-impacts-african-economies-and-daily-lives-clashes-in-the-sahel/",
 #         "progressive": "need to watch",
 #         "category": "economy",
@@ -3612,8 +4078,10 @@ response_data = [
         
 # "title_fr": "L'Afrique se tourne vers les paiements mobiles comme outil pour freiner COVID-19",
 # "description_fr": "Les gouvernements et les startups déplacent les transactions vers l'argent mobile et s'éloignent de l'argent liquide pour limiter la propagation du virus",
-#         "title_es": "África recurre a los pagos móviles como una herramienta para frenar COVID-19",
-#         "description_es": "Los gobiernos y las nuevas empresas están cambiando las transacciones hacia el dinero móvil y lejos del efectivo para limitar la propagación del virus",
+#         "titleses": "África recurre a los pagos móviles como una herramienta para frenar COVID-19",
+#         "descriptionses": "Los gobiernos y las nuevas empresas están cambiando las transacciones hacia el dinero móvil y lejos del efectivo para limitar la propagación del virus",
+
+
 #         "link": "https://techcrunch.com/2020/03/25/african-turns-to-mobile-payments-as-a-tool-to-curb-covid-19/",
 #         "progressive": "progressive",
 #         "category": "economy",
@@ -3626,8 +4094,10 @@ response_data = [
         
 # "title_fr": "Les succès et les défis du Rwanda en réponse à COVID-19",
 # "description_fr": "Détaille comment le gouvernement rwandais a mis en œuvre des mesures de verrouillage",
-#         "title_es": "Los éxitos y desafíos de Ruanda en respuesta a COVID-19",
-#         "description_es": "Detalla cómo el gobierno de Ruanda ha implementado medidas de bloqueo",
+#         "titleses": "Los éxitos y desafíos de Ruanda en respuesta a COVID-19",
+#         "descriptionses": "Detalla cómo el gobierno de Ruanda ha implementado medidas de bloqueo",
+
+
 #         "link": "https://www.atlanticcouncil.org/blogs/africasource/rwandas-successes-and-challenges-in-response-to-covid-19/",
 #         "progressive": "need to watch",
 #         "category": "healthcare, economy",
@@ -3640,8 +4110,10 @@ response_data = [
         
 # "title_fr": "La réponse modérée de la Tanzanie au COVID-19 et ses implications pour les élections de 2020",
 # "description_fr": "Détaille le fait que le président tanzanien utilise un virus pour étendre le pouvoir et repousser les élections",
-#         "title_es": "La leve respuesta de Tanzania al COVID-19 y sus implicaciones para las elecciones de 2020",
-#         "description_es": "Detalles preocupa que el presidente de Tanzania use virus para extender la regla, retrasar las elecciones",
+#         "titleses": "La leve respuesta de Tanzania al COVID-19 y sus implicaciones para las elecciones de 2020",
+#         "descriptionses": "Detalles preocupa que el presidente de Tanzania use virus para extender la regla, retrasar las elecciones",
+
+
 #         "link": "https://www.atlanticcouncil.org/blogs/africasource/tanzanias-mild-response-to-covid-19-and-its-implications-for-the-2020-elections/",
 #         "progressive": "regressive",
 #         "category": "economy",
@@ -3654,8 +4126,10 @@ response_data = [
         
 # "title_fr": "S'attaquer au COVID-19 en Afrique",
 # "description_fr": "Détaille les impacts économiques potentiels de la crise en Afrique et les façons dont les gouvernements devraient réagir",
-#         "title_es": "Abordar COVID-19 en África",
-#         "description_es": "Detalla los posibles impactos económicos de la crisis en África y las formas en que los gobiernos deberían responder",
+#         "titleses": "Abordar COVID-19 en África",
+#         "descriptionses": "Detalla los posibles impactos económicos de la crisis en África y las formas en que los gobiernos deberían responder",
+
+
 #         "link": "https://www.mckinsey.com/featured-insights/middle-east-and-africa/tackling-covid-19-in-africa",
 #         "progressive": "progressive",
 #         "category": "economy",
@@ -3668,8 +4142,10 @@ response_data = [
         
 # "title_fr": "Face au coronavirus, les pays africains appliquent les leçons de la réponse à Ebola",
 # "description_fr": "Les pays utilisant une surveillance avancée des maladies développés pendant l'épidémie d'Ebola pour limiter la propagation du virus",
-#         "title_es": "Ante el coronavirus, los países africanos aplican las lecciones de la respuesta al ébola",
-#         "description_es": "Los países que utilizan vigilancia avanzada de enfermedades se desarrollaron durante el brote de Ébola para limitar la propagación del virus",
+#         "titleses": "Ante el coronavirus, los países africanos aplican las lecciones de la respuesta al ébola",
+#         "descriptionses": "Los países que utilizan vigilancia avanzada de enfermedades se desarrollaron durante el brote de Ébola para limitar la propagación del virus",
+
+
 #         "link": "https://www.worldbank.org/en/news/feature/2020/04/03/in-the-face-of-coronavirus-african-countries-apply-lessons-from-ebola-response",
 #         "progressive": "progressive",
 #         "category": "healthcare",
@@ -3679,11 +4155,10 @@ response_data = [
 {
         "title_en": "Ongoing CHCC Preparedness Measures for COVID- 19 Pandemic (4/6/20)",
         "description_en": "Brief overview from the Northern Mariana government on their measures to protect against COVID-19",
+        "title_es": "Medidas de preparación de CHCC en curso para la pandemia de COVID- 19 (4/6/20)",
+        "description_es": "Breve descripción del gobierno de Mariana del Norte sobre sus medidas para proteger contra COVID-19",
 
 
-
-        "title_en": "Medidas de preparación de CHCC en curso para la pandemia de COVID- 19 (4/6/20)",
-        "description_en": "Breve descripción del gobierno de Mariana del Norte sobre sus medidas para proteger contra COVID-19",
         "link": "https://www.chcc.gov.mp/DocumentFiles/coronavirusinformation_142_1454553753.pdf",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -3694,11 +4169,10 @@ response_data = [
     {
         "title_en": "Marianas gets CARES Act aid",
         "description_en": "Details how US CARES Act provides direct benefits for CMNI",
+        "title_es": "Marianas recibe ayuda de la Ley CARES",
+        "description_es": "Detalla cómo la Ley US CARES brinda beneficios directos para CMNI",
 
 
-
-        "title_en": "Marianas recibe ayuda de la Ley CARES",
-        "description_en": "Detalla cómo la Ley US CARES brinda beneficios directos para CMNI",
         "link": "https://sablan.house.gov/marianas-gets-cares-act-aid",
         "progressive": "progressive",
         "category": "education, childcare, labor, food",
@@ -3711,8 +4185,10 @@ response_data = [
         "description_en": "Briefly outlines response to unemployment, economic stimulus, testing capacities, ventilators, and forthcoming social distancing measures",
 
 
-        "title_en": "El presidente Panuelo se reúne con los gobernadores de la nación para discutir el distanciamiento social",
-        "description_en": "Describe brevemente la respuesta al desempleo, el estímulo económico, las capacidades de prueba, los ventiladores y las próximas medidas de distanciamiento social",
+        "title_es": "El presidente Panuelo se reúne con los gobernadores de la nación para discutir el distanciamiento social",
+        "description_es": "Describe brevemente la respuesta al desempleo, el estímulo económico, las capacidades de prueba, los ventiladores y las próximas medidas de distanciamiento social",
+
+
         "link": "https://gov.fm/index.php/component/content/article/35-pio-articles/news-and-updates/304-president-panuelo-meets-with-the-nation-s-governors-to-discuss-social-distancing-economic-stimulus-the-covid-19-response-framework-more?Itemid=177",
         "progressive": "need to watch",
         "category": "healthcare, economy, labor",
@@ -3722,11 +4198,10 @@ response_data = [
     {
         "title_en": "U.S. Assistance to Federated States of Micronesia on COVID-19",
         "description_en": "Details of PPE, funding, testing, and emergency preparedness assistance from the US to FSIM",
+        "title_es": "Asistencia de los Estados Unidos a los Estados Federados de Micronesia en COVID-19",
+        "description_es": "Detalles de EPP, financiación, pruebas y asistencia de preparación para emergencias de EE. UU. a FSIM",
 
 
-
-        "title_en": "Asistencia de los Estados Unidos a los Estados Federados de Micronesia en COVID-19",
-        "description_en": "Detalles de EPP, financiación, pruebas y asistencia de preparación para emergencias de EE. UU. a FSIM",
         "link": "https://fm.usembassy.gov/u-s-assistance-to-federated-states-of-micronesia-on-covid-19/",
         "progressive": "progressive",
         "category": "healthcare",
@@ -3736,11 +4211,10 @@ response_data = [
     {
         "title_en": "Coronavirus Information Fiji",
         "description_en": "Outlines preventative measures including travel restrictions, health screening checkpoints, and social gathering restrictions in Fiji",
+        "title_es": "Información sobre el coronavirus en Fiji",
+        "description_es": "Describe las medidas preventivas que incluyen restricciones de viaje, puntos de control de salud y restricciones de reunión social en Fiji",
 
 
-
-        "title_en": "Información sobre el coronavirus en Fiji",
-        "description_en": "Describe las medidas preventivas que incluyen restricciones de viaje, puntos de control de salud y restricciones de reunión social en Fiji",
         "link": "https://www.fiji.travel/covid-19",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -3750,11 +4224,10 @@ response_data = [
     {
         "title_en": "Fear and misinformation go viral in Fiji",
         "description_en": "Spread of misinformation around spread of COVID-19 and cures in Fiji",
+        "title_es": "El miedo y la desinformación se vuelven virales en Fiji",
+        "description_es": "Difusión de información errónea sobre la propagación de COVID-19 y curas en Fiji",
 
 
-
-        "title_en": "El miedo y la desinformación se vuelven virales en Fiji",
-        "description_en": "Difusión de información errónea sobre la propagación de COVID-19 y curas en Fiji",
         "link": "https://www.newsroom.co.nz/2020/04/17/1131565/fear-and-misinformation-go-viral-in-fiji",
         "progressive": "regressive",
         "category": "misinformation",
@@ -3764,11 +4237,10 @@ response_data = [
     {
         "title_en": "How French Polynesia Is Protecting Against Covid-19",
         "description_en": "Details the travel restrictions and bans put in place as preventative measures",
+        "title_es": "Cómo protege la Polinesia Francesa contra Covid-19",
+        "description_es": "Detalla las restricciones de viaje y las prohibiciones establecidas como medidas preventivas",
 
 
-
-        "title_en": "Cómo protege la Polinesia Francesa contra Covid-19",
-        "description_en": "Detalla las restricciones de viaje y las prohibiciones establecidas como medidas preventivas",
         "link": "https://www.forbes.com/sites/lauriewerner/2020/02/28/how-french-polynesia-is-protecting-against-covid-19/#7f09dd25c0bd",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -3778,11 +4250,10 @@ response_data = [
     {
         "title_en": "Coronavirus COVID-19 - Travel Ban to French Polynesia",
         "description_en": "Details of temporary travel ban for all non residents of French Polynesia and repatriation guidance",
+        "title_es": "Coronavirus COVID-19 - Prohibición de viajar a la Polinesia Francesa",
+        "description_es": "Detalles de la prohibición de viaje temporal para todos los no residentes de la Polinesia Francesa y orientación de repatriación",
 
 
-
-        "title_en": "Coronavirus COVID-19 - Prohibición de viajar a la Polinesia Francesa",
-        "description_en": "Detalles de la prohibición de viaje temporal para todos los no residentes de la Polinesia Francesa y orientación de repatriación",
         "link": "https://tahititourisme.com/en-us/covid-19/",
         "progressive": "need to watch",
         "category": "economy",
@@ -3792,11 +4263,10 @@ response_data = [
     {
         "title_en": "Nauru joins multi-country pact to keep supply chains open",
         "description_en": "Nauru issued a joint statement with 9 other countries to maintain trade despite COVID-19",
+        "title_es": "Nauru se une al pacto multipaís para mantener abiertas las cadenas de suministro",
+        "description_es": "Nauru emitió una declaración conjunta con otros 9 países para mantener el comercio a pesar de COVID-19",
 
 
-
-        "title_en": "Nauru se une al pacto multipaís para mantener abiertas las cadenas de suministro",
-        "description_en": "Nauru emitió una declaración conjunta con otros 9 países para mantener el comercio a pesar de COVID-19",
         "link": "https://www.rnz.co.nz/international/pacific-news/414999/nauru-joins-multi-country-pact-to-keep-supply-chains-open-despite-covid-19-pandemic",
         "progressive": "need to watch",
         "category": "economy",
@@ -3806,11 +4276,10 @@ response_data = [
     {
         "title_en": "New Caledonia eases Covid 19 restrictions from Monday",
         "description_en": "Free movement allowed again and they will start opening businesses, social distancing recommended still",
+        "title_es": "Nueva Caledonia alivia las restricciones de Covid 19 a partir del lunes",
+        "description_es": "Se permite nuevamente la libre circulación y comenzarán a abrir negocios, se recomienda el distanciamiento social aún",
 
 
-
-        "title_en": "Nueva Caledonia alivia las restricciones de Covid 19 a partir del lunes",
-        "description_en": "Se permite nuevamente la libre circulación y comenzarán a abrir negocios, se recomienda el distanciamiento social aún",
         "link": "https://www.rnz.co.nz/international/pacific-news/414480/new-caledonia-eases-covid-19-restrictions-from-monday",
         "progressive": "need to watch",
         "category": "economy",
@@ -3820,11 +4289,10 @@ response_data = [
     {
         "title_en": "New Zealand's Elimination Strategy is Unlikely to Work Other Places",
         "description_en": "Discusses New Zealand's border lockdown, their strict isolation policy, and its economic impact",
+        "title_es": "Es improbable que la estrategia de eliminación de Nueva Zelanda funcione en otros lugares",
+        "description_es": "Discute el bloqueo de la frontera de Nueva Zelanda, su estricta política de aislamiento y su impacto económico",
 
 
-
-        "title_en": "Es improbable que la estrategia de eliminación de Nueva Zelanda funcione en otros lugares",
-        "description_en": "Discute el bloqueo de la frontera de Nueva Zelanda, su estricta política de aislamiento y su impacto económico",
         "link": "https://time.com/5824042/new-zealand-coronavirus-elimination/",
         "progressive": "progressive",
         "category": "education, economy, labor",
@@ -3834,11 +4302,10 @@ response_data = [
     {
         "title_en": "Debates Roil Sweden and New Zealand, Whose Pandemic Policies Are Opposite",
         "description_en": "Discusses differing responses across 6 countries and highlights race, class, and gender diaparities",
+        "title_es": "Debates Roil Suecia y Nueva Zelanda, cuyas políticas pandémicas son opuestas",
+        "description_es": "Discute diferentes respuestas en 6 países y destaca las disparidades de raza, clase y género",
 
 
-
-        "title_en": "Debates Roil Suecia y Nueva Zelanda, cuyas políticas pandémicas son opuestas",
-        "description_en": "Discute diferentes respuestas en 6 países y destaca las disparidades de raza, clase y género",
         "link": "https://thetyee.ca/News/2020/04/20/Sweden-New-Zealand-Pandemic-Policies/",
         "progressive": "progressive (NZL, KOR, DEU), regressive (BRA, SWE, SAF)",
         "category": "healthcare, food, gendered health impacts, race",
@@ -3848,11 +4315,10 @@ response_data = [
     {
         "title_en": "Coronavirus Disease 2019 (COVID-19) Situation Report",
         "description_en": "Overview of protective measures and healthcare policy being taken in the country in their daily report",
+        "title_es": "Informe de situación de la enfermedad por coronavirus 2019 (COVID-19)",
+        "description_es": "Descripción general de las medidas de protección y la política de salud que se toman en el país en su informe diario",
 
 
-
-        "title_en": "Informe de situación de la enfermedad por coronavirus 2019 (COVID-19)",
-        "description_en": "Descripción general de las medidas de protección y la política de salud que se toman en el país en su informe diario",
         "link": "http://www.palauhealth.org/2019nCoV_SitRep/MOH-COVID-19%20Daily%20Update.pdf",
         "progressive": "progressive",
         "category": "healthcare, education",
@@ -3862,11 +4328,10 @@ response_data = [
     {
         "title_en": "Solomon Islands extends state of emergency for 4 months amid COVID-19",
         "description_en": "Government to instill a weekend curfew during Stage 1 from Friday night until Sunday morning",
+        "title_es": "Islas Salomón extiende el estado de emergencia por 4 meses en medio de COVID-19",
+        "description_es": "El gobierno inculcará un toque de queda de fin de semana durante la Etapa 1 desde el viernes por la noche hasta el domingo por la mañana",
 
 
-
-        "title_en": "Islas Salomón extiende el estado de emergencia por 4 meses en medio de COVID-19",
-        "description_en": "El gobierno inculcará un toque de queda de fin de semana durante la Etapa 1 desde el viernes por la noche hasta el domingo por la mañana",
         "link": "http://www.xinhuanet.com/english/2020-04/09/c_138961225.htm",
         "progressive": "regressive",
         "category": "punitive",
@@ -3876,11 +4341,10 @@ response_data = [
     {
         "title_en": "Solomons officials face sack if critical of Covid-19 response",
         "description_en": "Government threatens public officials will be fired if they critique governent's COVID-19 response",
+        "title_es": "Los funcionarios de Salomón se enfrentan al saqueo si critican la respuesta de Covid-19",
+        "description_es": "El gobierno amenaza a los funcionarios públicos que serán despedidos si critican la respuesta COVID-19 del gobernador",
 
 
-
-        "title_en": "Los funcionarios de Salomón se enfrentan al saqueo si critican la respuesta de Covid-19"
-        "description_en": "El gobierno amenaza a los funcionarios públicos que serán despedidos si critican la respuesta COVID-19 del gobernador",
         "link": "https://www.rnz.co.nz/international/pacific-news/413067/solomons-officials-face-sack-if-critical-of-covid-19-response",
         "progressive": "regressive",
         "category": "punitive",
@@ -3890,11 +4354,10 @@ response_data = [
     {
         "title_en": "Learn about Coronavirus",
         "description_en": "Homepage for all current government orders and resources dealing with COVID-19",
+        "title_es": "Aprenda sobre el coronavirus",
+        "description_es": "Página de inicio para todas las órdenes y recursos gubernamentales actuales relacionados con COVID-19",
 
 
-
-        "title_en": "Aprenda sobre el coronavirus",
-        "description_en": "Página de inicio para todas las órdenes y recursos gubernamentales actuales relacionados con COVID-19",
         "link": "https://solomons.gov.sb/ministry-of-health-medical-services/essential-services/learn-about-coronavirus/",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -3904,11 +4367,10 @@ response_data = [
     {
         "title_en": "ADB boosts Covid-19 response in Tonga and Samoa",
         "description_en": "Discusses aid and briefly outlines responses' impacts on education, the economy, and healthcare capacity",
+        "title_es": "ADB aumenta la respuesta de Covid-19 en Tonga y Samoa",
+        "description_es": "Analiza la ayuda y describe brevemente los impactos de las respuestas sobre la educación, la economía y la capacidad de atención médica",
 
 
-
-        "title_en": "ADB aumenta la respuesta de Covid-19 en Tonga y Samoa",
-        "description_en": "Analiza la ayuda y describe brevemente los impactos de las respuestas sobre la educación, la economía y la capacidad de atención médica",
         "link": "https://www.rnz.co.nz/international/pacific-news/414679/adb-boosts-covid-19-response-in-tonga-and-samoa",
         "progressive": "progressive",
         "category": "healthcare, education, economy",
@@ -3918,11 +4380,10 @@ response_data = [
     {
         "title_en": "Cyclone Harold and coronavirus: Pacific Islands face battle on two fronts",
         "description_en": "Discusses how the recent tropical cyclone has impacted COVID-19 response",
+        "title_es": "Ciclón Harold y coronavirus: las islas del Pacífico enfrentan una batalla en dos frentes",
+        "description_es": "Discute cómo el reciente ciclón tropical ha impactado la respuesta COVID-19",
 
 
-
-        "title_en": "Ciclón Harold y coronavirus: las islas del Pacífico enfrentan una batalla en dos frentes",
-        "description_en": "Discute cómo el reciente ciclón tropical ha impactado la respuesta COVID-19",
         "link": "https://www.bbc.com/news/world-asia-52268119",
         "progressive": "regressive",
         "category": "healthcare, economy",
@@ -3932,11 +4393,10 @@ response_data = [
     {
         "title_en": "Tuvalu supports Secretary-General's Call on gender-based violence and COVID-19",
         "description_en": "Tuvalu government echoes the importance of addressing gender based violence in COVID 19 response",
+        "title_es": "Tuvalu apoya la Llamada del Secretario General sobre la violencia de género y COVID-19",
+        "description_es": "El gobierno de Tuvalu se hace eco de la importancia de abordar la violencia de género en la respuesta COVID 19",
 
 
-
-        "title_en": "Tuvalu apoya la Llamada del Secretario General sobre la violencia de género y COVID-19",
-        "description_en": "El gobierno de Tuvalu se hace eco de la importancia de abordar la violencia de género en la respuesta COVID 19",
         "link": "https://www.un.int/tuvalu/fr/activities/tuvalu-supports-secretary-generals-call-gender-based-violence-and-covid-19",
         "progressive": "progressive",
         "category": "gender-based violence",
@@ -3946,11 +4406,10 @@ response_data = [
     {
         "title_en": "How is Tuvalu securing against COVID-19?",
         "description_en": "Details the current response and how it will change should a confirmed case arrive",
+        "title_es": "¿Cómo se protege Tuvalu contra COVID-19?",
+        "description_es": "Detalla la respuesta actual y cómo cambiará si llega un caso confirmado",
 
 
-
-        "title_en": "¿Cómo se protege Tuvalu contra COVID-19?",
-        "description_en": "Detalla la respuesta actual y cómo cambiará si llega un caso confirmado",
         "link": "https://devpolicy.org/how-is-tuvalu-securing-against-covid-19-20200406/",
         "progressive": "need to watch",
         "category": "punitive, healthcare, education, economy, labor, food, misinformation",
@@ -3962,8 +4421,10 @@ response_data = [
         "description_en": "Discussion of government's initial response and how it has been threatened by the hurricane",
 
 
-        "title_en": "Después de un devastador ciclón, Vanuatu se niega a los trabajadores de ayuda extranjera",
-        "description_en": "Discusión de la respuesta inicial del gobierno y cómo ha sido amenazada por el huracán",
+        "title_es": "Después de un devastador ciclón, Vanuatu se niega a los trabajadores de ayuda extranjera",
+        "description_es": "Discusión de la respuesta inicial del gobierno y cómo ha sido amenazada por el huracán",
+
+
         "link": "https://time.com/5820382/coronavirus-cyclone-harold-vanuatu/",
         "progressive": "regressive",
         "category": "healthcare, education",
@@ -3973,11 +4434,10 @@ response_data = [
     {
         "title_en": "Life in one of the only countries without coronavirus",
         "description_en": "Explains the threat of COVID-19 to Vanuatu's healthcare system and economy and their current response",
+        "title_es": "Vida en uno de los únicos países sin coronavirus",
+        "description_es": "Explica la amenaza de COVID-19 para el sistema de salud y la economía de Vanuatu y su respuesta actual",
 
 
-
-        "title_en": "Vida en uno de los únicos países sin coronavirus",
-        "description_en": "Explica la amenaza de COVID-19 para el sistema de salud y la economía de Vanuatu y su respuesta actual",
         "link": "https://www.theguardian.com/world/2020/apr/08/if-it-comes-it-will-be-a-disaster-life-in-vanuatu-one-of-the-only-countries-without-coronavirus",
         "progressive": "regressive",
         "category": "healthcare, economy, race",
@@ -3987,11 +4447,10 @@ response_data = [
     {
         "title_en": "UN helps Pacific prepare for COVID-19 pandemic",
         "description_en": "Details how UNICEF has provided medical equipment and communication materials to aid COVID-19 response",
+        "title_es": "La ONU ayuda al Pacífico a prepararse para la pandemia de COVID-19",
+        "description_es": "Detalla cómo UNICEF ha proporcionado equipos médicos y materiales de comunicación para ayudar a la respuesta COVID-19",
 
 
-
-        "title_en": "La ONU ayuda al Pacífico a prepararse para la pandemia de COVID-19",
-        "description_en": "Detalla cómo UNICEF ha proporcionado equipos médicos y materiales de comunicación para ayudar a la respuesta COVID-19",
         "link": "https://news.un.org/en/story/2020/03/1060622",
         "progressive": "progressive",
         "category": "healthcare, education, misinformation",
@@ -4001,11 +4460,10 @@ response_data = [
     {
         "title_en": "COVID-19 Awareness in Kiribati: A Multi-Level Partnership",
         "description_en": "Kiribati Health Champions have partned with the Public Health Department to spread communication materials",
+        "title_es": "Conciencia de COVID-19 en Kiribati: una asociación multinivel",
+        "description_es": "Kiribati Health Champions se ha asociado con el Departamento de Salud Pública para difundir materiales de comunicación",
 
 
-
-        "title_en": "Conciencia de COVID-19 en Kiribati: una asociación multinivel",
-        "description_en": "Kiribati Health Champions se ha asociado con el Departamento de Salud Pública para difundir materiales de comunicación",
         "link": "https://reliefweb.int/report/kiribati/covid-19-awareness-kiribati-multi-level-partnership",
         "progressive": "progressive",
         "category": "healthcare, misinformation",
@@ -4015,11 +4473,10 @@ response_data = [
     {
         "title_en": "World Bank Support for Marshall Islands’ COVID-19 Response",
         "description_en": "Aid given to Marshall Island to promote preventative measures and provide healthcare assistance",
+        "title_es": "Apoyo del Banco Mundial a la respuesta COVID-19 de las Islas Marshall",
+        "description_es": "Ayuda a la Isla Marshall para promover medidas preventivas y proporcionar asistencia sanitaria",
 
 
-
-        "title_en": "Apoyo del Banco Mundial a la respuesta COVID-19 de las Islas Marshall",
-        "description_en": "Ayuda a la Isla Marshall para promover medidas preventivas y proporcionar asistencia sanitaria",
         "link": "https://www.worldbank.org/en/news/press-release/2020/04/20/world-bank-support-for-marshall-islands-covid-19-response",
         "progressive": "progressive",
         "category": "healthcare",
@@ -4029,11 +4486,10 @@ response_data = [
     {
         "title_en": "Keeping COVID-19 at bay in the Marshall Islands",
         "description_en": "Details response measures taken including travel restrictions, healthcare preparations, and school closures",
+        "title_es": "Manteniendo a raya a COVID-19 en las Islas Marshall",
+        "description_es": "Detalla las medidas de respuesta tomadas, incluidas las restricciones de viaje, los preparativos de atención médica y el cierre de escuelas",
 
 
-
-        "title_en": "Manteniendo a raya a COVID-19 en las Islas Marshall",
-        "description_en": "Detalla las medidas de respuesta tomadas, incluidas las restricciones de viaje, los preparativos de atención médica y el cierre de escuelas",
         "link": "https://devpolicy.org/keeping-covid-19-at-bay-in-the-marshall-islands-202004",
         "progressive": "progressive",
         "category": "healthcare, education",
@@ -4043,11 +4499,10 @@ response_data = [
     {
         "title_en": "What’s missing from COVID-19 management? Women.",
         "description_en": "Full recovery won't happen without including gender disparities that reveal women have been harder hit",
+        "title_es": "¿Qué le falta a la administración de COVID-19? Mujeres",
+        "description_es": "La recuperación completa no ocurrirá sin incluir las disparidades de género que revelan que las mujeres han sido más afectadas",
 
 
-
-        "title_en": "¿Qué le falta a la administración de COVID-19? Mujeres",
-        "description_en": "La recuperación completa no ocurrirá sin incluir las disparidades de género que revelan que las mujeres han sido más afectadas",
         "link": "https://blogs.timesofisrael.com/whats-missing-from-covid-19-management-women/",
         "progressive": "need to watch",
         "category": "healthcare, economy, labor",
@@ -4057,11 +4512,10 @@ response_data = [
     {
         "title_en": "Libya: COVID-19- Situation Report No.2, As of 21 April 2020",
         "description_en": "UN Women Libyan women survey- impacting female employment, health services, report promotes women in decision-making.",
+        "title_es": "Libia: COVID-19- Informe de situación nº 2, a partir del 21 de abril de 2020",
+        "description_es": "La encuesta de ONU Mujeres sobre mujeres libias, que afecta el empleo femenino, los servicios de salud, el informe promueve a las mujeres en la toma de decisiones",
 
 
-
-        "title_en": "Libia: COVID-19- Informe de situación nº 2, a partir del 21 de abril de 2020",
-        "description_en": "La encuesta de ONU Mujeres sobre mujeres libias, que afecta el empleo femenino, los servicios de salud, el informe promueve a las mujeres en la toma de decisiones",
         "link": "https://reliefweb.int/report/libya/libya-covid-19-situation-report-no-2-21-april-2020",
         "progressive": "regressive",
         "category": "healthcare, economy",
@@ -4071,11 +4525,10 @@ response_data = [
     {
         "title_en": "Women's organisation in Libya raises COVID-19 awareness",
         "description_en": "Libyan Women's Union have issued a booklet to raise awareness of COVID-19 to isolated families.",
+        "title_es": "La organización de mujeres en Libia crea conciencia sobre COVID-19",
+        "description_es": "La Unión de Mujeres de Libia ha publicado un folleto para sensibilizar sobre COVID-19 a las familias aisladas",
 
 
-
-        "title_en": "La organización de mujeres en Libia crea conciencia sobre COVID-19",
-        "description_en": "La Unión de Mujeres de Libia ha publicado un folleto para sensibilizar sobre COVID-19 a las familias aisladas",
         "link": "http://cmi.fi/2020/04/09/womens-organisation-in-libya-raises-covid-19-awareness/",
         "progressive": "progressive",
         "category": "gendered health impacts",
@@ -4085,11 +4538,10 @@ response_data = [
     {
         "title_en": "Coronavirus- Libya: Impact of COVID-19 prevention measures on humanitarian operations",
         "description_en": "Warn women are at increased risk of exposure and domestic violence, diminished female health services.",
+        "title_es": "Coronavirus- Libia: impacto de las medidas de prevención de COVID-19 en las operaciones humanitarias",
+        "description_es": "Advertir a las mujeres que tienen un mayor riesgo de exposición y violencia doméstica, servicios de salud femeninos disminuidos",
 
 
-
-        "title_en": "Coronavirus- Libia: impacto de las medidas de prevención de COVID-19 en las operaciones humanitarias",
-        "description_en": "Advertir a las mujeres que tienen un mayor riesgo de exposición y violencia doméstica, servicios de salud femeninos disminuidos",
         "link": "https://www.africanews.com/2020/04/24/coronavirus-libya-impact-of-covid-19-prevention-measures-on-humanitarian-operations-for-health-sector-in-libya/",
         "progressive": "need to watch",
         "category": "gendered health impacts",
@@ -4099,11 +4551,10 @@ response_data = [
     {
         "title_en": "HRW:COVID-19 biggest MENA human rights crisis since Arab Spring",
         "description_en": "Tunisia, Lebanon create 24-hour hotline for domestic abuse victims.",
+        "title_es": "HRW: COVID-19 la mayor crisis de derechos humanos de MENA desde la Primavera Árabe",
+        "description_es": "Túnez, Líbano crea una línea directa las 24 horas para víctimas de abuso doméstico",
 
 
-
-        "title_en": "HRW: COVID-19 la mayor crisis de derechos humanos de MENA desde la Primavera Árabe",
-        "description_en": "Túnez, Líbano crea una línea directa las 24 horas para víctimas de abuso doméstico",
         "link": "https://www.moroccoworldnews.com/2020/04/299826/hrw-covid-19-is-biggest-mena-human-rights-crisis-since-arab-spring/",
         "progressive": "progressive",
         "category": "gender-based violence",
@@ -4113,11 +4564,10 @@ response_data = [
     {
         "title_en": "Operation SALAMA to protect vulnerable Moroccan women from COVID-19",
         "description_en": "SALAMA initiative distributing hygiene kits to pregnant women, health professionals, especially midwives, and more vulnerable.",
+        "title_es": "Operación SALAMA para proteger a las mujeres marroquíes vulnerables de COVID-19",
+        "description_es": "Iniciativa SALAMA que distribuye kits de higiene a mujeres embarazadas, profesionales de la salud, especialmente parteras y más vulnerables",
 
 
-
-        "title_en": "Operación SALAMA para proteger a las mujeres marroquíes vulnerables de COVID-19",
-        "description_en": "Iniciativa SALAMA que distribuye kits de higiene a mujeres embarazadas, profesionales de la salud, especialmente parteras y más vulnerables",
         "link": "https://www.moroccoworldnews.com/2020/04/298419/operation-salama-to-protect-vulnerable-moroccan-women-from-covid-19/",
         "progressive": "progressive",
         "category": "gendered health impacts",
@@ -4127,11 +4577,10 @@ response_data = [
     {
         "title_en": "Morocco co-sponsors international initiative to protect women, girls during lockdown",
         "description_en": "Local NGOs listening and aid center reachable by phone, public phone application for safety.",
+        "title_es": "Marruecos copatrocina la iniciativa internacional para proteger a las mujeres y las niñas durante el encierro",
+        "description_es": "Centro de ayuda y atención a las ONG locales accesible por teléfono, aplicación de teléfono público para seguridad",
 
 
-
-        "title_en": "Marruecos copatrocina la iniciativa internacional para proteger a las mujeres y las niñas durante el encierro",
-        "description_en": "Centro de ayuda y atención a las ONG locales accesible por teléfono, aplicación de teléfono público para seguridad",
         "link": "https://northafricapost.com/39935-covid-19-morocco-co-sponsor-of-international-initiative-to-protect-women-girls-during-lockdown.html",
         "progressive": "progressive",
         "category": "gender-based violence",
@@ -4141,11 +4590,10 @@ response_data = [
     {
         "title_en": "Morocco joins initiative against domestic violence under lockdown",
         "description_en": "Morocco joins international cooperation against domestic violence during confinement.",
+        "title_es": "Marruecos se une a la iniciativa contra la violencia doméstica bajo encierro",
+        "description_es": "Marruecos se une a la cooperación internacional contra la violencia doméstica durante el parto",
 
 
-
-        "title_en": "Marruecos se une a la iniciativa contra la violencia doméstica bajo encierro",
-        "description_en": "Marruecos se une a la cooperación internacional contra la violencia doméstica durante el parto",
         "link": "https://www.moroccoworldnews.com/2020/04/299391/morocco-joins-un-initiative-against-domestic-violence-under-lockdown/",
         "progressive": "progressive",
         "category": "gender-based violence",
@@ -4155,11 +4603,10 @@ response_data = [
     {
         "title_en": "When health care is decimated by war",
         "description_en": "Acknowledges that female domestic workers and mothers may face harsher financial conditions",
+        "title_es": "Cuando la salud diezma la guerra",
+        "description_es": "Reconoce que las trabajadoras domésticas y las madres pueden enfrentar condiciones financieras más severas",
 
 
-
-        "title_en": "Cuando la salud diezma la guerra",
-        "description_en": "Reconoce que las trabajadoras domésticas y las madres pueden enfrentar condiciones financieras más severas",
         "link": "https://www.hrw.org/news/2020/04/16/when-health-care-decimated-war-covid-19-middle-east-and-north-africa",
         "progressive": "regressive",
         "category": "economy",
@@ -4169,11 +4616,10 @@ response_data = [
     {
         "title_en": "Domestic violence in COVID-19: Palestinian women are dying",
         "description_en": "Increased domestic violence, feminicides- movement promotes protests and solidarity from balcony.",
+        "title_es": "Violencia doméstica en COVID-19: las mujeres palestinas están muriendo",
+        "description_es": "Aumento de la violencia doméstica, el movimiento feminicidios promueve protestas y solidaridad desde el balcón",
 
 
-
-        "title_en": "Violencia doméstica en COVID-19: las mujeres palestinas están muriendo",
-        "description_en": "Aumento de la violencia doméstica, el movimiento feminicidios promueve protestas y solidaridad desde el balcón",
         "link": "https://egyptianstreets.com/2020/04/24/domestic-violence-in-covid-19-lockdown-palestinian-women-are-dying-at-an-alarming-rate/",
         "progressive": "need to watch",
         "category": "gender-based violence",
@@ -4183,11 +4629,10 @@ response_data = [
     {
         "title_en": "Activists appeal to AU as abuse against women soars, Covid-19",
         "description_en": "Webinar claiming increase in forced marriages, and appeals financial support to Africa's women and girls.",
+        "title_es": "Los activistas apelan a la UA a medida que aumenta el abuso contra las mujeres, Covid-19",
+        "description_es": "Seminario web que reclama un aumento en los matrimonios forzados, y solicita apoyo financiero a las mujeres y niñas de África",
 
 
-
-        "title_en": "Los activistas apelan a la UA a medida que aumenta el abuso contra las mujeres, Covid-19",
-        "description_en": "Seminario web que reclama un aumento en los matrimonios forzados, y solicita apoyo financiero a las mujeres y niñas de África",
         "link": "http://www.rfi.fr/en/africa/20200427-activists-appeal-to-au-as-abuse-against-women-girls-soars-under-covid-19",
         "progressive": "need to watch",
         "category": "SRHR, gendered health impacts, gender-based violence",
@@ -4197,11 +4642,10 @@ response_data = [
     {
         "title_en": "Zimbabwe’s Covid-19 lockdown: Ensuring the right to food for the poor",
         "description_en": "Impact of lockdown on informal workers, right to food, recommendations to reduce hardship",
+        "title_es": "El bloqueo de Covid-19 de Zimbabwe: garantizar el derecho a la alimentación de los pobres",
+        "description_es": "Impacto del encierro en los trabajadores informales, derecho a la alimentación, recomendaciones para reducir las dificultades",
 
 
-
-        "title_en": "El bloqueo de Covid-19 de Zimbabwe: garantizar el derecho a la alimentación de los pobres",
-        "description_en": "Impacto del encierro en los trabajadores informales, derecho a la alimentación, recomendaciones para reducir las dificultades",
         "link": "https://www.plaas.org.za/zimbabwes-covid-19-lockdown-ensuring-the-right-to-food-for-the-poor/",
         "progressive": "regressive",
         "category": "economy, labor, food",
@@ -4211,11 +4655,10 @@ response_data = [
     {
         "title_en": "food in the time of coronavirus: Why we should be very, very afraid",
         "description_en": "Impact of lockdown on informal workers, right to food, recommendations to reduce hardship",
+        "title_es": "comida en tiempos de coronavirus: por qué debemos tener mucho, mucho miedo",
+        "description_es": "Impacto del encierro en los trabajadores informales, derecho a la alimentación, recomendaciones para reducir las dificultades",
 
 
-
-        "title_en": "comida en tiempos de coronavirus: por qué debemos tener mucho, mucho miedo",
-        "description_en": "Impacto del encierro en los trabajadores informales, derecho a la alimentación, recomendaciones para reducir las dificultades",
         "link": "https://www.plaas.org.za/food-in-the-time-of-the-coronavirus-why-we-should-be-very-very-afraid/",
         "progressive": "regressive",
         "category": "economy, labor, food",
@@ -4225,11 +4668,10 @@ response_data = [
     {
         "title_en": "SRHR SERVICES LIMITED AS COVID CRISIS CONTINUES",
         "description_en": "Impact of lockdown on SRHR for womxn",
+        "title_es": "SERVICIOS DE SRHR LIMITADOS COMO CONTINÚA LA CRISIS COVIDA",
+        "description_es": "Impacto del bloqueo en SRHR para womxn",
 
 
-
-        "title_en": "SERVICIOS DE SRHR LIMITADOS COMO CONTINÚA LA CRISIS COVIDA",
-        "description_en": "Impacto del bloqueo en SRHR para womxn",
         "link": "https://genderlinks.org.za/news/access-to-srhr-services-limited-as-covid-crisis-continues/",
         "progressive": "regressive",
         "category": "SRHR, gendered health impacts",
@@ -4239,11 +4681,10 @@ response_data = [
     {
         "title_en": "SADC: SAFEGUARDING WOMEN’S RIGHTS DURING COVID SHUTDOWN",
         "description_en": "Impact of covid on womxn's SRH rights",
+        "title_es": "SADC: PROTEGER LOS DERECHOS DE LAS MUJERES DURANTE EL CIERRE DE COVID",
+        "description_es": "Impacto de covid en los derechos de SSR de womxn",
 
 
-
-        "title_en": "SADC: PROTEGER LOS DERECHOS DE LAS MUJERES DURANTE EL CIERRE DE COVID",
-        "description_en": "Impacto de covid en los derechos de SSR de womxn",
         "link": "https://genderlinks.org.za/news/safeguarding-womens-rights-during-the-covid-19-shutdown/",
         "progressive": "regressive",
         "category": "SRHR, gendered health impacts",
@@ -4253,11 +4694,10 @@ response_data = [
     {
         "title_en": "Covid-19 South Africa Resource Portal",
         "description_en": "South African govt portal on covid-19",
+        "title_es": "Covid-19 South Africa Resource Portal",
+        "description_es": "portal del gobierno sudafricano en covid-19",
 
 
-
-        "title_en": "Covid-19 South Africa Resource Portal",
-        "description_en": "portal del gobierno sudafricano en covid-19",
         "link": "https://sacoronavirus.co.za/",
         "category": "gendered health impacts",
         "progressive": "Neutral",
@@ -4267,11 +4707,10 @@ response_data = [
     {
         "title_en": "Covid threatens womens and girls rights",
         "description_en": "Challenge and fear of regression in SRH rights and services during covid response in Malawi",
+        "title_es": "Covid amenaza los derechos de las mujeres y las niñas",
+        "description_es": "Desafío y miedo a la regresión en los derechos y servicios de SSR durante la respuesta codiciosa en Malawi",
 
 
-
-        "title_en": "Covid amenaza los derechos de las mujeres y las niñas",
-        "description_en": "Desafío y miedo a la regresión en los derechos y servicios de SSR durante la respuesta codiciosa en Malawi",
         "link": "https://www.mwnation.com/covid-19-threatens-women-girls-rights/",
         "progressive": "regressive",
         "category": "SRHR",
@@ -4281,11 +4720,10 @@ response_data = [
     {
         "title_en": "Malawi to give vulnerable familieis cash transfer",
         "description_en": "Malawi government will provide temporay cash transfer to vulnerable families",
+        "title_es": "Malawi entregará transferencias de efectivo a familias vulnerables",
+        "description_es": "El gobierno de Malawi proporcionará transferencias temporales de efectivo a familias vulnerables",
 
 
-
-        "title_en": "Malawi entregará transferencias de efectivo a familias vulnerables",
-        "description_en": "El gobierno de Malawi proporcionará transferencias temporales de efectivo a familias vulnerables",
         "link": "https://www.mwnation.com/voices-are-ringing-malawi-to-give-vulnerable-families-cash-transfers/",
         "progressive": "need to watch",
         "category": "economy",
@@ -4295,11 +4733,10 @@ response_data = [
     {
         "title_en": "NGOs providing relief during lockdown",
         "description_en": "Relief being provided by various NGOs",
+        "title_es": "ONG que brindan ayuda durante el bloqueo",
+        "description_es": "Ayuda brindada por varias ONG",
 
 
-
-        "title_en": "ONG que brindan ayuda durante el bloqueo",
-        "description_en": "Ayuda brindada por varias ONG",
         "link": "https://www.investindia.gov.in/bip/resources/list-ngos-providing-relief-during-covid-19",
         "progressive": "progressive",
         "category": "healthcare, childcare, food, gendered health impacts, gender-based violence",
@@ -4309,11 +4746,10 @@ response_data = [
     {
         "title_en": "Social protection response is launched to aid families during Covid-19",
         "description_en": "Government of Madagascar launches programme to assist those in need by giving 100,000 ariary per household",
+        "title_es": "Se lanza una respuesta de protección social para ayudar a las familias durante Covid-19",
+        "description_es": "El gobierno de Madagascar lanza un programa para ayudar a los necesitados dando 100.000 ariarios por hogar",
 
 
-
-        "title_en": "Se lanza una respuesta de protección social para ayudar a las familias durante Covid-19",
-        "description_en": "El gobierno de Madagascar lanza un programa para ayudar a los necesitados dando 100.000 ariarios por hogar",
         "link": "https://www.africanews.com/2020/04/28/coronavirus-in-madagascar-a-social-protection-response-is-launched-in-urban-and-suburban-areas-to-aid-families-and-their-children-during-covid-19-pandemic/",
         "progressive": "progressive",
         "category": "economy",
@@ -4323,11 +4759,10 @@ response_data = [
     {
         "title_en": "Caribbean nations can't get U.S. masks, ventillartors for COVID-19 under Trump policy",
         "description_en": "Defense Production Act prevents Americans from shipping COVID-19 related supplies to other countries in need",
+        "title_es": "Las naciones caribeñas no pueden obtener máscaras de EE. UU., Ventiladores para COVID-19 bajo la política de Trump",
+        "description_es": "La Ley de Producción de Defensa evita que los estadounidenses envíen suministros relacionados con COVID-19 a otros países necesitados",
 
 
-
-        "title_en": "Las naciones caribeñas no pueden obtener máscaras de EE. UU., Ventiladores para COVID-19 bajo la política de Trump",
-        "description_en": "La Ley de Producción de Defensa evita que los estadounidenses envíen suministros relacionados con COVID-19 a otros países necesitados",
         "link": "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article241922071.html",
         "progressive": "regressive",
         "category": "healthcare",
@@ -4337,11 +4772,10 @@ response_data = [
     {
         "title_en": "IMF approves a $200 million disbursement to Mali",
         "description_en": "Mali given financial aid to help amid pandemic",
+        "title_es": "El FMI aprueba un desembolso de $ 200 millones a Malí",
+        "description_es": "Malí recibió ayuda financiera para ayudar en medio de una pandemia",
 
 
-
-        "title_en": "El FMI aprueba un desembolso de $ 200 millones a Malí",
-        "description_en": "Malí recibió ayuda financiera para ayudar en medio de una pandemia",
         "link": "https://www.imf.org/en/News/Articles/2020/04/30/pr20196-mali-imf-executive-board-approves-disbursement-to-mali-to-address-the-covid-19-pandemic",
         "progressive": "progressive",
         "category": "economy",
@@ -4351,11 +4785,10 @@ response_data = [
     {
         "title_en": "AS Monaco is mobilizing against COVID-19",
         "description_en": "Monaco's charity programme provides financial support to Monegasque Red Cross",
+        "title_es": "AS Mónaco se está movilizando contra COVID-19",
+        "description_es": "El programa de caridad de Mónaco brinda apoyo financiero a la Cruz Roja Monegasca",
 
 
-
-        "title_en": "AS Mónaco se está movilizando contra COVID-19",
-        "description_en": "El programa de caridad de Mónaco brinda apoyo financiero a la Cruz Roja Monegasca",
         "link": "https://www.hellomonaco.com/news/sport/as-monaco-is-mobilizing-against-covid-19/",
         "progressive": "progressive",
         "category": "economy",
@@ -4365,11 +4798,10 @@ response_data = [
     {
         "title_en": "Niger to receive $13,95 million for COVID-19 response",
         "description_en": "The World Bank approved the distribution of $14 million to strengthen public health systems",
+        "title_es": "Níger recibirá $ 13,95 millones por la respuesta COVID-19",
+        "description_es": "El Banco Mundial aprobó la distribución de $ 14 millones para fortalecer los sistemas de salud pública",
 
 
-
-        "title_en": "Níger recibirá $ 13,95 millones por la respuesta COVID-19",
-        "description_en": "El Banco Mundial aprobó la distribución de $ 14 millones para fortalecer los sistemas de salud pública",
         "link": "https://reliefweb.int/report/niger/niger-receive-1395-million-covid-19-response",
         "progressive": "progressive",
         "category": "economy",
@@ -4379,11 +4811,10 @@ response_data = [
     {
         "title_en": "Supporting vulnerable populations to fight COVID-19",
         "description_en": "The Fondation Lombard Odier provides support to those with disabilites, experiencing domestic violence, and hospitals",
+        "title_es": "Apoyo a poblaciones vulnerables para luchar contra COVID-19",
+        "description_es": "La Fundación Lombard Odier brinda apoyo a las personas con discapacidad, que sufren violencia doméstica y hospitales",
 
 
-
-        "title_en": "Apoyo a poblaciones vulnerables para luchar contra COVID-19",
-        "description_en": "La Fundación Lombard Odier brinda apoyo a las personas con discapacidad, que sufren violencia doméstica y hospitales",
         "link": "https://www.lombardodier.com/contents/corporate-news/corporate/2020/april/supporting-vulnerable-population.html",
         "progressive": "progressive",
         "category": "healthcare, economy, disability",
@@ -4393,11 +4824,10 @@ response_data = [
     {
         "title_en": "Pakistan daily wagers struggle to survive in coronavirus lockdown",
         "description_en": "The daily workers in Pakistan suffer through the conditions of the COVID-19 lockdown",
+        "title_es": "Las apuestas diarias de Pakistán luchan por sobrevivir en el bloqueo del coronavirus",
+        "description_es": "Los trabajadores diarios en Pakistán sufren las condiciones del encierro de COVID-19",
 
 
-
-        "title_en": "Las apuestas diarias de Pakistán luchan por sobrevivir en el bloqueo del coronavirus",
-        "description_en": "Los trabajadores diarios en Pakistán sufren las condiciones del encierro de COVID-19",
         "link": "https://www.aljazeera.com/news/2020/03/pakistan-daily-wagers-struggle-survive-coronavirus-lockdown-200325115143152.html",
         "progressive": "regressive",
         "category": "economy, labor",
@@ -4407,11 +4837,10 @@ response_data = [
     {
         "title_en": "Inside Women's Taftan Quarantine Camp",
         "description_en": "The woman's Taftan camp on the Pakistan-Iran border has grown to become to epicentre of the virus here with awful conditions.",
+        "title_es": "Dentro del campamento de cuarentena de mujeres de Taftan",
+        "description_es": "El campamento de mujeres de Taftan en la frontera entre Pakistán e Irán se ha convertido en un epicentro del virus aquí con condiciones terribles",
 
 
-
-        "title_en": "Dentro del campamento de cuarentena de mujeres de Taftan",
-        "description_en": "El campamento de mujeres de Taftan en la frontera entre Pakistán e Irán se ha convertido en un epicentro del virus aquí con condiciones terribles",
         "link": "https://www.aljazeera.com/programmes/newsfeed/2020/03/coronavirus-pakistan-taftan-quarantine-camp-200323110255493.html?utm_source=website&utm_medium=article_page&utm_campaign=read_more_links",
         "progressive": "regressive",
         "category": "economy, labor, gendered health impacts",
@@ -4421,11 +4850,10 @@ response_data = [
     {
         "title_en": "Pakistan Struggles to Enforce Social Distancing During Ramadan",
         "description_en": "Pakistan reaches an agreement to keep mosques open during the holy month of Ramadan",
+        "title_es": "Pakistán lucha para hacer cumplir las distancias sociales durante el Ramadán",
+        "description_es": "Pakistán llega a un acuerdo para mantener abiertas las mezquitas durante el mes sagrado del Ramadán",
 
 
-
-        "title_en": "Pakistán lucha para hacer cumplir las distancias sociales durante el Ramadán",
-        "description_en": "Pakistán llega a un acuerdo para mantener abiertas las mezquitas durante el mes sagrado del Ramadán",
         "link": "https://foreignpolicy.com/2020/04/24/pakistan-ramadan-coronavirus-pandemic-mosques/",
         "progressive": "need to watch",
         "category": "economy",
@@ -4437,8 +4865,10 @@ response_data = [
         "description_en": "Pakistan has temporarily eased restrictions on national and international aid groups seeking to carry out relief work in the cash-strapped country as it confronts the deadly coronavirus.",
 
 
-        "title_en": "Pakistán alivia las restricciones de ayuda a medida que aumentan los casos de coronavirus",
-        "description_en": "Pakistán ha aliviado temporalmente las restricciones a los grupos de ayuda nacionales e internacionales que buscan llevar a cabo trabajos de ayuda en el país con problemas de liquidez mientras se enfrenta al mortal coronavirus",
+        "title_es": "Pakistán alivia las restricciones de ayuda a medida que aumentan los casos de coronavirus",
+        "description_es": "Pakistán ha aliviado temporalmente las restricciones a los grupos de ayuda nacionales e internacionales que buscan llevar a cabo trabajos de ayuda en el país con problemas de liquidez mientras se enfrenta al mortal coronavirus",
+
+
         "link": "https://www.thenewhumanitarian.org/news/2020/04/15/coronavirus-Pakistan-aid-access-NGO-restrictions",
         "progressive": "progressive",
         "category": "healthcare",
@@ -4448,11 +4878,10 @@ response_data = [
     {
         "title_en": "Kuwait’s coordinated response to Covid-19",
         "description_en": "Kuwait’s experience of Middle East Respiratory Syndrome has stood it in good stead to respond effectively to the current Covid-19 pandemic.",
+        "title_es": "Respuesta coordinada de Kuwait a Covid-19",
+        "description_es": "La experiencia de Kuwait del Síndrome Respiratorio del Medio Oriente le ha servido para responder eficazmente a la pandemia actual de Covid-19",
 
 
-
-        "title_en": "Respuesta coordinada de Kuwait a Covid-19",
-        "description_en": "La experiencia de Kuwait del Síndrome Respiratorio del Medio Oriente le ha servido para responder eficazmente a la pandemia actual de Covid-19",
         "link": "https://oxfordbusinessgroup.com/news/kuwait-s-coordinated-response-covid-19",
         "progressive": "progressive",
         "category": "economy, childcare",
@@ -4462,11 +4891,10 @@ response_data = [
     {
         "title_en": "Updating Traditions: Saudi Arabia’s Coronavirus Response",
         "description_en": "Details Saudi Arabia's comprehensive response including providing healthcare, salary coverage, and suspending pilgramages",
+        "title_es": "Actualización de tradiciones: respuesta al coronavirus de Arabia Saudita",
+        "description_es": "Detalla la respuesta integral de Arabia Saudita, incluida la atención médica, la cobertura salarial y la suspensión de peregrinajes",
 
 
-
-        "title_en": "Actualización de tradiciones: respuesta al coronavirus de Arabia Saudita",
-        "description_en": "Detalla la respuesta integral de Arabia Saudita, incluida la atención médica, la cobertura salarial y la suspensión de peregrinajes",
         "link": "https://carnegieendowment.org/2020/04/07/updating-traditions-saudi-arabia-s-coronavirus-response-pub-81481",
         "progressive": "progressive",
         "category": "punitive, healthcare, economy, labor, misinformation",
@@ -4476,11 +4904,10 @@ response_data = [
     {
         "title_en": "Saudi king offers to pay for coronavirus patients' treatment",
         "description_en": "King Salman will cover any coronavirus related healthcare costs and the agricultural ministry is taking steps to boost food supplies",
+        "title_es": "el rey saudí ofrece pagar el tratamiento de los pacientes con coronavirus",
+        "description_es": "King Salman cubrirá los costos de atención médica relacionados con el coronavirus y el ministerio de agricultura está tomando medidas para impulsar el suministro de alimentos",
 
 
-
-        "title_en": "el rey saudí ofrece pagar el tratamiento de los pacientes con coronavirus",
-        "description_en": "King Salman cubrirá los costos de atención médica relacionados con el coronavirus y el ministerio de agricultura está tomando medidas para impulsar el suministro de alimentos",
         "link": "https://www.reuters.com/article/us-health-coronavirus-saudi/saudi-king-offers-to-pay-for-coronavirus-patients-treatment-idUSKBN21H29F",
         "progressive": "progressive",
         "category": "healthcare, food",
@@ -4490,11 +4917,10 @@ response_data = [
     {
         "title_en": "Middle East cracks down on COVID-19 rumor mongers",
         "description_en": "Details the punitive measures that several Middle Eastern countries put in place to stop misinformation spread",
+        "title_es": "Medio Oriente toma medidas enérgicas contra los rumores de COVID-19",
+        "description_es": "Detalla las medidas punitivas que varios países del Medio Oriente implementaron para detener la propagación de información errónea",
 
 
-
-        "title_en": "Medio Oriente toma medidas enérgicas contra los rumores de COVID-19",
-        "description_en": "Detalla las medidas punitivas que varios países del Medio Oriente implementaron para detener la propagación de información errónea",
         "link": "https://www.arabnews.com/node/1649286/middle-east",
         "progressive": "need to watch",
         "category": "punitive, misinformation",
@@ -4504,11 +4930,10 @@ response_data = [
     {
         "title_en": "U.N. says Saudi deportations of Ethiopian migrants risks spreading coronavirus",
         "description_en": "Saudi Arabia has been deporting migrants to Addis Adaba which could threaten Ethiopia's public health",
+        "title_es": "La ONU dice que las deportaciones sauditas de migrantes etíopes corren el riesgo de propagar el coronavirus",
+        "description_es": "Arabia Saudita ha estado deportando inmigrantes a Addis Adaba, lo que podría amenazar la salud pública de Etiopía",
 
 
-
-        "title_en": "La ONU dice que las deportaciones sauditas de migrantes etíopes corren el riesgo de propagar el coronavirus",
-        "description_en": "Arabia Saudita ha estado deportando inmigrantes a Addis Adaba, lo que podría amenazar la salud pública de Etiopía",
         "link": "https://www.reuters.com/article/us-health-coronavirus-ethiopia-migrants-idUSKCN21V1OT",
         "progressive": "regressive",
         "category": "punitive",
@@ -4518,11 +4943,10 @@ response_data = [
     {
         "title_en": "How Saudi women’s organizations have risen to the coronavirus challenge",
         "description_en": "Women's organizations in Saudi Arabia have provided crucial community resources during the pandemic",
+        "title_es": "Cómo las organizaciones de mujeres sauditas han superado el desafío del coronavirus",
+        "description_es": "Las organizaciones de mujeres en Arabia Saudita han proporcionado recursos comunitarios cruciales durante la pandemia",
 
 
-
-        "title_en": "Cómo las organizaciones de mujeres sauditas han superado el desafío del coronavirus",
-        "description_en": "Las organizaciones de mujeres en Arabia Saudita han proporcionado recursos comunitarios cruciales durante la pandemia",
         "link": "https://www.arabnews.com/node/1668611/saudi-arabia",
         "progressive": "progressive",
         "category": "education, childcare, food",
@@ -4532,11 +4956,10 @@ response_data = [
     {
         "title_en": "Securitization and Politics in the Israeli COVID-19 response",
         "description_en": "The IDF has taken a prominent role in executing the COVID- 19 response and digital surveillance has increased",
+        "title_es": "Titulización y política en la respuesta israelí COVID-19",
+        "description_es": "La IDF ha desempeñado un papel destacado en la ejecución de la respuesta COVID-19 y la vigilancia digital ha aumentado",
 
 
-
-        "title_en": "Titulización y política en la respuesta israelí COVID-19",
-        "description_en": "La IDF ha desempeñado un papel destacado en la ejecución de la respuesta COVID-19 y la vigilancia digital ha aumentado",
         "link": "https://www.fpri.org/article/2020/04/securitization-and-politics-in-the-israeli-covid-19-response/",
         "progressive": "regressive",
         "category": "healthcare, gender-based violence",
@@ -4546,11 +4969,10 @@ response_data = [
     {
         "title_en": "Israel deems women’s ritual baths essential, leaving some conflicted over virus risk",
         "description_en": "Certain Jewish women still required to partake in ritual baths, posing a health risk during the pandemic",
+        "title_es": "Israel considera que los baños rituales de las mujeres son esenciales, dejando algunos conflictos por el riesgo de virus",
+        "description_es": "Ciertas mujeres judías todavía debían participar en baños rituales, lo que representa un riesgo para la salud durante la pandemia",
 
 
-
-        "title_en": "Israel considera que los baños rituales de las mujeres son esenciales, dejando algunos conflictos por el riesgo de virus",
-        "description_en": "Ciertas mujeres judías todavía debían participar en baños rituales, lo que representa un riesgo para la salud durante la pandemia",
         "link": "https://www.washingtonpost.com/world/middle_east/israel-deems-womens-ritual-baths-essential-leaving-some-conflicted-over-virus-risk/2020/04/28/a8544dbc-83e8-11ea-81observed response-9690c9881111_story.html",
         "progressive": "regressive",
         "category": "gendered health impacts",
@@ -4560,11 +4982,10 @@ response_data = [
     {
         "title_en": "Israel must release Palestinian prisoners in vulnerable situation, say UN experts",
         "description_en": "Israel has released Israeli prisoners as a COVID protection, but has kept Palestinian prisoners detained",
+        "title_es": "Israel debe liberar a los prisioneros palestinos en situación vulnerable, dicen expertos de la ONU",
+        "description_es": "Israel ha liberado a prisioneros israelíes como protección COVID, pero ha mantenido detenidos a prisioneros palestinos",
 
 
-
-        "title_en": "Israel debe liberar a los prisioneros palestinos en situación vulnerable, dicen expertos de la ONU",
-        "description_en": "Israel ha liberado a prisioneros israelíes como protección COVID, pero ha mantenido detenidos a prisioneros palestinos",
         "link": "https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25822&LangID=E",
         "progressive": "regressive",
         "category": "punitive, race",
@@ -4574,11 +4995,10 @@ response_data = [
     {
         "title_en": "Herd Immunity, or Big 2nd Wave? Israel Antibody Testing Hopes to Find Out",
         "description_en": "Israel is conducting a nationwide survey of antibody tests to determine next steps in their response",
+        "title_es": "Inmunidad de rebaño, o gran segunda ola? Israel Antibody Testing esperanzas de descubrir",
+        "description_es": "Israel está realizando una encuesta nacional de pruebas de anticuerpos para determinar los próximos pasos en su respuesta",
 
 
-
-        "title_en": "Inmunidad de rebaño, o gran segunda ola? Israel Antibody Testing esperanzas de descubrir",
-        "description_en": "Israel está realizando una encuesta nacional de pruebas de anticuerpos para determinar los próximos pasos en su respuesta",
         "link": "https://www.nytimes.com/2020/05/05/world/middleeast/coronavirus-israel-antibody-testing.html",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -4588,11 +5008,10 @@ response_data = [
     {
         "title_en": "To Track Coronavirus, Israel Moves to Tap Secret Trove of Cellphone Data",
         "description_en": "Israeli government using previously undisclosed counterterrorism surveillance and data trove to trace COVID-19",
+        "title_es": "Para rastrear el coronavirus, Israel se mueve para aprovechar el secreto de los datos del teléfono celular",
+        "description_es": "El gobierno israelí utiliza la vigilancia antiterrorista previamente no revelada y el tesoro de datos para rastrear COVID-19",
 
 
-
-        "title_en": "Para rastrear el coronavirus, Israel se mueve para aprovechar el secreto de los datos del teléfono celular",
-        "description_en": "El gobierno israelí utiliza la vigilancia antiterrorista previamente no revelada y el tesoro de datos para rastrear COVID-19",
         "link": "https://www.nytimes.com/2020/03/16/world/middleeast/israel-coronavirus-cellphone-tracking.html",
         "progressive": "regressive",
         "category": "punitive, digital surveillance",
@@ -4602,11 +5021,10 @@ response_data = [
     {
         "title_en": "Abrupter Rückfall in alte Rollenmuster",
         "description_en": "Home office experiences encourage political reorganization of everyday work and men experience new things. (GE)",
+        "title_es": "Caída abrupta en alte Rollenmuster",
+        "description_es": "Las experiencias de oficina en casa fomentan la reorganización política del trabajo diario y los hombres experimentan cosas nuevas. (GE)",
 
 
-
-        "title_en": "Caída abrupta en alte Rollenmuster",
-        "description_en": "Las experiencias de oficina en casa fomentan la reorganización política del trabajo diario y los hombres experimentan cosas nuevas. (GE)",
         "link": "https://www.gwi-boell.de/de/2020/04/28/abrupter-rueckfall-alte-rollenmuster",
         "progressive": "need to watch",
         "category": "economy, childcare",
@@ -4616,11 +5034,10 @@ response_data = [
     {
         "title_en": "Orderly Andorra has an unusual system for easing lockdown restrictions",
         "description_en": "Those who live in even-numbered homes are allowed to go out on even dates.",
+        "title_es": "Andorra ordenada tiene un sistema inusual para aliviar las restricciones de bloqueo",
+        "description_es": "Los que viven en hogares con números pares pueden salir en fechas pares",
 
 
-
-        "title_en": "Andorra ordenada tiene un sistema inusual para aliviar las restricciones de bloqueo",
-        "description_en": "Los que viven en hogares con números pares pueden salir en fechas pares",
         "link": "https://www.euronews.com/2020/04/21/orderly-andorra-has-an-unusual-system-for-easing-lockdown-restrictions",
         "progressive": "need to watch",
         "category": "economy",
@@ -4630,11 +5047,10 @@ response_data = [
     {
         "title_en": "Authorities in Andorra eased restrictions related to COVID-19",
         "description_en": "Authorities in Andorra eased restrictions related to coronavirus disease (COVID-19) from April 16.",
+        "title_es": "Las autoridades de Andorra redujeron las restricciones relacionadas con COVID-19",
+        "description_es": "Las autoridades de Andorra redujeron las restricciones relacionadas con la enfermedad por coronavirus (COVID-19) a partir del 16 de abril",
 
 
-
-        "title_en": "Las autoridades de Andorra redujeron las restricciones relacionadas con COVID-19",
-        "description_en": "Las autoridades de Andorra redujeron las restricciones relacionadas con la enfermedad por coronavirus (COVID-19) a partir del 16 de abril",
         "link": "https://www.worldaware.com/covid-19-alert-andorra-eases-some-restrictions-april-16",
         "progressive": "need to watch",
         "category": "economy",
@@ -4644,11 +5060,10 @@ response_data = [
     {
         "title_en": "Belarus Expels Russian Journalist Over ‘Fake’ Coronavirus Report: Media",
         "description_en": "A Russian journalist has been expelled from Belarus over a report that described the neighboring allied country’s dire coronavirus situation.",
+        "title_es": "Bielorrusia expulsa a periodista ruso por informe 'falso' sobre coronavirus: medios de comunicación",
+        "description_es": "Un periodista ruso fue expulsado de Bielorrusia por un informe que describía la grave situación de coronavirus del país vecino aliado",
 
 
-
-        "title_en": "Bielorrusia expulsa a periodista ruso por informe" falso "sobre coronavirus: medios de comunicación",
-        "description_en": "Un periodista ruso fue expulsado de Bielorrusia por un informe que describía la grave situación de coronavirus del país vecino aliado",
         "link": "https://www.themoscowtimes.com/2020/05/07/belarus-expels-russian-journalist-over-fake-coronavirus-report-media-a70203",
         "progressive": "need to watch",
         "category": "punitive",
@@ -4658,11 +5073,10 @@ response_data = [
     {
         "title_en": "Lukashenka Hell-Bent On Holding Victory Day Celebration In Belarus, Coronavirus Be Damned",
         "description_en": "Belarus's longtime, strongman leader will go forward with World War II Victory Day celebrations.",
+        "title_es": "Lukashenka empeñado en celebrar la celebración del Día de la Victoria en Bielorrusia, se condena el coronavirus",
+        "description_es": "El líder fuerte de Bielorrusia de toda la vida continuará con las celebraciones del Día de la Victoria de la Segunda Guerra Mundial",
 
 
-
-        "title_en": "Lukashenka empeñado en celebrar la celebración del Día de la Victoria en Bielorrusia, se condena el coronavirus",
-        "description_en": "El líder fuerte de Bielorrusia de toda la vida continuará con las celebraciones del Día de la Victoria de la Segunda Guerra Mundial",
         "link": "https://www.rferl.org/a/lukashenka-hell-bent-on-holding-victory-day-celebration-in-belarus-coronavirus-be-damned/30597609.html",
         "progressive": "need to watch",
         "category": "economy",
@@ -4672,11 +5086,10 @@ response_data = [
     {
         "title_en": "Belarus: Life as normal despite ravaging coronavirus epidemic",
         "description_en": "Citizens take up fight to contain spread in Belarus, which has one of Europe's highest per capita infection rates.",
+        "title_es": "Bielorrusia: la vida normal a pesar de la devastadora epidemia de coronavirus",
+        "description_es": "Los ciudadanos luchan para contener la propagación en Bielorrusia, que tiene una de las tasas de infección per cápita más altas de Europa",
 
 
-
-        "title_en": "Bielorrusia: la vida normal a pesar de la devastadora epidemia de coronavirus",
-        "description_en": "Los ciudadanos luchan para contener la propagación en Bielorrusia, que tiene una de las tasas de infección per cápita más altas de Europa",
         "link": "https://www.aljazeera.com/indepth/features/belarus-life-normal-ravaging-coronavirus-epidemic-200507104734893.html",
         "progressive": "need to watch",
         "category": "economy",
@@ -4686,11 +5099,10 @@ response_data = [
     {
         "title_en": "Who Will Do It, If We Don't?'",
         "description_en": "Belarusians Step Up As President Plays Down COVID-19 Threat",
+        "title_es": "¿Quién lo hará, si no lo hacemos?",
+        "description_es": "Los bielorrusos dan un paso al frente mientras el presidente enfrenta la amenaza COVID-19",
 
 
-
-        "title_en": "¿Quién lo hará, si no lo hacemos?",
-        "description_en": "Los bielorrusos dan un paso al frente mientras el presidente enfrenta la amenaza COVID-19",
         "link": "https://www.rferl.org/a/belarusians-colunteer-coronavirus-lukashenka-plays-down-covid-19-threat/30594557.html",
         "progressive": "need to watch",
         "category": "economy",
@@ -4700,11 +5112,10 @@ response_data = [
     {
         "title_en": "Barbados accuses U.S. of blocking ventilators for coronavirus, then walks back allegation",
         "description_en": "Health Minister Lt. Col Jeffrey Bostic said that 20 ventilators purchased by a philanthropist had been “seized” in the U.S.",
+        "title_es": "Barbados acusa a EE. UU. de bloquear los ventiladores para el coronavirus y luego rechaza la acusación",
+        "description_es": "El Ministro de Salud, teniente coronel Jeffrey Bostic, dijo que 20 ventiladores comprados por un filántropo habían sido 'incautados' en los Estados Unidos",
 
 
-
-        "title_en": "Barbados acusa a EE. UU. de bloquear los ventiladores para el coronavirus y luego rechaza la acusación",
-        "description_en": "El Ministro de Salud, teniente coronel Jeffrey Bostic, dijo que 20 ventiladores comprados por un filántropo habían sido 'incautados' en los Estados Unidos",
         "link": "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article241labor3756.html",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -4714,11 +5125,10 @@ response_data = [
     {
         "title_en": "Empty resorts spell long crisis for Caribbean as coronavirus hits",
         "description_en": "There are few places where the economic impact of the pandemic may be as immediate.",
+        "title_es": "Los resorts vacíos significan una larga crisis para el Caribe cuando llega el coronavirus",
+        "description_es": "Hay pocos lugares donde el impacto económico de la pandemia puede ser tan inmediato",
 
 
-
-        "title_en": "Los resorts vacíos significan una larga crisis para el Caribe cuando llega el coronavirus",
-        "description_en": "Hay pocos lugares donde el impacto económico de la pandemia puede ser tan inmediato",
         "link": "https://www.reuters.com/article/us-health-coronavirus-caribbean-tourism/empty-resorts-spell-long-crisis-for-caribbean-as-coronavirus-hits-idUSKBN222189",
         "progressive": "need to watch",
         "category": "economy",
@@ -4728,11 +5138,10 @@ response_data = [
     {
         "title_en": "Barbados: Over 200 staff of agency in quarantine over coronavirus",
         "description_en": "The Government of Barbados has placed their full staff in quarantine.",
+        "title_es": "Barbados: más de 200 empleados de la agencia en cuarentena por coronavirus",
+        "description_es": "El Gobierno de Barbados ha puesto a todo su personal en cuarentena",
 
 
-
-        "title_en": "Barbados: más de 200 empleados de la agencia en cuarentena por coronavirus",
-        "description_en": "El Gobierno de Barbados ha puesto a todo su personal en cuarentena",
         "link": "https://www.stabroeknews.com/2020/04/26/news/regional/barbados/barbados-over-200-staff-of-agency-in-quarantine-over-coronavirus/",
         "progressive": "need to watch",
         "category": "economy",
@@ -4742,11 +5151,10 @@ response_data = [
     {
         "title_en": "Caribbean tourism has been decimated by COVID-19.",
         "description_en": "Argues that Caribbean governments will need private-sector help to fill the tourism gap.",
+        "title_es": "El turismo caribeño ha sido diezmado por COVID-19",
+        "description_es": "Argumenta que los gobiernos del Caribe necesitarán ayuda del sector privado para llenar la brecha turística",
 
 
-
-        "title_en": "El turismo caribeño ha sido diezmado por COVID-19",
-        "description_en": "Argumenta que los gobiernos del Caribe necesitarán ayuda del sector privado para llenar la brecha turística",
         "link": "https://www.weforum.org/agenda/2020/05/caribbean-tourism-has-been-decimated-by-covid-19-but-the-private-sector-can-cushion-the-blow/",
         "progressive": "need to watch",
         "category": "economy",
@@ -4756,11 +5164,10 @@ response_data = [
     {
         "title_en": "Belize is Last Remaining Coronavirus-Free Country on American Continent",
         "description_en": "There are 23 nations spread across the North and South American continents, but only Belize has yet to report a known case of COVID-19.",
+        "title_es": "Belice es el último país libre de coronavirus en el continente americano",
+        "description_es": "Hay 23 naciones repartidas en los continentes de América del Norte y del Sur, pero solo Belice aún tiene que informar un caso conocido de COVID-19",
 
 
-
-        "title_en": "Belice es el último país libre de coronavirus en el continente americano",
-        "description_en": "Hay 23 naciones repartidas en los continentes de América del Norte y del Sur, pero solo Belice aún tiene que informar un caso conocido de COVID-19",
         "link": "https://www.rtmagazine.com/disorders-diseases/infectious-diseases/other-infections/belize-last-coronavirus-free-country-american-continent/",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -4770,11 +5177,10 @@ response_data = [
     {
         "title_en": "Belize Closes Borders in Coronavirus Fight",
         "description_en": "Belize’s borders are now closed both to foreign visitors and Belizeans seeking to re-enter the country.",
+        "title_es": "Belice cierra fronteras en la lucha contra el coronavirus",
+        "description_es": "Las fronteras de Belice ahora están cerradas tanto para los visitantes extranjeros como para los beliceños que desean reingresar al país",
 
 
-
-        "title_en": "Belice cierra fronteras en la lucha contra el coronavirus",
-        "description_en": "Las fronteras de Belice ahora están cerradas tanto para los visitantes extranjeros como para los beliceños que desean reingresar al país",
         "link": "https://www.caribjournal.com/2020/04/06/belize-borders-coronavirus-fight/",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -4784,11 +5190,10 @@ response_data = [
     {
         "title_en": "Coronavirus - Benin goes on digital offensive against COVID-19",
         "description_en": "Benin has set up a range of digital platforms to help combat both the spread of the disease and health misinformation.",
+        "title_es": "Coronavirus - Benin inicia una ofensiva digital contra COVID-19",
+        "description_es": "Benin ha establecido una gama de plataformas digitales para ayudar a combatir tanto la propagación de la enfermedad como la información errónea sobre la salud",
 
 
-
-        "title_en": "Coronavirus - Benin inicia una ofensiva digital contra COVID-19",
-        "description_en": "Benin ha establecido una gama de plataformas digitales para ayudar a combatir tanto la propagación de la enfermedad como la información errónea sobre la salud",
         "link": "https://www.africanews.com/2020/04/10/coronavirus-benin-goes-on-digital-offensive-against-covid-19//",
         "progressive": "need to watch",
         "category": "misinformation",
@@ -4798,11 +5203,10 @@ response_data = [
     {
         "title_en": "Bhutan bars tourists after first coronavirus case, India total hits 31",
         "description_en": "Bhutan will bar arriving tourists for two weeks after confirming its first case of the coronavirus.",
+        "title_es": "Bután prohíbe a los turistas después del primer caso de coronavirus, el total de India llega a 31",
+        "description_es": "Bután prohibirá a los turistas que lleguen durante dos semanas después de confirmar su primer caso del coronavirus",
 
 
-
-        "title_en": "Bután prohíbe a los turistas después del primer caso de coronavirus, el total de India llega a 31",
-        "description_en": "Bután prohibirá a los turistas que lleguen durante dos semanas después de confirmar su primer caso del coronavirus",
         "link": "https://www.reuters.com/article/us-health-coronavirus-southasia/bhutan-bans-tourists-after-first-coronavirus-case-india-total-hits-31-idUSKBN20T0QB",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -4812,11 +5216,10 @@ response_data = [
     {
         "title_en": "Political developments amidst Bosnia and Herzegovina coronavirus response",
         "description_en": "Corruption, political blockages, threaten international efforts to help Bosnia and Herzegovina weather coronavirus",
+        "title_es": "Desarrollos políticos en medio de la respuesta al coronavirus de Bosnia y Herzegovina",
+        "description_es": "La corrupción, los bloqueos políticos, amenazan los esfuerzos internacionales para ayudar a Bosnia y Herzegovina a combatir el coronavirus",
 
 
-
-        "title_en": "Desarrollos políticos en medio de la respuesta al coronavirus de Bosnia y Herzegovina",
-        "description_en": "La corrupción, los bloqueos políticos, amenazan los esfuerzos internacionales para ayudar a Bosnia y Herzegovina a combatir el coronavirus",
         "link": "https://news.un.org/en/story/2020/05/1063432",
         "progressive": "regressive",
         "category": "economy",
@@ -4826,11 +5229,10 @@ response_data = [
     {
         "title_en": "Bosnia reports sharp rise in coronavirus cases after relaxing lockdown",
         "description_en": "Bosnia reported on Wednesday its sharpest daily rise in new coronavirus infections this month.",
+        "title_es": "Bosnia informa un fuerte aumento en los casos de coronavirus después de relajar el bloqueo",
+        "description_es": "Bosnia informó el miércoles su mayor aumento diario de nuevas infecciones por coronavirus este mes",
 
 
-
-        "title_en": "Bosnia informa un fuerte aumento en los casos de coronavirus después de relajar el bloqueo",
-        "description_en": "Bosnia informó el miércoles su mayor aumento diario de nuevas infecciones por coronavirus este mes",
         "link": "https://www.reuters.com/article/us-health-coronavirus-bosnia-cases/bosnia-reports-sharp-rise-in-coronavirus-cases-after-relaxing-lockdown-idUSKBN22B2DB",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -4840,11 +5242,10 @@ response_data = [
     {
         "title_en": "Poachers kill more animals as coronavirus crushes tourism to Africa",
         "description_en": "In Botswana, at least six rhinos have been poached since the virus shut down tourism there.",
+        "title_es": "Los cazadores furtivos matan más animales cuando el coronavirus aplasta el turismo en África",
+        "description_es": "En Botswana, al menos seis rinocerontes han sido saqueados desde que el virus cerró el turismo allí",
 
 
-
-        "title_en": "Los cazadores furtivos matan más animales cuando el coronavirus aplasta el turismo en África",
-        "description_en": "En Botswana, al menos seis rinocerontes han sido saqueados desde que el virus cerró el turismo allí",
         "link": "https://www.cnbc.com/2020/04/24/coronavirus-poachers-kill-more-animals-as-tourism-to-africa-plummets.html",
         "progressive": "regressive",
         "category": "economy",
@@ -4854,11 +5255,10 @@ response_data = [
     {
         "title_en": "Phased lockdown lifting starts May 8",
         "description_en": "Botswana will start a phased lifting of its lockdown staring May 8",
+        "title_es": "El levantamiento por bloqueo gradual comienza el 8 de mayo",
+        "description_es": "Botswana comenzará un levantamiento gradual de su bloqueo el 8 de mayo",
 
 
-
-        "title_en": "El levantamiento por bloqueo gradual comienza el 8 de mayo",
-        "description_en": "Botswana comenzará un levantamiento gradual de su bloqueo el 8 de mayo",
         "link": "https://www.africanews.com/2020/05/06/botswana-president-in-self-isolation-after-namibia-trip/",
         "progressive": "need to watch",
         "category": "economy",
@@ -4868,11 +5268,10 @@ response_data = [
     {
         "title_en": "Botswana's entire parliament quarantined after coronavirus scare",
         "description_en": "All Botswana’s parliamentarians including President Mokgweetsi Masisi will be quarantined for 14 days.",
+        "title_es": "Todo el parlamento de Botsuana se puso en cuarentena después del susto del coronavirus",
+        "description_es": "Todos los parlamentarios de Botswana, incluido el presidente Mokgweetsi Masisi, serán puestos en cuarentena durante 14 días",
 
 
-
-        "title_en": "Todo el parlamento de Botsuana se puso en cuarentena después del susto del coronavirus",
-        "description_en": "Todos los parlamentarios de Botswana, incluido el presidente Mokgweetsi Masisi, serán puestos en cuarentena durante 14 días",
         "link": "https://www.reuters.com/article/us-health-coronavirus-botswana/botswanas-entire-parliament-quarantined-after-coronavirus-scare-idUSKCN21R29I",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -4882,11 +5281,10 @@ response_data = [
     {
         "title_en": "Botswana President, Lawmakers End Quarantine After Testing Negative for Coronavirus",
         "description_en": "Botwana's lawmakers completed a two-week quarantine Thursday after testing negative for the new coronavirus.",
+        "title_es": "Presidente de Botswana, legisladores terminan la cuarentena después de las pruebas negativas para el coronavirus",
+        "description_es": "Los legisladores de Botwana completaron una cuarentena de dos semanas el jueves después de dar negativo para el nuevo coronavirus",
 
 
-
-        "title_en": "Presidente de Botswana, legisladores terminan la cuarentena después de las pruebas negativas para el coronavirus",
-        "description_en": "Los legisladores de Botwana completaron una cuarentena de dos semanas el jueves después de dar negativo para el nuevo coronavirus",
         "link": "https://www.voanews.com/covid-19-pandemic/botswana-president-lawmakers-end-quarantine-after-testing-negative-coronavirus",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -4896,11 +5294,10 @@ response_data = [
     {
         "title_en": "Brunei reports first coronavirus death",
         "description_en": "Brunei has reported 115 cases of the virus so far, some of which were linked to a religious gathering in Malaysia.",
+        "title_es": "Brunei informa la primera muerte por coronavirus",
+        "description_es": "Brunei ha reportado 115 casos del virus hasta ahora, algunos de los cuales estaban relacionados con una reunión religiosa en Malasia",
 
 
-
-        "title_en": "Brunei informa la primera muerte por coronavirus",
-        "description_en": "Brunei ha reportado 115 casos del virus hasta ahora, algunos de los cuales estaban relacionados con una reunión religiosa en Malasia",
         "link": "https://www.reuters.com/article/us-health-coronavirus-brunei/brunei-reports-first-coronavirus-death-idUSKBN21F02K",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -4910,11 +5307,10 @@ response_data = [
     {
         "title_en": "Bulgarian capital Sofia sealed off to contain spread of coronavirus",
         "description_en": "Health Minister Kiril Ananiev said travel to and from Sofia, home to some 2 million people, will be banned until further notice.",
+        "title_es": "La capital búlgara, Sofía, cerrada para contener la propagación del coronavirus",
+        "description_es": "El ministro de Salud, Kiril Ananiev, dijo que los viajes hacia y desde Sofía, hogar de unos 2 millones de personas, serán prohibidos hasta nuevo aviso",
 
 
-
-        "title_en": "La capital búlgara, Sofía, cerrada para contener la propagación del coronavirus",
-        "description_en": "El ministro de Salud, Kiril Ananiev, dijo que los viajes hacia y desde Sofía, hogar de unos 2 millones de personas, serán prohibidos hasta nuevo aviso",
         "link": "https://www.reuters.com/article/us-health-coronavirus-bulgaria-sofia/bulgarian-capital-sofia-sealed-off-to-contain-spread-of-coronavirus-idUSKBN21Y3D3",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -4924,11 +5320,10 @@ response_data = [
     {
         "title_en": "Bulgaria bans entry to foreigners from almost all the world over COVID-19",
         "description_en": "Bulgaria banned entry to its territory to citizens from around the globe except for 19 EU member states",
+        "title_es": "Bulgaria prohíbe la entrada a extranjeros de casi todo el mundo a través de COVID-19",
+        "description_es": "Bulgaria prohibió la entrada a su territorio a ciudadanos de todo el mundo, excepto 19 Estados miembros de la UE",
 
 
-
-        "title_en": "Bulgaria prohíbe la entrada a extranjeros de casi todo el mundo a través de COVID-19",
-        "description_en": "Bulgaria prohibió la entrada a su territorio a ciudadanos de todo el mundo, excepto 19 Estados miembros de la UE",
         "link": "https://www.euractiv.com/section/justice-home-affairs/news/bulgaria-bans-entry-to-foreigners-from-almost-all-the-world-over-covid-19/",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -4938,11 +5333,10 @@ response_data = [
     {
         "title_en": "Bulgarian coronavirus cases pass 1,000, health ministry says",
         "description_en": "Bulgaria declared a state of national emergency on March 13 and extended it for a further month",
+        "title_es": "Los casos de coronavirus búlgaros pasan 1,000, dice el ministerio de salud",
+        "description_es": "Bulgaria declaró el estado de emergencia nacional el 13 de marzo y lo extendió por un mes más",
 
 
-
-        "title_en": "Los casos de coronavirus búlgaros pasan 1,000, dice el ministerio de salud",
-        "description_en": "Bulgaria declaró el estado de emergencia nacional el 13 de marzo y lo extendió por un mes más",
         "link": "https://www.reuters.com/article/us-health-coronavirus-bulgaria/bulgarian-coronavirus-cases-pass-1000-health-ministry-says-idUSKCN2240UJ",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -4952,11 +5346,10 @@ response_data = [
     {
         "title_en": "Burkina Faso unveils free and open online school as coronavirus pandemic affects system",
         "description_en": "A young man created the country’s first digital school, a free and online one which ensures pupils don’t fall behind.",
+        "title_es": "Burkina Faso presenta una escuela en línea gratuita y abierta, ya que la pandemia de coronavirus afecta el sistema",
+        "description_es": "Un joven creó la primera escuela digital del país, gratuita y en línea que garantiza que los alumnos no se queden atrás",
 
 
-
-        "title_en": "Burkina Faso presenta una escuela en línea gratuita y abierta, ya que la pandemia de coronavirus afecta el sistema",
-        "description_en": "Un joven creó la primera escuela digital del país, gratuita y en línea que garantiza que los alumnos no se queden atrás",
         "link": "https://www.france24.com/en/video/20200507-burkina-faso-unveils-free-and-open-online-school-as-coronavirus-pandemic-affects-system",
         "progressive": "progressive",
         "category": "education",
@@ -4966,11 +5359,10 @@ response_data = [
     {
         "title_en": "Burkina Faso comedians combat COVID-19 anxiety with humour",
         "description_en": "How comedians in Burkina Faso are using humour to raise awareness around coronavirus.",
+        "title_es": "Los comediantes de Burkina Faso combaten la ansiedad de COVID-19 con humor",
+        "description_es": "Cómo los cómicos en Burkina Faso están usando el humor para crear conciencia sobre el coronavirus",
 
 
-
-        "title_en": "Los comediantes de Burkina Faso combaten la ansiedad de COVID-19 con humor",
-        "description_en": "Cómo los cómicos en Burkina Faso están usando el humor para crear conciencia sobre el coronavirus",
         "link": "https://www.aljazeera.com/news/2020/05/burkina-faso-comedians-combat-covid-19-anxiety-humour-200502104518662.html",
         "progressive": "progressive",
         "category": "economy",
@@ -4980,11 +5372,10 @@ response_data = [
     {
         "title_en": "COVID-19 changed everything': Ramadan for IDPs in Burkina Faso",
         "description_en": "With pandemic disrupting supply chains, thousands displaced by war struggle with lack of food during Muslim holy month.",
+        "title_es": "COVID-19 cambió todo ': Ramadán para desplazados internos en Burkina Faso",
+        "description_es": "Con la pandemia interrumpiendo las cadenas de suministro, miles de desplazados por la guerra luchan por la falta de alimentos durante el mes sagrado musulmán",
 
 
-
-        "title_en": "COVID-19 cambió todo ': Ramadán para desplazados internos en Burkina Faso",
-        "description_en": "Con la pandemia interrumpiendo las cadenas de suministro, miles de desplazados por la guerra luchan por la falta de alimentos durante el mes sagrado musulmán",
         "link": "https://www.aljazeera.com/indepth/features/changed-ramadan-idps-burkina-faso-200502070210775.html",
         "progressive": "need to watch",
         "category": "food",
@@ -4994,11 +5385,10 @@ response_data = [
     {
         "title_en": "COVID-19 is Coinciding with Dangerous Trends in Burundi's Democracy",
         "description_en": "As recent weeks brought news of the first recorded cases of the coronavirus in Burundi, they have also featured coverage of crowded campaign rallies",
+        "title_es": "COVID-19 coincide con tendencias peligrosas en la democracia de Burundi",
+        "description_es": "Como las últimas semanas trajeron noticias de los primeros casos registrados del coronavirus en Burundi, también han presentado cobertura de manifestaciones de campaña abarrotadas",
 
 
-
-        "title_en": "COVID-19 coincide con tendencias peligrosas en la democracia de Burundi",
-        "description_en": "Como las últimas semanas trajeron noticias de los primeros casos registrados del coronavirus en Burundi, también han presentado cobertura de manifestaciones de campaña abarrotadas",
         "link": "https://www.cfr.org/blog/covid-19-coinciding-dangerous-trends-burundis-democracy",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5008,11 +5398,10 @@ response_data = [
     {
         "title_en": "Aid groups blocked from Burundi coronavirus quarantine sites",
         "description_en": "HRW reports humanitarian organisations have been blocked from providing assistance to hundreds of people.",
+        "title_es": "Grupos de ayuda bloqueados de los sitios de cuarentena de coronavirus de Burundi",
+        "description_es": "HRW informa que las organizaciones humanitarias han sido bloqueadas para proporcionar asistencia a cientos de personas",
 
 
-
-        "title_en": "Grupos de ayuda bloqueados de los sitios de cuarentena de coronavirus de Burundi",
-        "description_en": "HRW informa que las organizaciones humanitarias han sido bloqueadas para proporcionar asistencia a cientos de personas",
         "link": "https://www.thenewhumanitarian.org/news/2020/04/02/burundi-coronavirus-aid",
         "progressive": "regressive",
         "category": "healthcare, food",
@@ -5022,11 +5411,10 @@ response_data = [
     {
         "title_en": "Masks, bans and questions: Inside Cameroon's COVID-19 response",
         "description_en": "President Biya has not addressed nation in weeks, raising questions, but gov't has taken series of steps to stem virus.",
+        "title_es": "Máscaras, prohibiciones y preguntas: dentro de la respuesta COVID-19 de Camerún",
+        "description_es": "El presidente Biya no se ha dirigido a la nación en semanas, planteando preguntas, pero el gobierno ha tomado una serie de pasos para detener el virus",
 
 
-
-        "title_en": "Máscaras, prohibiciones y preguntas: dentro de la respuesta COVID-19 de Camerún",
-        "description_en": "El presidente Biya no se ha dirigido a la nación en semanas, planteando preguntas, pero el gobierno ha tomado una serie de pasos para detener el virus",
         "link": "https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html",
         "progressive": "need to watch",
         "category": "healthcare, labor",
@@ -5036,11 +5424,10 @@ response_data = [
     {
         "title_en": "In Cameroon, chloroquine therapy hailed by French expert becomes state protocol",
         "description_en": "Cameroon's scientific council proposed the widespread use of chloroquine treatment",
+        "title_es": "En Camerún, la terapia con cloroquina aclamada por un experto francés se convierte en protocolo estatal",
+        "description_es": "El consejo científico de Camerún propuso el uso generalizado del tratamiento con cloroquina",
 
 
-
-        "title_en": "En Camerún, la terapia con cloroquina aclamada por un experto francés se convierte en protocolo estatal",
-        "description_en": "El consejo científico de Camerún propuso el uso generalizado del tratamiento con cloroquina",
         "link": "https://www.france24.com/en/20200503-covid-19-in-cameroon-a-chloroquine-therapy-hailed-by-french-expert-becomes-state-protocol",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5050,11 +5437,10 @@ response_data = [
     {
         "title_en": "Chad confirms first case of coronavirus: government statement",
         "description_en": "Chad confirmed its first case of coronavirus on Thursday, a Moroccan national who had traveled to the country from Cameroon",
+        "title_es": "Chad confirma el primer caso de coronavirus: declaración del gobierno",
+        "description_es": "Chad confirmó su primer caso de coronavirus el jueves, un ciudadano marroquí que había viajado al país desde Camerún",
 
 
-
-        "title_en": "Chad confirma el primer caso de coronavirus: declaración del gobierno",
-        "description_en": "Chad confirmó su primer caso de coronavirus el jueves, un ciudadano marroquí que había viajado al país desde Camerún",
         "link": "https://www.reuters.com/article/us-health-coronavirus-chad/chad-confirms-first-case-of-coronavirus-government-statement-idUSKBN2162LO",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5064,11 +5450,10 @@ response_data = [
     {
         "title_en": "Chad: Town Criers, Troubadors Raise COVID-19 Awareness in Rural Chad",
         "description_en": "Concern in rural Chad of leaving them out of critical COVID-19 sensitization messages",
+        "title_es": "Chad: los pregoneros de la ciudad, los trovadores aumentan la conciencia de COVID-19 en el Chad rural",
+        "description_es": "Preocupación en Chad rural de dejarlos fuera de los mensajes críticos de sensibilización COVID-19",
 
 
-
-        "title_en": "Chad: los pregoneros de la ciudad, los trovadores aumentan la conciencia de COVID-19 en el Chad rural"
-        "description_en": "Preocupación en Chad rural de dejarlos fuera de los mensajes críticos de sensibilización COVID-19",
         "link": "https://www.africanews.com/2020/04/24/coronavirus-chad-town-criers-troubadors-raise-covid-19-awareness-in-rural-chad//",
         "progressive": "need to watch",
         "category": "healthcare, misinformation",
@@ -5078,11 +5463,10 @@ response_data = [
     {
         "title_en": "In Central African Republic, a colossal struggle against COVID-19",
         "description_en": "Experts warn coronavirus could tear through CAR at 'lightning spread' if the vulnerable country does not get support.",
+        "title_es": "En la República Centroafricana, una lucha colosal contra COVID-19",
+        "description_es": "Los expertos advierten que el coronavirus podría atravesar la RCA cuando se propague un rayo si el país vulnerable no recibe apoyo",
 
 
-
-        "title_en": "En la República Centroafricana, una lucha colosal contra COVID-19",
-        "description_en": "Los expertos advierten que el coronavirus podría atravesar la RCA cuando se propague un rayo si el país vulnerable no recibe apoyo",
         "link": "https://www.aljazeera.com/indepth/features/central-african-republic-colossal-struggle-covid-19-200421142222924.html",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5092,11 +5476,10 @@ response_data = [
     {
         "title_en": "Few Doctors, Fewer Ventilators",
         "description_en": "African Countries Fear They Are Defenseless Against Inevitable Spread of Coronavirus",
+        "title_es": "Pocos médicos, menos ventiladores",
+        "description_es": "Los países africanos temen que estén indefensos contra la propagación inevitable del coronavirus",
 
 
-
-        "title_en": "Pocos médicos, menos ventiladores",
-        "description_en": "Los países africanos temen que estén indefensos contra la propagación inevitable del coronavirus",
         "link": "https://time.com/5816299/coronavirus-africa-ventilators-doctors/",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5106,11 +5489,10 @@ response_data = [
     {
         "title_en": "Cape Verde Declares Nationwide State of Emergency",
         "description_en": "A nationwide state of emergency is ongoing in Cape Verde to halt the spread of COVID-19.",
+        "title_es": "Cabo Verde declara el estado nacional de emergencia",
+        "description_es": "Un estado de emergencia a nivel nacional está en curso en Cabo Verde para detener la propagación de COVID-19",
 
 
-
-        "title_en": "Cabo Verde declara el estado nacional de emergencia",
-        "description_en": "Un estado de emergencia a nivel nacional está en curso en Cabo Verde para detener la propagación de COVID-19",
         "link": "https://www.worldaware.com/covid-19-alert-cape-verde-declares-nationwide-state-emergency",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5120,11 +5502,10 @@ response_data = [
     {
         "title_en": "Cabo Verde braces for plummeting tourism revenue",
         "description_en": "Disruptions to travel and trade present existential threats to the country’s economy.",
+        "title_es": "Cabo Verde se prepara para derrumbar los ingresos del turismo",
+        "description_es": "Las interrupciones en los viajes y el comercio presentan amenazas existenciales para la economía del país",
 
 
-
-        "title_en": "Cabo Verde se prepara para derrumbar los ingresos del turismo",
-        "description_en": "Las interrupciones en los viajes y el comercio presentan amenazas existenciales para la economía del país",
         "link": "https://www.atlanticcouncil.org/blogs/africasource/cabo-verde-braces-for-plummeting-tourism-revenue/",
         "progressive": "need to watch",
         "category": "economy",
@@ -5134,11 +5515,10 @@ response_data = [
     {
         "title_en": "Comoros verifies first confirmed coronavirus case",
         "description_en": "The case involves a man in his 50s who met someone with recent travel history to France, the president says.",
+        "title_es": "Comoras verifica el primer caso confirmado de coronavirus",
+        "description_es": "El caso involucra a un hombre de unos 50 años que conoció a alguien con un historial reciente de viajes a Francia', dice el presidente.",
 
 
-
-        "title_en": "Comoras verifica el primer caso confirmado de coronavirus",
-        "description_en": "El caso involucra a un hombre de unos 50 años que conoció a alguien con un historial reciente de viajes a Francia', dice el presidente.",
         "link": "https://www.aljazeera.com/news/2020/04/comoros-verifies-confirmed-coronavirus-case-200430155748926.html",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5148,11 +5528,10 @@ response_data = [
     {
         "title_en": "Remote Pacific islands prepare for worst as coronavirus looms",
         "description_en": "People in the island nations have some of world's highest rates of diabetes and obesity, and health systems are weak.",
+        "title_es": "Las islas remotas del Pacífico se preparan para lo peor a medida que se avecina el coronavirus",
+        "description_es": "Las personas en las naciones isleñas tienen algunas de las tasas más altas de diabetes y obesidad en el mundo, y los sistemas de salud son débiles",
 
 
-
-        "title_en": "Las islas remotas del Pacífico se preparan para lo peor a medida que se avecina el coronavirus",
-        "description_en": "Las personas en las naciones isleñas tienen algunas de las tasas más altas de diabetes y obesidad en el mundo, y los sistemas de salud son débiles",
         "link": "https://www.aljazeera.com/news/2020/04/remote-pacific-islands-prepare-worst-coronavirus-looms-200403045004961.html",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -5162,11 +5541,10 @@ response_data = [
     {
         "title_en": "Coronavirus: Greece and Croatia acted fast, now need to save summer",
         "description_en": "Covers rising concerns as summer approaches and tourism industry will be impacted.",
+        "title_es": "Coronavirus: Grecia y Croacia actuaron rápido, ahora necesitan salvar el verano",
+        "description_es": "Cubre las crecientes preocupaciones a medida que se acerca el verano y la industria del turismo se verá afectada",
 
 
-
-        "title_en": "Coronavirus: Grecia y Croacia actuaron rápido, ahora necesitan salvar el verano",
-        "description_en": "Cubre las crecientes preocupaciones a medida que se acerca el verano y la industria del turismo se verá afectada",
         "link": "https://www.bbc.com/news/world-europe-52491204",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -5176,11 +5554,10 @@ response_data = [
     {
         "title_en": "Coronavirus: Czechs free to move again",
         "description_en": "The Czech Republic's ban on free movement, imposed to curb coronavirus, has been lifted.",
+        "title_es": "Coronavirus: los checos pueden volver a moverse",
+        "description_es": "La prohibición de la República Checa de la libre circulación, impuesta para frenar el coronavirus, se ha levantado",
 
 
-
-        "title_en": "Coronavirus: los checos pueden volver a moverse",
-        "description_en": "La prohibición de la República Checa de la libre circulación, impuesta para frenar el coronavirus, se ha levantado",
         "link": "https://www.bbc.com/news/world-europe-52411989",
         "progressive": "need to watch",
         "category": "economy",
@@ -5190,11 +5567,10 @@ response_data = [
     {
         "title_en": "Hearts and masks: Czech-Vietnamese solidarity during coronavirus",
         "description_en": "From sewing masks to providing free refreshments, the Czech Republic's third-largest minority has played a major role.",
+        "title_es": "Corazones y máscaras: solidaridad checo-vietnamita durante el coronavirus",
+        "description_es": "Desde coser máscaras hasta proporcionar refrescos gratuitos, la tercera minoría más grande de la República Checa ha desempeñado un papel importante",
 
 
-
-        "title_en": "Corazones y máscaras: solidaridad checo-vietnamita durante el coronavirus",
-        "description_en": "Desde coser máscaras hasta proporcionar refrescos gratuitos, la tercera minoría más grande de la República Checa ha desempeñado un papel importante",
         "link": "https://www.aljazeera.com/indepth/features/hearts-masks-czech-vietnamese-solidarity-coronavirus-200407101254028.html",
         "progressive": "progressive",
         "category": "economy, labor",
@@ -5204,11 +5580,10 @@ response_data = [
     {
         "title_en": "Czech study shows very low COVID-19 incidence in population",
         "description_en": "A 'collective immunity study' testing the presence of COVID-19 antibodies has shown a very low incidence of the disease",
+        "title_es": "El estudio checo muestra una incidencia muy baja de COVID-19 en la población",
+        "description_es": "A 'estudio de inmunidad colectiva' que prueba la presencia de anticuerpos COVID-19 ha mostrado una incidencia muy baja de la enfermedad",
 
 
-
-        "title_en": "El estudio checo muestra una incidencia muy baja de COVID-19 en la población",
-        "description_en": "A 'estudio de inmunidad colectiva' que prueba la presencia de anticuerpos COVID-19 ha mostrado una incidencia muy baja de la enfermedad",
         "link": "https://medicalxpress.com/news/2020-05-czech-covid-incidence-population.html",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5218,11 +5593,10 @@ response_data = [
     {
         "title_en": "North Korea testing, quarantining for COVID-19, still says no cases",
         "description_en": "WHO said that North Korea had the capacity to test coronaviruses in its national reference laboratory",
+        "title_es": "Las pruebas de Corea del Norte, en cuarentena para COVID-19, todavía dice que no hay casos",
+        "description_es": "La OMS dijo que Corea del Norte tenía la capacidad de probar coronavirus en su laboratorio nacional de referencia",
 
 
-
-        "title_en": "Las pruebas de Corea del Norte, en cuarentena para COVID-19, todavía dice que no hay casos",
-        "description_en": "La OMS dijo que Corea del Norte tenía la capacidad de probar coronavirus en su laboratorio nacional de referencia",
         "link": "https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korea-testing-quarantining-for-covid-19-still-says-no-cases-who-representative-idUSKBN21P3C2",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5232,11 +5606,10 @@ response_data = [
     {
         "title_en": "Coronavirus surges in Djibouti as population ignores measures",
         "description_en": "Horn of Africa nation has imposed nationwide lockdown as number of coronavirus cases soars",
+        "title_es": "El coronavirus aumenta en Djibouti cuando la población ignora las medidas",
+        "description_es": "La nación del Cuerno de África ha impuesto un bloqueo nacional a medida que aumenta el número de casos de coronavirus",
 
 
-
-        "title_en": "El coronavirus aumenta en Djibouti cuando la población ignora las medidas",
-        "description_en": "La nación del Cuerno de África ha impuesto un bloqueo nacional a medida que aumenta el número de casos de coronavirus",
         "link": "https://www.aljazeera.com/news/2020/04/coronavirus-surges-djibouti-population-ignores-measures-200424100351031.html",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5246,11 +5619,10 @@ response_data = [
     {
         "title_en": "The Dominican Republic Responds to COVID-19 Locally",
         "description_en": "A health expert on Tuesday described the response strategy of the pandemic’s hardest-hit Caribbean nation",
+        "title_es": "La República Dominicana responde localmente a COVID-19",
+        "description_es": "Un experto en salud describió el martes la estrategia de respuesta de la nación caribeña más afectada por la pandemia",
 
 
-
-        "title_en": "La República Dominicana responde localmente a COVID-19",
-        "description_en": "Un experto en salud describió el martes la estrategia de respuesta de la nación caribeña más afectada por la pandemia",
         "link": "https://www.usnews.com/news/best-countries/articles/2020-05-05/the-dominican-republic-responds-to-the-coronavirus-with-local-efforts",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5260,11 +5632,10 @@ response_data = [
     {
         "title_en": "Haitians are fleeing the Dominican Republic due to coronavirus",
         "description_en": "A daily exodus of Haitians fleeing the rapid increase of coronavirus cases in the neighboring Dominican Republic",
+        "title_es": "Los haitianos están huyendo de la República Dominicana debido al coronavirus",
+        "description_es": "Un éxodo diario de haitianos que huyen del rápido aumento de los casos de coronavirus en la vecina República Dominicana",
 
 
-
-        "title_en": "Los haitianos están huyendo de la República Dominicana debido al coronavirus",
-        "description_en": "Un éxodo diario de haitianos que huyen del rápido aumento de los casos de coronavirus en la vecina República Dominicana",
         "link": "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article241854611.html",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5274,11 +5645,10 @@ response_data = [
     {
         "title_en": "Dominican Republic Delays Presidential Vote Over Coronavirus Concerns",
         "description_en": "The Dominican Republic, which had been set to go to the polls in a first round of presidential elections in May, will postpone the vote until July",
+        "title_es": "República Dominicana retrasa voto presidencial sobre preocupaciones por coronavirus",
+        "description_es": "La República Dominicana, que debía ir a las urnas en una primera ronda de elecciones presidenciales en mayo, pospondrá la votación hasta julio",
 
 
-
-        "title_en": "República Dominicana retrasa voto presidencial sobre preocupaciones por coronavirus",
-        "description_en": "La República Dominicana, que debía ir a las urnas en una primera ronda de elecciones presidenciales en mayo, pospondrá la votación hasta julio",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/04/14/833866572/dominican-republic-delays-presidential-vote-over-coronavirus-concerns",
         "progressive": "need to watch",
         "category": "healthcare, democratic institutions",
@@ -5288,11 +5658,10 @@ response_data = [
     {
         "title_en": "World Bank to Strengthen Dominica’s COVID-19 Response with US$6.6 Million",
         "description_en": "The World Bank activated on April 15 US$6.6 million to provide immediate funding for Dominica’s emergency response",
+        "title_es": "El Banco Mundial fortalecerá la respuesta COVID-19 de Dominica con US $ 6,6 millones",
+        "description_es": "El Banco Mundial activó el 15 de abril US $ 6.6 millones para proporcionar financiamiento inmediato para la respuesta de emergencia de Dominica",
 
 
-
-        "title_en": "El Banco Mundial fortalecerá la respuesta COVID-19 de Dominica con US $ 6,6 millones",
-        "description_en": "El Banco Mundial activó el 15 de abril US $ 6.6 millones para proporcionar financiamiento inmediato para la respuesta de emergencia de Dominica",
         "link": "https://www.worldbank.org/en/news/press-release/2020/04/20/world-bank-to-strengthen-dominicas-covid-19-response-with-us66-million",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -5302,11 +5671,10 @@ response_data = [
     {
         "title_en": "Madagascar donates anti-COVID-19 drug to Eq. Guinea",
         "description_en": "Equatorial Guinea is the first country to receive herbal concoction, touted to cure coronavirus patients",
+        "title_es": "Madagascar dona un medicamento anti-COVID-19 a la Ec. Guinea",
+        "description_es": "Guinea Ecuatorial es el primer país en recibir brebajes herbales, promocionado para curar pacientes con coronavirus",
 
 
-
-        "title_en": "Madagascar dona un medicamento anti-COVID-19 a la Ec. Guinea",
-        "description_en": "Guinea Ecuatorial es el primer país en recibir brebajes herbales, promocionado para curar pacientes con coronavirus",
         "link": "https://www.aa.com.tr/en/africa/madagascar-donates-anti-covid-19-drug-to-eq-guinea/1825645",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5316,11 +5684,10 @@ response_data = [
     {
         "title_en": "Exxon Equatorial Guinea offshore workers test positive for coronavirus -sources",
         "description_en": "Thirty workers at an ExxonMobil-operated offshore oil platform in Equatorial Guinea have tested positive",
+        "title_es": "Los trabajadores en alta mar de Guinea Ecuatorial de Exxon dan positivo por fuentes de coronavirus",
+        "description_es": "Treinta trabajadores en una plataforma petrolera costa afuera operada por ExxonMobil en Guinea Ecuatorial han dado positivo",
 
 
-
-        "title_en": "Los trabajadores en alta mar de Guinea Ecuatorial de Exxon dan positivo por fuentes de coronavirus",
-        "description_en": "Treinta trabajadores en una plataforma petrolera costa afuera operada por ExxonMobil en Guinea Ecuatorial han dado positivo",
         "link": "https://www.reuters.com/article/us-health-coronavirus-exxon-equatorialgu/thirty-workers-on-equatorial-guinea-offshore-oil-platform-test-positive-for-coronavirus-sources-idUSKCN2291PP",
         "progressive": "need to watch",
         "category": "healthcare, economy, labor",
@@ -5330,11 +5697,10 @@ response_data = [
     {
         "title_en": "Can Eritrea's government survive the coronavirus?",
         "description_en": "Eritrea's failure to efficiently respond to the pandemic could bring down its authoritarian government.",
+        "title_es": "¿Puede el gobierno de Eritrea sobrevivir al coronavirus?",
+        "description_es": "El hecho de que Eritrea no responda eficientemente a la pandemia podría derribar a su gobierno autoritario",
 
 
-
-        "title_en": "¿Puede el gobierno de Eritrea sobrevivir al coronavirus?",
-        "description_en": "El hecho de que Eritrea no responda eficientemente a la pandemia podría derribar a su gobierno autoritario",
         "link": "https://www.aljazeera.com/indepth/opinion/eritrea-government-survive-coronavirus-200424113745581.html",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5344,11 +5710,10 @@ response_data = [
     {
         "title_en": "Why Estonia Was Poised to Handle How a Pandemic Would Change Everything",
         "description_en": "Argues Estonia was prepared for the consequences of the coronavirus pandemic, both economically and socially.",
+        "title_es": "Por qué Estonia estaba preparada para manejar cómo una pandemia lo cambiaría todo",
+        "description_es": "Argumenta que Estonia estaba preparada para las consecuencias de la pandemia de coronavirus, tanto económica como socialmente",
 
 
-
-        "title_en": "Por qué Estonia estaba preparada para manejar cómo una pandemia lo cambiaría todo",
-        "description_en": "Argumenta que Estonia estaba preparada para las consecuencias de la pandemia de coronavirus, tanto económica como socialmente",
         "link": "https://www.newyorker.com/news/our-columnists/why-estonia-was-poised-to-handle-how-a-pandemic-would-change-everything",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -5358,11 +5723,10 @@ response_data = [
     {
         "title_en": "Life on Estonia's 'corona island', Saaremaa",
         "description_en": "Health officials estimate that half of the island's population have contracted the virus.",
+        "title_es": "La vida en la 'isla corona' de Estonia, Saaremaa",
+        "description_es": "Los funcionarios de salud estiman que la mitad de la población de la isla ha contraído el virus",
 
 
-
-        "title_en": "La vida en la 'isla corona' de Estonia, Saaremaa",
-        "description_en": "Los funcionarios de salud estiman que la mitad de la población de la isla ha contraído el virus",
         "link": "https://www.bbc.com/news/av/world-europe-52282118/coronavirus-life-on-estonia-s-corona-island-saaremaa",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5372,11 +5736,10 @@ response_data = [
     {
         "title_en": "Gabon begins lockdown",
         "description_en": "Describes Gabon's decision to curb spread of the new coronavirus.",
+        "title_es": "Gabón comienza el bloqueo",
+        "description_es": "Describe la decisión de Gabón de frenar la propagación del nuevo coronavirus",
 
 
-
-        "title_en": "Gabón comienza el bloqueo",
-        "description_en": "Describe la decisión de Gabón de frenar la propagación del nuevo coronavirus",
         "link": "https://www.africanews.com/2020/04/14/covid-19-gabon-begins-lockdown//",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -5386,11 +5749,10 @@ response_data = [
     {
         "title_en": "Gabon Declares State of Emergency Over Covid-19, Revises Outlook",
         "description_en": "Gabon has declared a state of emergency and adjusted its economic forecasts in light of the coronavirus outbreak.",
+        "title_es": "Gabón declara el estado de emergencia sobre Covid-19, revisa Outlook",
+        "description_es": "Gabón declaró el estado de emergencia y ajustó sus pronósticos económicos a la luz del brote de coronavirus",
 
 
-
-        "title_en": "Gabón declara el estado de emergencia sobre Covid-19, revisa Outlook",
-        "description_en": "Gabón declaró el estado de emergencia y ajustó sus pronósticos económicos a la luz del brote de coronavirus",
         "link": "https://www.bloomberg.com/news/articles/2020-04-11/gabon-declares-state-of-emergency-over-covid-19-revises-outlook",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -5400,11 +5762,10 @@ response_data = [
     {
         "title_en": "Spain, France take drastic measures to fight coronavirus",
         "description_en": "Spain announced a nationwide lockdown as France moved to close all nonessential businesses",
+        "title_es": "España, Francia toman medidas drásticas para combatir el coronavirus",
+        "description_es": "España anunció un bloqueo nacional ya que Francia se movió para cerrar todos los negocios no esenciales",
 
 
-
-        "title_en": "España, Francia toman medidas drásticas para combatir el coronavirus",
-        "description_en": "España anunció un bloqueo nacional ya que Francia se movió para cerrar todos los negocios no esenciales",
         "link": "https://www.washingtonpost.com/world/2020/03/14/coronavirus-latest-news/",
         "progressive": "need to watch",
         "category": "economy",
@@ -5414,11 +5775,10 @@ response_data = [
     {
         "title_en": "Coronavirus spreads in Middle East and beyond: Live updates",
         "description_en": "Qatar's ruler Emir Sheikh Tamim bin Hamad al-Thani ordered the evacuation of Qatari and Kuwaiti citizens from Iran",
+        "title_es": "El coronavirus se propaga en Medio Oriente y más allá: actualizaciones en vivo",
+        "description_es": "El gobernante de Qatar, Emir Sheikh Tamim bin Hamad al-Thani, ordenó la evacuación de los ciudadanos de Qatar y Kuwait de Irán",
 
 
-
-        "title_en": "El coronavirus se propaga en Medio Oriente y más allá: actualizaciones en vivo",
-        "description_en": "El gobernante de Qatar, Emir Sheikh Tamim bin Hamad al-Thani, ordenó la evacuación de los ciudadanos de Qatar y Kuwait de Irán",
         "link": "https://www.aljazeera.com/news/2020/02/china-coronavirus-outbreak-latest-updates-200226003835539.html",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5428,11 +5788,10 @@ response_data = [
     {
         "title_en": "Borders closing in Gambia leaves village split",
         "description_en": "Under state borders closing, village in Gambia is split down the middle with mobility challenges",
+        "title_es": "El cierre de fronteras en Gambia deja la aldea dividida",
+        "description_es": "Bajo el cierre de las fronteras estatales, la aldea en Gambia se divide por la mitad con desafíos de movilidad",
 
 
-
-        "title_en": "El cierre de fronteras en Gambia deja la aldea dividida",
-        "description_en": "Bajo el cierre de las fronteras estatales, la aldea en Gambia se divide por la mitad con desafíos de movilidad",
         "link": "https://www.washingtonpost.com/world/africa/borders-are-closing-to-fight-the-coronavirus-now-this-village-is-split-in-two/2020/04/01/d601cd4e-72c1-11ea-ae50-7148009252e3_story.html",
         "progressive": "need to watch",
         "category": "punitive",
@@ -5442,11 +5801,10 @@ response_data = [
     {
         "title_en": "Georgia reports first coronavirus in the country: health minister",
         "description_en": "Georgian citizen, who was travelling from Iran, crossed the border from neighbouring Azerbaijan.",
+        "title_es": "Georgia informa primer coronavirus en el país: ministro de salud",
+        "description_es": "ciudadano georgiano, que viajaba desde Irán, cruzó la frontera desde el vecino Azerbaiyán",
 
 
-
-        "title_en": "Georgia informa primer coronavirus en el país: ministro de salud",
-        "description_en": "ciudadano georgiano, que viajaba desde Irán, cruzó la frontera desde el vecino Azerbaiyán",
         "link": "https://www.aljazeera.com/news/2020/02/china-coronavirus-outbreak-latest-updates-200226003835539.html",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5456,11 +5814,10 @@ response_data = [
     {
         "title_en": "Greece dodged Covid-19. Now it wants tourists",
         "description_en": "Greece avoided the first Covid-19 wave with an early lockdown. Now the prime minister wants to welcome tourists.",
+        "title_es": "Grecia esquivó Covid-19. Ahora quiere turistas",
+        "description_es": "Grecia evitó la primera ola Covid-19 con un cierre anticipado. Ahora el primer ministro quiere dar la bienvenida a los turistas",
 
 
-
-        "title_en": "Grecia esquivó Covid-19. Ahora quiere turistas",
-        "description_en": "Grecia evitó la primera ola Covid-19 con un cierre anticipado. Ahora el primer ministro quiere dar la bienvenida a los turistas",
         "link": "https://www.cnn.com/videos/world/2020/05/05/greece-coronavirus-nic-robertson.cnn",
         "progressive": "need to watch",
         "category": "economy",
@@ -5470,11 +5827,10 @@ response_data = [
     {
         "title_en": "Grenada Announces New Entry Requirements Amid Coronavirus",
         "description_en": "Grenada said it would refuse entry into the island to non-nationals visiting list of countries on watch.",
+        "title_es": "Granada anuncia nuevos requisitos de ingreso en medio de coronavirus",
+        "description_es": "Granada dijo que rechazaría la entrada en la isla a la lista de países que están de guardia que no son nacionales",
 
 
-
-        "title_en": "Granada anuncia nuevos requisitos de ingreso en medio de coronavirus",
-        "description_en": "Granada dijo que rechazaría la entrada en la isla a la lista de países que están de guardia que no son nacionales",
         "link": "http://jamaica-gleaner.com/article/caribbean/20200319/grenada-announces-new-entry-requirements-amid-coronavirus",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5484,11 +5840,10 @@ response_data = [
     {
         "title_en": "COVID-19 compounds a long list of problems in Guatemala",
         "description_en": "Aid groups worry that Guatemala will be hit hard by the effects of COVID-19",
+        "title_es": "COVID-19 compone una larga lista de problemas en Guatemala",
+        "description_es": "Los grupos de ayuda temen que los efectos de COVID-19 afecten fuertemente a Guatemala",
 
 
-
-        "title_en": "COVID-19 compone una larga lista de problemas en Guatemala",
-        "description_en": "Los grupos de ayuda temen que los efectos de COVID-19 afecten fuertemente a Guatemala",
         "link": "https://www.thenewhumanitarian.org/feature/2020/05/04/coronavirus-Guatemala-violence-drought-poverty",
         "progressive": "need to watch",
         "category": "healthcare, economy, labor",
@@ -5498,11 +5853,10 @@ response_data = [
     {
         "title_en": "Two Guinean government officials die after getting coronavirus",
         "description_en": "Guinean government officials die from coronavirus and country imposes measures",
+        "title_es": "Dos funcionarios del gobierno guineano mueren después de contraer coronavirus",
+        "description_es": "Los funcionarios del gobierno guineano mueren por coronavirus y el país impone medidas",
 
 
-
-        "title_en": "Dos funcionarios del gobierno guineano mueren después de contraer coronavirus",
-        "description_en": "Los funcionarios del gobierno guineano mueren por coronavirus y el país impone medidas",
         "link": "https://www.bloomberg.com/news/articles/2020-04-19/two-guinean-government-officials-die-after-getting-coronavirus",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5512,11 +5866,10 @@ response_data = [
     {
         "title_en": "WHO says Madagascar's herbal tonic against COVID-19 not a cure",
         "description_en": "Tanzania, Guinea-Bissau excited about herbal remedy purported to cure coronavirus.",
+        "title_es": "La OMS dice que el tónico herbal de Madagascar contra COVID-19 no es una cura",
+        "description_es": "Tanzania, Guinea-Bissau, entusiasmada con el remedio a base de hierbas para curar el coronavirus",
 
 
-
-        "title_en": "La OMS dice que el tónico herbal de Madagascar contra COVID-19 no es una cura",
-        "description_en": "Tanzania, Guinea-Bissau, entusiasmada con el remedio a base de hierbas para curar el coronavirus",
         "link": "https://www.aljazeera.com/news/2020/05/madagascars-herbal-tonic-covid-19-cure-200504081212753.html",
         "progressive": "need to watch",
         "category": "healthcare, misinformation",
@@ -5526,11 +5879,10 @@ response_data = [
     {
         "title_en": "Guinea-Bissau premier, 3 ministers contract COVID-19",
         "description_en": "Officials immediately quarantined at hotel in capital, says country's top doctor, spurs lockdown",
+        "title_es": "primer ministro de Guinea-Bissau, contrato de 3 ministros COVID-19",
+        "description_es": "Los funcionarios se pusieron en cuarentena inmediatamente en el hotel en la capital, dice el médico más importante del país, estimula el encierro",
 
 
-
-        "title_en": "primer ministro de Guinea-Bissau, contrato de 3 ministros COVID-19",
-        "description_en": "Los funcionarios se pusieron en cuarentena inmediatamente en el hotel en la capital, dice el médico más importante del país, estimula el encierro",
         "link": "https://www.aa.com.tr/en/africa/guinea-bissau-premier-3-ministers-contract-covid-19/1823380",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5540,11 +5892,10 @@ response_data = [
     {
         "title_en": "Coronavirus crisis exposes another pandemic in Honduras",
         "description_en": "Discussion of how corruption will exacerbate the implications of coronavirus",
+        "title_es": "La crisis del coronavirus expone otra pandemia en Honduras",
+        "description_es": "Discusión de cómo la corrupción exacerbará las implicaciones del coronavirus",
 
 
-
-        "title_en": "La crisis del coronavirus expone otra pandemia en Honduras",
-        "description_en": "Discusión de cómo la corrupción exacerbará las implicaciones del coronavirus",
         "link": "https://www.aljazeera.com/news/2020/03/coronavirus-crisis-exposes-pandemic-honduras-analysts-200327183808256.html",
         "progressive": "regressive",
         "category": "healthcare",
@@ -5554,11 +5905,10 @@ response_data = [
     {
         "title_en": "In already poor Honduras, coronavirus pushes some into homelessness",
         "description_en": "Informal economy workers in Tegucigalpa who can no longer afford the apartments they had previously been renting",
+        "title_es": "En Honduras, que ya es pobre, el coronavirus empuja a algunos a quedarse sin hogar",
+        "description_es": "Trabajadores de la economía informal en Tegucigalpa que ya no pueden pagar los apartamentos que habían estado alquilando anteriormente",
 
 
-
-        "title_en": "En Honduras, que ya es pobre, el coronavirus empuja a algunos a quedarse sin hogar",
-        "description_en": "Trabajadores de la economía informal en Tegucigalpa que ya no pueden pagar los apartamentos que habían estado alquilando anteriormente",
         "link": "https://www.reuters.com/article/us-health-coronavirus-honduras-poverty/in-already-poor-honduras-coronavirus-pushes-some-into-homelessness-idUSKCN227006",
         "progressive": "regressive",
         "category": "economy, labor",
@@ -5568,11 +5918,10 @@ response_data = [
     {
         "title_en": "Honduras extends curfew by one week in fight against coronavirus",
         "description_en": "The government of Honduras on Sunday extended a curfew through April 26",
+        "title_es": "Honduras extiende el toque de queda por una semana en la lucha contra el coronavirus",
+        "description_es": "El gobierno de Honduras extendió el domingo el toque de queda hasta el 26 de abril",
 
 
-
-        "title_en": "Honduras extiende el toque de queda por una semana en la lucha contra el coronavirus",
-        "description_en": "El gobierno de Honduras extendió el domingo el toque de queda hasta el 26 de abril",
         "link": "https://www.reuters.com/article/us-health-coronavirus-honduras-curfew/honduras-extends-curfew-by-one-week-in-fight-against-coronavirus-idUSKBN2210SV",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5582,11 +5931,10 @@ response_data = [
     {
         "title_en": "Poland and Hungary Use Coronavirus to Punish Opposition",
         "description_en": "EU seems helpless, even complicit, as authoritarian-minded governments cite the pandemic to consolidate their power",
+        "title_es": "Polonia y Hungría usan el coronavirus para castigar a la oposición",
+        "description_es": "La UE parece impotente, incluso cómplice, ya que los gobiernos de mentalidad autoritaria citan la pandemia para consolidar su poder",
 
 
-
-        "title_en": "Polonia y Hungría usan el coronavirus para castigar a la oposición",
-        "description_en": "La UE parece impotente, incluso cómplice, ya que los gobiernos de mentalidad autoritaria citan la pandemia para consolidar su poder",
         "link": "https://www.nytimes.com/2020/04/22/world/europe/poland-hungary-coronavirus.html",
         "progressive": "regressive",
         "category": "punitive, democratic institutions",
@@ -5596,11 +5944,10 @@ response_data = [
     {
         "title_en": "Hungary’s 'coronavirus coup,' explained",
         "description_en": "What’s happened in Hungary over the past few weeks is a case study of how the pandemic threatens democracy.",
+        "title_es": "'Golpe de coronavirus de Hungría ', explicó",
+        "description_es": "Lo que sucedió en Hungría en las últimas semanas es un estudio de caso de cómo la pandemia amenaza la democracia",
 
 
-
-        "title_en": "'Golpe de coronavirus de Hungría ', explicó",
-        "description_en": "Lo que sucedió en Hungría en las últimas semanas es un estudio de caso de cómo la pandemia amenaza la democracia",
         "link": "https://www.vox.com/policy-and-politics/2020/4/15/21193960/coronavirus-covid-19-hungary-orban-trump-populism",
         "progressive": "regressive",
         "category": "punitive, democratic institutions",
@@ -5610,11 +5957,10 @@ response_data = [
     {
         "title_en": "What Iceland Can Teach the World About Minimizing COVID-19",
         "description_en": "Discussion of how early and frequent testing proved instrumental in controlling the virus",
+        "title_es": "Lo que Islandia puede enseñarle al mundo sobre minimizar COVID-19",
+        "description_es": "Discusión de cómo las pruebas tempranas y frecuentes resultaron fundamentales para controlar el virus",
 
 
-
-        "title_en": "Lo que Islandia puede enseñarle al mundo sobre minimizar COVID-19",
-        "description_en": "Discusión de cómo las pruebas tempranas y frecuentes resultaron fundamentales para controlar el virus",
         "link": "https://www.usnews.com/news/best-countries/articles/2020-05-04/what-iceland-can-teach-the-world-about-minimizing-the-coronavirus",
         "progressive": "progressive",
         "category": "healthcare",
@@ -5624,11 +5970,10 @@ response_data = [
     {
         "title_en": "Iceland Has Tested 13% of Its Entire Population for Coronavirus",
         "description_en": "Authorities used a rigorous policy of testing and tracking to find and isolate infected people",
+        "title_es": "Islandia ha probado el 13% de su población total para detectar coronavirus",
+        "description_es": "Las autoridades utilizaron una política rigurosa de pruebas y seguimiento para encontrar y aislar a las personas infectadas",
 
 
-
-        "title_en": "Islandia ha probado el 13% de su población total para detectar coronavirus",
-        "description_en": "Las autoridades utilizaron una política rigurosa de pruebas y seguimiento para encontrar y aislar a las personas infectadas",
         "link": "https://time.com/5831580/iceland-coronavirus-tests/",
         "progressive": "progressive",
         "category": "healthcare",
@@ -5638,11 +5983,10 @@ response_data = [
     {
         "title_en": "We were behind the eight ball'",
         "description_en": "Papua New Guinea's health minister discusses regional responses to Covid-19",
+        "title_es": "Estábamos detrás de la bola ocho",
+        "description_es": "El ministro de salud de Papua Nueva Guinea analiza las respuestas regionales a Covid-19",
 
 
-
-        "title_en": "Estábamos detrás de la bola ocho",
-        "description_en": "El ministro de salud de Papua Nueva Guinea analiza las respuestas regionales a Covid-19",
         "link": "https://www.theguardian.com/world/2020/apr/30/papua-new-guinea-png-health-minister-covid-19-coronavirus-ppe",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5652,11 +5996,10 @@ response_data = [
     {
         "title_en": "Parents Nervously Return to Work in Italy. Children Are Still at Home.",
         "description_en": "Schools and day care closed and grandparents are at risk as parents return to work",
+        "title_es": "Los padres regresan nerviosamente al trabajo en Italia. Los niños todavía están en casa",
+        "description_es": "Las escuelas y guarderías están cerradas y los abuelos están en riesgo cuando los padres regresan al trabajo",
 
 
-
-        "title_en": "Los padres regresan nerviosamente al trabajo en Italia. Los niños todavía están en casa",
-        "description_en": "Las escuelas y guarderías están cerradas y los abuelos están en riesgo cuando los padres regresan al trabajo",
         "link": "https://www.nytimes.com/2020/05/06/world/europe/italy-coronavirus-reopening-parents.html",
         "progressive": "need to watch",
         "category": "healthcare, economy, childcare, labor",
@@ -5666,11 +6009,10 @@ response_data = [
     {
         "title_en": "Can The U.S. Learn From Italy, Where Antibody Test Makers Are Fighting For A New Market?",
         "description_en": "Italy began to tentatively reopen certain businesses and put millions of citizens back to work on May 4.",
+        "title_es": "¿Pueden los Estados Unidos aprender de Italia, donde los fabricantes de pruebas de anticuerpos están luchando por un nuevo mercado?",
+        "description_es": "Italia comenzó a reabrir tentativamente ciertas empresas y puso a millones de ciudadanos a trabajar nuevamente el 4 de mayo",
 
 
-
-        "title_en": "¿Pueden los Estados Unidos aprender de Italia, donde los fabricantes de pruebas de anticuerpos están luchando por un nuevo mercado?",
-        "description_en": "Italia comenzó a reabrir tentativamente ciertas empresas y puso a millones de ciudadanos a trabajar nuevamente el 4 de mayo",
         "link": "https://www.forbes.com/sites/giacomotognini/2020/05/07/can-the-us-learn-from-italy-where-coronavirus-antibody-test-makers-are-fighting-for-a-new-market/#74416e4f4628",
         "progressive": "need to watch",
         "category": "healthcare, economy, labor",
@@ -5680,11 +6022,10 @@ response_data = [
     {
         "title_en": "Women demand voice in Italy's coronavirus response dominated by men",
         "description_en": "Most of Italy’s doctors and nurses are women. Its official coronavirus response is dominated by men.",
+        "title_es": "Las mujeres demandan voz en la respuesta del coronavirus de Italia dominada por los hombres",
+        "description_es": "La mayoría de los médicos y enfermeras de Italia son mujeres. Su respuesta oficial al coronavirus está dominada por hombres",
 
 
-
-        "title_en": "Las mujeres demandan voz en la respuesta del coronavirus de Italia dominada por los hombres",
-        "description_en": "La mayoría de los médicos y enfermeras de Italia son mujeres. Su respuesta oficial al coronavirus está dominada por hombres",
         "link": "https://www.latimes.com/world-nation/story/2020-05-07/women-demand-voice-in-italy-virus-response-dominated-by-men",
         "progressive": "need to watch",
         "category": "healthcare, economy, labor",
@@ -5694,11 +6035,10 @@ response_data = [
     {
         "title_en": "Schools reopen in some parts of Japan after pandemic shutdown",
         "description_en": "Schools that had closed to prevent the spread of the coronavirus reopened Thursday in some regions of Japan",
+        "title_es": "Las escuelas se vuelven a abrir en algunas partes de Japón después del cierre de una pandemia",
+        "description_es": "Las escuelas que habían cerrado para evitar la propagación del coronavirus reabrieron el jueves en algunas regiones de Japón",
 
 
-
-        "title_en": "Las escuelas se vuelven a abrir en algunas partes de Japón después del cierre de una pandemia",
-        "description_en": "Las escuelas que habían cerrado para evitar la propagación del coronavirus reabrieron el jueves en algunas regiones de Japón",
         "link": "https://english.kyodonews.net/news/2020/05/770242811ab7-schools-reopen-in-some-parts-of-japan-after-pandemic-shutdown.html",
         "progressive": "need to watch",
         "category": "education, economy",
@@ -5708,11 +6048,10 @@ response_data = [
     {
         "title_en": "Coronavirus: Ivory Coast protesters target testing centre",
         "description_en": "Protesters in Ivory Coast's commercial capital, Abidjan, have destroyed a coronavirus centre",
+        "title_es": "Coronavirus: centro de pruebas del objetivo de manifestantes de Costa de Marfil",
+        "description_es": "Los manifestantes en la capital comercial de Costa de Marfil, Abidjan, han destruido un centro de coronavirus",
 
 
-
-        "title_en": "Coronavirus: centro de pruebas del objetivo de manifestantes de Costa de Marfil",
-        "description_en": "Los manifestantes en la capital comercial de Costa de Marfil, Abidjan, han destruido un centro de coronavirus",
         "link": "https://www.bbc.com/news/world-africa-52189144",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5722,11 +6061,10 @@ response_data = [
     {
         "title_en": "Coronavirus crisis changing Japan's work culture",
         "description_en": "The coronavirus pandemic is changing many aspects of the ways in which Japan works",
+        "title_es": "La crisis del coronavirus está cambiando la cultura laboral de Japón",
+        "description_es": "La pandemia de coronavirus está cambiando muchos aspectos de las formas en que funciona Japón",
 
 
-
-        "title_en": "La crisis del coronavirus está cambiando la cultura laboral de Japón",
-        "description_en": "La pandemia de coronavirus está cambiando muchos aspectos de las formas en que funciona Japón",
         "link": "https://www.dw.com/en/coronavirus-crisis-changing-japans-work-culture/a-53350759",
         "progressive": "need to watch",
         "category": "economy, labor",
@@ -5736,11 +6074,10 @@ response_data = [
     {
         "title_en": "Claims of a Coronavirus-Free Laos Are Probably Fiction",
         "description_en": "The Laos government has yet to confirm a case of the virus, but likely untrue",
+        "title_es": "Las afirmaciones de un Laos libre de coronavirus son probablemente ficción",
+        "description_es": "El gobierno de Laos aún no ha confirmado un caso del virus, pero probablemente sea falso",
 
 
-
-        "title_en": "Las afirmaciones de un Laos libre de coronavirus son probablemente ficción",
-        "description_en": "El gobierno de Laos aún no ha confirmado un caso del virus, pero probablemente sea falso",
         "link": "https://foreignpolicy.com/2020/03/20/laos-coronavirus-free-claims-probably-fiction/",
         "progressive": "need to watch",
         "category": "misinformation",
@@ -5750,11 +6087,10 @@ response_data = [
     {
         "title_en": "Latvian government promises to decide on gradual exit from COVID-19 state of emergency",
         "description_en": "Latvian government discusses potential responses and extension to state of emergency",
+        "title_es": "El gobierno letón promete decidir sobre la salida gradual del estado de emergencia COVID-19",
+        "description_es": "El gobierno letón analiza posibles respuestas y la extensión al estado de emergencia",
 
 
-
-        "title_en": "El gobierno letón promete decidir sobre la salida gradual del estado de emergencia COVID-19",
-        "description_en": "El gobierno letón analiza posibles respuestas y la extensión al estado de emergencia",
         "link": "https://bnn-news.com/latvian-government-promises-to-decide-on-gradual-exit-from-covid-19-state-of-emergency-213010",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -5764,11 +6100,10 @@ response_data = [
     {
         "title_en": "Liechtenstein to provide citizens with biometric bracelets to contain coronavirus",
         "description_en": "Liechtenstein has introduced a tech program to provide biometric bracelets for its citizens to monitor COVID-19",
+        "title_es": "Liechtenstein proporcionará a los ciudadanos pulseras biométricas para contener coronavirus",
+        "description_es": "Liechtenstein ha introducido un programa tecnológico para proporcionar pulseras biométricas para que sus ciudadanos supervisen COVID-19",
 
 
-
-        "title_en": "Liechtenstein proporcionará a los ciudadanos pulseras biométricas para contener coronavirus",
-        "description_en": "Liechtenstein ha introducido un programa tecnológico para proporcionar pulseras biométricas para que sus ciudadanos supervisen COVID-19",
         "link": "https://www.biometricupdate.com/202004/liechtenstein-to-provide-citizens-with-biometric-bracelets-to-contain-coronavirus",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5778,11 +6113,10 @@ response_data = [
     {
         "title_en": "South Asia coronavirus cases hit 22,000 as Maldives locks down capital",
         "description_en": "Maldives instates quarantine in capital city",
+        "title_es": "Los casos de coronavirus en el sur de Asia alcanzaron los 22,000 mientras Maldivas bloquea el capital",
+        "description_es": "Maldivas instala cuarentena en la ciudad capital",
 
 
-
-        "title_en": "Los casos de coronavirus en el sur de Asia alcanzaron los 22,000 mientras Maldivas bloquea el capital",
-        "description_en": "Maldivas instala cuarentena en la ciudad capital",
         "link": "https://www.reuters.com/article/us-health-coronavirus-southasia/south-asia-coronavirus-cases-hit-22000-as-maldives-locks-down-capital-idUSKBN21Z1VA",
         "progressive": "need to watch",
         "category": "economy",
@@ -5792,11 +6126,10 @@ response_data = [
     {
         "title_en": "Lithuania to ease coronavirus lockdown measures this week",
         "description_en": "Shops, open-air restaurants and many other services will be allowed to reopen in Lithuania in an easing of restrictions",
+        "title_es": "Lituania para aliviar las medidas de bloqueo de coronavirus esta semana",
+        "description_es": "Se permitirá la reapertura de tiendas, restaurantes al aire libre y muchos otros servicios en Lituania para aliviar las restricciones",
 
 
-
-        "title_en": "Lituania para aliviar las medidas de bloqueo de coronavirus esta semana",
-        "description_en": "Se permitirá la reapertura de tiendas, restaurantes al aire libre y muchos otros servicios en Lituania para aliviar las restricciones",
         "link": "https://www.reuters.com/article/health-coronavirus-lithuania/lithuania-to-ease-coronavirus-lockdown-measures-this-week-idUSL5N2CA4DP",
         "progressive": "need to watch",
         "category": "economy",
@@ -5806,11 +6139,10 @@ response_data = [
     {
         "title_en": "Malta takes in migrants hours after announcing coronavirus ban",
         "description_en": "Maltese government said it could not guarantee further rescues as its resources have been strained by the pandemic.",
+        "title_es": "Malta recibe a los inmigrantes horas después de anunciar la prohibición del coronavirus",
+        "description_es": "El gobierno maltés dijo que no podía garantizar más rescates ya que sus recursos se vieron afectados por la pandemia",
 
 
-
-        "title_en": "Malta recibe a los inmigrantes horas después de anunciar la prohibición del coronavirus",
-        "description_en": "El gobierno maltés dijo que no podía garantizar más rescates ya que sus recursos se vieron afectados por la pandemia",
         "link": "https://www.aljazeera.com/news/2020/04/malta-takes-migrants-hours-announcing-coronavirus-ban-200410160333984.html",
         "progressive": "need to watch",
         "category": "punitive",
@@ -5820,11 +6152,10 @@ response_data = [
     {
         "title_en": "Mauritius heads into coronavirus storm with strong social welfare buffers",
         "description_en": "Solid social protection system provides a strong foundation which government can use to expand support",
+        "title_es": "Mauricio se dirige a la tormenta de coronavirus con fuertes amortiguadores de bienestar social",
+        "description_es": "El sólido sistema de protección social proporciona una base sólida que el gobierno puede usar para ampliar el apoyo",
 
 
-
-        "title_en": "Mauricio se dirige a la tormenta de coronavirus con fuertes amortiguadores de bienestar social",
-        "description_en": "El sólido sistema de protección social proporciona una base sólida que el gobierno puede usar para ampliar el apoyo",
         "link": "https://theconversation.com/mauritius-heads-into-coronavirus-storm-with-strong-social-welfare-buffers-135702",
         "progressive": "progressive",
         "category": "healthcare, economy, labor",
@@ -5834,11 +6165,10 @@ response_data = [
     {
         "title_en": "Moldova Struggles to Secure Church Respect for Coronavirus Restrictions",
         "description_en": "Moldova’s political leaders are treading a fine line when it comes to securing church adherence to restrictions",
+        "title_es": "Moldavia lucha para asegurar el respeto de la Iglesia por las restricciones del coronavirus",
+        "description_es": "Los líderes políticos de Moldavia están pisando una línea muy fina cuando se trata de asegurar la adhesión de la iglesia a las restricciones",
 
 
-
-        "title_en": "Moldavia lucha para asegurar el respeto de la Iglesia por las restricciones del coronavirus",
-        "description_en": "Los líderes políticos de Moldavia están pisando una línea muy fina cuando se trata de asegurar la adhesión de la iglesia a las restricciones",
         "link": "https://balkaninsight.com/2020/04/20/moldova-struggles-to-secure-church-respect-for-coronavirus-restrictions/",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5848,11 +6178,10 @@ response_data = [
     {
         "title_en": "Mongolia’s Small-Country Strategy for Containing COVID-19",
         "description_en": "Mongolia’s small population might be an asset in fighting the new pandemic",
+        "title_es": "Estrategia de país pequeño de Mongolia para contener COVID-19",
+        "description_es": "La pequeña población de Mongolia podría ser una ventaja en la lucha contra la nueva pandemia",
 
 
-
-        "title_en": "Estrategia de país pequeño de Mongolia para contener COVID-19",
-        "description_en": "La pequeña población de Mongolia podría ser una ventaja en la lucha contra la nueva pandemia",
         "link": "https://thediplomat.com/2020/03/mongolias-small-country-strategy-for-containing-covid-19/",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -5862,11 +6191,10 @@ response_data = [
     {
         "title_en": "Montenegro introduces lockdown to fight coronavirus",
         "description_en": "Montenegro introduced a lockdown on Monday to curb the spread of the coronavirus",
+        "title_es": "Montenegro introduce el bloqueo para combatir el coronavirus",
+        "description_es": "Montenegro introdujo un bloqueo el lunes para frenar la propagación del coronavirus",
 
 
-
-        "title_en": "Montenegro introduce el bloqueo para combatir el coronavirus",
-        "description_en": "Montenegro introdujo un bloqueo el lunes para frenar la propagación del coronavirus",
         "link": "https://www.reuters.com/article/health-coronavirus-montenegro/montenegro-introduces-lockdown-to-fight-coronavirus-idUSL8N2BN88Z",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -5876,11 +6204,10 @@ response_data = [
     {
         "title_en": "Namibia announces travel ban, partial lockdown after seventh coronavirus case",
         "description_en": "Travel into Namibia from all countries is banned with immediate effect for a period of 30 days",
+        "title_es": "Namibia anuncia prohibición de viajar, cierre parcial después del séptimo caso de coronavirus",
+        "description_es": "Está prohibido viajar a Namibia desde todos los países con efecto inmediato por un período de 30 días",
 
 
-
-        "title_en": "Namibia anuncia prohibición de viajar, cierre parcial después del séptimo caso de coronavirus",
-        "description_en": "Está prohibido viajar a Namibia desde todos los países con efecto inmediato por un período de 30 días",
         "link": "https://www.reuters.com/article/us-health-coronavirus-namibia/namibia-announces-travel-ban-partial-lockdown-after-seventh-coronavirus-case-idUSKBN21B30R",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -5890,11 +6217,10 @@ response_data = [
     {
         "title_en": "Amid COVID-Related Cyber Threats, the Netherlands Leads UN Efforts",
         "description_en": "UN should play a leading role in further developing a global framework to ensure responsible behavior in cyberspace",
+        "title_es": "En medio de las amenazas cibernéticas relacionadas con COVID, los Países Bajos lideran los esfuerzos de la ONU",
+        "description_es": "La ONU debe desempeñar un papel de liderazgo en el desarrollo de un marco global para garantizar un comportamiento responsable en el ciberespacio",
 
 
-
-        "title_en": "En medio de las amenazas cibernéticas relacionadas con COVID, los Países Bajos lideran los esfuerzos de la ONU",
-        "description_en": "La ONU debe desempeñar un papel de liderazgo en el desarrollo de un marco global para garantizar un comportamiento responsable en el ciberespacio",
         "link": "https://www.cfr.org/blog/amid-covid-related-cyber-threats-netherlands-leads-un-efforts",
         "progressive": "need to watch",
         "category": "digital surveillance",
@@ -5904,11 +6230,10 @@ response_data = [
     {
         "title_en": "Sweden has nearly 10 times the number of deaths than its Nordic neighbors",
         "description_en": "Sweden's cases have yet to plateau, while Norway's case count appears to be on a downslide",
+        "title_es": "Suecia tiene casi 10 veces más muertes que sus vecinos nórdicos",
+        "description_es": "Los casos de Suecia aún no se han estabilizado, mientras que el recuento de casos de Noruega parece estar a la baja",
 
 
-
-        "title_en": "Suecia tiene casi 10 veces más muertes que sus vecinos nórdicos",
-        "description_en": "Los casos de Suecia aún no se han estabilizado, mientras que el recuento de casos de Noruega parece estar a la baja",
         "link": "https://www.businessinsider.com/how-sweden-and-norway-handled-coronavirus-differently-2020-4",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5918,11 +6243,10 @@ response_data = [
     {
         "title_en": "Coronavirus: Oman faces tough choices as crisis hits finances",
         "description_en": "Muscat is in a delicate phase of its economic diversification efforts, as oil reserves decline while debts increase",
+        "title_es": "Coronavirus: Omán enfrenta decisiones difíciles cuando la crisis golpea las finanzas",
+        "description_es": "Muscat se encuentra en una fase delicada de sus esfuerzos de diversificación económica, ya que las reservas de petróleo disminuyen mientras las deudas aumentan",
 
 
-
-        "title_en": "Coronavirus: Omán enfrenta decisiones difíciles cuando la crisis golpea las finanzas",
-        "description_en": "Muscat se encuentra en una fase delicada de sus esfuerzos de diversificación económica, ya que las reservas de petróleo disminuyen mientras las deudas aumentan",
         "link": "https://www.middleeasteye.net/opinion/coronavirus-will-oman-seek-financial-relief-gcc-neighbours",
         "progressive": "need to watch",
         "category": "economy",
@@ -5932,11 +6256,10 @@ response_data = [
     {
         "title_en": "Poland postpones presidential vote amid coronavirus lockdown",
         "description_en": "President Duda ahead in polls originally set on Sunday but pandemic left uncertainty about voting and his future.",
+        "title_es": "Polonia pospone el voto presidencial en medio del bloqueo del coronavirus",
+        "description_es": "El presidente Duda se adelantó en las encuestas originalmente programadas para el domingo pero la pandemia dejó incertidumbre sobre la votación y su futuro",
 
 
-
-        "title_en": "Polonia pospone el voto presidencial en medio del bloqueo del coronavirus",
-        "description_en": "El presidente Duda se adelantó en las encuestas originalmente programadas para el domingo pero la pandemia dejó incertidumbre sobre la votación y su futuro",
         "link": "https://www.aljazeera.com/news/2020/05/poland-postpones-presidential-vote-coronavirus-lockdown-200507011915451.html",
         "progressive": "need to watch",
         "category": "democratic institutions",
@@ -5946,11 +6269,10 @@ response_data = [
     {
         "title_en": "A Migrant Model To Follow: Portugal’s Response to the Coronavirus",
         "description_en": "Migrants and asylum-seekers in the country provided the same full access to public services that permanent residents receive",
+        "title_es": "Un modelo de migrante a seguir: la respuesta de Portugal al coronavirus",
+        "description_es": "Los migrantes y solicitantes de asilo en el país proporcionaron el mismo acceso total a los servicios públicos que reciben los residentes permanentes",
 
 
-
-        "title_en": "Un modelo de migrante a seguir: la respuesta de Portugal al coronavirus",
-        "description_en": "Los migrantes y solicitantes de asilo en el país proporcionaron el mismo acceso total a los servicios públicos que reciben los residentes permanentes",
         "link": "https://www.americanprogress.org/issues/security/news/2020/04/10/482998/migrant-model-follow-portugals-response-coronavirus/",
         "progressive": "progressive",
         "category": "economy, childcare, labor",
@@ -5960,11 +6282,10 @@ response_data = [
     {
         "title_en": "Over 10,000 confirmed COVID-19 cases in Africa",
         "description_en": "Within Africa, Zimbabwe and South Sudan among most vulnerable",
+        "title_es": "Más de 10,000 casos confirmados de COVID-19 en África",
+        "description_es": "Dentro de África, Zimbabwe y Sudán del Sur entre los más vulnerables",
 
 
-
-        "title_en": "Más de 10,000 casos confirmados de COVID-19 en África",
-        "description_en": "Dentro de África, Zimbabwe y Sudán del Sur entre los más vulnerables",
         "link": "https://news.un.org/en/story/2020/04/1061352",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5974,11 +6295,10 @@ response_data = [
     {
         "title_en": "UNHCR warns of looming humanitarian crisis in South Sudan",
         "description_en": "Amidst ongoing fighting and coronavirus threat, South Sudan faces humanitarian challenges",
+        "title_es": "ACNUR advierte sobre la inminente crisis humanitaria en Sudán del Sur",
+        "description_es": "En medio de continuos combates y amenazas de coronavirus, Sudán del Sur enfrenta desafíos humanitarios",
 
 
-
-        "title_en": "ACNUR advierte sobre la inminente crisis humanitaria en Sudán del Sur",
-        "description_en": "En medio de continuos combates y amenazas de coronavirus, Sudán del Sur enfrenta desafíos humanitarios",
         "link": "https://www.unhcr.org/news/press/2020/4/5eaa991c4/unhcr-warns-looming-humanitarian-crisis-south-sudan-amidst-ongoing-fighting.html",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -5988,11 +6308,10 @@ response_data = [
     {
         "title_en": "Coronavirus: Romania hands out steep lockdown fines",
         "description_en": "Romania has issued 200,000 fines in under a month to people who failed to comply with restrictions",
+        "title_es": "Coronavirus: Rumanía reparte fuertes multas de encierro",
+        "description_es": "Rumania ha emitido 200,000 multas en menos de un mes a las personas que no cumplieron con las restricciones",
 
 
-
-        "title_en": "Coronavirus: Rumanía reparte fuertes multas de encierro",
-        "description_en": "Rumania ha emitido 200,000 multas en menos de un mes a las personas que no cumplieron con las restricciones",
         "link": "https://www.bbc.com/news/world-europe-52370421",
         "progressive": "need to watch",
         "category": "punitive",
@@ -6002,11 +6321,10 @@ response_data = [
     {
         "title_en": "St Kitts and Nevis Extending State of Emergency",
         "description_en": "Government has extended the State of Emergency and its COVID-19 regulations, which include a 24-hour curfew, through April 25.",
+        "title_es": "St Kitts y Nevis extiende el estado de emergencia",
+        "description_es": "El gobierno ha extendido el estado de emergencia y sus reglamentos COVID-19, que incluyen un toque de queda de 24 horas, hasta el 25 de abril",
 
 
-
-        "title_en": "St Kitts y Nevis extiende el estado de emergencia",
-        "description_en": "El gobierno ha extendido el estado de emergencia y sus reglamentos COVID-19, que incluyen un toque de queda de 24 horas, hasta el 25 de abril",
         "link": "https://www.caribjournal.com/2020/04/16/st-kitts-nevis-emergency-coronavirus/",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -6016,11 +6334,10 @@ response_data = [
     {
         "title_en": "All of St Lucia's COVID-19 patients have now recovered",
         "description_en": "Chief Medical Officer announced that all of the island's COVID-19 patients have now recovered.",
+        "title_es": "Todos los pacientes con COVID-19 de Santa Lucía ya se han recuperado",
+        "description_es": "El Director Médico anunció que todos los pacientes con COVID-19 de la isla ya se han recuperado",
 
 
-
-        "title_en": "Todos los pacientes con COVID-19 de Santa Lucía ya se han recuperado",
-        "description_en": "El Director Médico anunció que todos los pacientes con COVID-19 de la isla ya se han recuperado",
         "link": "https://www.loopjamaica.com/content/all-st-lucias-covid-19-patients-have-now-recovered-1",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -6030,11 +6347,10 @@ response_data = [
     {
         "title_en": "Can San Marino's 'aggressive' COVID-19 testing strategy save Europe?",
         "description_en": "Describes San Marino's extensive testing strategy and implementation",
+        "title_es": "¿Puede la estrategia de prueba COVID-19 'agresiva' de San Marino salvar a Europa?",
+        "description_es": "Describe la amplia estrategia e implementación de pruebas de San Marino",
 
 
-
-        "title_en": "¿Puede la estrategia de prueba COVID-19 'agresiva' de San Marino salvar a Europa?",
-        "description_en": "Describe la amplia estrategia e implementación de pruebas de San Marino",
         "link": "https://www.euronews.com/2020/04/25/can-san-marino-s-aggressive-covid-19-testing-strategy-save-europe",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -6044,11 +6360,10 @@ response_data = [
     {
         "title_en": "Serbia to end state of emergency as coronavirus infections slow",
         "description_en": "Serbia will end its state of emergency over the coronavirus next week, as the rate of infections has slowed sufficiently",
+        "title_es": "Serbia pondrá fin al estado de emergencia ya que las infecciones por coronavirus disminuyen",
+        "description_es": "Serbia terminará su estado de emergencia por el coronavirus la próxima semana, ya que la tasa de infecciones ha disminuido lo suficiente",
 
 
-
-        "title_en": "Serbia pondrá fin al estado de emergencia ya que las infecciones por coronavirus disminuyen",
-        "description_en": "Serbia terminará su estado de emergencia por el coronavirus la próxima semana, ya que la tasa de infecciones ha disminuido lo suficiente",
         "link": "https://www.reuters.com/article/us-health-coronavirus-serbia/serbia-to-end-state-of-emergency-as-coronavirus-infections-slow-idUSKBN22F0UT",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -6058,11 +6373,10 @@ response_data = [
     {
         "title_en": "Seychelles expresses gratitude to India for medical supplies in view of COVID-19 crisis",
         "description_en": "India sent first consignment of 4 tons of essential lifesaving medicine to Seychelles",
+        "title_es": "Seychelles expresa su agradecimiento a la India por los suministros médicos en vista de la crisis de COVID-19",
+        "description_es": "India envió el primer envío de 4 toneladas de medicamentos esenciales para salvar vidas a Seychelles",
 
 
-
-        "title_en": "Seychelles expresa su agradecimiento a la India por los suministros médicos en vista de la crisis de COVID-19",
-        "description_en": "India envió el primer envío de 4 toneladas de medicamentos esenciales para salvar vidas a Seychelles",
         "link": "https://www.africanews.com/2020/04/15/coronavirus-seychelles-expresses-gratitude-to-india-for-medical-supplies-in-view-of-covid-19-crisis//",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -6072,11 +6386,10 @@ response_data = [
     {
         "title_en": "How Slovakia Flattened the Curve",
         "description_en": "Without an intelligent quarantine in place, public trust and the media have been crucial to the country’s success",
+        "title_es": "Cómo Eslovaquia aplastó la curva",
+        "description_es": "Sin una cuarentena inteligente, la confianza pública y los medios de comunicación han sido cruciales para el éxito del país",
 
 
-
-        "title_en": "Cómo Eslovaquia aplastó la curva",
-        "description_en": "Sin una cuarentena inteligente, la confianza pública y los medios de comunicación han sido cruciales para el éxito del país",
         "link": "https://foreignpolicy.com/2020/05/06/slovakia-coronavirus-pandemic-public-trust-media/",
         "progressive": "need to watch",
         "category": "healthcare, economy",
@@ -6086,11 +6399,10 @@ response_data = [
     {
         "title_en": "Vietnam, Slovenia, and 3 other overlooked coronavirus success stories",
         "description_en": "They all followed a similar playbook that thus far has helped curb a larger coronavirus outbreak",
+        "title_es": "Vietnam, Eslovenia y otras 3 historias de éxito de coronavirus pasadas por alto",
+        "description_es": "Todos siguieron un libro de jugadas similar que hasta ahora ha ayudado a frenar un brote de coronavirus más grande",
 
 
-
-        "title_en": "Vietnam, Eslovenia y otras 3 historias de éxito de coronavirus pasadas por alto",
-        "description_en": "Todos siguieron un libro de jugadas similar que hasta ahora ha ayudado a frenar un brote de coronavirus más grande",
         "link": "https://www.vox.com/2020/5/5/2124labor37/coronavirus-vietnam-slovenia-jordan-iceland-greece",
         "progressive": "progressive",
         "category": "healthcare, economy",
@@ -6100,11 +6412,10 @@ response_data = [
     {
         "title_en": "Kenya and Somalia to Jointly Investigate Cargo Plane Crash",
         "description_en": "Kenyan-registered private plane was carrying humanitarian supplies to use in the fight against the coronavirus",
+        "title_es": "Kenia y Somalia investigarán conjuntamente el accidente de un avión de carga",
+        "description_es": "el avión privado registrado en Kenia transportaba suministros humanitarios para su uso en la lucha contra el coronavirus",
 
 
-
-        "title_en": "Kenia y Somalia investigarán conjuntamente el accidente de un avión de carga",
-        "description_en": "el avión privado registrado en Kenia transportaba suministros humanitarios para su uso en la lucha contra el coronavirus",
         "link": "https://www.nytimes.com/2020/05/06/world/africa/somalia-kenya-coronavirus-aid-plane-crash.html",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -6114,11 +6425,10 @@ response_data = [
     {
         "title_en": "Sri Lanka Uses Pandemic to Curtail Free Expression",
         "description_en": "Police Ordered to Arrest Critics in Military-Led COVID-19 Response",
+        "title_es": "Sri Lanka utiliza la pandemia para reducir la expresión libre",
+        "description_es": "La policía ordenó arrestar a los críticos en la respuesta COVID-19 dirigida por militares",
 
 
-
-        "title_en": "Sri Lanka utiliza la pandemia para reducir la expresión libre",
-        "description_en": "La policía ordenó arrestar a los críticos en la respuesta COVID-19 dirigida por militares",
         "link": "https://www.hrw.org/news/2020/04/03/sri-lanka-uses-pandemic-curtail-free-expression#",
         "progressive": "need to watch",
         "category": "punitive, digital surveillance",
@@ -6128,11 +6438,10 @@ response_data = [
     {
         "title_en": "Economic Crisis Prompts a Showdown, and a Shutdown, in Suriname",
         "description_en": "Interlinkages between he coronavirus pandemic, the business sector and increasingly authoritarian measures",
+        "title_es": "La crisis económica provoca un enfrentamiento y un cierre en Surinam",
+        "description_es": "Interrelaciones entre la pandemia de coronavirus, el sector empresarial y medidas cada vez más autoritarias",
 
 
-
-        "title_en": "La crisis económica provoca un enfrentamiento y un cierre en Surinam",
-        "description_en": "Interrelaciones entre la pandemia de coronavirus, el sector empresarial y medidas cada vez más autoritarias",
         "link": "https://www.nytimes.com/2020/03/25/world/americas/suriname-economic-crisis.html",
         "progressive": "regressive",
         "category": "economy, labor",
@@ -6142,11 +6451,10 @@ response_data = [
     {
         "title_en": "Government of Tiny eSwatini Refutes Reports of King’s Illness",
         "description_en": "The government of eSwatini is refuting media reports that the nation’s King Mswati II",
+        "title_es": "El gobierno de Tiny eSwatini refuta los informes de la enfermedad del rey",
+        "description_es": "El gobierno de eSwatini está refutando los informes de los medios de que el Rey Mswati II de la nación",
 
 
-
-        "title_en": "El gobierno de Tiny eSwatini refuta los informes de la enfermedad del rey",
-        "description_en": "El gobierno de eSwatini está refutando los informes de los medios de que el Rey Mswati II de la nación",
         "link": "https://www.voanews.com/science-health/coronavirus-outbreak/government-tiny-eswatini-refutes-reports-kings-illness",
         "progressive": "need to watch",
         "category": "democratic institutions",
@@ -6156,11 +6464,10 @@ response_data = [
     {
         "title_en": "Trinidad and Tobago: Travel restrictions continue",
         "description_en": "Local containment and travel restrictions due to ongoing global coronavirus (COVID-19) pandemic remain in effect",
+        "title_es": "Trinidad y Tobago: continúan las restricciones de viaje",
+        "description_es": "La contención local y las restricciones de viaje debido a la actual pandemia mundial de coronavirus (COVID-19) siguen vigentes",
 
 
-
-        "title_en": "Trinidad y Tobago: continúan las restricciones de viaje",
-        "description_en": "La contención local y las restricciones de viaje debido a la actual pandemia mundial de coronavirus (COVID-19) siguen vigentes",
         "link": "https://www.garda.com/crisis24/news-alerts/329131/trinidad-and-tobago-travel-restrictions-continue-amid-covid-19-pandemic-april-3-update-2",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -6170,11 +6477,10 @@ response_data = [
     {
         "title_en": "Coronavirus in Africa: Whipping, shooting and snooping",
         "description_en": "Security officers in several African countries have been beating, harassing and, in some cases, killing people as they enforce measures",
+        "title_es": "Coronavirus en África: azotes, disparos y espías",
+        "description_es": "Los agentes de seguridad en varios países africanos han estado golpeando, hostigando y, en algunos casos, matando a personas mientras aplican medidas",
 
 
-
-        "title_en": "Coronavirus en África: azotes, disparos y espías",
-        "description_en": "Los agentes de seguridad en varios países africanos han estado golpeando, hostigando y, en algunos casos, matando a personas mientras aplican medidas",
         "link": "https://www.bbc.com/news/world-africa-52214740",
         "progressive": "regressive",
         "category": "punitive",
@@ -6184,11 +6490,10 @@ response_data = [
     {
         "title_en": "Uganda Is Using Coronavirus Rules To Raid An LGBTQ Shelter And Jail Residents",
         "description_en": "The LGBTQ shelter had more than 10 residents, so the group was charged with facilitating the spread of an infectious disease.",
+        "title_es": "Uganda está utilizando las reglas del coronavirus para atacar a un refugio LGBTQ y a los residentes de la cárcel",
+        "description_es": "El refugio LGBTQ tenía más de 10 residentes, por lo que el grupo fue acusado de facilitar la propagación de una enfermedad infecciosa",
 
 
-
-        "title_en": "Uganda está utilizando las reglas del coronavirus para atacar a un refugio LGBTQ y a los residentes de la cárcel",
-        "description_en": "El refugio LGBTQ tenía más de 10 residentes, por lo que el grupo fue acusado de facilitar la propagación de una enfermedad infecciosa",
         "link": "https://www.buzzfeednews.com/article/lesterfeder/uganda-jails-lgbtq-people-coronavirus",
         "progressive": "regressive",
         "category": "punitive",
@@ -6198,11 +6503,10 @@ response_data = [
     {
         "title_en": "#StayInYourTent: COVID-19 protective measures reach Sahara Desert",
         "description_en": "Sahrawi refugee camps, located a few kilometers from Tindouf, southern Algeria, battle COVID-19",
+        "title_es": "#StayInYourTent: las medidas de protección de COVID-19 llegan al desierto del Sahara",
+        "description_es": "Campamentos de refugiados saharauis, ubicados a pocos kilómetros de Tinduf, sur de Argelia, batalla COVID-19",
 
 
-
-        "title_en": "#StayInYourTent: las medidas de protección de COVID-19 llegan al desierto del Sahara",
-        "description_en": "Campamentos de refugiados saharauis, ubicados a pocos kilómetros de Tinduf, sur de Argelia, batalla COVID-19",
         "link": "https://www.euronews.com/2020/04/10/stayinyourtent-covid-19-protective-measures-reach-sahara-desert",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -6212,11 +6516,10 @@ response_data = [
     {
         "title_en": "Wife of jailed Sahrawi activist calls on Morocco to free political prisoners",
         "description_en": "Amid dangerously overcrowded prisons, Ghali Bani fears it will only be a matter of time before virus reaches her husband",
+        "title_es": "La esposa del activista saharaui encarcelado llama a Marruecos a liberar a los presos políticos",
+        "description_es": "En medio de prisiones peligrosamente abarrotadas, Ghali Bani teme que solo sea cuestión de tiempo antes de que el virus llegue a su marido",
 
 
-
-        "title_en": "La esposa del activista saharaui encarcelado llama a Marruecos a liberar a los presos políticos",
-        "description_en": "En medio de prisiones peligrosamente abarrotadas, Ghali Bani teme que solo sea cuestión de tiempo antes de que el virus llegue a su marido",
         "link": "https://www.middleeasteye.net/news/coronavirus-morocco-western-sahara-wife-sahrawi-activist-call-free-prisoners",
         "progressive": "need to watch",
         "category": "punitive, healthcare",
@@ -6226,11 +6529,10 @@ response_data = [
     {
         "title_en": "'The virus is now in Yemen,' and there's little left in the war-torn country to stop it.",
         "description_en": "Overview of how coronavirus and government response will be impacted by ongoing violence",
+        "title_es": "'El virus ahora está en Yemen,' y queda poco en el país devastado por la guerra para detenerlo",
+        "description_es": "Descripción general de cómo el coronavirus y la respuesta del gobierno se verán afectados por la violencia en curso",
 
 
-
-        "title_en": "'El virus ahora está en Yemen,' y queda poco en el país devastado por la guerra para detenerlo",
-        "description_en": "Descripción general de cómo el coronavirus y la respuesta del gobierno se verán afectados por la violencia en curso",
         "link": "https://www.cbsnews.com/news/yemen-war-coronavirus-little-left-to-stop-spread-of-covid-19-2020-05-04/",
         "progressive": "need to watch",
         "category": "healthcare",
@@ -6311,8 +6613,10 @@ online_data = [
         
 # "title_fr": "Webinaire: Organisation de réunions virtuelles, épisode 1: planification et contenu",
 # "description_fr": "Webinaire sur l'accessibilité et la planification du contenu des réunions virtuelles à l'époque de COVID-19.",
-#         "title_es": "Seminario web: Organización de reuniones virtuales Episodio 1: planificación y contenido",
-#         "description_es": "Seminario web sobre accesibilidad y contenido de planificación para reuniones virtuales en la época de COVID-19",
+#         "titleses": "Seminario web: Organización de reuniones virtuales Episodio 1: planificación y contenido",
+#         "descriptionses": "Seminario web sobre accesibilidad y contenido de planificación para reuniones virtuales en la época de COVID-19",
+
+
 #         "link": "https://www.youtube.com/watch?v=beiWoi3I7_E&t=190s",
 #         "country": "Global",
 #         "month": "3",
@@ -6325,8 +6629,10 @@ online_data = [
         
 # "title_fr": "Webinaire: Organisation de réunions virtuelles, épisode 2:",
 # "description_fr": "Webinaire sur les écrous et boulons de Zoom pour les réunions virtuelles à l'époque de COVID-19.",
-#         "title_es": "Seminario web: Organización de reuniones virtuales Episodio 2:",
-#         "description_es": "Seminario web sobre detalles básicos de Zoom para reuniones virtuales en la época de COVID-19",
+#         "titleses": "Seminario web: Organización de reuniones virtuales Episodio 2:",
+#         "descriptionses": "Seminario web sobre detalles básicos de Zoom para reuniones virtuales en la época de COVID-19",
+
+
 #         "link": "https://www.youtube.com/watch?v=Jidn0_1oQyE&t=4s",
 #         "country": "Global",
 #         "month": "3",
@@ -6339,8 +6645,10 @@ online_data = [
         
 # "title_fr": "Webinaire: Prendre soin de nos communautés: COVID-19 et notre santé, \ nConnexions à la préparation au changement climatique et au changement systémique",
 # "description_fr": "Les pratiquantes et les militantes de première ligne partagent les meilleures pratiques pour prendre soin de nous-mêmes et des communautés, et fournissent une analyse politique et culturelle à la pandémie de COVID-19. Les présentatrices discutent des vulnérabilités dans nos diverses communautés et comment nous pouvons travailler pour nous soutenir mutuellement Les conférenciers incluent Rupa Marya, MD, professeur agrégé de médecine à l'UCSF; Linda Black Elk (Nation Catawba), directrice des programmes de souveraineté alimentaire au United Tribes Technical College; Jacqui Patterson, directrice du programme NAACP de justice environnementale et climatique ; en conversation avec Osprey Orielle Lake, directeur exécutif de WECAN International.",
-#         "title_es": "Seminario web: Cuidando a nuestras comunidades: COVID-19 y nuestra salud, \ nConexiones a la preparación climática y al cambio sistémico",
-#         "description_es": "Las mujeres profesionales y defensoras de primera línea comparten las mejores prácticas para cuidar de nosotras mismas y de las comunidades, y brindan análisis político y cultural a la pandemia de COVID-19. Los presentadores discuten vulnerabilidades en nuestras diversas comunidades y cómo podemos trabajar para apoyarnos mutuamente en los próximos meses, los oradores incluyen a Rupa Marya, MD, profesora asociada de medicina en la UCSF; Linda Black Elk (nación Catawba), directora de programas de soberanía alimentaria en el United Tribes Technical College; Jacqui Patterson, directora del programa de justicia ambiental y climática NAACP ; en conversación con Osprey Orielle Lake, Director Ejecutivo de WECAN International",
+#         "titleses": "Seminario web: Cuidando a nuestras comunidades: COVID-19 y nuestra salud, \ nConexiones a la preparación climática y al cambio sistémico",
+#         "descriptionses": "Las mujeres profesionales y defensoras de primera línea comparten las mejores prácticas para cuidar de nosotras mismas y de las comunidades, y brindan análisis político y cultural a la pandemia de COVID-19. Los presentadores discuten vulnerabilidades en nuestras diversas comunidades y cómo podemos trabajar para apoyarnos mutuamente en los próximos meses, los oradores incluyen a Rupa Marya, MD, profesora asociada de medicina en la UCSF; Linda Black Elk (nación Catawba), directora de programas de soberanía alimentaria en el United Tribes Technical College; Jacqui Patterson, directora del programa de justicia ambiental y climática NAACP ; en conversación con Osprey Orielle Lake, Director Ejecutivo de WECAN International",
+
+
 #         "link": "https://www.youtube.com/watch?v=OdtCyeZHh2E&feature=youtu.be",
 #         "country": "United States",
 #         "year": "2020",
@@ -6352,8 +6660,10 @@ online_data = [
         
 # "title_fr": "Teach-In: la construction de mouvements au moment de la crise de Covid-19",
 # "description_fr": "Un enseignement de The Rising Majority, soutenu par le Working Families Party, offrant une perspective féministe de gauche sur le capitalisme racial du 21e siècle en ce moment. et Naomi Klein - auteur et activiste, avec Thenjiwe McHarris (BlackBird), Maurice Mitchell (directeur exécutif, Working Families Party), Cindy Wiesner (directrice de Grassroots Global Justice) et Loan Tran (codirectrice générale de Southern Visions Collective) .",
-#         "title_es": "Teach-In: construcción del movimiento en tiempos de la crisis de Covid-19",
-#         "description_es": "Una enseñanza de The Rising Majority, apoyada por el Working Families Party, que proporciona una perspectiva feminista de izquierda sobre el capitalismo racial del siglo XXI en este momento. Oradores destacados Angela Y. Davis: feminista, abolicionista, académica y activista y Naomi Klein, autora y activista, con Thenjiwe McHarris (BlackBird), Maurice Mitchell (Director Ejecutivo, Working Families Party), Cindy Wiesner (Director de Grassroots Global Justice) y Loan Tran (Co-Director Ejecutivo del Southern Visions Collective)",
+#         "titleses": "Teach-In: construcción del movimiento en tiempos de la crisis de Covid-19",
+#         "descriptionses": "Una enseñanza de The Rising Majority, apoyada por el Working Families Party, que proporciona una perspectiva feminista de izquierda sobre el capitalismo racial del siglo XXI en este momento. Oradores destacados Angela Y. Davis: feminista, abolicionista, académica y activista y Naomi Klein, autora y activista, con Thenjiwe McHarris (BlackBird), Maurice Mitchell (Director Ejecutivo, Working Families Party), Cindy Wiesner (Director de Grassroots Global Justice) y Loan Tran (Co-Director Ejecutivo del Southern Visions Collective)",
+
+
 #         "link": "https://therisingmajority.com/events/movement-building/",
 #         "country": "Global",
 #         "month": "4",
@@ -6366,8 +6676,10 @@ online_data = [
         
 # "title_fr": "Webinaire: La justice raciale n'a pas de frontières",
 # "description_fr": "Discussion publique sur la guerre et la militarisation en temps de pandémie, organisée par Racial Justice Has No Borders, une nouvelle large coalition anti-guerre qui cherche à recentrer la conversation sur les guerres américaines et la militarisation sur les besoins et le leadership des Avec les remarques liminaires du représentant Ilhan Omar (MN-5), et animées par Marc Lamont Hill, une puissante liste de conférenciers du mouvement anti-guerre travaillant localement et mondialement a réfléchi sur le contexte plus large de la pandémie. .",
-#         "title_es": "Seminario web: La justicia racial no tiene fronteras",
-#         "description_es": "Debate del Ayuntamiento sobre la guerra y la militarización en tiempos de pandemia, organizado por Racial Justice Has No Borders, una nueva y amplia coalición contra la guerra que busca volver a centrar la conversación sobre las guerras y la militarización de EE. UU. sobre las necesidades y el liderazgo de los más impactados. Con los comentarios de apertura del representante Ilhan Omar (MN-5), y conducidos por Marc Lamont Hill, una poderosa formación de oradores del movimiento contra la guerra que trabaja local y globalmente reflexionó sobre el contexto más amplio de la pandemia",
+#         "titleses": "Seminario web: La justicia racial no tiene fronteras",
+#         "descriptionses": "Debate del Ayuntamiento sobre la guerra y la militarización en tiempos de pandemia, organizado por Racial Justice Has No Borders, una nueva y amplia coalición contra la guerra que busca volver a centrar la conversación sobre las guerras y la militarización de EE. UU. sobre las necesidades y el liderazgo de los más impactados. Con los comentarios de apertura del representante Ilhan Omar (MN-5), y conducidos por Marc Lamont Hill, una poderosa formación de oradores del movimiento contra la guerra que trabaja local y globalmente reflexionó sobre el contexto más amplio de la pandemia",
+
+
 #         "link": "https://www.facebook.com/InstituteforPolicyStudies/videos/261537221528594/UzpfSTIwMjM3ODc0NjU2OjEwMTU5OTAzOTE2NDk0NjU3/?link_id=0&can_id=8ba9ad5446018ce9d060eb7913742288&source=email-happening-now-join-the-townhall&email_referrer=email_775000___subject_1039377&email_subject=join-us-in-ending-the-aumfs",
 #         "country": "Global",
 #         "month": "4",
@@ -6380,8 +6692,10 @@ online_data = [
         
 # "title_fr": "Webinaire: Réponse de la Cour aux violences faites aux femmes pendant COVID-19",
 # "description_fr": "Dans le cadre de la série de webinaires Adapter les réponses juridiques et systémiques lors de la lutte contre la violence à l'égard des femmes par COVID-19 , Global Rights for Women a organisé cette discussion avec Lori Flohaug, ancienne procureure / juge de la Cour tribale de Leech Lake, actuellement en exercice auprès des familles et des familles. droit pénal; Natia Merebashvili, procureur général adjoint de Géorgie; Scott Miller, directeur exécutif des programmes d'intervention en cas de violence domestique (le modèle Duluth); Erin Osborne, avocate, Central Minnesota Legal Services, arbitre John Schulte, qui préside l'ordonnance de protection et les ordonnances de ne pas faire pour harcèlement.",
-#         "title_es": "Seminario web: Respuesta judicial a la violencia contra las mujeres durante COVID-19",
-#         "description_es": "Como parte de la serie de seminarios web 'Adaptando respuestas legales y sistémicas durante COVID-19 Abordar la violencia contra las mujeres', Global Rights for Women organizó esta discusión con Lori Flohaug, ex fiscal / Juez de la Corte Tribal de Leech Lake que actualmente ejerce la familia y derecho penal; Natia Merebashvili, Fiscal General Adjunto de Georgia; Scott Miller, Director Ejecutivo de Programas de Intervención de Abuso Doméstico ('el Modelo Duluth'); Erin Osborne, Abogada de Personal, Servicios Legales del Centro de Minnesota, Árbitro John Schulte, quien preside la orden de protección y el acoso restringiendo las audiencias de las órdenes judiciales. Se hizo hincapié en cómo las prácticas judiciales y de defensa han cambiado, en particular en torno a órdenes de protección y desafíos a las víctimas",
+#         "titleses": "Seminario web: Respuesta judicial a la violencia contra las mujeres durante COVID-19",
+#         "descriptionses": "Como parte de la serie de seminarios web 'Adaptando respuestas legales y sistémicas durante COVID-19 Abordar la violencia contra las mujeres', Global Rights for Women organizó esta discusión con Lori Flohaug, ex fiscal / Juez de la Corte Tribal de Leech Lake que actualmente ejerce la familia y derecho penal; Natia Merebashvili, Fiscal General Adjunto de Georgia; Scott Miller, Director Ejecutivo de Programas de Intervención de Abuso Doméstico ('el Modelo Duluth'); Erin Osborne, Abogada de Personal, Servicios Legales del Centro de Minnesota, Árbitro John Schulte, quien preside la orden de protección y el acoso restringiendo las audiencias de las órdenes judiciales. Se hizo hincapié en cómo las prácticas judiciales y de defensa han cambiado, en particular en torno a órdenes de protección y desafíos a las víctimas",
+
+
 #         "link": "https://www.youtube.com/watch?v=9R3yO0WmK5o",
 #         "country": "Global",
 #         "month": "4",
@@ -6394,8 +6708,10 @@ online_data = [
         
 # "title_fr": "Webinaire: Partie II: Réponse des tribunaux aux violences faites aux femmes pendant COVID-19",
 # "description_fr": "Dans le cadre de la série de webinaires Adapter les réponses juridiques et systémiques lors de la lutte contre la violence à l'égard des femmes de COVID-19 , Global Rights for Women a organisé cette discussion avec le juge Steve Aycock, juge en chef Colville Confederated Tribes, Washington, États-Unis, Iluta Lace, directrice du Marta Center, Riga, Lettonie; juge Ilze Celmina, tribunal régional, Riga, Lettonie; Dusan Radakovic, directeur de programme du Advocacy Center for Democratic Culture; et Erin Osborne, Central Minnesota Legal Services. Questions similaires aux panélistes, en partie 1 de ce sujet, axé sur les changements et les défis du processus judiciaire, avec la reconnaissance de la pandémie dans le récit de la pandémie émergeant dans le monde entier.",
-#         "title_es": "Seminario web: Parte II: Respuesta de los tribunales a la violencia contra las mujeres durante COVID-19",
-#         "description_es": "Como parte de la serie de seminarios web Adaptación de respuestas legales y sistémicas durante COVID-19 para abordar la violencia contra las mujeres, 'Global Rights for Women organizó esta discusión con el juez Steve Aycock, el juez principal Colville Confederated Tribes, Washington, EE. UU.; Iluta Lace, Directora del Centro Marta, Riga, Letonia; Juez Ilze Celmina, Tribunal Regional, Riga, Letonia; Dusan Radakovic, Director del Programa del Centro de Defensa de la Cultura Democrática, y Erin Osborne, Servicios Legales del Centro de Minnesota. Preguntas similares a los panelistas en parte 1 de este tema, centrado en los cambios y desafíos del proceso judicial, con el reconocimiento de la pandemia dentro de la narrativa de la pandemia emergente en todo el mundo",
+#         "titleses": "Seminario web: Parte II: Respuesta de los tribunales a la violencia contra las mujeres durante COVID-19",
+#         "descriptionses": "Como parte de la serie de seminarios web Adaptación de respuestas legales y sistémicas durante COVID-19 para abordar la violencia contra las mujeres, 'Global Rights for Women organizó esta discusión con el juez Steve Aycock, el juez principal Colville Confederated Tribes, Washington, EE. UU.; Iluta Lace, Directora del Centro Marta, Riga, Letonia; Juez Ilze Celmina, Tribunal Regional, Riga, Letonia; Dusan Radakovic, Director del Programa del Centro de Defensa de la Cultura Democrática, y Erin Osborne, Servicios Legales del Centro de Minnesota. Preguntas similares a los panelistas en parte 1 de este tema, centrado en los cambios y desafíos del proceso judicial, con el reconocimiento de la pandemia dentro de la narrativa de la pandemia emergente en todo el mundo",
+
+
 #         "link": "https://www.youtube.com/watch?v=RQvModky0Zk&feature=youtu.be",
 #         "country": "Global",
 #         "month": "4",
@@ -6408,8 +6724,10 @@ online_data = [
         
 # "title_fr": "Webinaire: Travailler avec les auteurs pendant COVID-19: Considérations pour les programmes des auteurs américains",
 # "description_fr": "Dans le cadre de la série de webinaires Adapter les réponses juridiques et systémiques au cours de COVID-19 Lutter contre la violence à l'égard des femmes , Global Rights for Women, Réseau européen pour le travail avec les auteurs de violence domestique (WWP EN), Pathways to Family Le projet Peace and Family Violence Project of Maine a co-organisé cette conversation. Les conférenciers étaient Juan Carlos Arean, Melissa Petrangelo Scaia, Jon Heath, Rebecca Thomforde Hauser, Center for Court Innovation et Lisa Young Larance. Le webinaire a présenté un projet de guide et une premier départ et tentative de travailler de manière responsable avec les auteurs de violences domestiques pendant cette pandémie mondiale pour les programmes contre les États-Unis",
-#         "title_es": "Seminario web: Trabajar con perpetradores durante COVID-19: Consideraciones para los programas de perpetradores de EE. UU.",
-#         "description_es": "Como parte de la serie de seminarios web Adaptación de respuestas legales y sistémicas durante COVID-19 Abordar la violencia contra las mujeres, 'Derechos globales para las mujeres, Red europea para el trabajo con perpetradores de violencia doméstica (WWP EN), Pathways to Family El Proyecto de Paz y Violencia Familiar de Maine fue el anfitrión de esta conversación. Los oradores incluyeron a Juan Carlos Arean, Melissa Petrangelo Scaia, Jon Heath, Rebecca Thomforde Hauser, Center for Court Innovation y Lisa Young Larance. El seminario web presentó un borrador de guía y una reflexión primer comienzo e intento de trabajar responsablemente con los perpetradores de violencia doméstica durante esta pandemia mundial para los programas de perpetradores de los Estados Unidos",
+#         "titleses": "Seminario web: Trabajar con perpetradores durante COVID-19: Consideraciones para los programas de perpetradores de EE. UU.",
+#         "descriptionses": "Como parte de la serie de seminarios web Adaptación de respuestas legales y sistémicas durante COVID-19 Abordar la violencia contra las mujeres, 'Derechos globales para las mujeres, Red europea para el trabajo con perpetradores de violencia doméstica (WWP EN), Pathways to Family El Proyecto de Paz y Violencia Familiar de Maine fue el anfitrión de esta conversación. Los oradores incluyeron a Juan Carlos Arean, Melissa Petrangelo Scaia, Jon Heath, Rebecca Thomforde Hauser, Center for Court Innovation y Lisa Young Larance. El seminario web presentó un borrador de guía y una reflexión primer comienzo e intento de trabajar responsablemente con los perpetradores de violencia doméstica durante esta pandemia mundial para los programas de perpetradores de los Estados Unidos",
+
+
 #         "link": "https://www.youtube.com/watch?v=PJYUeducationJxsNI&feature=youtu.be",
 #         "country": "United States",
 #         "month": "4",
@@ -6422,8 +6740,10 @@ online_data = [
         
 # "title_fr": "Webinaire: Travailler avec les auteurs pendant COVID-19: Leçons d'Europe",
 # "description_fr": "Dans le cadre de la série de webinaires Adapter les réponses juridiques et systémiques au cours de COVID-19 Lutter contre la violence à l'égard des femmes, Global Rights for Women, Réseau européen pour le travail avec les auteurs de violence domestique (WWP EN), Pathways to Family Le projet Peace and Family Violence Project of Maine a co-organisé cette conversation. Melissa Petrangelo Scaia, Jon Heath et Alessandra Pauncz, qui représentaient les organisations co-organisatrices, ont été les orateurs. à la sécurité des victimes.",
-#         "title_es": "Seminario web: Trabajando con perpetradores durante COVID-19: Lecciones de Europa",
-#         "description_es": "Como parte de la serie de seminarios web Adaptación de respuestas legales y sistémicas durante COVID-19 Abordar la violencia contra las mujeres, 'Derechos globales para las mujeres, Red europea para el trabajo con perpetradores de violencia doméstica (WWP EN), Pathways to Family El Proyecto de Paz y Violencia Familiar de Maine fue el anfitrión de esta conversación. Los oradores incluyeron a Melissa Petrangelo Scaia, Jon Heath y Alessandra Pauncz, en representación de las organizaciones co-anfitrionas. Las pautas de WWP EN sobre el trabajo del autor de la transición a un formato en línea fueron compartidas con atención. a la seguridad de las víctimas",
+#         "titleses": "Seminario web: Trabajando con perpetradores durante COVID-19: Lecciones de Europa",
+#         "descriptionses": "Como parte de la serie de seminarios web Adaptación de respuestas legales y sistémicas durante COVID-19 Abordar la violencia contra las mujeres, 'Derechos globales para las mujeres, Red europea para el trabajo con perpetradores de violencia doméstica (WWP EN), Pathways to Family El Proyecto de Paz y Violencia Familiar de Maine fue el anfitrión de esta conversación. Los oradores incluyeron a Melissa Petrangelo Scaia, Jon Heath y Alessandra Pauncz, en representación de las organizaciones co-anfitrionas. Las pautas de WWP EN sobre el trabajo del autor de la transición a un formato en línea fueron compartidas con atención. a la seguridad de las víctimas",
+
+
 #         "link": "https://www.youtube.com/watch?v=_3qVFWHXoUM&feature=youtu.be",
 #         "country": "Europe",
 #         "month": "4",
@@ -6436,8 +6756,10 @@ online_data = [
         
 # "title_fr": "Teach-In: Comment vaincre le capitalisme des coronavirus: Partie I",
 # "description_fr": "Premier tour de formation en ligne de Haymarket Books avec Naomi Klein, Astra Taylor et Keeanga-Yamahtta Taylor, avec une performance musicale de Lia Rose, mettant l'accent sur la façon dont les idées qui ont été rejetées comme trop radicales il y a seulement une semaine sont commence à apparaître comme la seule voie raisonnable pour sortir de cette crise et en prévenir de futures.",
-#         "title_es": "Teach-In: Cómo vencer al capitalismo del coronavirus: Parte I",
-#         "description_es": "Primera ronda de enseñanza en línea de Haymarket Books con Naomi Klein, Astra Taylor y Keeanga-Yamahtta Taylor, con una actuación musical de Lia Rose, centrándose en cómo las ideas que fueron descartadas como demasiado radicales hace solo una semana son comienza a parecer el único camino razonable para salir de esta crisis y prevenir futuras y respuestas sistémicas durante COVID-19 Abordar la violencia contra las mujeres, 'Global Rights for Women, Red europea para el trabajo con perpetradores de violencia doméstica ( WWP EN), Pathways to Family Peace y Family Violence Project of Maine copatrocinaron esta conversación. Los oradores incluyeron a Melissa Petrangelo Scaia, Jon Heath y Alessandra Pauncz, en representación de las organizaciones co-anfitrionas. Las directrices de WWP EN sobre el trabajo de los autores de la transición a un formato en línea se compartieron con atención a la seguridad de las víctimas",
+#         "titleses": "Teach-In: Cómo vencer al capitalismo del coronavirus: Parte I",
+#         "descriptionses": "Primera ronda de enseñanza en línea de Haymarket Books con Naomi Klein, Astra Taylor y Keeanga-Yamahtta Taylor, con una actuación musical de Lia Rose, centrándose en cómo las ideas que fueron descartadas como demasiado radicales hace solo una semana son comienza a parecer el único camino razonable para salir de esta crisis y prevenir futuras y respuestas sistémicas durante COVID-19 Abordar la violencia contra las mujeres, 'Global Rights for Women, Red europea para el trabajo con perpetradores de violencia doméstica ( WWP EN), Pathways to Family Peace y Family Violence Project of Maine copatrocinaron esta conversación. Los oradores incluyeron a Melissa Petrangelo Scaia, Jon Heath y Alessandra Pauncz, en representación de las organizaciones co-anfitrionas. Las directrices de WWP EN sobre el trabajo de los autores de la transición a un formato en línea se compartieron con atención a la seguridad de las víctimas",
+
+
 #         "link": "https://www.haymarketbooks.org/blogs/118-how-to-beat-coronavirus-capitalism",
 #         "country": "United States",
 #         "month": "3",
@@ -6450,8 +6772,10 @@ online_data = [
         
 # "title_fr": "Teach-In: Comment vaincre le capitalisme des coronavirus: Partie II (après Bernie, au milieu d'une pandémie)",
 # "description_fr": "Deuxième partie de notre apprentissage en ligne avec Naomi Klein, Astra Taylor et Keeanga-Yamahtta Taylor, animée par Hari Kondabolu, et mettant en vedette une performance musicale de Lia Rose, expliquant comment la crise actuelle met à nu la les injustices et les inégalités extrêmes de notre système économique et social.",
-#         "title_es": "Teach-In: Cómo vencer al capitalismo del coronavirus: Parte II (después de Bernie, en medio de una pandemia)",
-#         "description_es": "Parte dos, continuación de nuestra enseñanza en línea con Naomi Klein, Astra Taylor y Keeanga-Yamahtta Taylor, conducida por Hari Kondabolu, y presentando una actuación musical de Lia Rose, discutiendo cómo la crisis actual está dejando al descubierto injusticias y desigualdades extremas de nuestro sistema económico y social",
+#         "titleses": "Teach-In: Cómo vencer al capitalismo del coronavirus: Parte II (después de Bernie, en medio de una pandemia)",
+#         "descriptionses": "Parte dos, continuación de nuestra enseñanza en línea con Naomi Klein, Astra Taylor y Keeanga-Yamahtta Taylor, conducida por Hari Kondabolu, y presentando una actuación musical de Lia Rose, discutiendo cómo la crisis actual está dejando al descubierto injusticias y desigualdades extremas de nuestro sistema económico y social",
+
+
 #         "link": "https://www.youtube.com/watch?v=6Gi5qGHRJ9c",
 #         "country": "United States",
 #         "month": "4",
@@ -6464,8 +6788,10 @@ online_data = [
         
 # "title_fr": "COVID-19 And Men",
 # "description_fr": "Webinaire sur la façon dont les hommes sont davantage touchés par COVID-19 en termes de taux de mortalité plus élevés.",
-#         "title_es": "COVID-19 y hombres",
-#         "description_es": "Seminario web sobre cómo los hombres se ven más afectados por COVID-19 en términos de tasas de mortalidad más altas",
+#         "titleses": "COVID-19 y hombres",
+#         "descriptionses": "Seminario web sobre cómo los hombres se ven más afectados por COVID-19 en términos de tasas de mortalidad más altas",
+
+
 #         "link": "https://shop.menshealthforum.org.uk/products/webinar-men-covid-19-april-20-2020-2pm?_ga=2.146902195.506116164.1587597573-367827357.1587597573",
 #         "country": "United Kingdom",
 #         "year": "2020",
@@ -6474,11 +6800,10 @@ online_data = [
 {
         "title_en": "Webinar: Indigenous Women of United States, Canada, Turtle Island on the Frontlines",
         "description_en": "During the webinar, Indigenous women leaders discussed how COVID-19 is impacting their communities and how oil and gas pipelines are being fast-tracked in their lands— violating Indigenous rights and further putting Indigenous women at risk. In this wide-ranging discussion, presenters shared calls to action, stories and wisdom, immediate needs of their communities, community-care practices, and the latest updates from various campaigns and resistance movements, focusing on Keystone XL, Line 3 and Coastal GasLink pipelines, and tar sands extraction. Featuring activists Freda Huson (Chief Howihkat), Faith Spotted Eagle (Tunkan Inajin Win), Tara Houska, and Eriel Tchekwie Deranger.",
+        "title_es": "Seminario web: Mujeres indígenas de Estados Unidos, Canadá, Turtle Island en primera línea",
+        "description_es": "Durante el seminario web, las líderes indígenas discutieron cómo COVID-19 está afectando a sus comunidades y cómo los oleoductos y gasoductos están siendo acelerados en sus tierras, violando los derechos indígenas y poniendo aún más en riesgo a las mujeres indígenas. , los presentadores compartieron llamadas a la acción, historias y sabiduría, necesidades inmediatas de sus comunidades, prácticas de atención comunitaria y las últimas actualizaciones de varias campañas y movimientos de resistencia, centrándose en las tuberías Keystone XL, Line 3 y Coastal GasLink, y alquitrán extracción de arenas. Con los activistas Freda Huson (jefe Howihkat), Faith Spotted Eagle (Tunkan Inajin Win), Tara Houska y Eriel Tchekwie Deranger ",
 
 
-
-        "title_en": "Seminario web: Mujeres indígenas de Estados Unidos, Canadá, Turtle Island en primera línea",
-        "description_en": "Durante el seminario web, las líderes indígenas discutieron cómo COVID-19 está afectando a sus comunidades y cómo los oleoductos y gasoductos están siendo acelerados en sus tierras, violando los derechos indígenas y poniendo aún más en riesgo a las mujeres indígenas. , los presentadores compartieron llamadas a la acción, historias y sabiduría, necesidades inmediatas de sus comunidades, prácticas de atención comunitaria y las últimas actualizaciones de varias campañas y movimientos de resistencia, centrándose en las tuberías Keystone XL, Line 3 y Coastal GasLink, y alquitrán extracción de arenas. Con los activistas Freda Huson (jefe Howihkat), Faith Spotted Eagle (Tunkan Inajin Win), Tara Houska y Eriel Tchekwie Deranger ",
         "link": "https://www.youtube.com/watch?v=FPqVs_2KWdM",
         "category": "democratic institutions",
         "country": "United States, Canada, Australia",
@@ -6488,11 +6813,10 @@ online_data = [
     {
         "title_en": "Webinar: Indigenous Women of Brazil and Ecuador on the Frontlines",
         "description_en": "Indigenous women leaders of the Ecuadorian and Brazilian Amazon united to discuss how the pandemic is impacting their communities, as they face ongoing deforestation, oil extraction, and Indigenous rights violations in their territories. As across Turtle Island, Indigenous peoples of the Global South are at higher risk of contracting COVID-19 due to lack of resources and health disparities brought on by centuries of colonial policies and environmental racism. These leaders shared their stories, analysis, wisdom, and advocacy for Indigenous rights, protection of forests, water, communities, and the global climate, and addressed the ongoing political and economic struggles affecting their Amazonian territories.",
+        "title_es": "Seminario web: Mujeres indígenas de Brasil y Ecuador en primera línea",
+        "description_es": "Mujeres líderes indígenas de la Amazonía ecuatoriana y brasileña se unieron para discutir cómo la pandemia está afectando a sus comunidades, ya que se enfrentan a la deforestación, la extracción de petróleo y las violaciones de los derechos indígenas en sus territorios. En Turtle Island, los pueblos indígenas de El Sur Global está en mayor riesgo de contraer COVID-19 debido a la falta de recursos y las disparidades de salud provocadas por siglos de políticas coloniales y racismo ambiental. Estos líderes compartieron sus historias, análisis, sabiduría y defensa de los derechos indígenas y la protección de los bosques. , el agua, las comunidades y el clima global, y abordaron las luchas políticas y económicas en curso que afectan a sus territorios amazónicos ",
 
 
-
-        "title_en": "Seminario web: Mujeres indígenas de Brasil y Ecuador en primera línea",
-        "description_en": "Mujeres líderes indígenas de la Amazonía ecuatoriana y brasileña se unieron para discutir cómo la pandemia está afectando a sus comunidades, ya que se enfrentan a la deforestación, la extracción de petróleo y las violaciones de los derechos indígenas en sus territorios. En Turtle Island, los pueblos indígenas de El Sur Global está en mayor riesgo de contraer COVID-19 debido a la falta de recursos y las disparidades de salud provocadas por siglos de políticas coloniales y racismo ambiental. Estos líderes compartieron sus historias, análisis, sabiduría y defensa de los derechos indígenas y la protección de los bosques. , el agua, las comunidades y el clima global, y abordaron las luchas políticas y económicas en curso que afectan a sus territorios amazónicos ",
         "link": "https://www.youtube.com/watch?v=g30ZrwcFgVY",
         "category": "democratic institutions",
         "country": "Latin America and the Caribbean",
@@ -6502,11 +6826,10 @@ online_data = [
     {
         "title_en": "Audio Call: Gender and COVID-19",
         "description_en": "Why do more men die from the virus than women? And why isn’t this fact impacting research into a vaccine in the U.S.? They’re two of the pandemic’s most pressing — and confounding — questions. Listen as the speakers dive deep into the role of gender and data in Covid-19. With special guest Caroline Criado Perez, author of the award-winning book 'Invisible Women.' Hosted by Francesca Donner, gender director at The Times and editor of the Times newsletter In Her Words; and Alisha Haridasani Gupta, gender reporter for In Her Words.",
+        "title_es": "Llamada de audio: género y COVID-19",
+        "description_es": "¿Por qué mueren más hombres por el virus que las mujeres? ¿Y por qué este hecho no afecta la investigación sobre una vacuna en los Estados Unidos? Son dos de las preguntas más apremiantes y confusas de la pandemia. Escuche como los oradores profundizan en el papel del género y los datos en Covid-19. Con la invitada especial Caroline Criado Perez, autora del galardonado libro 'Invisible Women'. Organizado por Francesca Donner, directora de género en The Times y editora del boletín de noticias In Her Words; y Alisha Haridasani Gupta, reportera de género de In Her Words ",
 
 
-
-        "title_en": "Llamada de audio: género y COVID-19",
-        "description_en": "¿Por qué mueren más hombres por el virus que las mujeres? ¿Y por qué este hecho no afecta la investigación sobre una vacuna en los Estados Unidos? Son dos de las preguntas más apremiantes y confusas de la pandemia. Escuche como los oradores profundizan en el papel del género y los datos en Covid-19. Con la invitada especial Caroline Criado Perez, autora del galardonado libro 'Invisible Women'. Organizado por Francesca Donner, directora de género en The Times y editora del boletín de noticias In Her Words; y Alisha Haridasani Gupta, reportera de género de In Her Words ",
         "link": "https://www.youtube.com/watch?v=waD0Qe7RA50&feature=youtu.be",
         "category": "gendered health impacts",
         "country": "Global",
@@ -6516,11 +6839,10 @@ online_data = [
     {
         "title_en": "Webinar: Global Health Security: Delivered by Women During COVID-19 and Beyond",
         "description_en": "This webinar highlights perspectives on a people-centric and human rights-based approach to health security that is focused on delivering health for all through stronger health systems, a properly-equipped and financed health workforce, and responding to health crises while maintaining core women’s health services. Speakers shared recommendations and actions to propel advocacy to support investments in and commitments to women in the health workforce. Speakers included Michèle Boccoz, Howard Catton, Dr. Gvantsa Khizanishvili, Sarah Hillware, Susan Papp, and Mwenya Kasonde.",
+        "title_es": "Seminario web: Seguridad sanitaria mundial: impartido por mujeres durante COVID-19 y más allá",
+        "description_es": "Este seminario web resalta las perspectivas sobre un enfoque centrado en las personas y los derechos humanos para la seguridad de la salud que se enfoca en brindar salud para todos a través de sistemas de salud más fuertes, una fuerza laboral de salud adecuadamente equipada y financiada, y responder a las crisis de salud mientras se mantienen los servicios básicos de salud de la mujer. Los oradores compartieron recomendaciones y acciones para impulsar la defensa para apoyar las inversiones y los compromisos con las mujeres en la fuerza laboral de la salud. Los oradores incluyeron a Michèle Boccoz, Howard Catton, Dr. Gvantsa Khizanishvili, Sarah Hillware, Susan Papp y Mwenya Kasonde ",
 
 
-
-        "title_en": "Seminario web: Seguridad sanitaria mundial: impartido por mujeres durante COVID-19 y más allá",
-        "description_en": "Este seminario web resalta las perspectivas sobre un enfoque centrado en las personas y los derechos humanos para la seguridad de la salud que se enfoca en brindar salud para todos a través de sistemas de salud más fuertes, una fuerza laboral de salud adecuadamente equipada y financiada, y responder a las crisis de salud mientras se mantienen los servicios básicos de salud de la mujer. Los oradores compartieron recomendaciones y acciones para impulsar la defensa para apoyar las inversiones y los compromisos con las mujeres en la fuerza laboral de la salud. Los oradores incluyeron a Michèle Boccoz, Howard Catton, Dr. Gvantsa Khizanishvili, Sarah Hillware, Susan Papp y Mwenya Kasonde ",
         "link": "https://www.youtube.com/watch?v=9At0j07G7-o",
         "category": "healthcare",
         "country": "Global",
@@ -6530,11 +6852,10 @@ online_data = [
     {
         "title_en": "Webinar: Respond, Don't React: Gender-Responsive Programming in Times of Crisis",
         "description_en": "As part of the series, 'COVID-19 & Gender: Living up to the Challenge' hosted by International Gender Champions, this first session explored human rights threats and humanitarian and economic needs that should be forefront in our minds. How do we ensure women’s meaningful participation in shaping global and national policies, while raising their voices in the media? Featured Ms. Michelle Bachelet, UN High Commissioner for Human Rights; Ms. Sabra Bano, Director, Gender Concerns International; Mr. Martin Chungong, Secretary-General, Inter-Parliamentary Union; and Ms. Katja Iversen, President/CEO, Women Deliver. Moderated by H.E. Mr. Jürg Lauber, Permanent Representative of Switzerland to the UN.",
+        "title_es": "Seminario web: responder, no reaccionar: programación sensible al género en tiempos de crisis",
+        "description_es": "Como parte de la serie, 'COVID-19 & Gender: Living to the Challenge', organizado por International Gender Champions, esta primera sesión exploró las amenazas a los derechos humanos y las necesidades humanitarias y económicas que deben estar en primer plano en nuestras mentes ¿Cómo garantizamos la participación significativa de las mujeres en la configuración de las políticas mundiales y nacionales, al mismo tiempo que alzamos la voz en los medios de comunicación? Chungong, Secretario General, Unión Interparlamentaria, y la Sra. Katja Iversen, Presidenta / Directora Ejecutiva, Women Deliver. Moderada por SE Sr. Jürg Lauber, Representante Permanente de Suiza ante la ONU ",
 
 
-
-        "title_en": "Seminario web: responder, no reaccionar: programación sensible al género en tiempos de crisis",
-        "description_en": "Como parte de la serie, 'COVID-19 & Gender: Living to the Challenge', organizado por International Gender Champions, esta primera sesión exploró las amenazas a los derechos humanos y las necesidades humanitarias y económicas que deben estar en primer plano en nuestras mentes ¿Cómo garantizamos la participación significativa de las mujeres en la configuración de las políticas mundiales y nacionales, al mismo tiempo que alzamos la voz en los medios de comunicación? Chungong, Secretario General, Unión Interparlamentaria, y la Sra. Katja Iversen, Presidenta / Directora Ejecutiva, Women Deliver. Moderada por SE Sr. Jürg Lauber, Representante Permanente de Suiza ante la ONU ",
         "link": "https://www.youtube.com/watch?v=F1B80cKEScc",
         "category": "gendered health impacts",
         "country": "Global",
@@ -6544,11 +6865,10 @@ online_data = [
     {
         "title_en": "Webinar: Approaching COVID-19 Risk and Response through a Gender Lens",
         "description_en": "By applying a gender lens to this pandemic, researchers and policy makers can better assess differential risks and target responses to ensure already-vulnerable populations don’t fall even farther behind. This discussion with CGD experts, external researchers, practitioners, and advocates focused on how a gender lens helps us better understand and respond to COVID-19. Featured speakers included Gary Barker, President and CEO, Promundo; Carleigh Krubiner, Policy Fellow, Center for Global Development; Amber Peterman, Associate Research Professor, UNC Chapel Hill; Crystal Simeoni, Economic Justice Lead, FEMNET; Clare Wenham, Assistant Professor of Global Health Policy, LSE; Olabukunola Williams, Executive Director, education as a Vaccine.",
+        "title_es": "Seminario web: Aproximación al riesgo y respuesta de COVID-19 a través de una lente de género",
+        "description_es": "Al aplicar una lente de género a esta pandemia, los investigadores y los encargados de formular políticas pueden evaluar mejor los riesgos diferenciales y las respuestas específicas para garantizar que las poblaciones ya vulnerables no se retrasen aún más. Esta discusión con expertos en CGD, investigadores externos, profesionales y los defensores se centraron en cómo una lente de género nos ayuda a comprender y responder mejor a COVID-19. Los oradores destacados incluyeron a Gary Barker, presidente y director ejecutivo de Promundo; Carleigh Krubiner, investigadora de políticas del Centro para el Desarrollo Global; Amber Peterman, profesora de investigación asociada, UNC Chapel Hill; Crystal Simeoni, Líder de Justicia Económica, FEMNET; Clare Wenham, Profesora Asistente de Política de Salud Global, LSE; Olabukunola Williams, Director Ejecutivo, educación como vacuna ",
 
 
-
-        "title_en": "Seminario web: Aproximación al riesgo y respuesta de COVID-19 a través de una lente de género",
-        "description_en": "Al aplicar una lente de género a esta pandemia, los investigadores y los encargados de formular políticas pueden evaluar mejor los riesgos diferenciales y las respuestas específicas para garantizar que las poblaciones ya vulnerables no se retrasen aún más. Esta discusión con expertos en CGD, investigadores externos, profesionales y los defensores se centraron en cómo una lente de género nos ayuda a comprender y responder mejor a COVID-19. Los oradores destacados incluyeron a Gary Barker, presidente y director ejecutivo de Promundo; Carleigh Krubiner, investigadora de políticas del Centro para el Desarrollo Global; Amber Peterman, profesora de investigación asociada, UNC Chapel Hill; Crystal Simeoni, Líder de Justicia Económica, FEMNET; Clare Wenham, Profesora Asistente de Política de Salud Global, LSE; Olabukunola Williams, Director Ejecutivo, educación como vacuna ",
         "link": "https://www.cgdev.org/event/approaching-covid-19-risk-and-response-through-gender-lens",
         "category": "gendered health impacts",
         "country": "Global",
@@ -6558,11 +6878,10 @@ online_data = [
     {
         "title_en": "Webinar: COVID-19: A Gender Perspective",
         "description_en": "The UN has launched a major humanitarian response to mitigate COVID-19’s impact on the world’s most vulnerable communities. Women and girls are both uniquely impacted and critical to mitigation strategies during this humanitarian crisis. Featuring: Rt Hon David Miliband; Ms. Anita Bhatia; The Hon. Eric Schwartz; Ms. Mavic Cabrera-Balleza; and Dr. Orzala Nemat. Moderated by Ambassador Melanne Verveer. Hosted by the Georgetown Institute for Women, Peace and Security in partnership with The LSE Centre for Women, Peace and Security; Monash Gender, Peace and Security; The PRIO Centre on Gender, Peace and Security; and The Kofi Annan International Peacekeeping Training Centre.",
+        "title_es": "Seminario web: COVID-19: Una perspectiva de género",
+        "description_es": "La ONU ha lanzado una importante respuesta humanitaria para mitigar el impacto de COVID-19 en las comunidades más vulnerables del mundo. Las mujeres y las niñas tienen un impacto único y son críticas para las estrategias de mitigación durante esta crisis humanitaria. Con: Rt Hon David Miliband; Sra. Anita Bhatia; El Honorable Eric Schwartz; Sra. Mavic Cabrera-Balleza; y la Dra. Orzala Nemat. Moderada por la Embajadora Melanne Verveer. Organizada por el Instituto de Georgetown para Mujeres, Paz y Seguridad en colaboración con el Centro LSE para Mujeres, Paz y seguridad; Monash Género, paz y seguridad; El Centro PRIO sobre género, paz y seguridad; y el Centro internacional de capacitación para el mantenimiento de la paz Kofi Annan ",
 
 
-
-        "title_en": "Seminario web: COVID-19: Una perspectiva de género",
-        "description_en": "La ONU ha lanzado una importante respuesta humanitaria para mitigar el impacto de COVID-19 en las comunidades más vulnerables del mundo. Las mujeres y las niñas tienen un impacto único y son críticas para las estrategias de mitigación durante esta crisis humanitaria. Con: Rt Hon David Miliband; Sra. Anita Bhatia; El Honorable Eric Schwartz; Sra. Mavic Cabrera-Balleza; y la Dra. Orzala Nemat. Moderada por la Embajadora Melanne Verveer. Organizada por el Instituto de Georgetown para Mujeres, Paz y Seguridad en colaboración con el Centro LSE para Mujeres, Paz y seguridad; Monash Género, paz y seguridad; El Centro PRIO sobre género, paz y seguridad; y el Centro internacional de capacitación para el mantenimiento de la paz Kofi Annan ",
         "link": "https://giwps.georgetown.edu/event/covid-19-a-gender-perspective-on-the-growing-humanitarian-crisis/",
         "category": "gendered health impacts",
         "country": "Global",
@@ -6572,11 +6891,10 @@ online_data = [
     {
         "title_en": "Webinar: The Feminist Economics of COVID-19",
         "description_en": "Focusing on the household and the organisation of work – two central categories in feminist economic thinking – the talk sketches an analysis of how the situation was prior to the pandemic and how it has changed, postulating that the crisis is reinforcing the privatisation of social reproduction, with significant implications for gender, class and race inequalities. The pandemic is also reconfiguring what is considered to be essential work and its value and, although the essential workers are currently exposed to significant health risks, this bears a transformative potential that should inform feminist responses. Speaker Sara Stevano, Moderator Latifahaida Binti Abdul Latif.",
+        "title_es": "Seminario web: La economía feminista de COVID-19",
+        "description_es": "Centrándose en el hogar y la organización del trabajo - dos categorías centrales en el pensamiento económico feminista - la charla esboza un análisis de cómo era la situación antes de la pandemia y cómo ha cambiado, postulando que la crisis está reforzando la situación privatización de la reproducción social, con implicaciones significativas para las desigualdades de género, clase y raza. La pandemia también está reconfigurando lo que se considera trabajo esencial y su valor y, aunque los trabajadores esenciales están actualmente expuestos a riesgos de salud significativos, esto conlleva un potencial transformador eso debería informar las respuestas feministas. Ponente Sara Stevano, Moderadora Latifahaida Binti Abdul Latif ",
 
 
-
-        "title_en": "Seminario web: La economía feminista de COVID-19",
-        "description_en": "Centrándose en el hogar y la organización del trabajo - dos categorías centrales en el pensamiento económico feminista - la charla esboza un análisis de cómo era la situación antes de la pandemia y cómo ha cambiado, postulando que la crisis está reforzando la situación privatización de la reproducción social, con implicaciones significativas para las desigualdades de género, clase y raza. La pandemia también está reconfigurando lo que se considera trabajo esencial y su valor y, aunque los trabajadores esenciales están actualmente expuestos a riesgos de salud significativos, esto conlleva un potencial transformador eso debería informar las respuestas feministas. Ponente Sara Stevano, Moderadora Latifahaida Binti Abdul Latif ",
         "link": "https://www.youtube.com/watch?v=KF_jfLuQgbQ",
         "category": "economy",
         "country": "Global",
@@ -6586,11 +6904,10 @@ online_data = [
     {
         "title_en": "COVID-19 & US Sanctions on Iran: Webinar with Iranian-American Women/Gender-Nonconforming People",
         "description_en": "Fatemeh Kershavaz, Leila Zand, Salome, MC, Sima Shakhsari, Sussan Deyhim, and Sussan Tahmasebi discuss the crisis in Iran from a personal view: their connections to the nation, how this has affected their loved ones back home, how Iranians — the people and the government — are reacting; about the sanctions that are crippling Iran’s healthcare system; and suggestions for what people can do. Hosted by CODEPINK, a women-led grassroots organization working to end U.S. wars and militarism, support peace and human rights initiatives, and redirect our tax dollars into healthcare, education, green jobs and other life-affirming programs",
+        "title_es": "COVID-19 y sanciones de Estados Unidos contra Irán: seminario web con mujeres iraníes-estadounidenses / personas no conformes con el género",
+        "description_es": "Fatemeh Kershavaz, Leila Zand, Salome, MC, Sima Shakhsari, Sussan Deyhim y Sussan Tahmasebi discuten la crisis en Irán desde un punto de vista personal: sus conexiones con la nación, cómo esto ha afectado a sus seres queridos en casa, cómo reaccionan los iraníes, el pueblo y el gobierno, sobre las sanciones que están paralizando el sistema de salud de Irán y sugerencias sobre lo que la gente puede hacer. e iniciativas de derechos humanos, y redirigir nuestros impuestos a la salud, la educación, los empleos verdes y otros programas que afirman la vida ",
 
 
-
-        "title_en": "COVID-19 y sanciones de Estados Unidos contra Irán: seminario web con mujeres iraníes-estadounidenses / personas no conformes con el género",
-        "description_en": "Fatemeh Kershavaz, Leila Zand, Salome, MC, Sima Shakhsari, Sussan Deyhim y Sussan Tahmasebi discuten la crisis en Irán desde un punto de vista personal: sus conexiones con la nación, cómo esto ha afectado a sus seres queridos en casa, cómo reaccionan los iraníes, el pueblo y el gobierno, sobre las sanciones que están paralizando el sistema de salud de Irán y sugerencias sobre lo que la gente puede hacer. e iniciativas de derechos humanos, y redirigir nuestros impuestos a la salud, la educación, los empleos verdes y otros programas que afirman la vida ",
         "link": "https://www.youtube.com/watch?v=QucuOsj3qCw&t=533s",
         "category": "economy",
         "country": "United States, Iran",
@@ -6600,11 +6917,10 @@ online_data = [
     {
         "title_en": "Audio Call: African Feminist and Anti-Capitalist Responses to COVID-19: labor, Health and Ecological Questions",
         "description_en": "Ruth Nyambura is in conversation with Salimah Valiani, Max Ajl and Ruth Castel-Branco",
+        "title_es": "Llamada de audio: respuestas feministas y anticapitalistas africanas a COVID-19: cuestiones laborales, de salud y ecológicas",
+        "description_es": "Ruth Nyambura está conversando con Salimah Valiani, Max Ajl y Ruth Castel-Branco",
 
 
-
-        "title_en": "Llamada de audio: respuestas feministas y anticapitalistas africanas a COVID-19: cuestiones laborales, de salud y ecológicas",
-        "description_en": "Ruth Nyambura está conversando con Salimah Valiani, Max Ajl y Ruth Castel-Branco",
         "link": "https://anchor.fm/african-ecofeminisms/episodes/African-Feminist-and-Anti-Capitalist-Responses-to-COVID-19-labor--Health-and-Ecological-Questions-eca7o6",
         "category": "healthcare, economy, labor, democratic institutions",
         "country": "Anglophone Africa, Global",
@@ -6614,11 +6930,10 @@ online_data = [
     {
         "title_en": "Webinar: Economic and Social Impacts of COVID-19",
         "description_en": "UN Chief Economist Elliott Harris and experts from UN DESA (Department of Economic and Social Affairs) share their latest findings on the social and economic impacts of COVID-19 as well as the policy recommendations.",
+        "title_es": "Seminario web: Impactos económicos y sociales de COVID-19",
+        "description_es": "El economista jefe de la ONU, Elliott Harris, y expertos del DESA (Departamento de Asuntos Económicos y Sociales) de la ONU comparten sus últimos hallazgos sobre los impactos sociales y económicos de COVID-19, así como las recomendaciones de política",
 
 
-
-        "title_en": "Seminario web: Impactos económicos y sociales de COVID-19",
-        "description_en": "El economista jefe de la ONU, Elliott Harris, y expertos del DESA (Departamento de Asuntos Económicos y Sociales) de la ONU comparten sus últimos hallazgos sobre los impactos sociales y económicos de COVID-19, así como las recomendaciones de política",
         "link": "https://www.facebook.com/joinundesa/videos/vb.121245281298034/2506983762950816/?type=2&theater",
         "category": "economy",
         "country": "Global",
@@ -6628,11 +6943,10 @@ online_data = [
     {
         "title_en": "Webinar: Climate Justice in the Time of COVID-19: 5 Lessons From Women and Girls Leading the Fight",
         "description_en": "Hosted by the Skoll Foundation, which canceled its 2020 World Forum with the planned theme of Collective Strength, this webinar featured Mary Robinson, former president of Ireland and UN High Commissioner for Human Rights;  Xiye Bastida, high school senior and leading youth climate activist; Hindou Oumarou Ibrahim, environmental activist and co-chair of the International Indigenous Peoples Forum on Climate Change; Dr. Katharine Wilkinson, Project Drawdown; and Megha Agrawal Sood, director of programs at Exposure Labs, the production company behind the Emmy Award-winning films Chasing Ice and Chasing Coral. Hosted in partnership with Connected Women Leaders and The Rockefeller Foundation.",
+        "title_es": "Seminario web: Justicia climática en tiempos de COVID-19: 5 lecciones de mujeres y niñas liderando la lucha",
+        "description_es": "Organizado por la Fundación Skoll, que canceló su Foro Mundial 2020 con el tema planeado de Fuerza Colectiva, este seminario web contó con Mary Robinson, ex presidenta de Irlanda y Alta Comisionada de las Naciones Unidas para los Derechos Humanos; Xiye Bastida, estudiante de último año de secundaria y activista climático juvenil líder; Hindou Oumarou Ibrahim, activista ambiental y copresidente del Foro Internacional de los Pueblos Indígenas sobre Cambio Climático; Dra. Katharine Wilkinson, Project Drawdown; y Megha Agrawal Sood, directora de programas en Exposure Labs, la compañía de producción detrás del Películas ganadoras de un Emmy Chasing Ice y Chasing Coral. Presentadas en asociación con Connected Women Leaders y The Rockefeller Foundation ",
 
 
-
-        "title_en": "Seminario web: Justicia climática en tiempos de COVID-19: 5 lecciones de mujeres y niñas liderando la lucha",
-        "description_en": "Organizado por la Fundación Skoll, que canceló su Foro Mundial 2020 con el tema planeado de Fuerza Colectiva, este seminario web contó con Mary Robinson, ex presidenta de Irlanda y Alta Comisionada de las Naciones Unidas para los Derechos Humanos; Xiye Bastida, estudiante de último año de secundaria y activista climático juvenil líder; Hindou Oumarou Ibrahim, activista ambiental y copresidente del Foro Internacional de los Pueblos Indígenas sobre Cambio Climático; Dra. Katharine Wilkinson, Project Drawdown; y Megha Agrawal Sood, directora de programas en Exposure Labs, la compañía de producción detrás del Películas ganadoras de un Emmy Chasing Ice y Chasing Coral. Presentadas en asociación con Connected Women Leaders y The Rockefeller Foundation ",
         "link": "https://www.rockefellerfoundation.org/blog/climate-justice-in-the-time-of-covid-19-5-lessons-from-women-and-girls-leading-the-fight/",
         "category": "democratic institutions",
         "country": "Global",
@@ -6642,11 +6956,10 @@ online_data = [
     {
         "title_en": "Webinar: Impacts of COVID-19 on Women & Girls",
         "description_en": "One of six webinars in a series hosted by the GBV Area of Responsibility under the Inter-Agency Standing Committee cluster approach. The GBV AoR works collectively to improve the effectiveness and accountability of humanitarian response for the prevention, risk mitigation and response to all forms of gender-based violence, to ensure that the agency and capacity of survivors is recognised and reinforced and that primary prevention efforts are effectively employed to address underlying gender inequality. The GBV AoR Coordination Team and invited speakers shared expertise and best practices throughout the series. Each webinar was also offered in French.",
+        "title_es": "Seminario web: Impactos de COVID-19 en mujeres y niñas",
+        "description_es": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de GBV bajo el enfoque de clúster del Comité Permanente Interinstitucional. El GBV AoR trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de las sobrevivientes sean reconocidas y reforzadas y que los esfuerzos de prevención primaria se empleen de manera efectiva para abordar la desigualdad de género subyacente. a lo largo de la serie. Cada seminario web también se ofreció en francés ",
 
 
-
-        "title_en": "Seminario web: Impactos de COVID-19 en mujeres y niñas",
-        "description_en": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de GBV bajo el enfoque de clúster del Comité Permanente Interinstitucional. El GBV AoR trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de las sobrevivientes sean reconocidas y reforzadas y que los esfuerzos de prevención primaria se empleen de manera efectiva para abordar la desigualdad de género subyacente. a lo largo de la serie. Cada seminario web también se ofreció en francés ",
         "link": "https://drive.google.com/file/d/19Ui3bZZsmdDZP7wWXRF7f6SQzpBfL-EJ/view",
         "category": "gender-based violence, healthcare, gendered health impacts",
         "country": "Global",
@@ -6656,11 +6969,10 @@ online_data = [
     {
         "title_en": "Webinar: Remote GBV Assessments and Transitioning to Remote Service Delivery",
         "description_en": "One of six webinars in a series hosted by the GBV Area of Responsibility under the Inter-Agency Standing Committee cluster approach. The GBV AoR works collectively to improve the effectiveness and accountability of humanitarian response for the prevention, risk mitigation and response to all forms of gender-based violence, to ensure that the agency and capacity of survivors is recognised and reinforced and that primary prevention efforts are effectively employed to address underlying gender inequality. The GBV AoR Coordination Team and invited speakers shared expertise and best practices throughout the series. Each webinar was also offered in French.",
+        "title_es": "Webinar: Evaluaciones remotas de GBV y transición a la prestación de servicios remotos",
+        "description_es": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de GBV bajo el enfoque de clúster del Comité Permanente Interinstitucional. El GBV AoR trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de las sobrevivientes sean reconocidas y reforzadas y que los esfuerzos de prevención primaria se empleen de manera efectiva para abordar la desigualdad de género subyacente. a lo largo de la serie. Cada seminario web también se ofreció en francés ",
 
 
-
-        "title_en": "Webinar: Evaluaciones remotas de GBV y transición a la prestación de servicios remotos",
-        "description_en": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de GBV bajo el enfoque de clúster del Comité Permanente Interinstitucional. El GBV AoR trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de las sobrevivientes sean reconocidas y reforzadas y que los esfuerzos de prevención primaria se empleen de manera efectiva para abordar la desigualdad de género subyacente. a lo largo de la serie. Cada seminario web también se ofreció en francés ",
         "link": "https://drive.google.com/file/d/1BK6c3D0Nic_Ih5NDCIyW92Sdfp_0XVvl/view",
         "category": "gender-based violence",
         "country": "Global",
@@ -6670,11 +6982,10 @@ online_data = [
     {
         "title_en": "Webinar: Ensuring Continuity of Essential Health Services for GBV Survivors During the COVID-19 Crisis",
         "description_en": "One of six webinars in a series hosted by the GBV Area of Responsibility under the Inter-Agency Standing Committee cluster approach. The GBV AoR works collectively to improve the effectiveness and accountability of humanitarian response for the prevention, risk mitigation and response to all forms of gender-based violence, to ensure that the agency and capacity of survivors is recognised and reinforced and that primary prevention efforts are effectively employed to address underlying gender inequality. The GBV AoR Coordination Team and invited speakers shared expertise and best practices throughout the series. Each webinar was also offered in French.",
+        "title_es": "Seminario web: garantizar la continuidad de los servicios de salud esenciales para los sobrevivientes de VG durante la crisis de COVID-19",
+        "description_es": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de GBV bajo el enfoque de clúster del Comité Permanente Interinstitucional. El GBV AoR trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de las sobrevivientes sean reconocidas y reforzadas y que los esfuerzos de prevención primaria se empleen de manera efectiva para abordar la desigualdad de género subyacente. a lo largo de la serie. Cada seminario web también se ofreció en francés ",
 
 
-
-        "title_en": "Seminario web: garantizar la continuidad de los servicios de salud esenciales para los sobrevivientes de VG durante la crisis de COVID-19",
-        "description_en": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de GBV bajo el enfoque de clúster del Comité Permanente Interinstitucional. El GBV AoR trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de las sobrevivientes sean reconocidas y reforzadas y que los esfuerzos de prevención primaria se empleen de manera efectiva para abordar la desigualdad de género subyacente. a lo largo de la serie. Cada seminario web también se ofreció en francés ",
         "link": "https://drive.google.com/file/d/1Ca5GexYHqZpsGC1HNRmD-SzNSKL387ds/view",
         "category": "gender-based violence, healthcare, gendered health impacts",
         "country": "Global",
@@ -6684,11 +6995,10 @@ online_data = [
     {
         "title_en": "Webinar: Mobilizing Resources for GBV Programming and Coordination and the COVID-19 Response",
         "description_en": "One of six webinars in a series hosted by the GBV Area of Responsibility under the Inter-Agency Standing Committee cluster approach. The GBV AoR works collectively to improve the effectiveness and accountability of humanitarian response for the prevention, risk mitigation and response to all forms of gender-based violence, to ensure that the agency and capacity of survivors is recognised and reinforced and that primary prevention efforts are effectively employed to address underlying gender inequality. The GBV AoR Coordination Team and invited speakers shared expertise and best practices throughout the series. Each webinar was also offered in French.",
+        "title_es": "Seminario web: Movilización de recursos para la programación y coordinación de violencia de género y la respuesta COVID-19",
+        "description_es": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de GBV bajo el enfoque de clúster del Comité Permanente Interinstitucional. El GBV AoR trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de las sobrevivientes sean reconocidas y reforzadas y que los esfuerzos de prevención primaria se empleen de manera efectiva para abordar la desigualdad de género subyacente. a lo largo de la serie. Cada seminario web también se ofreció en francés ",
 
 
-
-        "title_en": "Seminario web: Movilización de recursos para la programación y coordinación de violencia de género y la respuesta COVID-19",
-        "description_en": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de GBV bajo el enfoque de clúster del Comité Permanente Interinstitucional. El GBV AoR trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de las sobrevivientes sean reconocidas y reforzadas y que los esfuerzos de prevención primaria se empleen de manera efectiva para abordar la desigualdad de género subyacente. a lo largo de la serie. Cada seminario web también se ofreció en francés ",
         "link": "https://drive.google.com/file/d/1EPEvM84FkqudVNNGhIyIDmJZsxzk1evE/view",
         "category": "gender-based violence",
         "country": "Global",
@@ -6698,11 +7008,10 @@ online_data = [
     {
         "title_en": "Webinar: Adapting GBV Case Management During COVID-19 Response",
         "description_en": "One of six webinars in a series hosted by the GBV Area of Responsibility under the Inter-Agency Standing Committee cluster approach. The GBV AoR works collectively to improve the effectiveness and accountability of humanitarian response for the prevention, risk mitigation and response to all forms of gender-based violence, to ensure that the agency and capacity of survivors is recognised and reinforced and that primary prevention efforts are effectively employed to address underlying gender inequality. The GBV AoR Coordination Team and invited speakers shared expertise and best practices throughout the series. Each webinar was also offered in French.",
+        "title_es": "Seminario web: Adaptación de la gestión de casos de VG durante la respuesta COVID-19",
+        "description_es": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de GBV bajo el enfoque de clúster del Comité Permanente Interinstitucional. El GBV AoR trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de las sobrevivientes sean reconocidas y reforzadas y que los esfuerzos de prevención primaria se empleen de manera efectiva para abordar la desigualdad de género subyacente. a lo largo de la serie. Cada seminario web también se ofreció en francés ",
 
 
-
-        "title_en": "Seminario web: Adaptación de la gestión de casos de VG durante la respuesta COVID-19",
-        "description_en": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de GBV bajo el enfoque de clúster del Comité Permanente Interinstitucional. El GBV AoR trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de las sobrevivientes sean reconocidas y reforzadas y que los esfuerzos de prevención primaria se empleen de manera efectiva para abordar la desigualdad de género subyacente. a lo largo de la serie. Cada seminario web también se ofreció en francés ",
         "link": "https://drive.google.com/file/d/1FaedI6GEzF7rPJGAzUsJKbGp_0YsrnxH/view",
         "category": "gender-based violence",
         "country": "Global",
@@ -6712,11 +7021,10 @@ online_data = [
     {
         "title_en": "Webinar: Emerging Practices for Localization on GBV Interventions in COVID-19 Response",
         "description_en": "One of six webinars in a series hosted by the GBV Area of Responsibility under the Inter-Agency Standing Committee cluster approach. The GBV AoR works collectively to improve the effectiveness and accountability of humanitarian response for the prevention, risk mitigation and response to all forms of gender-based violence, to ensure that the agency and capacity of survivors is recognised and reinforced and that primary prevention efforts are effectively employed to address underlying gender inequality. The GBV AoR Coordination Team and invited speakers shared expertise and best practices throughout the series. Each webinar was also offered in French.",
+        "title_es": "Seminario web: prácticas emergentes para la localización de intervenciones de violencia de género en la respuesta COVID-19",
+        "description_es": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de GBV bajo el enfoque de clúster del Comité Permanente Interinstitucional. El GBV AoR trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de las sobrevivientes sean reconocidas y reforzadas y que los esfuerzos de prevención primaria se empleen de manera efectiva para abordar la desigualdad de género subyacente. a lo largo de la serie. Cada seminario web también se ofreció en francés ",
 
 
-
-        "title_en": "Seminario web: prácticas emergentes para la localización de intervenciones de violencia de género en la respuesta COVID-19",
-        "description_en": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de GBV bajo el enfoque de clúster del Comité Permanente Interinstitucional. El GBV AoR trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de las sobrevivientes sean reconocidas y reforzadas y que los esfuerzos de prevención primaria se empleen de manera efectiva para abordar la desigualdad de género subyacente. a lo largo de la serie. Cada seminario web también se ofreció en francés ",
         "link": "https://drive.google.com/file/d/1H9CSRHReeYolUiHrXmp2v2OACIHoY95nz1/view",
         "category": "gender-based violence",
         "country": "Global",
@@ -6726,11 +7034,10 @@ online_data = [
     {
         "title_en": "Webinaire: L’impact du COVID-19 sur les Femmes et les Filles",
         "description_en": "L'un des six webinaires d'une série hébergés par la Zone de Responsabilité de la Violence liée au Sexe (AoR GBV) dans le cadre de l'approche par groupes du Comité permanent interorganisations. Le GBV travaille collectivement pour améliorer l'efficacité et la responsabilité de la réponse humanitaire pour la prévention, l'atténuation des risques et la réponse à toutes les formes de violence sexiste, afin de garantir que l'agence et la capacité des survivants soient reconnues et renforcées, et que les efforts de prévention primaire sont efficacement utilisés pour s'attaquer aux inégalités sous-jacentes entre les sexes. L'équipe de coordination de l'AoR sur la violence liée au sexe et les orateurs invités ont partagé leur expertise et leurs meilleures pratiques tout au long de la série.",
+        "title_es": "Seminario web: El impacto de COVID-19 en las mujeres y las niñas",
+        "description_es": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de Violencia de Género (AoR GBV) como parte del enfoque grupal del Comité Permanente entre Agencias. El GBV trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de los sobrevivientes sean reconocidos y fortalecidos, y que Los esfuerzos de prevención primaria se utilizan efectivamente para abordar las desigualdades de género subyacentes. El equipo de coordinación de VG de AoR y los oradores invitados compartieron su experiencia y mejores prácticas a lo largo de la serie ",
 
 
-
-        "title_en": "Seminario web: El impacto de COVID-19 en las mujeres y las niñas",
-        "description_en": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de Violencia de Género (AoR GBV) como parte del enfoque grupal del Comité Permanente entre Agencias. El GBV trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de los sobrevivientes sean reconocidos y fortalecidos, y que Los esfuerzos de prevención primaria se utilizan efectivamente para abordar las desigualdades de género subyacentes. El equipo de coordinación de VG de AoR y los oradores invitados compartieron su experiencia y mejores prácticas a lo largo de la serie ",
         "link": "https://drive.google.com/file/d/19O-R-C9hydUoIhvhi9FY_z-dHGeVYvA9/view",
         "category": "gender-based violence, healthcare, gendered health impacts",
         "country": "Global",
@@ -6740,11 +7047,10 @@ online_data = [
     {
         "title_en": "Webinaire: évaluations à distance de la VBG et transition vers la prestation de services à distance - GBV AoR",
         "description_en": "L'un des six webinaires d'une série hébergés par la Zone de Responsabilité de la Violence liée au Sexe (AoR GBV) dans le cadre de l'approche par groupes du Comité permanent interorganisations. Le GBV travaille collectivement pour améliorer l'efficacité et la responsabilité de la réponse humanitaire pour la prévention, l'atténuation des risques et la réponse à toutes les formes de violence sexiste, afin de garantir que l'agence et la capacité des survivants soient reconnues et renforcées, et que les efforts de prévention primaire sont efficacement utilisés pour s'attaquer aux inégalités sous-jacentes entre les sexes. L'équipe de coordination de l'AoR sur la violence liée au sexe et les orateurs invités ont partagé leur expertise et leurs meilleures pratiques tout au long de la série.",
+        "title_es": "Seminario web: evaluaciones remotas de GBV y transición a la prestación de servicios remotos - GBV AoR",
+        "description_es": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de Violencia de Género (AoR GBV) como parte del enfoque grupal del Comité Permanente entre Agencias. El GBV trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de los sobrevivientes sean reconocidos y fortalecidos, y que Los esfuerzos de prevención primaria se utilizan efectivamente para abordar las desigualdades de género subyacentes. El equipo de coordinación de VG de AoR y los oradores invitados compartieron su experiencia y mejores prácticas a lo largo de la serie ",
 
 
-
-        "title_en": "Seminario web: evaluaciones remotas de GBV y transición a la prestación de servicios remotos - GBV AoR",
-        "description_en": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de Violencia de Género (AoR GBV) como parte del enfoque grupal del Comité Permanente entre Agencias. El GBV trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de los sobrevivientes sean reconocidos y fortalecidos, y que Los esfuerzos de prevención primaria se utilizan efectivamente para abordar las desigualdades de género subyacentes. El equipo de coordinación de VG de AoR y los oradores invitados compartieron su experiencia y mejores prácticas a lo largo de la serie ",
         "link": "https://drive.google.com/file/d/1BM6_k-aZ94U9MU6ohJk1UmgcR-iR2QID/view",
         "category": "gender-based violence",
         "country": "Global",
@@ -6754,11 +7060,10 @@ online_data = [
     {
         "title_en": "Webinaire: VBG et Covid-19: Comment Assurer la Continuite des Services Essentiels de Sante pour les Survivant(e)s des Violences Basees sur le Genre Pendant la Crise a Covid-19",
         "description_en": "L'un des six webinaires d'une série hébergés par la Zone de Responsabilité de la Violence liée au Sexe (AoR GBV) dans le cadre de l'approche par groupes du Comité permanent interorganisations. Le GBV travaille collectivement pour améliorer l'efficacité et la responsabilité de la réponse humanitaire pour la prévention, l'atténuation des risques et la réponse à toutes les formes de violence sexiste, afin de garantir que l'agence et la capacité des survivants soient reconnues et renforcées, et que les efforts de prévention primaire sont efficacement utilisés pour s'attaquer aux inégalités sous-jacentes entre les sexes. L'équipe de coordination de l'AoR sur la violence liée au sexe et les orateurs invités ont partagé leur expertise et leurs meilleures pratiques tout au long de la série.",
+        "title_es": "Seminario web: VBG y Covid-19: Cómo garantizar servicios de salud esenciales continuos para sobrevivientes de violencia de género durante la crisis en Covid-19",
+        "description_es": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de Violencia de Género (AoR GBV) como parte del enfoque grupal del Comité Permanente entre Agencias. El GBV trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de los sobrevivientes sean reconocidos y fortalecidos, y que Los esfuerzos de prevención primaria se utilizan de manera efectiva para abordar las desigualdades de género subyacentes.El equipo de coordinación de VG de AoR y los oradores invitados compartieron su experiencia y mejores prácticas a lo largo de a lo largo de la serie ",
 
 
-
-        "title_en": "Seminario web: VBG y Covid-19: Cómo garantizar servicios de salud esenciales continuos para sobrevivientes de violencia de género durante la crisis en Covid-19",
-        "description_en": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de Violencia de Género (AoR GBV) como parte del enfoque grupal del Comité Permanente entre Agencias. El GBV trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de los sobrevivientes sean reconocidos y fortalecidos, y que Los esfuerzos de prevención primaria se utilizan de manera efectiva para abordar las desigualdades de género subyacentes.El equipo de coordinación de VG de AoR y los oradores invitados compartieron su experiencia y mejores prácticas a lo largo de a lo largo de la serie ",
         "link": "https://drive.google.com/file/d/1Cb6kQKkYUFbawS9UfA7Z1kSFrmcgfzQW/view",
         "category": "gender-based violence, healthcare, gendered health impacts",
         "country": "Global",
@@ -6768,11 +7073,10 @@ online_data = [
     {
         "title_en": "Webinaire: Mobilisation des Ressources pour les Programmes de Lutte Contre les VBG Coordination dans la Reponse Humanitaire liée au COVID-19",
         "description_en": "L'un des six webinaires d'une série hébergés par la Zone de Responsabilité de la Violence liée au Sexe (AoR GBV) dans le cadre de l'approche par groupes du Comité permanent interorganisations. Le GBV travaille collectivement pour améliorer l'efficacité et la responsabilité de la réponse humanitaire pour la prévention, l'atténuation des risques et la réponse à toutes les formes de violence sexiste, afin de garantir que l'agence et la capacité des survivants soient reconnues et renforcées, et que les efforts de prévention primaire sont efficacement utilisés pour s'attaquer aux inégalités sous-jacentes entre les sexes. L'équipe de coordination de l'AoR sur la violence liée au sexe et les orateurs invités ont partagé leur expertise et leurs meilleures pratiques tout au long de la série.",
+        "title_es": "Seminario web: Movilización de recursos para la coordinación de programas de control de violencia de género en la respuesta humanitaria vinculada a COVID-19",
+        "description_es": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de Violencia de Género (AoR GBV) como parte del enfoque grupal del Comité Permanente entre Agencias. El GBV trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de los sobrevivientes sean reconocidos y fortalecidos, y que Los esfuerzos de prevención primaria se utilizan de manera efectiva para abordar las desigualdades de género subyacentes.El equipo de coordinación de VG de AoR y los oradores invitados compartieron su experiencia y mejores prácticas a lo largo de a lo largo de la serie ",
 
 
-
-        "title_en": "Seminario web: Movilización de recursos para la coordinación de programas de control de violencia de género en la respuesta humanitaria vinculada a COVID-19",
-        "description_en": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de Violencia de Género (AoR GBV) como parte del enfoque grupal del Comité Permanente entre Agencias. El GBV trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de los sobrevivientes sean reconocidos y fortalecidos, y que Los esfuerzos de prevención primaria se utilizan de manera efectiva para abordar las desigualdades de género subyacentes.El equipo de coordinación de VG de AoR y los oradores invitados compartieron su experiencia y mejores prácticas a lo largo de a lo largo de la serie ",
         "link": "https://drive.google.com/file/d/1VTlu6ODlrPrZdCnXFrtq_uZlKe80tug2/view",
         "category": "gender-based violence",
         "country": "Global",
@@ -6782,11 +7086,10 @@ online_data = [
     {
         "title_en": "Webinaire: COVID-19: comment adapter la gestion des cas de VBG?",
         "description_en": "L'un des six webinaires d'une série hébergés par la Zone de Responsabilité de la Violence liée au Sexe (AoR GBV) dans le cadre de l'approche par groupes du Comité permanent interorganisations. Le GBV travaille collectivement pour améliorer l'efficacité et la responsabilité de la réponse humanitaire pour la prévention, l'atténuation des risques et la réponse à toutes les formes de violence sexiste, afin de garantir que l'agence et la capacité des survivants soient reconnues et renforcées, et que les efforts de prévention primaire sont efficacement utilisés pour s'attaquer aux inégalités sous-jacentes entre les sexes. L'équipe de coordination de l'AoR sur la violence liée au sexe et les orateurs invités ont partagé leur expertise et leurs meilleures pratiques tout au long de la série.",
+        "title_es": "Seminario web: COVID-19: ¿cómo adaptar la gestión de casos de violencia de género?",
+        "description_es": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de Violencia de Género (AoR GBV) como parte del enfoque grupal del Comité Permanente entre Agencias. El GBV trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de los sobrevivientes sean reconocidos y fortalecidos, y que Los esfuerzos de prevención primaria se utilizan efectivamente para abordar las desigualdades de género subyacentes. El equipo de coordinación de VG de AoR y los oradores invitados compartieron su experiencia y mejores prácticas a lo largo de la serie ",
 
 
-
-        "title_en": "Seminario web: COVID-19: ¿cómo adaptar la gestión de casos de violencia de género?",
-        "description_en": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de Violencia de Género (AoR GBV) como parte del enfoque grupal del Comité Permanente entre Agencias. El GBV trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de los sobrevivientes sean reconocidos y fortalecidos, y que Los esfuerzos de prevención primaria se utilizan efectivamente para abordar las desigualdades de género subyacentes. El equipo de coordinación de VG de AoR y los oradores invitados compartieron su experiencia y mejores prácticas a lo largo de la serie ",
         "link": "https://drive.google.com/file/d/1Fln-IgsSa942n04wRery-L8qD6hTlaborFe/view",
         "category": "gender-based violence",
         "country": "Global",
@@ -6796,11 +7099,10 @@ online_data = [
     {
         "title_en": "Webinaire: La Lutte Contre les VBG pendant la Réponse du COVID-19: Pratiques Prometteuses Nationales",
         "description_en": "L'un des six webinaires d'une série hébergés par la Zone de Responsabilité de la Violence liée au Sexe (AoR GBV) dans le cadre de l'approche par groupes du Comité permanent interorganisations. Le GBV travaille collectivement pour améliorer l'efficacité et la responsabilité de la réponse humanitaire pour la prévention, l'atténuation des risques et la réponse à toutes les formes de violence sexiste, afin de garantir que l'agence et la capacité des survivants soient reconnues et renforcées, et que les efforts de prévention primaire sont efficacement utilisés pour s'attaquer aux inégalités sous-jacentes entre les sexes. L'équipe de coordination de l'AoR sur la violence liée au sexe et les orateurs invités ont partagé leur expertise et leurs meilleures pratiques tout au long de la série.",
+        "title_es": "Seminario web: La lucha contra la violencia de género durante la respuesta COVID-19: prácticas prometedoras nacionales",
+        "description_es": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de Violencia de Género (AoR GBV) como parte del enfoque grupal del Comité Permanente entre Agencias. El GBV trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de los sobrevivientes sean reconocidos y fortalecidos, y que Los esfuerzos de prevención primaria se utilizan efectivamente para abordar las desigualdades de género subyacentes. El equipo de coordinación de VG de AoR y los oradores invitados compartieron su experiencia y mejores prácticas a lo largo de la serie ",
 
 
-
-        "title_en": "Seminario web: La lucha contra la violencia de género durante la respuesta COVID-19: prácticas prometedoras nacionales",
-        "description_en": "Uno de los seis seminarios web de una serie organizada por el Área de Responsabilidad de Violencia de Género (AoR GBV) como parte del enfoque grupal del Comité Permanente entre Agencias. El GBV trabaja colectivamente para mejorar la efectividad y la responsabilidad de la respuesta humanitaria para la prevención, mitigación de riesgos y respuesta a todas las formas de violencia de género, para garantizar que la agencia y la capacidad de los sobrevivientes sean reconocidos y fortalecidos, y que Los esfuerzos de prevención primaria se utilizan efectivamente para abordar las desigualdades de género subyacentes. El equipo de coordinación de VG de AoR y los oradores invitados compartieron su experiencia y mejores prácticas a lo largo de la serie ",
         "link": "https://drive.google.com/file/d/1HJDRcM2s4Y4UW0g0lavjVRyAuGo4fhbK/view",
         "category": "gender-based violence",
         "country": "Global",
@@ -6810,11 +7112,10 @@ online_data = [
     {
         "title_en": "Webinar: Covid-19: Girls’ Protection & gender-based violence during Lockdown in Nigeria",
         "description_en": "Hosted by the African Girls Empowerment Network (AGE Network), which works to advance gender equality through girls’ education, end child marriage, promote good health and well-being of women, and empower rape survivors, teenage mothers, victims of female genital mutilation, and economically disadvantaged women and girls in Africa, this webinar featured panelists Dr. Chris N Ugwu (Society for the Improvement of Rural People); Mrs. Priscilla Ingbian (Community Health Support & Empowerment Initiative), Mr. Kolawole Olatosimi (Children and Youth Protection Foundation), Margaret Onah (Safe Haven Development Initiative), and Olori Bimbo Kolawole (AGE).",
+        "title_es": "Seminario web: Covid-19: Protección de las niñas y violencia de género durante el encierro en Nigeria",
+        "description_es": "Organizado por la African Girls Empowerment Network (AGE Network), que trabaja para promover la igualdad de género a través de la educación de las niñas, terminar con el matrimonio infantil, promover la buena salud y el bienestar de las mujeres y empoderar a las sobrevivientes de violaciones, madres adolescentes, víctimas de mutilación genital femenina y mujeres y niñas económicamente desfavorecidas en África, este seminario web contó con los panelistas Dr. Chris N Ugwu (Sociedad para la Mejora de la Gente Rural); Sra. Priscilla Ingbian (Iniciativa de Apoyo y Empoderamiento Comunitario de Salud), Sr. Kolawole Olatosimi (Fundación para la Protección de Niños y Jóvenes), Margaret Onah (Iniciativa de Desarrollo Safe Haven) y Olori Bimbo Kolawole (AGE) ",
 
 
-
-        "title_en": "Seminario web: Covid-19: Protección de las niñas y violencia de género durante el encierro en Nigeria",
-        "description_en": "Organizado por la African Girls Empowerment Network (AGE Network), que trabaja para promover la igualdad de género a través de la educación de las niñas, terminar con el matrimonio infantil, promover la buena salud y el bienestar de las mujeres y empoderar a las sobrevivientes de violaciones, madres adolescentes, víctimas de mutilación genital femenina y mujeres y niñas económicamente desfavorecidas en África, este seminario web contó con los panelistas Dr. Chris N Ugwu (Sociedad para la Mejora de la Gente Rural); Sra. Priscilla Ingbian (Iniciativa de Apoyo y Empoderamiento Comunitario de Salud), Sr. Kolawole Olatosimi (Fundación para la Protección de Niños y Jóvenes), Margaret Onah (Iniciativa de Desarrollo Safe Haven) y Olori Bimbo Kolawole (AGE) ",
         "link": "https://www.youtube.com/playlist?list=PL5C1JNjZoJkltDnVdciGd-lUTKMFCjCo-",
         "category": "gender-based violence",
         "country": "Nigeria",
@@ -6824,11 +7125,10 @@ online_data = [
     {
         "title_en": "Webinar: Feminists Leading Revolutions: Cross-Movement Sharing",
         "description_en": "Hosted by the Global Fund for Women, this webinar addressed how gender justice movements are responding to this crisis. As COVID-19 has laid bare systemic inequities, feminist solidarity, movement building, and healing justice are needed. The discussion on cross-movement learning, which tactics are working and where, and gender justice storytelling for change was moderated by Leila Hessini, featuring Maria Al Abdeh, Women Now, Syria; Rima Majed, American University of Beirut, Lebanon; Yanar Mohammed, Organization of Women’s Freedom in Iraq; Fahima Hashim, Salmmah Women’s Resource Center in Sudan; and Lina Abou Habib, Collective for Research and Training on Development Action, Lebanon.",
+        "title_es": "Seminario web: Feministas liderando revoluciones: intercambio entre movimientos",
+        "description_es": "Organizado por el Fondo Mundial para las Mujeres, este seminario web abordó cómo los movimientos de justicia de género están respondiendo a esta crisis. Como COVID-19 ha puesto al descubierto las desigualdades sistémicas, la solidaridad feminista, la construcción de movimientos y la curación de la justicia son necesarias. Leila Hessini, moderada por Maria Al Abdeh, Mujeres Ahora, Siria; Rima Majed, Universidad Americana de Beirut, Líbano; Yanar Mohammed, Organización de La libertad de las mujeres en Iraq; Fahima Hashim, Centro de recursos para mujeres de Salmmah en Sudán; y Lina Abou Habib, Colectivo para la investigación y la capacitación en acciones de desarrollo, Líbano ",
 
 
-
-        "title_en": "Seminario web: Feministas liderando revoluciones: intercambio entre movimientos",
-        "description_en": "Organizado por el Fondo Mundial para las Mujeres, este seminario web abordó cómo los movimientos de justicia de género están respondiendo a esta crisis. Como COVID-19 ha puesto al descubierto las desigualdades sistémicas, la solidaridad feminista, la construcción de movimientos y la curación de la justicia son necesarias. Leila Hessini, moderada por Maria Al Abdeh, Mujeres Ahora, Siria; Rima Majed, Universidad Americana de Beirut, Líbano; Yanar Mohammed, Organización de La libertad de las mujeres en Iraq; Fahima Hashim, Centro de recursos para mujeres de Salmmah en Sudán; y Lina Abou Habib, Colectivo para la investigación y la capacitación en acciones de desarrollo, Líbano ",
         "link": "https://globalfundforwomen.zoom.us/rec/play/7pZ_Ju6grz83HNyRtgSDCvRxW424J6Os0CgYrqVYzUu2AXdXYQambrcRM-XgbkrdZZvDCEiIBXGtk8PN?continueMode=true&_x_zm_rtaid=y3x16hi6RueX-sd392XBCg.1588108205113.4528629bb8d6bbc571d3546a871741b6&_x_zm_rhtaid=132",
         "category": "SRHR, healthcare, education, economy, childcare, labor, gendered health impacts, gender-based violence",
         "country": "Middle East and North Africa",
@@ -6838,11 +7138,10 @@ online_data = [
     {
         "title_en": "Webinar: Covid-19’s Effect on South African Farm Workers",
         "description_en": "Hosted by PLAAS with Women on Farms, Nkuzi development Association and CSAAWU",
+        "title_es": "Seminario web: el efecto de Covid-19 en los trabajadores agrícolas sudafricanos",
+        "description_es": "Organizado por PLAAS con Women on Farms, Nkuzi Development Association y CSAAWU",
 
 
-
-        "title_en": "Seminario web: el efecto de Covid-19 en los trabajadores agrícolas sudafricanos",
-        "description_en": "Organizado por PLAAS con Women on Farms, Nkuzi Development Association y CSAAWU",
         "link": "https://www.plaas.org.za/plaas-webinar-covid-19s-effect-on-south-african-farm-workers/",
         "category": "labor, food",
         "country": "South Africa",
@@ -6852,11 +7151,10 @@ online_data = [
     {
         "title_en": "Webinar: Build Back Better: Resilience of Vulnerable Populations and COVID-19",
         "description_en": "Join this WRI webinar to hear from a diverse group of speakers representing vulnerable communities on the frontlines and international aid agencies, along with Global Commission on Adaptation Co-Director and WRI Climate Resilience Practice Director Christina Chan.",
+        "title_es": "Seminario web: Reconstruir mejor: resistencia de las poblaciones vulnerables y COVID-19",
+        "description_es": "Únase a este seminario web de la IRG para escuchar a un grupo diverso de oradores que representan a comunidades vulnerables en primera línea y agencias de ayuda internacional, junto con la codirectora de la Comisión Global de Adaptación y directora de la Práctica de Resiliencia Climática de la IRG, Christina Chan",
 
 
-
-        "title_en": "Seminario web: Reconstruir mejor: resistencia de las poblaciones vulnerables y COVID-19",
-        "description_en": "Únase a este seminario web de la IRG para escuchar a un grupo diverso de oradores que representan a comunidades vulnerables en primera línea y agencias de ayuda internacional, junto con la codirectora de la Comisión Global de Adaptación y directora de la Práctica de Resiliencia Climática de la IRG, Christina Chan",
         "link": "https://www.wri.org/events/2020/05/webinar-build-back-better-resilience-vulnerable-populations",
         "category": "economy, democratic institutions",
         "country": "Global",
@@ -6866,11 +7164,10 @@ online_data = [
     {
         "title_en": "COVID-19 in the Age of Extractivism and the Care economy – Voices From the South",
         "description_en": "What is the social and economic repercussions of COVID-19 for the global South? A Webinar presented by the the Peoples Dialogue. The Peoples Dialogue is a network of Southern Africa and Latin American formations promoting emancipatory alternatives.",
+        "title_es": "COVID-19 en la era del extractivismo y la economía del cuidado - Voces del Sur",
+        "description_es": "¿Cuáles son las repercusiones sociales y económicas de COVID-19 para el Sur global? Un seminario web presentado por el Diálogo de los Pueblos. El Diálogo de los Pueblos es una red de formaciones del sur de África y América Latina que promueven alternativas emancipadoras",
 
 
-
-        "title_en": "COVID-19 en la era del extractivismo y la economía del cuidado - Voces del Sur",
-        "description_en": "¿Cuáles son las repercusiones sociales y económicas de COVID-19 para el Sur global? Un seminario web presentado por el Diálogo de los Pueblos. El Diálogo de los Pueblos es una red de formaciones del sur de África y América Latina que promueven alternativas emancipadoras",
         "link": "https://www.youtube.com/watch?v=7TxlwD8_nR4&t=33s",
         "category": "punitive, digital surveillance, economy, childcare, gendered health impacts, misinformation",
         "country": "Global",
@@ -6880,11 +7177,10 @@ online_data = [
     {
         "title_en": "Arundhati Roy: 'The Pandemic is a Portal'",
         "description_en": "Join the acclaimed author to discuss this essay and her recent writings on the existential threat posed to Indian democracy by an emboldened Hindu nationalism, India’s new citizenship laws that discriminate against Muslims and marginalized communities and could create a crisis of statelessness on a scale previously unknown, and the meaning of freedom in a world of growing authoritarianism.",
+        "title_es": "Arundhati Roy: 'La pandemia es un portal'",
+        "description_es": "Únase a la aclamada autora para debatir este ensayo y sus escritos recientes sobre la amenaza existencial planteada a la democracia india por un nacionalismo hindú envalentonado, las nuevas leyes de ciudadanía de la India que discriminan a los musulmanes y las comunidades marginadas y podrían crear una crisis de apatridia en una escala previamente desconocida, y el significado de libertad en un mundo de creciente autoritarismo ",
 
 
-
-        "title_en": "Arundhati Roy: 'La pandemia es un portal'",
-        "description_en": "Únase a la aclamada autora para debatir este ensayo y sus escritos recientes sobre la amenaza existencial planteada a la democracia india por un nacionalismo hindú envalentonado, las nuevas leyes de ciudadanía de la India que discriminan a los musulmanes y las comunidades marginadas y podrían crear una crisis de apatridia en una escala previamente desconocida, y el significado de libertad en un mundo de creciente autoritarismo ",
         "link": "https://www.haymarketbooks.org/blogs/130-arundhati-roy-the-pandemic-is-a-portal",
         "category": "punitive, digital surveillance, economy, childcare, gendered health impacts, misinformation",
         "country": "Global",
@@ -6894,11 +7190,10 @@ online_data = [
     {
         "title_en": "Webinar: Covid-19, Decarceration, and Abolition",
         "description_en": "How can we achieve urgently needed decarceration for the millions of people caged in jails, prisons, and immigration detention centers?",
+        "title_es": "Seminario web: Covid-19, Decarceration y Abolition",
+        "description_es": "¿Cómo podemos lograr el encarcelamiento que se necesita con urgencia para los millones de personas encerradas en cárceles, prisiones y centros de detención de inmigrantes?",
 
 
-
-        "title_en": "Seminario web: Covid-19, Decarceration y Abolition",
-        "description_en": "¿Cómo podemos lograr el encarcelamiento que se necesita con urgencia para los millones de personas encerradas en cárceles, prisiones y centros de detención de inmigrantes?",
         "link": "https://www.youtube.com/watch?v=lyTOspzD1ZQ",
         "category": "punitive, economy",
         "country": "United States, Canada, Australia",
@@ -6975,8 +7270,10 @@ resources_data = [
         
 # "title_fr": "COVID-19: les impacts sexospécifiques de l'épidémie",
 # "description_fr": "Indique dans quelle mesure les épidémies affectent différemment les femmes et les hommes.",
-#         "title_es": "COVID-19: los impactos de género del brote",
-#         "description_es": "Describe las formas en que los brotes de enfermedades afectan a mujeres y hombres de manera diferente",
+#         "titleses": "COVID-19: los impactos de género del brote",
+#         "descriptionses": "Describe las formas en que los brotes de enfermedades afectan a mujeres y hombres de manera diferente",
+
+
 #         "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30526-2/fulltext",
 #         "country": "Global",
 #         "category": "gendered health impacts",
@@ -6988,8 +7285,10 @@ resources_data = [
         
 # "title_fr": "Réponses Covid-19: Pourquoi le leadership féministe est important",
 # "description_fr": "compare le leadership mondial des hommes et des femmes leaders en ce moment",
-#         "title_es": "Respuestas de Covid-19: Por qué es importante el liderazgo feminista",
-#         "description_es": "Compara el liderazgo global de hombres y mujeres líderes en este momento",
+#         "titleses": "Respuestas de Covid-19: Por qué es importante el liderazgo feminista",
+#         "descriptionses": "Compara el liderazgo global de hombres y mujeres líderes en este momento",
+
+
 #         "link": "https://www.lowyinstitute.org/the-interpreter/covid-19-responses-why-feminist-leadership-matters-crisis",
 #         "country": "Asia-Pacific",
 #         "category": "gendered health impacts, gender-based violence",
@@ -7001,8 +7300,10 @@ resources_data = [
         
 # "title_fr": "Égalité des sexes et adressage (GBV) et COVID-19 Prévention, protection et réponse.",
 # "description_fr": "La protection et la promotion des droits des femmes et des filles devraient être une priorité face à Covid19",
-#         "title_es": "Igualdad de género y direccionamiento (GBV) y prevención, protección y respuesta de COVID-19",
-#         "description_es": "La protección y la promoción de los derechos de las mujeres y las niñas deben priorizarse frente a Covid19",
+#         "titleses": "Igualdad de género y direccionamiento (GBV) y prevención, protección y respuesta de COVID-19",
+#         "descriptionses": "La protección y la promoción de los derechos de las mujeres y las niñas deben priorizarse frente a Covid19",
+
+
 #         "link": "https://www.unfpa.org/resources/gender-equality-and-addressing-gender-based-violence-gbv-and-coronavirus-disease-covid-19",
 #         "country": "Global",
 #         "category": "gender-based violence",
@@ -7014,8 +7315,10 @@ resources_data = [
         
 # "title_fr": "Déclaration féministe sur l'élaboration des politiques de Covid-19",
 # "description_fr": "Un appel aux gouvernements pour qu'ils se souviennent des normes relatives aux droits de l'homme et agissent conformément à ces normes dans leur réponse à Covid-19",
-#         "title_es": "Declaración feminista sobre la formulación de políticas de Covid-19",
-#         "description_es": "Un llamado a los gobiernos para que retiren y actúen de acuerdo con las normas de derechos humanos en su respuesta a Covid-19",
+#         "titleses": "Declaración feminista sobre la formulación de políticas de Covid-19",
+#         "descriptionses": "Un llamado a los gobiernos para que retiren y actúen de acuerdo con las normas de derechos humanos en su respuesta a Covid-19",
+
+
 #         "link": "https://drive.google.com/file/d/10zH71NOzvo85MfJTTz8yTIsvoR5lU5iQ/view",
 #         "country": "Global",
 #         "category": "food, water, gendered health impacts",
@@ -7027,8 +7330,10 @@ resources_data = [
         
 # "title_fr": "Sécurité sanitaire mondiale et pandémies: COVID-19 et inégalité entre les sexes",
 # "description_fr": "Analyse générale des impacts de Covid sur les genres de toutes sortes en raison des normes et des faits sociaux",
-#         "title_es": "Seguridad sanitaria mundial y pandemias: COVID-19 y desigualdad de género",
-#         "description_es": "Análisis general sobre los impactos de Covid en géneros de todo tipo debido a normas y hechos sociales",
+#         "titleses": "Seguridad sanitaria mundial y pandemias: COVID-19 y desigualdad de género",
+#         "descriptionses": "Análisis general sobre los impactos de Covid en géneros de todo tipo debido a normas y hechos sociales",
+
+
 #         "link": "https://www.youtube.com/watch?v=hc5clpUoKY8&feature=youtu.be",
 #         "country": "Global",
 #         "category": "healthcare, economy, childcare, labor, race",
@@ -7040,8 +7345,10 @@ resources_data = [
         
 # "title_fr": "COVID-19: Jeter les bases de la récupération avec le genre à l'avant-plan",
 # "description_fr": "Un appel à se concentrer sur les implications de genre tout en travaillant sur la voie du rétablissement",
-#         "title_es": "COVID-19: Sentando las bases para la recuperación con el género en primer plano",
-#         "description_es": "Una llamada para centrarse en las implicaciones de género mientras se trabaja en un camino hacia la recuperación",
+#         "titleses": "COVID-19: Sentando las bases para la recuperación con el género en primer plano",
+#         "descriptionses": "Una llamada para centrarse en las implicaciones de género mientras se trabaja en un camino hacia la recuperación",
+
+
 #         "link": "https://msmagazine.com/2020/03/31/covid-19-laying-down-the-groundwork-for-recovery-with-gender-at-the-fore/",
 #         "country": "Global",
 #         "category": "economy",
@@ -7053,8 +7360,10 @@ resources_data = [
         
 # "title_fr": "Atelier de pré-lancement de Women in Global Health Finland",
 # "description_fr": "Discussion collective sur une pléthore de politiques, ressources et outils mondiaux pour les sexes fournis par la Finlande et auxquels elle a participé",
-#         "title_es": "Taller previo al lanzamiento de Women in Global Health Finland",
-#         "description_es": "Debate colectivo sobre una gran cantidad de políticas, recursos y herramientas globales para géneros proporcionados por Finlandia y participados por ellos",
+#         "titleses": "Taller previo al lanzamiento de Women in Global Health Finland",
+#         "descriptionses": "Debate colectivo sobre una gran cantidad de políticas, recursos y herramientas globales para géneros proporcionados por Finlandia y participados por ellos",
+
+
 #         "link": "https://www.youtube.com/watch?v=RgkDDLtRw9s",
 #         "country": "Finland",
 #         "category": "SRHR, race",
@@ -7066,8 +7375,10 @@ resources_data = [
         
 # "title_fr": "POLITIQUES FAMILIALES ET AUTRES BONNES PRATIQUES EN MILIEU DE TRAVAIL DANS LE CONTEXTE DE COVID-19:",
 # "description_fr": "Recommandations faites par l'UNICEF aux employeurs",
-#         "title_es": "POLÍTICAS FAMILIARES Y OTRAS BUENAS PRÁCTICAS EN EL LUGAR DE TRABAJO EN EL CONTEXTO DE COVID-19:",
-#         "description_es": "Recomendaciones hechas por UNICEF para empleadores",
+#         "titleses": "POLÍTICAS FAMILIARES Y OTRAS BUENAS PRÁCTICAS EN EL LUGAR DE TRABAJO EN EL CONTEXTO DE COVID-19:",
+#         "descriptionses": "Recomendaciones hechas por UNICEF para empleadores",
+
+
 #         "link": "https://www.unwomen.org/-/media/headquarters/attachments/sections/library/publications/2020/family-friendly-policies-and-other-good-workplace-practices-in-the-context-of-covid-19-en.pdf?la=en&vs=4828",
 #         "country": "Global",
 #         "category": "healthcare, childcare, labor",
@@ -7079,8 +7390,10 @@ resources_data = [
         
 # "title_fr": "Buisness et Covid-19: soutenir les plus vulnérables",
 # "description_fr": "Un cadre de réponse COVID-19 pour savoir comment les entreprises peuvent soutenir les plus vulnérables",
-#         "title_es": "Buisness and Covid-19: Apoyando a los más vulnerables",
-#         "description_es": "Un marco de respuesta COVID-19 sobre cómo las empresas pueden apoyar a los más vulnerables",
+#         "titleses": "Buisness and Covid-19: Apoyando a los más vulnerables",
+#         "descriptionses": "Un marco de respuesta COVID-19 sobre cómo las empresas pueden apoyar a los más vulnerables",
+
+
 #         "link": "https://businessfightspoverty.org/articles/covid-19-response-framework/",
 #         "country": "United Kingdom",
 #         "category": "labor",
@@ -7092,8 +7405,10 @@ resources_data = [
         
 # "title_fr": "Questions et réponses: ONU Femmes envisage une société post-pandémique plus soucieuse de l'égalité des sexes",
 # "description_fr": "Entretien avec Bhatia, directrice exécutive adjointe d'ONU Femmes, sur les conséquences de Covid en matière d'égalité des sexes",
-#         "title_es": "Preguntas y respuestas: ONU Mujeres prevé una sociedad pospandémica más equitativa de género",
-#         "description_es": "Entrevista con Bhatia, subdirectora ejecutiva de ONU Mujeres, sobre las secuelas de Covid en relación con la igualdad de género",
+#         "titleses": "Preguntas y respuestas: ONU Mujeres prevé una sociedad pospandémica más equitativa de género",
+#         "descriptionses": "Entrevista con Bhatia, subdirectora ejecutiva de ONU Mujeres, sobre las secuelas de Covid en relación con la igualdad de género",
+
+
 #         "link": "https://www.devex.com/news/q-a-un-women-envisions-a-more-gender-equal-post-pandemic-society-96929",
 #         "country": "Global",
 #         "category": "healthcare, economy, childcare, labor",
@@ -7105,8 +7420,10 @@ resources_data = [
         
 # "title_fr": "Pourquoi l'OMS a besoin d'un programme économique féministe",
 # "description_fr": "Analyse des disparités de la main-d'œuvre et de la prise de décision concernant le genre, comment les soins de santé et l'économie sont liés",
-#         "title_es": "Por qué la OMS necesita una agenda económica feminista",
-#         "description_es": "Análisis sobre las disparidades de la fuerza laboral y la toma de decisiones en relación con el género, cómo se relacionan la salud y la economía",
+#         "titleses": "Por qué la OMS necesita una agenda económica feminista",
+#         "descriptionses": "Análisis sobre las disparidades de la fuerza laboral y la toma de decisiones en relación con el género, cómo se relacionan la salud y la economía",
+
+
 #         "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30110-0/fulltext",
 #         "country": "Global",
 #         "category": "healthcare, economy",
@@ -7118,8 +7435,10 @@ resources_data = [
         
 # "title_fr": "Briser les normes de pouvoir sexospécifiques pendant la pandémie et au-delà",
 # "description_fr": "Suggestions sur la façon de transformer l'urgence actuelle en une opportunité de restructurer les normes de genre.",
-#         "title_es": "Romper las normas de poder de género durante la pandemia y más allá",
-#         "description_es": "Sugerencias sobre cómo transformar la moneda actual en una oportunidad para reestructurar las normas de género",
+#         "titleses": "Romper las normas de poder de género durante la pandemia y más allá",
+#         "descriptionses": "Sugerencias sobre cómo transformar la moneda actual en una oportunidad para reestructurar las normas de género",
+
+
 #         "link": "https://www.Globalpolicyjournal.com/blog/02/04/2020/breaking-down-gendered-power-norms-during-pandemic-and-beyond",
 #         "country": "Ireland",
 #         "category": "education",
@@ -7131,8 +7450,10 @@ resources_data = [
         
 # "title_fr": "Besoins des femmes et égalité des sexes dans la réponse COVID-19 du Liban",
 # "description_fr": "Observation des besoins et des impacts sur la santé des femmes",
-#         "title_es": "Necesidades de las mujeres e igualdad de género en la respuesta COVID-19 del Líbano",
-#         "description_es": "Observación sobre necesidades e impactos en la salud de las mujeres",
+#         "titleses": "Necesidades de las mujeres e igualdad de género en la respuesta COVID-19 del Líbano",
+#         "descriptionses": "Observación sobre necesidades e impactos en la salud de las mujeres",
+
+
 #         "link": "https://arabstates.unwomen.org/en/digital-library/publications/2020/03/gender-equality-in-lebanon-covid-19-response",
 #         "country": "Global",
 #         "category": "healthcare, economy, gendered health impacts",
@@ -7144,8 +7465,10 @@ resources_data = [
         
 # "title_fr": "L'ONU soutient une action mondiale pour mettre fin à la violence contre les femmes / les filles",
 # "description_fr": "Action et initiatives des Nations Unies avec des partenaires pour fournir des fonds, soutenir les organisations de la société civile",
-#         "title_es": "La ONU respalda la acción mundial para poner fin a la violencia contra las mujeres / niñas",
-#         "description_es": "Acción e iniciativas de la ONU con socios para proporcionar fondos, apoyar organizaciones de la sociedad civil",
+#         "titleses": "La ONU respalda la acción mundial para poner fin a la violencia contra las mujeres / niñas",
+#         "descriptionses": "Acción e iniciativas de la ONU con socios para proporcionar fondos, apoyar organizaciones de la sociedad civil",
+
+
 #         "link": "https://news.un.org/en/story/2020/04/1061132",
 #         "country": "Global",
 #         "category": "gender-based violence",
@@ -7157,8 +7480,10 @@ resources_data = [
         
 # "title_fr": "COVID-19 devrait aggraver les inégalités entre les sexes au Pakistan",
 # "description_fr": "Un article traitant généralement du rapport publié par le Ministère des droits de l'homme et ONU Femmes sur les effets néfastes du COVID-19 sur les inégalités entre les sexes",
-#         "title_es": "COVID-19 configurado para empeorar las desigualdades de género en Pakistán",
-#         "description_es": "Un artículo que generalmente discute el informe publicado por el Ministerio de Derechos Humanos y ONU Mujeres sobre los efectos adversos que COVID-19 tiene sobre las desigualdades de género",
+#         "titleses": "COVID-19 configurado para empeorar las desigualdades de género en Pakistán",
+#         "descriptionses": "Un artículo que generalmente discute el informe publicado por el Ministerio de Derechos Humanos y ONU Mujeres sobre los efectos adversos que COVID-19 tiene sobre las desigualdades de género",
+
+
 #         "link": "https://tribune.com.pk/story/2197065/1-covid-19-worsen-gender-inequalities-pakistan/",
 #         "country": "Pakistan",
 #         "category": "healthcare, education, labor, gender-based violence",
@@ -7170,8 +7495,10 @@ resources_data = [
         
 # "title_fr": "Impact sexospécifique et implications de COVID-19 au Pakistan",
 # "description_fr": "Un rapport complet sur les impacts négatifs de COVID-19 sur l'inégalité entre les sexes ainsi que des recommandations politiques.",
-#         "title_es": "Impacto e implicaciones de género de COVID-19 en Pakistán",
-#         "description_es": "Un informe exhaustivo sobre los impactos negativos de COVID-19 en la desigualdad de género, así como las recomendaciones de política",
+#         "titleses": "Impacto e implicaciones de género de COVID-19 en Pakistán",
+#         "descriptionses": "Un informe exhaustivo sobre los impactos negativos de COVID-19 en la desigualdad de género, así como las recomendaciones de política",
+
+
 #         "link": "https://www2.unwomen.org/-/media/field%20office%20eseasia/docs/publications/2020/04/pk-gendered-impact-and-implications-of-covid.pdf?la=en&vs=2138",
 #         "country": "Pakistan",
 #         "category": "healthcare, education, labor, gender-based violence",
@@ -7183,8 +7510,10 @@ resources_data = [
         
 # "title_fr": "Le domicile n'est pas un espace sûr pour les victimes de violence domestique",
 # "description_fr": "Un article présentant les récits des femmes dans la vie réelle et comment elles subissent plus de violence domestique sous le bouclage",
-#         "title_es": "El hogar no es un espacio seguro para las víctimas de violencia doméstica",
-#         "description_es": "Un artículo con narraciones de la vida real de las mujeres y cómo están sufriendo más violencia doméstica bajo el cierre",
+#         "titleses": "El hogar no es un espacio seguro para las víctimas de violencia doméstica",
+#         "descriptionses": "Un artículo con narraciones de la vida real de las mujeres y cómo están sufriendo más violencia doméstica bajo el cierre",
+
+
 #         "link": "https://images.dawn.com/news/1184957",
 #         "country": "Pakistan",
 #         "category": "gender-based violence",
@@ -7196,8 +7525,10 @@ resources_data = [
         
 # "title_fr": "Plan stratégique de préparation et de réponse au nouveau coronavirus",
 # "description_fr": "Le plan décrit les mesures de santé publique COVID-19 que la communauté internationale peut fournir (mises à jour régulièrement)",
-#         "title_es": "Plan estratégico de preparación y respuesta para el nuevo coronavirus",
-#         "description_es": "El plan describe las medidas de salud pública de COVID-19 que la comunidad internacional puede proporcionar (actualizado regularmente)",
+#         "titleses": "Plan estratégico de preparación y respuesta para el nuevo coronavirus",
+#         "descriptionses": "El plan describe las medidas de salud pública de COVID-19 que la comunidad internacional puede proporcionar (actualizado regularmente)",
+
+
 #         "link": "https://www.who.int/publications-detail/strategic-preparedness-and-response-plan-for-the-new-coronavirus",
 #         "country": "Global",
 #         "category": "healthcare",
@@ -7209,8 +7540,10 @@ resources_data = [
         
 # "title_fr": "Genre et épidémie de coronavirus",
 # "description_fr": "Questions (et réponses) qui doivent être posées pour une approche sexospécifique de la pandémie",
-#         "title_es": "Género y el brote de coronavirus",
-#         "description_es": "Preguntas (y respuestas) que deben formularse para un enfoque de género de la pandemia",
+#         "titleses": "Género y el brote de coronavirus",
+#         "descriptionses": "Preguntas (y respuestas) que deben formularse para un enfoque de género de la pandemia",
+
+
 #         "link": "https://www.thinkGlobalhealth.org/article/gender-and-coronavirus-outbreak",
 #         "country": "Global",
 #         "category": "SRHR, healthcare, economy, labor",
@@ -7222,8 +7555,10 @@ resources_data = [
         
 # "title_fr": "Jouer au long jeu: comment l'objectif de genre peut atténuer les préjudices",
 # "description_fr": "Propositions visant à atténuer les dommages disproportionnés causés par le COVID-19 à la vie des femmes et des filles",
-#         "title_es": "Jugar el juego largo: cómo las lentes de género pueden mitigar el daño",
-#         "description_es": "Propuestas para mitigar el daño desproporcionado, causado por COVID-19, en la vida de mujeres y niñas",
+#         "titleses": "Jugar el juego largo: cómo las lentes de género pueden mitigar el daño",
+#         "descriptionses": "Propuestas para mitigar el daño desproporcionado, causado por COVID-19, en la vida de mujeres y niñas",
+
+
 #         "link": "https://www.cgdev.org/blog/playing-long-game-how-gender-lens-can-mitigate-harm-caused-pandemics",
 #         "country": "Global",
 #         "category": "healthcare, education, economy, childcare, labor, gender-based violence",
@@ -7235,8 +7570,10 @@ resources_data = [
         
 # "title_fr": "Pourquoi le genre est important dans l'impact et le rétablissement de Covid-19",
 # "description_fr": "Aperçu des conséquences de COVID-19 et de la pandémie sur les femmes et les filles",
-#         "title_es": "Por qué el género es importante en la impactante recuperación de Covid-19",
-#         "description_es": "Resumen de las consecuencias de COVID-19 y la pandemia en mujeres y niñas",
+#         "titleses": "Por qué el género es importante en la impactante recuperación de Covid-19",
+#         "descriptionses": "Resumen de las consecuencias de COVID-19 y la pandemia en mujeres y niñas",
+
+
 #         "link": "https://www.lowyinstitute.org/the-interpreter/why-gender-matters-impact-and-recovery-covid-19",
 #         "country": "Global",
 #         "category": "SRHR, healthcare, economy, childcare, labor, gender-based violence",
@@ -7248,8 +7585,10 @@ resources_data = [
         
 # "title_fr": "Les politiques sur les coronavirus aveugles au genre pourraient entraver la lutte contre la maladie",
 # "description_fr": "Opinions d'experts: une analyse sexospécifique est essentielle pour atténuer les effets de COVID-19",
-#         "title_es": "Las políticas de coronavirus ciegas al género podrían dificultar la lucha contra la enfermedad",
-#         "description_es": "Vistas de expertos: un análisis de género es clave para mitigar los efectos de COVID-19",
+#         "titleses": "Las políticas de coronavirus ciegas al género podrían dificultar la lucha contra la enfermedad",
+#         "descriptionses": "Vistas de expertos: un análisis de género es clave para mitigar los efectos de COVID-19",
+
+
 #         "link": "https://www.scidev.net/Global/gender/news/gender-blind-coronavirus-policies-could-hinder-disease-fight.html?__cf_chl_jschl_tk__=4addd31e78Organizing Toola952dOrganizing Tool5bdd997f21454bpolicy or lawd6290-1587128145-0-AbI3O-UW3KSaVutmIG52NgYwAfEhoNL-oXHJ62HFyLL7TIivMJ1lWj4ph2l7vG2_CwTpcJ80QrDC0npb-A5e8qYVAXrMQqPTNCj5JXIOIkZoxZLwgMjw3PNddOVNbLCwnGDk9d6X4PAR4-GfK5RmO6qw1xkldF8uBMx10e0OcyC7oe09DcTLx49EconomyWcQ8L6eG0LHIcLJaaxns_SOkP43QNhZZmvkLuDdR5Ud3kCNTKHQhHealthcareNigQPs3VASkm-RUnJ07sFneFF4V30tXhSaImutual aid resourceli2I4MeSp2Ug445_cpDbSRHRPF6xxNX608-sO241ECRmcHfF6sAvnjO3_za9DCquufc3nXo6zRW0VhrfKrJ02tpUiDy0-dhxQEi2R2OSLWYAKKow",
 #         "country": "Global",
 #         "category": "healthcare, childcare, labor",
@@ -7261,8 +7600,10 @@ resources_data = [
         
 # "title_fr": "Pourquoi les femmes risquent-elles davantage de contracter le coronavirus",
 # "description_fr": "Les rôles des femmes dans la société peuvent les affecter de manière disproportionnée avec COVID-19",
-#         "title_es": "Por qué las mujeres pueden enfrentar un mayor riesgo de contraer coronavirus",
-#         "description_es": "Los roles de las mujeres dentro de la sociedad pueden hacer que se vean desproporcionadamente afectados por COVID-19",
+#         "titleses": "Por qué las mujeres pueden enfrentar un mayor riesgo de contraer coronavirus",
+#         "descriptionses": "Los roles de las mujeres dentro de la sociedad pueden hacer que se vean desproporcionadamente afectados por COVID-19",
+
+
 #         "link": "https://www.nytimes.com/2020/03/12/us/women-coronavirus-greater-risk.html",
 #         "country": "Global",
 #         "category": "healthcare, education, gendered health impacts",
@@ -7274,8 +7615,10 @@ resources_data = [
         
 # "title_fr": "COVID-19 n'est pas neutre en termes de genre",
 # "description_fr": "Analyse des raisons pour lesquelles le fardeau de la maladie sera largement ressenti par les femmes",
-#         "title_es": "COVID-19 no es neutral en cuanto al género",
-#         "description_es": "Análisis sobre por qué las mujeres sentirán en gran medida la carga de la enfermedad",
+#         "titleses": "COVID-19 no es neutral en cuanto al género",
+#         "descriptionses": "Análisis sobre por qué las mujeres sentirán en gran medida la carga de la enfermedad",
+
+
 #         "link": "http://www.broadagenda.com.au/home/covid-19-is-not-gender-neutral/",
 #         "country": "Global",
 #         "category": "healthcare, economy, childcare,",
@@ -7287,8 +7630,10 @@ resources_data = [
         
 # "title_fr": "Les retombées du coronavirus peuvent être pires pour les femmes. Voici pourquoi",
 # "description_fr": "Les femmes sont touchées de manière disproportionnée en raison de la majorité dans les professions de la santé, la garde d'enfants et les responsabilités professionnelles non rémunérées",
-#         "title_es": "Las consecuencias del coronavirus pueden ser peores para las mujeres. He aquí por qué",
-#         "description_es": "Mujeres desproporcionadamente afectadas debido a la mayoría en profesiones de atención médica, cuidado de niños y responsabilidades laborales no remuneradas",
+#         "titleses": "Las consecuencias del coronavirus pueden ser peores para las mujeres. He aquí por qué",
+#         "descriptionses": "Mujeres desproporcionadamente afectadas debido a la mayoría en profesiones de atención médica, cuidado de niños y responsabilidades laborales no remuneradas",
+
+
 #         "link": "https://www.weforum.org/agenda/2020/03/the-coronavirus-fallout-may-be-worse-for-women-than-men-heres-why/",
 #         "country": "Global",
 #         "category": "healthcare, economy, childcare",
@@ -7300,8 +7645,10 @@ resources_data = [
         
 # "title_fr": "Coronavirus: cinq façons dont le bouleversement du virus frappe les femmes en Asie",
 # "description_fr": "Cinq façons dont les femmes en Asie supportent le poids du bouleversement",
-#         "title_es": "Coronavirus: la agitación del virus en cinco formas está afectando a las mujeres en Asia",
-#         "description_es": "Cinco formas en que las mujeres en Asia están llevando la peor parte de la agitación",
+#         "titleses": "Coronavirus: la agitación del virus en cinco formas está afectando a las mujeres en Asia",
+#         "descriptionses": "Cinco formas en que las mujeres en Asia están llevando la peor parte de la agitación",
+
+
 #         "link": "https://www.bbc.com/news/world-asia-51705199",
 #         "country": "Asia-Pacific",
 #         "category": "healthcare, education, economy, childcare, labor, gender-based violence",
@@ -7313,8 +7660,10 @@ resources_data = [
         
 # "title_fr": "Pourquoi l'épidémie de coronavirus pourrait-elle toucher le plus durement les femmes",
 # "description_fr": "Les réalités des femmes aux États-Unis, ce qui les mettra dans une situation plus vulnérable contre COVID-19",
-#         "title_es": "Por qué el brote de coronavirus podría afectar más a las mujeres",
-#         "description_es": "La realidad de las mujeres en Estados Unidos, que las colocará en un estado más vulnerable contra COVID-19",
+#         "titleses": "Por qué el brote de coronavirus podría afectar más a las mujeres",
+#         "descriptionses": "La realidad de las mujeres en Estados Unidos, que las colocará en un estado más vulnerable contra COVID-19",
+
+
 #         "link": "https://time.com/5801897/women-affected-covid-19/",
 #         "country": "United States",
 #         "category": "healthcare, economy, childcare, labor, gender-based violence",
@@ -7326,8 +7675,10 @@ resources_data = [
         
 # "title_fr": "Des énigmes Covid-19 auxquelles les scientifiques tentent toujours de répondre",
 # "description_fr": "Raisons possibles pour lesquelles COVID-19 est moins observé chez les enfants et pourquoi les femmes meurent moins",
-#         "title_es": "acertijos de Covid-19 que los científicos todavía están tratando de responder",
-#         "description_es": "Posibles razones por las cuales COVID-19 se ve menos en niños y por qué las mujeres mueren menos",
+#         "titleses": "acertijos de Covid-19 que los científicos todavía están tratando de responder",
+#         "descriptionses": "Posibles razones por las cuales COVID-19 se ve menos en niños y por qué las mujeres mueren menos",
+
+
 #         "link": "https://www.theguardian.com/world/2020/mar/14/answering-the-coronavirus-puzzles-baby-covid-19",
 #         "country": "China, United Kingdom",
 #         "category": "gendered health impacts",
@@ -7339,8 +7690,10 @@ resources_data = [
         
 # "title_fr": "Les besoins des travailleuses médicales négligés dans la lutte contre le virus corona",
 # "description_fr": "Les avocats plaident en faveur des besoins de menstruation négligés des travailleuses médicales, mettent les femmes à l'ordre du jour",
-#         "title_es": "Necesidades de trabajadoras médicas ignoradas en la lucha contra el virus de la corona",
-#         "description_es": "Los defensores trabajan para ayudar a las necesidades de menstruación pasadas por alto de las trabajadoras médicas, poner a las mujeres en la agenda",
+#         "titleses": "Necesidades de trabajadoras médicas ignoradas en la lucha contra el virus de la corona",
+#         "descriptionses": "Los defensores trabajan para ayudar a las necesidades de menstruación pasadas por alto de las trabajadoras médicas, poner a las mujeres en la agenda",
+
+
 #         "link": "https://www.inkstonenews.com/health/coronavirus-womens-advocates-ship-period-products-center-outbreak/article/3050653",
 #         "country": "China",
 #         "category": "SRHR, healthcare, labor",
@@ -7352,8 +7705,10 @@ resources_data = [
         
 # "title_fr": "Appel à des preuves mondiales sur le genre et le COVID-19",
 # "description_fr": "Les décès masculins sont plus élevés, une approche sensible au genre de COVID-19 est donc nécessaire",
-#         "title_es": "Llamado a la evidencia mundial sobre género y COVID-19",
-#         "description_es": "Las muertes masculinas son más altas, por lo tanto, se necesita un enfoque sensible al género para COVID-19",
+#         "titleses": "Llamado a la evidencia mundial sobre género y COVID-19",
+#         "descriptionses": "Las muertes masculinas son más altas, por lo tanto, se necesita un enfoque sensible al género para COVID-19",
+
+
 #         "link": "https://www.menshealthforum.org.uk/news/call-Global-evidence-gender-and-covid-19",
 #         "country": "Global",
 #         "category": "gendered health impacts",
@@ -7365,8 +7720,10 @@ resources_data = [
         
 # "title_fr": "Attention aux besoins des femmes, le leadership renforcera la réponse de COVID-19",
 # "description_fr": "Recommandations d'UNWOMEN pour placer les besoins des femmes, le leadership au cœur de la réponse à COVID-19",
-#         "title_es": "Atención a las necesidades de las mujeres, el liderazgo fortalecerá la respuesta COVID-19",
-#         "description_es": "Recomendaciones de UNWOMEN para ubicar las necesidades de las mujeres, el liderazgo en el centro de la respuesta a COVID-19",
+#         "titleses": "Atención a las necesidades de las mujeres, el liderazgo fortalecerá la respuesta COVID-19",
+#         "descriptionses": "Recomendaciones de UNWOMEN para ubicar las necesidades de las mujeres, el liderazgo en el centro de la respuesta a COVID-19",
+
+
 #         "link": "https://www.unwomen.org/en/news/stories/2020/3/news-womens-needs-and-leadership-in-covid-19-response",
 #         "country": "Global",
 #         "category": "SRHR, healthcare, education, economy, childcare, labor, gendered health impacts, gender-based violence, disability",
@@ -7378,8 +7735,10 @@ resources_data = [
         
 # "title_fr": "Comment COVID19 affectera-t-il les femmes et les filles dans les pays à revenu faible et intermédiaire?",
 # "description_fr": "Résumé de l'article du Lancet" "COVID-19: les impacts sexospécifiques de l'épidémie et préoccupations supplémentaires",
-#         "title_es": "¿Cómo afectará COVID19 a las mujeres y las niñas en los países de bajos y medianos ingresos?",
-#         "description_es": "Resumen del artículo de Lancet" "COVID-19: los impactos de género del brote y preocupaciones adicionales",
+#         "titleses": "¿Cómo afectará COVID19 a las mujeres y las niñas en los países de bajos y medianos ingresos?",
+#         "descriptionses": "Resumen del artículo de Lancet" "COVID-19: los impactos de género del brote y preocupaciones adicionales",
+
+
 #         "link": "https://www.cgdev.org/blog/how-will-covid-19-affect-women-and-girls-low-and-middle-income-countries",
 #         "country": "Global",
 #         "category": "SRHR, healthcare, education, childcare, labor, gender-based violence",
@@ -7391,8 +7750,10 @@ resources_data = [
         
 # "title_fr": "Le coronavirus est une catastrophe pour le féminisme",
 # "description_fr": "Une pandémie amplifie toutes les inégalités existantes. Partout dans le monde, l'indépendance des femmes sera une victime silencieuse.",
-#         "title_es": "El coronavirus es un desastre para el feminismo",
-#         "description_es": "La pandemia aumenta todas las desigualdades existentes. En todo el mundo, la independencia de las mujeres será una víctima silenciosa",
+#         "titleses": "El coronavirus es un desastre para el feminismo",
+#         "descriptionses": "La pandemia aumenta todas las desigualdades existentes. En todo el mundo, la independencia de las mujeres será una víctima silenciosa",
+
+
 #         "link": "https://www.theatlantic.com/international/archive/2020/03/feminism-womens-rights-coronavirus-covid19/608302/",
 #         "country": "Global",
 #         "category": "economy, childcare, labor, gendered health impacts, gender-based violence",
@@ -7404,8 +7765,10 @@ resources_data = [
         
 # "title_fr": "Idées pour une approche pro-pauvres et pro-femmes de COVID19",
 # "description_fr": "Comment les gouvernements locaux peuvent réagir, compte tenu des inégalités économiques et de genre, avec une approche en faveur des pauvres et des femmes",
-#         "title_es": "Ideas para el enfoque pro-pobres y pro-mujeres de COVID19",
-#         "description_es": "Cómo pueden responder los gobiernos locales, considerando las desigualdades económicas y de género, con un enfoque en favor de los pobres y en favor de las mujeres",
+#         "titleses": "Ideas para el enfoque pro-pobres y pro-mujeres de COVID19",
+#         "descriptionses": "Cómo pueden responder los gobiernos locales, considerando las desigualdades económicas y de género, con un enfoque en favor de los pobres y en favor de las mujeres",
+
+
 #         "link": "https://asia.oxfam.org/latest/blogs/ideas-pro-poor-and-pro-women-approach-covid-19",
 #         "country": "Philippines",
 #         "category": "punitive, healthcare, economy, childcare, labor, water, food, disability",
@@ -7417,8 +7780,10 @@ resources_data = [
         
 # "title_fr": "Le fardeau domestique des femmes vient de s'alourdir avec le coronavirus",
 # "description_fr": "Les femmes doivent intensifier leur rôle à la maison à mesure que le coronavirus se propage",
-#         "title_es": "La carga doméstica de las mujeres se volvió más pesada con el coronavirus",
-#         "description_es": "Las mujeres se ven obligadas a intensificar sus roles en casa a medida que se propaga el coronavirus",
+#         "titleses": "La carga doméstica de las mujeres se volvió más pesada con el coronavirus",
+#         "descriptionses": "Las mujeres se ven obligadas a intensificar sus roles en casa a medida que se propaga el coronavirus",
+
+
 #         "link": "https://www.theguardian.com/us-news/2020/mar/16/womens-coronavirus-domestic-burden?CMP=Share_AndroidApp_Gmail#maincontent",
 #         "country": "Global",
 #         "category": "economy, childcare, labor",
@@ -7430,8 +7795,10 @@ resources_data = [
         
 # "title_fr": "COVID19 exige que nous prêtions attention à qui s'occupe des soins",
 # "description_fr": "Les organisations, les gouvernements et les communautés doivent faire ce qu'il faut pour soutenir les femmes qui dispensent des soins",
-#         "title_es": "COVID19 exige que prestemos atención a quién cuida el trabajo",
-#         "description_es": "Las organizaciones, los gobiernos y las comunidades deben hacer lo que sea necesario para apoyar a las mujeres que brindan atención",
+#         "titleses": "COVID19 exige que prestemos atención a quién cuida el trabajo",
+#         "descriptionses": "Las organizaciones, los gobiernos y las comunidades deben hacer lo que sea necesario para apoyar a las mujeres que brindan atención",
+
+
 #         "link": "https://promundoGlobal.org/covid-19-demands-that-we-pay-attention-to-who-does-the-care-work-and-how-we-support-them/#",
 #         "country": "Global",
 #         "category": "healthcare, economy, childcare, labor",
@@ -7444,8 +7811,10 @@ resources_data = [
         
 # "title_fr": "Impact de la pandémie de COVID-19 sur la violence contre les femmes et les filles",
 # "description_fr": "Données émergentes sur la violence basée sur le genre provenant de plusieurs pays ainsi que les enseignements tirés d'épidémies similaires",
-#         "title_es": "Impacto de la pandemia de COVID-19 en la violencia contra las mujeres y las niñas",
-#         "description_es": "Evidencia emergente sobre VG de varios países, así como lecciones aprendidas de epidemias similares",
+#         "titleses": "Impacto de la pandemia de COVID-19 en la violencia contra las mujeres y las niñas",
+#         "descriptionses": "Evidencia emergente sobre VG de varios países, así como lecciones aprendidas de epidemias similares",
+
+
 #         "link": "http://www.sddirect.org.uk/media/1881/vawg-helpdesk-284-covid-19-and-vawg.pdf",
 #         "country": "Global",
 #         "category": "gender-based violence",
@@ -7458,8 +7827,10 @@ resources_data = [
         
 # "title_fr": "Pandémies et violence à l'égard des femmes et des enfants (VAW / C)",
 # "description_fr": "Working Paper documentant les voies reliant les pandémies et la violence à l'égard des femmes et les femmes ainsi que les réponses des politiques et des programmes",
-#         "title_es": "Pandemias y violencia contra mujeres y niños (VAW / C)",
-#         "description_es": "Documento de trabajo que documenta las vías que vinculan las pandemias y la violencia contra las mujeres / C, así como las respuestas de políticas y programas",
+#         "titleses": "Pandemias y violencia contra mujeres y niños (VAW / C)",
+#         "descriptionses": "Documento de trabajo que documenta las vías que vinculan las pandemias y la violencia contra las mujeres / C, así como las respuestas de políticas y programas",
+
+
 #         "link": "https://www.cgdev.org/publication/pandemics-and-violence-against-women-and-children",
 #         "country": "Global",
 #         "category": "gender-based violence",
@@ -7472,8 +7843,10 @@ resources_data = [
         
 # "title_fr": "COVID-19: Réduire le risque d'infection pourrait augmenter le risque de violence entre partenaires intimes",
 # "description_fr": "Comprend une courte liste des actions immédiates nécessaires pour atténuer les augmentations du VPI",
-#         "title_es": "COVID-19: Reducir el riesgo de infección podría aumentar el riesgo de violencia de pareja",
-#         "description_es": "Incluye una breve lista de acciones inmediatas necesarias para mitigar los aumentos de IPV",
+#         "titleses": "COVID-19: Reducir el riesgo de infección podría aumentar el riesgo de violencia de pareja",
+#         "descriptionses": "Incluye una breve lista de acciones inmediatas necesarias para mitigar los aumentos de IPV",
+
+
 #         "link": "https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30092-4/fulltext",
 #         "country": "Global",
 #         "category": "gender-based violence",
@@ -7485,8 +7858,10 @@ resources_data = [
         
 # "title_fr": "COVID-19 et la violence contre les femmes. Ce que le secteur / système de santé peut faire",
 # "description_fr": "Un résumé de l'OMS sur la manière dont les systèmes de santé peuvent atténuer les effets de la violence sur les femmes et les enfants pendant cette pandémie",
-#         "title_es": "COVID-19 y la violencia contra la mujer. Qué puede hacer el sector / sistema de salud",
-#         "description_es": "Un resumen de la OMS sobre cómo los sistemas de salud pueden mitigar los impactos de la violencia en mujeres y niños durante esta pandemia",
+#         "titleses": "COVID-19 y la violencia contra la mujer. Qué puede hacer el sector / sistema de salud",
+#         "descriptionses": "Un resumen de la OMS sobre cómo los sistemas de salud pueden mitigar los impactos de la violencia en mujeres y niños durante esta pandemia",
+
+
 #         "link": "https://www.who.int/reproductivehealth/publications/emergencies/COVID-19-VAW-full-text.pdf?",
 #         "country": "Global",
 #         "category": "gender-based violence",
@@ -7498,8 +7873,10 @@ resources_data = [
         
 # "title_fr": "COVID-19 et la violence familiale",
 # "description_fr": "Page Web contenant des liens vers des ressources relatives à la violence familiale pour les victimes; la famille, les amis ou les voisins; et les professionnels",
-#         "title_es": "COVID-19 y violencia familiar",
-#         "description_es": "Página web con enlaces a recursos relacionados con la violencia familiar para víctimas, familiares, amigos o vecinos, y profesionales",
+#         "titleses": "COVID-19 y violencia familiar",
+#         "descriptionses": "Página web con enlaces a recursos relacionados con la violencia familiar para víctimas, familiares, amigos o vecinos, y profesionales",
+
+
 #         "link": "http://www.dvrcv.org.au/help-advice/coronavirus-covid-19-and-family-violence",
 #         "country": "Australia",
 #         "category": "gender-based violence",
@@ -7511,8 +7888,10 @@ resources_data = [
         
 # "title_fr": "Commentaires de l'aide aux femmes sur l'impact du coronavirus sur les femmes et les enfants qui échappent à la violence domestique",
 # "description_fr": "Vous voulez que les services de refuge continuent de fonctionner de manière sûre et efficace pendant COVID-19",
-#         "title_es": "Comentarios de ayuda para mujeres sobre el impacto del coronavirus en mujeres y niños que escapan del abuso doméstico",
-#         "description_es": "Desea ver que los servicios de refugio continúen operando de manera segura y efectiva durante COVID-19",
+#         "titleses": "Comentarios de ayuda para mujeres sobre el impacto del coronavirus en mujeres y niños que escapan del abuso doméstico",
+#         "descriptionses": "Desea ver que los servicios de refugio continúen operando de manera segura y efectiva durante COVID-19",
+
+
 #         "link": "https://www.womensaid.org.uk/womens-aid-comments-on-the-impact-of-coronavirus-on-women-and-children-escaping-domestic-abuse/ ",
 #         "country": "United Kingdom, Global",
 #         "category": "gender-based violence",
@@ -7524,8 +7903,10 @@ resources_data = [
         
 # "title_fr": "Home Quarantine: Confinement with the Abuser?",
 # "description_fr": "L'enfermement de COVID-19, le chômage associé à l'augmentation de la violence domestique, les propositions de politiques brésiliennes pour atténuer",
-#         "title_es": "Cuarentena doméstica: ¿Reclusión con el abusador?",
-#         "description_es": "encierro de COVID-19, desempleo asociado con el aumento de la violencia doméstica, propuestas de políticas brasileñas para mitigar",
+#         "titleses": "Cuarentena doméstica: ¿Reclusión con el abusador?",
+#         "descriptionses": "encierro de COVID-19, desempleo asociado con el aumento de la violencia doméstica, propuestas de políticas brasileñas para mitigar",
+
+
 #         "link": "http://multiplier-effect.org/home-quarantine-confinement-with-the-abuser/",
 #         "country": "Brazil",
 #         "category": "gender-based violence",
@@ -7537,8 +7918,10 @@ resources_data = [
         
 # "title_fr": "Cinq façons dont les gouvernements réagissent à la violence contre les femmes et les enfants pendant COVID-19",
 # "description_fr": "Blog de l'UNICEF: une liste non exhaustive des réponses du gouvernement à l'augmentation de la violence contre les femmes et les enfants pendant la crise COVID-19.",
-#         "title_es": "Cinco formas en que los gobiernos están respondiendo a la violencia contra las mujeres y los niños durante COVID-19",
-#         "description_es": "Blog de UNICEF: una lista no exhaustiva de respuestas gubernamentales al aumento de la violencia contra las mujeres y los niños durante la crisis de COVID-19",
+#         "titleses": "Cinco formas en que los gobiernos están respondiendo a la violencia contra las mujeres y los niños durante COVID-19",
+#         "descriptionses": "Blog de UNICEF: una lista no exhaustiva de respuestas gubernamentales al aumento de la violencia contra las mujeres y los niños durante la crisis de COVID-19",
+
+
 #         "link": "https://blogs.unicef.org/evidence-for-action/five-ways-governments-are-responding-to-violence-against-women-and-children-during-covid-19/ ",
 #         "country": "Global",
 #         "category": "gender-based violence",
@@ -7550,8 +7933,10 @@ resources_data = [
         
 # "title_fr": "Le coronavirus ne cause pas la violence des hommes contre les femmes",
 # "description_fr": "Compare le nombre de femmes tuées au Royaume-Uni pendant une période de 3 semaines sur plusieurs années",
-#         "title_es": "El coronavirus no causa la violencia de los hombres contra las mujeres",
-#         "description_es": "Compara el número de mujeres asesinadas en el Reino Unido durante un período de 3 semanas durante varios años",
+#         "titleses": "El coronavirus no causa la violencia de los hombres contra las mujeres",
+#         "descriptionses": "Compara el número de mujeres asesinadas en el Reino Unido durante un período de 3 semanas durante varios años",
+
+
 #         "link": "https://kareningalasmith.com/2020/04/15/coronavirus-doesnt-cause-mens-violence-against-women/",
 #         "country": "United Kingdom",
 #         "category": "gender-based violence",
@@ -7563,8 +7948,10 @@ resources_data = [
         
 # "title_fr": "COVID-19: Une perspective de genre: protéger la santé et les droits sexuels et reproductifs et promouvoir l'égalité des sexes",
 # "description_fr": "Note technique de l'UNFPA sur les risques liés au genre pendant la pandémie",
-#         "title_es": "COVID-19: Una lente de género: Protección de la salud y los derechos sexuales y reproductivos, y promoción de la igualdad de género",
-#         "description_es": "Informe técnico del UNFPA sobre riesgos de género durante una pandemia",
+#         "titleses": "COVID-19: Una lente de género: Protección de la salud y los derechos sexuales y reproductivos, y promoción de la igualdad de género",
+#         "descriptionses": "Informe técnico del UNFPA sobre riesgos de género durante una pandemia",
+
+
 #         "link": "https://turkey.unfpa.org/en/publications/covid-19-gender-lens-1",
 #         "country": "Global",
 #         "category": "SRHR, healthcare, economy, childcare, gendered health impacts, gender-based violence",
@@ -7576,8 +7963,10 @@ resources_data = [
         
 # "title_fr": "Women This Week: The Gendered Effects of COVID-19",
 # "description_fr": "Article de blog sur les impacts sexospécifiques de la pandémie sur la DV, l'accès aux services de santé et la précarité d'emploi",
-#         "title_es": "Mujeres esta semana: los efectos de género de COVID-19",
-#         "description_es": "Publicación de blog sobre los impactos de género de la pandemia en DV, acceso a servicios de salud e inseguridad laboral",
+#         "titleses": "Mujeres esta semana: los efectos de género de COVID-19",
+#         "descriptionses": "Publicación de blog sobre los impactos de género de la pandemia en DV, acceso a servicios de salud e inseguridad laboral",
+
+
 #         "link": "https://www.cfr.org/blog/women-week-gendered-effects-covid-19",
 #         "country": "Global",
 #         "category": "SRHR, healthcare, economy",
@@ -7589,8 +7978,10 @@ resources_data = [
         
 # "title_fr": "COVID-19, Violence domestique et violence: où en sont les femmes indiennes?",
 # "description_fr": "L'analyse générale des dimensions de la violence domestique en Inde, inclut l'inutilité de la loi",
-#         "title_es": "COVID-19, Abuso doméstico y violencia: ¿Dónde se encuentran las mujeres indias?",
-#         "description_es": "El análisis general de las dimensiones de la violencia doméstica en India incluye la inutilidad de la ley",
+#         "titleses": "COVID-19, Abuso doméstico y violencia: ¿Dónde se encuentran las mujeres indias?",
+#         "descriptionses": "El análisis general de las dimensiones de la violencia doméstica en India incluye la inutilidad de la ley",
+
+
 #         "link": "https://www.epw.in/engage/article/covid-19-domestic-abuse-and-violence-where-do#.Xps-Edkwo8U.twitter",
 #         "country": "India",
 #         "category": "gender-based violence",
@@ -7602,8 +7993,10 @@ resources_data = [
         
 # "title_fr": "L'initiative Spotlight UE-ONU au Nigeria lutte contre la violence basée sur le genre pendant le COVID-19",
 # "description_fr": "Brève page de sensibilisation de l'UNESCO sur la violence basée sur le genre contenant des informations sur la hotline nigériane, comprenant une courte vidéo de sensibilisation",
-#         "title_es": "La Iniciativa Spotlight UE-ONU en Nigeria está trabajando contra la violencia de género durante el COVID-19",
-#         "description_es": "Breve página de concientización sobre violencia de género en la UNESCO con información de la línea directa nigeriana, incluye un breve video de concientización",
+#         "titleses": "La Iniciativa Spotlight UE-ONU en Nigeria está trabajando contra la violencia de género durante el COVID-19",
+#         "descriptionses": "Breve página de concientización sobre violencia de género en la UNESCO con información de la línea directa nigeriana, incluye un breve video de concientización",
+
+
 #         "link": "https://en.unesco.org/news/eu-spotlight-initiative-nigeria-working-against-gender-based-violence-during-covid-19",
 #         "country": "Nigeria",
 #         "category": "gender-based violence",
@@ -7615,8 +8008,10 @@ resources_data = [
         
 # "title_fr": "Page Outils et ressources du domaine de responsabilité en matière de violence basée sur le genre",
 # "description_fr": "Recherche sur la page Web d'études de cas / meilleures pratiques / exemples sur le terrain, comprend des notes d'orientation",
-#         "title_es": "Página de herramientas y recursos del área de responsabilidad de violencia de género",
-#         "description_es": "Buscar en la página web estudios de caso / mejores prácticas / ejemplos del campo, incluye notas de orientación",
+#         "titleses": "Página de herramientas y recursos del área de responsabilidad de violencia de género",
+#         "descriptionses": "Buscar en la página web estudios de caso / mejores prácticas / ejemplos del campo, incluye notas de orientación",
+
+
 #         "link": "https://gbvaor.net/thematic-areas?term_node_tid_depth_1%5scientific data21%5D=121",
 #         "country": "Global, Mozambique, Sudan",
 #         "category": "gender-based violence",
@@ -7628,8 +8023,10 @@ resources_data = [
         
 # "title_fr": "COVID-19: Ressources pour lutter contre les risques de violence sexiste",
 # "description_fr": "Lignes directrices pour l'intégration des interventions contre la violence sexiste dans l'action humanitaire, ainsi que d'autres documents et guides",
-#         "title_es": "COVID-19: Recursos para abordar los riesgos de violencia de género",
-#         "description_es": "Directrices para integrar intervenciones de violencia de género en la acción humanitaria, así como otros documentos y guías",
+#         "titleses": "COVID-19: Recursos para abordar los riesgos de violencia de género",
+#         "descriptionses": "Directrices para integrar intervenciones de violencia de género en la acción humanitaria, así como otros documentos y guías",
+
+
 #         "link": "https://gbvguidelines.org/cctopic/covid-19/",
 #         "country": "Global",
 #         "category": "gender-based violence",
@@ -7641,8 +8038,10 @@ resources_data = [
         
 # "title_fr": "OPÉRATION 50/50: Les perspectives des femmes sauvent des vies",
 # "description_fr": "Liste des femmes expertes travaillant dans le domaine de la sécurité sanitaire",
-#         "title_es": "OPERACIÓN 50/50: Las perspectivas de las mujeres salvan vidas",
-#         "description_es": "Lista de mujeres expertas que trabajan en seguridad sanitaria",
+#         "titleses": "OPERACIÓN 50/50: Las perspectivas de las mujeres salvan vidas",
+#         "descriptionses": "Lista de mujeres expertas que trabajan en seguridad sanitaria",
+
+
 #         "link": "https://www.womeningh.org/operation-50-50",
 #         "country": "Global",
 #         "category": "healthcare",
@@ -7654,8 +8053,10 @@ resources_data = [
         
 # "title_fr": "Élever les femmes à l'âge des coronavirus",
 # "description_fr": "Les réseaux virtuels peuvent autonomiser et inclure davantage de femmes actives dans l'entrepreneuriat et le développement durable",
-#         "title_es": "Elevar a las mujeres en la era del coronavirus",
-#         "description_es": "Las redes virtuales pueden empoderar e incluir a más mujeres trabajadoras en el espíritu empresarial y el desarrollo sostenible",
+#         "titleses": "Elevar a las mujeres en la era del coronavirus",
+#         "descriptionses": "Las redes virtuales pueden empoderar e incluir a más mujeres trabajadoras en el espíritu empresarial y el desarrollo sostenible",
+
+
 #         "link": "https://apolitical.co/en/solution_article/elevating-women-in-the-age-of-coronavirus",
 #         "country": "Global",
 #         "category": "labor",
@@ -7667,8 +8068,10 @@ resources_data = [
         
 # "title_fr": "Opinion: la sécurité sanitaire mondiale dépend des femmes",
 # "description_fr": "Demande l'intégration de l'égalité des sexes dans l'infrastructure mondiale des soins de santé - 5 points",
-#         "title_es": "Opinión: la seguridad sanitaria mundial depende de las mujeres",
-#         "description_es": "Pide la integración de la igualdad de género en la infraestructura sanitaria mundial - 5 puntos",
+#         "titleses": "Opinión: la seguridad sanitaria mundial depende de las mujeres",
+#         "descriptionses": "Pide la integración de la igualdad de género en la infraestructura sanitaria mundial - 5 puntos",
+
+
 #         "link": "https://www.devex.com/news/opinion-Global-health-security-depends-on-women-96861?access_key=&utm_source=newsletter&utm_medium=newswire&utm_campaign=yourheadlines&utm_content=text&mkt_tok=eyJpIjoiTlRObFpXTmxNVGhoSRHRRGbCIsInQiOiIrV0hMbVJnOWdmMlQxczV4RnFcLzlsXC9IWE56alZyYzlqVFdHR3RMpolicy or lawhBFeminist Statement or Analysisp3Digital SurveillanceFlZkhNSGo1Q25ZRVNEZmdkczFLbVIzeUJVMVRDbjJLeVlYdWVobWg2Uk5PN2FSbFppY3N2Feminist Statement or AnalysisQrWFF0WnA4NW9yTEJNXC83aG5LYVY0aHVxeHRpbiJ9",
 #         "country": "Global",
 #         "category": "healthcare",
@@ -7680,8 +8083,10 @@ resources_data = [
         
 # "title_fr": "AVIS: Pourquoi nous avons besoin du leadership des femmes dans la réponse COVID-19",
 # "description_fr": "Appel à un plus grand leadership des femmes dans la riposte à la pandémie pour des prestations de santé égales pour tous",
-#         "title_es": "OPINIÓN: Por qué necesitamos el liderazgo de las mujeres en la respuesta COVID-19",
-#         "description_es": "Pide más liderazgo de las mujeres en la respuesta ante una pandemia para obtener beneficios de salud iguales para todos",
+#         "titleses": "OPINIÓN: Por qué necesitamos el liderazgo de las mujeres en la respuesta COVID-19",
+#         "descriptionses": "Pide más liderazgo de las mujeres en la respuesta ante una pandemia para obtener beneficios de salud iguales para todos",
+
+
 #         "link": "https://news.trust.org/item/20200401090723-319sb",
 #         "country": "Global",
 #         "category": "healthcare",
@@ -7693,8 +8098,10 @@ resources_data = [
         
 # "title_fr": "Combattre le COVID-19 avec une main attachée dans le dos?",
 # "description_fr": "Les préjugés sexistes empêchent les femmes de prendre des décisions, mais la pandémie affecte les femmes différemment des hommes",
-#         "title_es": "¿Luchando contra COVID-19 con una mano atada detrás de nuestras espaldas?",
-#         "description_es": "El sesgo de género mantiene a las mujeres fuera de la toma de decisiones, pero la pandemia afecta a las mujeres de manera diferente que a los hombres",
+#         "titleses": "¿Luchando contra COVID-19 con una mano atada detrás de nuestras espaldas?",
+#         "descriptionses": "El sesgo de género mantiene a las mujeres fuera de la toma de decisiones, pero la pandemia afecta a las mujeres de manera diferente que a los hombres",
+
+
 #         "link": "https://www.thinkGlobalhealth.org/article/fighting-covid-19-one-hand-tied-behind-our-backs",
 #         "country": "Global",
 #         "category": "healthcare, economy, labor, gendered health impacts",
@@ -7706,8 +8113,10 @@ resources_data = [
         
 # "title_fr": "Les mesures contre le coronavirus toucheront les femmes plus durement que les hommes",
 # "description_fr": "Il est urgent de disposer de données concernant les effets du coronavirus sur les femmes",
-#         "title_es": "Las medidas de coronavirus afectarán más a las mujeres que a los hombres, advierten las organizaciones benéficas",
-#         "description_es": "Se necesitan con urgencia datos sobre el efecto del coronavirus en las mujeres para asignar recursos",
+#         "titleses": "Las medidas de coronavirus afectarán más a las mujeres que a los hombres, advierten las organizaciones benéficas",
+#         "descriptionses": "Se necesitan con urgencia datos sobre el efecto del coronavirus en las mujeres para asignar recursos",
+
+
 #         "link": "https://www.reuters.com/article/us-health-coronavirus-women-trfn/coronavirus-measures-will-hit-women-harder-than-men-charities-warn-idUSKBN21J6NI",
 #         "country": "Global",
 #         "category": "SRHR, healthcare, digital surveillance, gender-based violence",
@@ -7719,8 +8128,10 @@ resources_data = [
         
 # "title_fr": "Le leadership des femmes et la libération des talents des filles à l'ère de la pandémie de coronavirus",
 # "description_fr": "Une pandémie identifie les lacunes dans les systèmes mondiaux et comment les femmes peuvent et doivent les combler",
-#         "title_es": "Liderazgo de las mujeres y desbloqueo del talento de las niñas en la era de la pandemia de coronavirus",
-#         "description_es": "La pandemia identifica las brechas en los sistemas globales y cómo las mujeres pueden y deben llenarlas",
+#         "titleses": "Liderazgo de las mujeres y desbloqueo del talento de las niñas en la era de la pandemia de coronavirus",
+#         "descriptionses": "La pandemia identifica las brechas en los sistemas globales y cómo las mujeres pueden y deben llenarlas",
+
+
 #         "link": "https://www.Globalpartnership.org/blog/womens-leadership-and-unlocking-girls-talent-era-coronavirus-pandemic#.XotGV9o2Av4.twitter",
 #         "country": "Global",
 #         "category": "education, economy, labor",
@@ -7732,8 +8143,10 @@ resources_data = [
         
 # "title_fr": "Mémo au Royaume-Uni: la voix des femmes peut également être utile dans cette crise",
 # "description_fr": "Les femmes et les hommes considèrent le risque différemment et la politique pourrait bénéficier d'une représentation égale",
-#         "title_es": "Memo al Reino Unido: las voces de las mujeres también pueden ser útiles en esta crisis",
-#         "description_es": "Las mujeres y los hombres consideran el riesgo de manera diferente y la política podría beneficiarse de una representación equitativa",
+#         "titleses": "Memo al Reino Unido: las voces de las mujeres también pueden ser útiles en esta crisis",
+#         "descriptionses": "Las mujeres y los hombres consideran el riesgo de manera diferente y la política podría beneficiarse de una representación equitativa",
+
+
 #         "link": "https://www.theguardian.com/commentisfree/2020/apr/11/memo-to-the-uk-womens-voices-can-also-be-useful-in-this-crisis",
 #         "country": "United Kingdom",
 #         "category": "healthcare, economy, labor, gendered health impacts",
@@ -7745,8 +8158,10 @@ resources_data = [
         
 # "title_fr": "L'arme secrète dans la lutte contre le coronavirus: les femmes",
 # "description_fr": "Les femmes dirigeantes font un travail exceptionnel pour contenir le coronavirus",
-#         "title_es": "El arma secreta en la lucha contra el coronavirus: mujeres",
-#         "description_es": "Las mujeres líderes están haciendo un trabajo excepcional para contener el coronavirus",
+#         "titleses": "El arma secreta en la lucha contra el coronavirus: mujeres",
+#         "descriptionses": "Las mujeres líderes están haciendo un trabajo excepcional para contener el coronavirus",
+
+
 #         "link": "https://www.theguardian.com/commentisfree/2020/apr/11/secret-weapon-fight-against-coronavirus-women",
 #         "country": "Germany, Taiwan, New Zealand, Denmark, Finland, United Kingdom, United States",
 #         "category": "healthcare",
@@ -7758,8 +8173,10 @@ resources_data = [
         
 # "title_fr": "Les fermetures d'écoles Covid-19 dans le monde frapperont plus durement les filles",
 # "description_fr": "Six actions sensibles au genre proposées pour atténuer l'impact de Covid-19 sur l'éducation des filles",
-#         "title_es": "Los cierres de escuelas de Covid-19 en todo el mundo golpearán más a las niñas",
-#         "description_es": "Seis acciones con perspectiva de género propuestas para mitigar el impacto de Covid-19 en la educación de las niñas",
+#         "titleses": "Los cierres de escuelas de Covid-19 en todo el mundo golpearán más a las niñas",
+#         "descriptionses": "Seis acciones con perspectiva de género propuestas para mitigar el impacto de Covid-19 en la educación de las niñas",
+
+
 #         "link": "https://plan-international.org/blog/2020/03/covid-19-school-closures-hit-girls-hardest",
 #         "country": "Global",
 #         "category": "education",
@@ -7771,8 +8188,10 @@ resources_data = [
         
 # "title_fr": "Des nounous aux aides, le coronavirus met en lumière l'insécurité de l'emploi des femmes asiatiques",
 # "description_fr": "Les femmes asiatiques effectuent beaucoup de travail informel ou non rémunéré, ce qui est très précaire pendant la pandémie",
-#         "title_es": "De niñeras a ayudantes, el coronavirus destaca la inseguridad laboral de las mujeres asiáticas",
-#         "description_es": "Las mujeres asiáticas realizan mucho trabajo informal o no remunerado que es muy inseguro durante la pandemia",
+#         "titleses": "De niñeras a ayudantes, el coronavirus destaca la inseguridad laboral de las mujeres asiáticas",
+#         "descriptionses": "Las mujeres asiáticas realizan mucho trabajo informal o no remunerado que es muy inseguro durante la pandemia",
+
+
 #         "link": "https://news.trust.org/item/20200313122408-e2lvu/",
 #         "country": "Asia-Pacific",
 #         "category": "economy, labor",
@@ -7784,8 +8203,10 @@ resources_data = [
         
 # "title_fr": "Les nettoyeurs américains: lutter en première ligne contre les coronavirus",
 # "description_fr": "Les nettoyeurs sont à haut risque mais ils sont financièrement instables et doivent donc continuer à travailler",
-#         "title_es": "los limpiadores de Estados Unidos: luchando en la primera línea del coronavirus",
-#         "description_es": "Los limpiadores corren un alto riesgo pero tienen problemas financieros y, por lo tanto, deben seguir funcionando",
+#         "titleses": "los limpiadores de Estados Unidos: luchando en la primera línea del coronavirus",
+#         "descriptionses": "Los limpiadores corren un alto riesgo pero tienen problemas financieros y, por lo tanto, deben seguir funcionando",
+
+
 #         "link": "https://uk.reuters.com/article/uk-health-coronavirus-United States-cleaners/americas-cleaners-fighting-on-the-coronavirus-front-line-idUKKBN2162GW",
 #         "country": "United States",
 #         "category": "economy, labor",
@@ -7797,8 +8218,10 @@ resources_data = [
         
 # "title_fr": "Pourquoi les femmes seront les plus durement touchées par une récession due aux coronavirus",
 # "description_fr": "La budgétisation sexospécifique sera impérative pour atténuer les effets disproportionnés de la pandémie sur les femmes",
-#         "title_es": "Por qué las mujeres serán las más afectadas por una recesión provocada por el coronavirus",
-#         "description_es": "La presupuestación por género será imprescindible para mitigar los efectos desproporcionados de la pandemia en las mujeres",
+#         "titleses": "Por qué las mujeres serán las más afectadas por una recesión provocada por el coronavirus",
+#         "descriptionses": "La presupuestación por género será imprescindible para mitigar los efectos desproporcionados de la pandemia en las mujeres",
+
+
 #         "link": "https://www.fastcompany.com/90479204/why-women-will-be-hardest-hit-by-a-coronavirus-driven-recession",
 #         "country": "United States",
 #         "category": "economy, labor",
@@ -7810,8 +8233,10 @@ resources_data = [
         
 # "title_fr": "Économiste du genre Katica Roy: Si nous n'agissons pas rapidement, les femmes porteront le poids de la crise financière causée par le coronavirus",
 # "description_fr": "Entretien avec Katica Roy concernant les effets de la crise financière provoquée par une pandémie sur les femmes",
-#         "title_es": "Katica Roy, economista de género: si no actuamos rápido, las mujeres serán las más afectadas por la crisis financiera causada por el coronavirus",
-#         "description_es": "Entrevista con Katica Roy sobre los efectos de la crisis financiera inducida por la pandemia en las mujeres",
+#         "titleses": "Katica Roy, economista de género: si no actuamos rápido, las mujeres serán las más afectadas por la crisis financiera causada por el coronavirus",
+#         "descriptionses": "Entrevista con Katica Roy sobre los efectos de la crisis financiera inducida por la pandemia en las mujeres",
+
+
 #         "link": "https://www.nbcnews.com/know-your-value/feature/gender-economist-katica-roy-if-we-don-t-act-fast-ncnpolicy or law166771",
 #         "country": "United States",
 #         "category": "economy",
@@ -7823,8 +8248,10 @@ resources_data = [
         
 # "title_fr": "Rester à la maison et travailler? Implications de COVID-19 et de la réponse du gouvernement britannique pour les travailleuses indépendantes",
 # "description_fr": "Les implications des effets de la réponse du gouvernement britannique sur les petites entreprises féminines ne sont pas claires",
-#         "title_es": "‘ Stay Home ’and Work? Implications of COVID-19 and the UK Government Government for Self-Employed Women",
-#         "description_es": "Las implicaciones de los efectos de la respuesta gubernamental del Reino Unido en las pequeñas empresas de mujeres no están claras",
+#         "titleses": "‘ Stay Home ’and Work? Implications of COVID-19 and the UK Government Government for Self-Employed Women",
+#         "descriptionses": "Las implicaciones de los efectos de la respuesta gubernamental del Reino Unido en las pequeñas empresas de mujeres no están claras",
+
+
 #         "link": "https://isbegen.wordpress.com/2020/03/27/stay-home-and-work/",
 #         "country": "United Kingdom",
 #         "category": "economy",
@@ -7836,8 +8263,10 @@ resources_data = [
         
 # "title_fr": "La plupart des Américains bruns et noirs s'exposent au coronavirus pour un chèque de règlement",
 # "description_fr": "Les Américains bruns et noirs occupent plus d'emplois qui nécessitent leur présence physique",
-#         "title_es": "La mayoría de los estadounidenses marrones y negros se exponen al coronavirus por un sueldo",
-#         "description_es": "Los estadounidenses marrones y negros tienen más trabajos que requieren que estén físicamente presentes",
+#         "titleses": "La mayoría de los estadounidenses marrones y negros se exponen al coronavirus por un sueldo",
+#         "descriptionses": "Los estadounidenses marrones y negros tienen más trabajos que requieren que estén físicamente presentes",
+
+
 #         "link": "https://www.vice.com/en_us/article/xgqpyq/most-brown-and-black-americans-are-exposing-themselves-to-coronavirus-for-a-paycheck",
 #         "country": "United States",
 #         "category": "economy, race",
@@ -7849,8 +8278,10 @@ resources_data = [
         
 # "title_fr": "Les femmes mal rémunérées au Royaume-Uni à risque élevé d'exposition au coronavirus",
 # "description_fr": "La plupart des emplois à haut risque et à faible salaire sont occupés par des femmes",
-#         "title_es": "Mujeres mal pagadas en el Reino Unido con alto riesgo de exposición al coronavirus",
-#         "description_es": "La mayoría de los trabajos de alto riesgo con bajos salarios son trabajados por mujeres",
+#         "titleses": "Mujeres mal pagadas en el Reino Unido con alto riesgo de exposición al coronavirus",
+#         "descriptionses": "La mayoría de los trabajos de alto riesgo con bajos salarios son trabajados por mujeres",
+
+
 #         "link": "https://www.theguardian.com/world/2020/mar/29/low-paid-women-in-uk-at-high-risk-of-coronavirus-exposure",
 #         "country": "United Kingdom",
 #         "category": "economy, labor",
@@ -7862,8 +8293,10 @@ resources_data = [
         
 # "title_fr": "Lorsque les interactions face à face deviennent un risque professionnel: les emplois à l'époque de COVID-19",
 # "description_fr": "Les emplois peu rémunérés se prêtent moins au travail en ligne et les femmes sont plus à risque",
-#         "title_es": "Cuando las interacciones cara a cara se convierten en un riesgo laboral: trabajos en la época de COVID-19",
-#         "description_es": "Los trabajos mal pagados son menos susceptibles al trabajo en línea y las mujeres corren más riesgo",
+#         "titleses": "Cuando las interacciones cara a cara se convierten en un riesgo laboral: trabajos en la época de COVID-19",
+#         "descriptionses": "Los trabajos mal pagados son menos susceptibles al trabajo en línea y las mujeres corren más riesgo",
+
+
 #         "link": "https://www.brookings.edu/blog/future-development/2020/03/30/when-face-to-face-interactions-become-an-occupational-hazard-jobs-in-the-time-of-covid-19/",
 #         "country": "United States",
 #         "category": "economy, labor",
@@ -7875,8 +8308,10 @@ resources_data = [
         
 # "title_fr": "La Journée de l'égalité salariale est plus importante que jamais au milieu de COVID-19",
 # "description_fr": "Une pandémie révèle des inégalités économiques contrastées",
-#         "title_es": "El día de igualdad de pago es más importante que nunca en medio de COVID-19",
-#         "description_es": "La pandemia está revelando la desigualdad económica con fuertes contrastes",
+#         "titleses": "El día de igualdad de pago es más importante que nunca en medio de COVID-19",
+#         "descriptionses": "La pandemia está revelando la desigualdad económica con fuertes contrastes",
+
+
 #         "link": "https://thehill.com/opinion/civil-rights/490088-equal-pay-day-more-important-than-ever-amid-covid-19",
 #         "country": "United States",
 #         "category": "labor",
@@ -7888,8 +8323,10 @@ resources_data = [
         
 # "title_fr": "Voici comment vous pouvez aider les travailleurs du sexe pendant l'épidémie de COVID-19",
 # "description_fr": "Façons dont vous pouvez aider les professionnel (le) s du sexe pendant la pandémie",
-#         "title_es": "Así es como puede ayudar a las trabajadoras sexuales durante el brote de COVID-19",
-#         "description_es": "Formas en que puede ayudar a las trabajadoras sexuales durante la pandemia",
+#         "titleses": "Así es como puede ayudar a las trabajadoras sexuales durante el brote de COVID-19",
+#         "descriptionses": "Formas en que puede ayudar a las trabajadoras sexuales durante la pandemia",
+
+
 #         "link": "https://rewire.news/article/2020/03/26/heres-how-you-can-help-sex-workers-during-the-covid-19-outbreak/",
 #         "country": "United States",
 #         "category": "healthcare, economy, labor",
@@ -7901,8 +8338,10 @@ resources_data = [
         
 # "title_fr": "Verrouillage de COVID-19: des groupes de défense des droits exigent des mesures immédiates de sécurité sociale pour les femmes",
 # "description_fr": "Les organisations de femmes demandent au Premier ministre indien de fournir une sécurité sociale pour protéger les femmes",
-#         "title_es": "cierre de COVID-19: los grupos de derechos demandan medidas inmediatas de seguridad social para las mujeres",
-#         "description_es": "Las organizaciones de mujeres piden al Primer Ministro indio que brinde seguridad social para proteger a las mujeres",
+#         "titleses": "cierre de COVID-19: los grupos de derechos demandan medidas inmediatas de seguridad social para las mujeres",
+#         "descriptionses": "Las organizaciones de mujeres piden al Primer Ministro indio que brinde seguridad social para proteger a las mujeres",
+
+
 #         "link": "https://www.outlookindia.com/newsscroll/covid19-lockdown-rights-groups-demand-immediate-social-security-measures-for-women/1781106",
 #         "country": "India",
 #         "category": "economy",
@@ -7914,8 +8353,10 @@ resources_data = [
         
 # "title_fr": "Comment le coronavirus élargit l'écart de rémunération entre les sexes",
 # "description_fr": "Les organisations doivent veiller à payer les femmes de manière égale lorsque le travail revient à la normale",
-#         "title_es": "Cómo el coronavirus amplía la brecha salarial de género",
-#         "description_es": "Las organizaciones deben tener cuidado de pagar a las mujeres por igual cuando el trabajo vuelve a la normalidad",
+#         "titleses": "Cómo el coronavirus amplía la brecha salarial de género",
+#         "descriptionses": "Las organizaciones deben tener cuidado de pagar a las mujeres por igual cuando el trabajo vuelve a la normalidad",
+
+
 #         "link": "https://edition.cnn.com/2020/03/31/perspectives/equal-pay-day-coronavirus/index.html",
 #         "country": "United States",
 #         "category": "labor",
@@ -7927,8 +8368,10 @@ resources_data = [
         
 # "title_fr": "Pourquoi cette crise économique diffère de la dernière pour les femmes",
 # "description_fr": "Cette crise affecte surtout les domaines à faible rémunération dominés par les femmes qui ne peuvent pas être effectués à distance",
-#         "title_es": "Por qué esta crisis económica difiere de la última para las mujeres",
-#         "description_es": "Esta crisis afecta más a los campos dominados por mujeres y de bajos ingresos que no se pueden hacer de forma remota",
+#         "titleses": "Por qué esta crisis económica difiere de la última para las mujeres",
+#         "descriptionses": "Esta crisis afecta más a los campos dominados por mujeres y de bajos ingresos que no se pueden hacer de forma remota",
+
+
 #         "link": "https://www.nytimes.com/2020/03/31/us/equal-pay-coronavirus-economic-impact.html",
 #         "country": "United States",
 #         "category": "economy",
@@ -7940,8 +8383,10 @@ resources_data = [
         
 # "title_fr": "Comment la crise du COVID-19 nuit aux travailleuses du sexe",
 # "description_fr": "Une pandémie signifie moins de clients, plus de risques et il est difficile d'obtenir des avantages",
-#         "title_es": "Cómo la crisis de COVID-19 está perjudicando a las trabajadoras sexuales",
-#         "description_es": "Pandemia significa menos clientes, mayores riesgos y es difícil obtener beneficios",
+#         "titleses": "Cómo la crisis de COVID-19 está perjudicando a las trabajadoras sexuales",
+#         "descriptionses": "Pandemia significa menos clientes, mayores riesgos y es difícil obtener beneficios",
+
+
 #         "link": "https://thetyee.ca/News/2020/03/27/How-COVID-19-Hurting-Sex-Workers/",
 #         "country": "Canada",
 #         "category": "SRHR, labor",
@@ -7953,8 +8398,10 @@ resources_data = [
         
 # "title_fr": "Covid-19 aggravant les inégalités entre les sexes",
 # "description_fr": "Les inégalités entre les sexes sont exacerbées par la pandémie par la nourriture, l'eau, la santé, la violence domestique et le couvre-feu",
-#         "title_es": "Covid-19 agrava las desigualdades de género",
-#         "description_es": "Las desigualdades de género se ven exacerbadas por la pandemia a través de la alimentación, el agua, la salud, la violencia doméstica y el toque de queda",
+#         "titleses": "Covid-19 agrava las desigualdades de género",
+#         "descriptionses": "Las desigualdades de género se ven exacerbadas por la pandemia a través de la alimentación, el agua, la salud, la violencia doméstica y el toque de queda",
+
+
 #         "link": "https://www.nation.co.ke/gender/Covid-19-aggravating-gender-inequalities/5362750-5508776-l85jnt/index.html",
 #         "country": "Kenya",
 #         "category": "SRHR, childcare, water, food, gender-based violence",
@@ -7966,8 +8413,10 @@ resources_data = [
         
 # "title_fr": "COVID-19 met en évidence l'échec du capitalisme néolibéral: nous avons besoin de la solidarité mondiale féministe",
 # "description_fr": "Le capitalisme ne répond pas aux besoins fondamentaux des gens, une restructuration féministe est donc essentielle",
-#         "title_es": "COVID-19 destaca el fracaso del capitalismo neoliberal: necesitamos una solidaridad global feminista",
-#         "description_es": "El capitalismo no satisface las necesidades básicas de las personas, por lo que la reestructuración feminista es esencial",
+#         "titleses": "COVID-19 destaca el fracaso del capitalismo neoliberal: necesitamos una solidaridad global feminista",
+#         "descriptionses": "El capitalismo no satisface las necesidades básicas de las personas, por lo que la reestructuración feminista es esencial",
+
+
 #         "link": "https://apwld.org/covid-19-highlights-the-failure-of-neoliberal-capitalism-we-need-feminist-Global-solidarity/?utm_source=NGO+CSW%2FNY+Constituency&utm_campaign=cb8d7d54ff-EMAIL_CAMPAIGN_2018_10_05_02_01_COPY_01&utm_medium=email&utm_term=0_67ac6441ff-cb8d7d54ff-412137047&mc_cid=cb8d7d54ff&mc_eid=64cdc0fe0b",
 #         "country": "Thailand",
 #         "category": "economy",
@@ -7979,8 +8428,10 @@ resources_data = [
         
 # "title_fr": "COVID-19 exige des réponses égales entre les sexes pour sauver les économies",
 # "description_fr": "Une réponse tenant compte du genre est nécessaire pour faire rebondir l'économie mondiale",
-#         "title_es": "COVID-19 requiere respuestas con igualdad de género para salvar economías",
-#         "description_es": "Se necesita una respuesta inclusiva de género para recuperar la economía global",
+#         "titleses": "COVID-19 requiere respuestas con igualdad de género para salvar economías",
+#         "descriptionses": "Se necesita una respuesta inclusiva de género para recuperar la economía global",
+
+
 #         "link": "http://www.ipsnews.net/2020/04/covid-19-requires-gender-equal-responses-save-economies/?utm_source=feedly&utm_medium=rss&utm_campaign=covid-19-requires-gender-equal-responses-save-economies",
 #         "country": "Global",
 #         "category": "economy",
@@ -7992,8 +8443,10 @@ resources_data = [
         
 # "title_fr": "Comment les retombées économiques du coronavirus peuvent affecter de manière disproportionnée les femmes",
 # "description_fr": "Le revenu des femmes est important et elles font également beaucoup de travail non rémunéré",
-#         "title_es": "Cómo las consecuencias económicas del coronavirus pueden afectar desproporcionadamente a las mujeres",
-#         "description_es": "El ingreso de las mujeres es importante y también están haciendo mucho trabajo no remunerado",
+#         "titleses": "Cómo las consecuencias económicas del coronavirus pueden afectar desproporcionadamente a las mujeres",
+#         "descriptionses": "El ingreso de las mujeres es importante y también están haciendo mucho trabajo no remunerado",
+
+
 #         "link": "https://www.forbes.com/sites/jenniferbarrett/2020/04/02/how-economic-fallout-from-the-coronavirus-may-disproportionately-affect-women/#485df515836a",
 #         "country": "United States",
 #         "category": "economy, labor",
@@ -8005,8 +8458,10 @@ resources_data = [
         
 # "title_fr": "Verrouillage: les travailleurs domestiques ont du mal à joindre les deux bouts alors que les familles refusent de payer",
 # "description_fr": "Les employés de maison ne sont pas payés pendant le verrouillage",
-#         "title_es": "Bloqueo: las trabajadoras domésticas luchan para llegar a fin de mes mientras las familias se niegan a pagar",
-#         "description_es": "A las trabajadoras domésticas no se les paga durante el cierre",
+#         "titleses": "Bloqueo: las trabajadoras domésticas luchan para llegar a fin de mes mientras las familias se niegan a pagar",
+#         "descriptionses": "A las trabajadoras domésticas no se les paga durante el cierre",
+
+
 #         "link": "https://www.hindustantimes.com/mumbai-news/lockdown-domestic-workers-struggle-to-make-ends-meet-as-families-refuse-to-pay/story-aB6zzwdUyQYnivAJoCMtEJ.html",
 #         "country": "India",
 #         "category": "labor",
@@ -8018,8 +8473,10 @@ resources_data = [
         
 # "title_fr": "COVID-19 aggravera les inégalités de rémunération entre les sexes",
 # "description_fr": "L'inégalité salariale entre hommes et femmes sera exacerbée par la pandémie",
-#         "title_es": "COVID-19 empeorará las desigualdades salariales de género",
-#         "description_es": "La pandemia exacerbará la desigualdad salarial de género",
+#         "titleses": "COVID-19 empeorará las desigualdades salariales de género",
+#         "descriptionses": "La pandemia exacerbará la desigualdad salarial de género",
+
+
 #         "link": "https://www.benefitspro.com/2020/04/07/covid-19-will-make-gender-pay-inequities-worse/?cmp=share_twitter&slreturn=20200317122647",
 #         "country": "United States",
 #         "category": "education, economy, childcare, labor",
@@ -8031,8 +8488,10 @@ resources_data = [
         
 # "title_fr": "COVID-19 aggravant les inégalités entre les sexes, davantage de femmes ont perdu leur emploi - ONU",
 # "description_fr": "Les femmes assument de plus en plus de travail non rémunéré et leurs droits seront renversés",
-#         "title_es": "COVID-19 empeora la desigualdad de género, más mujeres han perdido empleos - ONU",
-#         "description_es": "Las mujeres están asumiendo cada vez más trabajo no remunerado adicional y sus derechos serán revertidos",
+#         "titleses": "COVID-19 empeora la desigualdad de género, más mujeres han perdido empleos - ONU",
+#         "descriptionses": "Las mujeres están asumiendo cada vez más trabajo no remunerado adicional y sus derechos serán revertidos",
+
+
 #         "link": "https://dailypost.ng/2020/04/10/covid-19-worsening-gender-inequality-more-women-have-lost-jobs-un/",
 #         "country": "Global",
 #         "category": "economy, labor",
@@ -8044,8 +8503,10 @@ resources_data = [
         
 # "title_fr": "Les travailleuses de première ligne en Chine, typiques du fardeau économique et domestique des coronavirus pour les femmes: rapport",
 # "description_fr": "Les femmes sont touchées de manière disproportionnée par la santé, l'éducation et les difficultés liées au travail à l'intérieur et à l'extérieur du foyer",
-#         "title_es": "Trabajadoras de primera línea en China, típicas de la carga económica y doméstica del coronavirus sobre las mujeres: informe",
-#         "description_es": "Las mujeres se ven desproporcionadamente afectadas por problemas de salud, educación y laborales en el país y fuera del hogar",
+#         "titleses": "Trabajadoras de primera línea en China, típicas de la carga económica y doméstica del coronavirus sobre las mujeres: informe",
+#         "descriptionses": "Las mujeres se ven desproporcionadamente afectadas por problemas de salud, educación y laborales en el país y fuera del hogar",
+
+
 #         "link": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/society/article/3079363/female-frontline-workers-china-typical-coronavirus-economic-and",
 #         "country": "China",
 #         "category": "labor",
@@ -8057,8 +8518,10 @@ resources_data = [
         
 # "title_fr": "L'impact économique du coronavirus sur les femmes est dévastateur et exacerbe les inégalités entre les sexes, déclare Sheryl Sandberg de Facebook",
 # "description_fr": "Une pandémie aura un effet disproportionné sur les possibilités d'emploi des femmes",
-#         "title_es": "El impacto económico del coronavirus en las mujeres es 'devastador' y exacerba la desigualdad de género, dice Sheryl Sandberg de Facebook",
-#         "description_es": "La pandemia tendrá un efecto desproporcionado en las oportunidades de empleo de las mujeres",
+#         "titleses": "El impacto económico del coronavirus en las mujeres es 'devastador' y exacerba la desigualdad de género, dice Sheryl Sandberg de Facebook",
+#         "descriptionses": "La pandemia tendrá un efecto desproporcionado en las oportunidades de empleo de las mujeres",
+
+
 #         "link": "https://www.newsweek.com/economic-impact-coronavirus-women-devastating-exacerbating-gender-inequality-says-1497325",
 #         "country": "United States",
 #         "category": "labor",
@@ -8070,8 +8533,10 @@ resources_data = [
         
 # "title_fr": "Les femmes en première ligne de COVID-19",
 # "description_fr": "Il y a un manque d'infrastructures pour protéger les travailleurs, dont beaucoup sont des femmes",
-#         "title_es": "Mujeres en primera línea de COVID-19",
-#         "description_es": "Falta infraestructura para proteger a los trabajadores, muchos de los cuales son mujeres",
+#         "titleses": "Mujeres en primera línea de COVID-19",
+#         "descriptionses": "Falta infraestructura para proteger a los trabajadores, muchos de los cuales son mujeres",
+
+
 #         "link": "https://www.liberationnews.org/women-on-the-frontlines-of-covid-19/",
 #         "country": "United States",
 #         "category": "economy, labor",
@@ -8083,8 +8548,10 @@ resources_data = [
         
 # "title_fr": "L'écart de rémunération entre les sexes pose un piège choquant si l'isolement se poursuit",
 # "description_fr": "Le travail mieux rémunéré des hommes est prioritaire par rapport aux femmes lors de la répartition des nouvelles responsabilités ménagères",
-#         "title_es": "La brecha salarial de género plantea una trampa 'impactante' si el aislamiento continúa",
-#         "description_es": "El trabajo mejor remunerado de los hombres se prioriza sobre el de las mujeres al distribuir las nuevas responsabilidades del hogar",
+#         "titleses": "La brecha salarial de género plantea una trampa 'impactante' si el aislamiento continúa",
+#         "descriptionses": "El trabajo mejor remunerado de los hombres se prioriza sobre el de las mujeres al distribuir las nuevas responsabilidades del hogar",
+
+
 #         "link": "https://www.canberratimes.com.au/story/6721006/gender-pay-gap-poses-shocking-pitfall-if-isolation-goes-on/",
 #         "country": "Australia",
 #         "category": "labor",
@@ -8096,8 +8563,10 @@ resources_data = [
         
 # "title_fr": "Les travailleurs du sexe ne doivent pas être laissés pour compte dans la réponse à COVID-19",
 # "description_fr": "L'ONUSIDA appelle à une action immédiate pour protéger les professionnel (le) s du sexe",
-#         "title_es": "Las trabajadoras sexuales no deben quedar atrás en la respuesta a COVID-19",
-#         "description_es": "ONUSIDA pide una acción inmediata para proteger a las trabajadoras sexuales",
+#         "titleses": "Las trabajadoras sexuales no deben quedar atrás en la respuesta a COVID-19",
+#         "descriptionses": "ONUSIDA pide una acción inmediata para proteger a las trabajadoras sexuales",
+
+
 #         "link": "https://www.unaids.org/en/resources/presscentre/pressreleaseandstatementarchive/2020/april/20200408_sex-workers-covid-19",
 #         "country": "Global",
 #         "category": "SRHR, labor, gender-based violence",
@@ -8109,8 +8578,10 @@ resources_data = [
         
 # "title_fr": "Protéger les femmes utilisant les DFS pendant la pandémie",
 # "description_fr": "Les femmes devraient être formées à l'utilisation de solutions de financement numérique dans les pays en développement",
-#         "title_es": "Protegiendo a las mujeres que usan DFS durante la pandemia",
-#         "description_es": "Las mujeres deberían recibir educación sobre el uso de soluciones de financiación digital en los países en desarrollo",
+#         "titleses": "Protegiendo a las mujeres que usan DFS durante la pandemia",
+#         "descriptionses": "Las mujeres deberían recibir educación sobre el uso de soluciones de financiación digital en los países en desarrollo",
+
+
 #         "link": "https://www.siaedge.com/news/2020/3/27/protecting-women-using-dfs-during-the-pandemic",
 #         "country": "Ghana, Kenya",
 #         "category": "digital surveillance, economy, labor",
@@ -8122,8 +8593,10 @@ resources_data = [
         
 # "title_fr": "La dévastation économique du COVID-19 frappe particulièrement les femmes",
 # "description_fr": "Les femmes sont touchées de manière disproportionnée par Covid-19, en particulier les femmes noires",
-#         "title_es": "La devastación económica de COVID-19 está afectando particularmente a las mujeres",
-#         "description_es": "Las mujeres se ven desproporcionadamente afectadas por Covid-19, particularmente las mujeres negras",
+#         "titleses": "La devastación económica de COVID-19 está afectando particularmente a las mujeres",
+#         "descriptionses": "Las mujeres se ven desproporcionadamente afectadas por Covid-19, particularmente las mujeres negras",
+
+
 #         "link": "https://www.huffingtonpost.co.uk/entry/women-coronavirus-lost-jobs_n_5e90observed response63c5b685fbc7d4a557?ri18n=true",
 #         "country": "United States",
 #         "category": "economy, labor, race",
@@ -8135,8 +8608,10 @@ resources_data = [
         
 # "title_fr": "Aborder les dimensions sexospécifiques des fermetures d'écoles liées à COVID",
 # "description_fr": "Rapport de synthèse d'un webinaire présentant les expériences des pays et synthétisant les appels à l'action des participants pour les gouvernements",
-#         "title_es": "Abordar las dimensiones de género de los cierres de escuelas relacionados con COVID",
-#         "description_es": "Informe de síntesis del seminario web que presenta las experiencias de los países y sintetiza los llamados de los participantes a la acción para los gobiernos",
+#         "titleses": "Abordar las dimensiones de género de los cierres de escuelas relacionados con COVID",
+#         "descriptionses": "Informe de síntesis del seminario web que presenta las experiencias de los países y sintetiza los llamados de los participantes a la acción para los gobiernos",
+
+
 #         "link": "https://en.unesco.org/sites/default/files/covid-19-ed_webinar_3-addressing_the_gender_dimensions_of_school_closures-report-en.pdf",
 #         "country": "Sierra Leone, Nigeria, Nepal, Afghanistan",
 #         "category": "education",
@@ -8148,8 +8623,10 @@ resources_data = [
         
 # "title_fr": "Impact COVID-19: ce que nous savons jusqu'à présent - Albanie",
 # "description_fr": "Entretien avec le directeur exécutif du Centre albanais de la population et du développement (ACPD)",
-#         "title_es": "Impacto COVID-19: lo que sabemos hasta ahora - Albania",
-#         "description_es": "Una entrevista con el Director Ejecutivo del Centro de Población y Desarrollo de Albania (ACPD)",
+#         "titleses": "Impacto COVID-19: lo que sabemos hasta ahora - Albania",
+#         "descriptionses": "Una entrevista con el Director Ejecutivo del Centro de Población y Desarrollo de Albania (ACPD)",
+
+
 #         "link": "https://www.ippf.org/blogs/covid-19-impact-what-we-know-so-far-albania",
 #         "country": "Albania",
 #         "category": "SRHR",
@@ -8161,8 +8638,10 @@ resources_data = [
         
 # "title_fr": "PNUD Angola: Appui à la réponse nationale pour contenir l'impact de COVID-19",
 # "description_fr": "Analyse, interventions et budget associé du PNUD pour COVID-19, mettant en évidence les impacts socio-économiques sexospécifiques dans le budget",
-#         "title_es": "PNUD Angola: Apoyo a la respuesta nacional para contener el impacto de COVID-19",
-#         "description_es": "Análisis, intervenciones y presupuesto asociado del PNUD para COVID-19, destacando los impactos socioeconómicos de género en el presupuesto",
+#         "titleses": "PNUD Angola: Apoyo a la respuesta nacional para contener el impacto de COVID-19",
+#         "descriptionses": "Análisis, intervenciones y presupuesto asociado del PNUD para COVID-19, destacando los impactos socioeconómicos de género en el presupuesto",
+
+
 #         "link": "https://www.undp.org/content/dam/rba/docs/COVID-19-CO-Response/undp-rba-covid-angola-apr2020.pdf",
 #         "country": "Angola",
 #         "category": "economy, SRHR",
@@ -8174,8 +8653,10 @@ resources_data = [
         
 # "title_fr": "C-19 Menaces Antigua-et-Barbuda",
 # "description_fr": "Analyse de la réponse: informations gouvernementales, actions et dépenses de santé dans le contexte du capitalisme en cas de catastrophe",
-#         "title_es": "C-19 Menaces Antigua y Barbuda",
-#         "description_es": "Análisis de respuesta: información del gobierno, acciones y gasto en atención médica en el contexto del capitalismo de desastre",
+#         "titleses": "C-19 Menaces Antigua y Barbuda",
+#         "descriptionses": "Análisis de respuesta: información del gobierno, acciones y gasto en atención médica en el contexto del capitalismo de desastre",
+
+
 #         "link": "https://solidarity-us.org/c-19-menaces-antigua-and-barbuda/",
 #         "country": "Antigua and Barbuda",
 #         "category": "healthcare, economy",
@@ -8187,8 +8668,10 @@ resources_data = [
         
 # "title_fr": "L'épidémie de coronavirus a bloqué l'effort historique de l'Argentine pour légaliser l'avortement",
 # "description_fr": "Analyse des mouvements d'avortement en Argentine et état de la législation reportée en raison d'une pandémie",
-#         "title_es": "El brote de coronavirus ha frenado el esfuerzo histórico de Argentina para legalizar el aborto",
-#         "description_es": "Análisis del movimiento del aborto en Argentina y el estado de la legislación pospuesta debido a una pandemia",
+#         "titleses": "El brote de coronavirus ha frenado el esfuerzo histórico de Argentina para legalizar el aborto",
+#         "descriptionses": "Análisis del movimiento del aborto en Argentina y el estado de la legislación pospuesta debido a una pandemia",
+
+
 #         "link": "https://www.huffpost.com/entry/argentina-abortion-legalization-coronavirus_n_5e7cae9bc5b6cb08a928f364",
 #         "country": "Argentina",
 #         "category": "SRHR",
@@ -8200,8 +8683,10 @@ resources_data = [
         
 # "title_fr": "Leçons COVID-19 de l'Argentine",
 # "description_fr": "Analyse de la réponse des pays qui inclut le contexte de l'histoire de la résistance, des mouvements féministes et de l'organisation démocratique",
-#         "title_es": "Lecciones COVID-19 de Argentina",
-#         "description_es": "Análisis de la respuesta del país que incluye el contexto de la historia de resistencia, movimientos feministas y organización democrática",
+#         "titleses": "Lecciones COVID-19 de Argentina",
+#         "descriptionses": "Análisis de la respuesta del país que incluye el contexto de la historia de resistencia, movimientos feministas y organización democrática",
+
+
 #         "link": "https://www.jacobinmag.com/2020/04/argentina-covid-19-coronavirus-pandemic-response",
 #         "country": "Argentina",
 #         "category": "SRHR",
@@ -8213,8 +8698,10 @@ resources_data = [
         
 # "title_fr": "L'Argentine voit au moins 6 fémicides pendant la quarantaine des coronavirus",
 # "description_fr": "Raconte l'histoire récente du fémicide en Argentine et les récentes mesures COVID-19, y compris # BarbijoRojo / 'Red Facemask'",
-#         "title_es": "Argentina ve al menos 6 feminicidios durante la cuarentena de coronavirus",
-#         "description_es": "Relata la historia reciente de feminicidios de Argentina y las recientes medidas COVID-19, incluyendo # BarbijoRojo / 'Red Facemask'",
+#         "titleses": "Argentina ve al menos 6 feminicidios durante la cuarentena de coronavirus",
+#         "descriptionses": "Relata la historia reciente de feminicidios de Argentina y las recientes medidas COVID-19, incluyendo # BarbijoRojo / 'Red Facemask'",
+
+
 #         "link": "https://www.aljazeera.com/news/2020/04/argentina-sees-6-femicides-coronavirus-quarantine-200401185419939.html",
 #         "country": "Argentina",
 #         "category": "gender-based violence",
@@ -8226,8 +8713,10 @@ resources_data = [
         
 # "title_fr": "Les personnes transgenres peuvent-elles parler en Arménie?",
 # "description_fr": "Comparaison des expériences COVID-19 avec les expériences transgenres en Arménie, avec un regard sur les impacts disproportionnés",
-#         "title_es": "¿Pueden las personas transgénero hablar en Armenia?",
-#         "description_es": "Comparación de las experiencias de COVID-19 con las experiencias transgénero en Armenia, con una mirada a los impactos desproporcionados",
+#         "titleses": "¿Pueden las personas transgénero hablar en Armenia?",
+#         "descriptionses": "Comparación de las experiencias de COVID-19 con las experiencias transgénero en Armenia, con una mirada a los impactos desproporcionados",
+
+
 #         "link": "https://www.opendemocracy.net/en/odr/can-transgender-people-speak-armenia/",
 #         "country": "Armenia",
 #         "category": "gendered health impacts",
@@ -8239,8 +8728,10 @@ resources_data = [
         
 # "title_fr": "Coronavirus Australie: pourquoi les femmes ressentiront l'impact plus que les hommes",
 # "description_fr": "Exploration des impacts sexospécifiques dans un article du Lancet avec des données spécifiques à l'Australie sur les travailleurs de première ligne et le statut socio-économique",
-#         "title_es": "Coronavirus Australia: por qué las mujeres sentirán el impacto más que los hombres",
-#         "description_es": "Exploración de los impactos de género en el artículo de Lancet con datos específicos de Australia sobre trabajadores de primera línea y estatus socioeconómico",
+#         "titleses": "Coronavirus Australia: por qué las mujeres sentirán el impacto más que los hombres",
+#         "descriptionses": "Exploración de los impactos de género en el artículo de Lancet con datos específicos de Australia sobre trabajadores de primera línea y estatus socioeconómico",
+
+
 #         "link": "https://7news.com.au/lifestyle/health-wellbeing/coronavirus-australia-why-women-will-feel-the-impact-more-than-men-c-748823?utm_campaign=share-icons&utm_source=facebook&utm_medium=social&tid=1584431328469&mc_cid=719f7558Organizing Tool&mc_eid=6bbf508b86",
 #         "country": "Australia",
 #         "category": "healthcare, economy",
@@ -8252,8 +8743,10 @@ resources_data = [
         
 # "title_fr": "Une organisation locale de défense des droits de l'homme appelle à une politique féministe dans la réponse de COVID-19",
 # "description_fr": "Description de la lettre ouverte d'Egalité Bahamas appelant à un accès féministe et basé sur les droits à la protection, à l'information, aux ressources",
-#         "title_es": "La organización local de derechos humanos insta a la política feminista en la respuesta COVID-19",
-#         "description_es": "Descripción de la carta abierta de Equality Bahamas que pide acceso feminista y basado en derechos a protección, información, recursos",
+#         "titleses": "La organización local de derechos humanos insta a la política feminista en la respuesta COVID-19",
+#         "descriptionses": "Descripción de la carta abierta de Equality Bahamas que pide acceso feminista y basado en derechos a protección, información, recursos",
+
+
 #         "link": "https://ewnews.com/local-human-rights-organisation-urges-feminist-policy-in-covid-19-response",
 #         "country": "Bahamas",
 #         "category": "punitive, healthcare, education, economy, childcare, labor, gender-based violence",
@@ -8265,8 +8758,10 @@ resources_data = [
         
 # "title_fr": "Les victimes de la traite se joignent à la lutte contre le COVID-19 en Azerbaïdjan",
 # "description_fr": "Description d'un groupe de victimes de la traite dans un refuge cousant des masques pour contribuer",
-#         "title_es": "Las víctimas de la trata se unen a la lucha contra COVID-19 en Azerbaiyán",
-#         "description_es": "Descripción de un grupo de víctimas de trata en un refugio que cose máscaras faciales para contribuir",
+#         "titleses": "Las víctimas de la trata se unen a la lucha contra COVID-19 en Azerbaiyán",
+#         "descriptionses": "Descripción de un grupo de víctimas de trata en un refugio que cose máscaras faciales para contribuir",
+
+
 #         "link": "https://www.iom.int/news/trafficking-victims-join-fight-against-covid-19-azerbaijan",
 #         "country": "Azerbaijan",
 #         "category": "healthcare",
@@ -8278,8 +8773,10 @@ resources_data = [
         
 # "title_fr": "Au milieu du verrouillage de COVID-19, l'urgence féministe doit être résolue",
 # "description_fr": "Appel féministe pour un plan complet de lutte contre la violence sexiste, en s'appuyant sur des mesures standard avec des ressources supplémentaires",
-#         "title_es": "En medio del bloqueo de COVID-19, se debe abordar la emergencia feminista",
-#         "description_es": "Llamamiento feminista para un plan integral para abordar la violencia de género, basándose en medidas estándar con recursos adicionales",
+#         "titleses": "En medio del bloqueo de COVID-19, se debe abordar la emergencia feminista",
+#         "descriptionses": "Llamamiento feminista para un plan integral para abordar la violencia de género, basándose en medidas estándar con recursos adicionales",
+
+
 #         "link": "https://menafn.com/1100018749/Amid-the-COVID-19-Lockdown-the-Feminist-Emergency-Must-be-Addressed",
 #         "country": "Venezuela",
 #         "category": "gender-based violence",
@@ -8291,8 +8788,10 @@ resources_data = [
         
 # "title_fr": "L'impact de COVID-19 sur l'égalité des sexes dans la région arabe",
 # "description_fr": "Note politique de l'ECSWA / ONU sur les impacts anticipés avec les réponses politiques recommandées",
-#         "title_es": "El impacto de COVID-19 en la igualdad de género en la región árabe",
-#         "description_es": "Resumen de política de ECSWA / ONU sobre los impactos anticipados con las respuestas de política recomendadas",
+#         "titleses": "El impacto de COVID-19 en la igualdad de género en la región árabe",
+#         "descriptionses": "Resumen de política de ECSWA / ONU sobre los impactos anticipados con las respuestas de política recomendadas",
+
+
 #         "link": "https://reliefweb.int/sites/reliefweb.int/files/resources/policy_brief_on_the_impact_of_covid-19_on_gender_relations_in_the_arab_region_en_1.pdf",
 #         "country": "Middle East and North Africa",
 #         "category": "healthcare, education, economy, childcare, labor, food, gender-based violence",
@@ -8304,8 +8803,10 @@ resources_data = [
         
 # "title_fr": "COVID-19: Bahreïn lance une initiative pour venir en aide aux étrangers sans emploi",
 # "description_fr": "Brève description du programme de secours alimentaire conçu et géré par des bénévoles",
-#         "title_es": "COVID-19: Iniciativa de lanzamiento de Bahrein para ayudar a los extranjeros desempleados",
-#         "description_es": "Breve descripción del programa de ayuda alimentaria diseñado y dirigido por voluntarios",
+#         "titleses": "COVID-19: Iniciativa de lanzamiento de Bahrein para ayudar a los extranjeros desempleados",
+#         "descriptionses": "Breve descripción del programa de ayuda alimentaria diseñado y dirigido por voluntarios",
+
+
 #         "link": "https://gulfnews.com/world/gulf/bahrain/covid-19-bahrainis-launch-initiative-to-aid-jobless-foreigners",
 #         "country": "Bahrain",
 #         "category": "food",
@@ -8317,8 +8818,10 @@ resources_data = [
         
 # "title_fr": "Les femmes bangladaises jouent un rôle crucial dans la lutte contre COVID-19",
 # "description_fr": "",
-#         "title_es": "Las mujeres de Bangladesh juegan un papel crucial en la lucha contra COVID-19",
-#         "description_es": "",
+#         "titleses": "Las mujeres de Bangladesh juegan un papel crucial en la lucha contra COVID-19",
+#         "descriptionses": "",
+
+
 #         "link": "https://netra.news/2020/bangladeshi-women-play-crucial-role-in-fight-against-covid-19-981",
 #         "country": "Bangladesh",
 #         "category": "healthcare, economy, childcare, labor, gender-based violence",
@@ -8330,8 +8833,10 @@ resources_data = [
         
 # "title_fr": "COVID-19 et implications pour une autonomisation économique inclusive dans la CARICOM: considérations politiques et programmatiques",
 # "description_fr": "Synthèse des politiques examinant les données régionales et faisant de larges recommandations politiques pour des mesures sensibles au genre",
-#         "title_es": "COVID-19 e implicaciones para el empoderamiento económico inclusivo en CARICOM: consideraciones de políticas y programas",
-#         "description_es": "Resumen de políticas que revisa datos regionales y hace recomendaciones políticas generales para medidas con perspectiva de género",
+#         "titleses": "COVID-19 e implicaciones para el empoderamiento económico inclusivo en CARICOM: consideraciones de políticas y programas",
+#         "descriptionses": "Resumen de políticas que revisa datos regionales y hace recomendaciones políticas generales para medidas con perspectiva de género",
+
+
 #         "link": "https://www2.unwomen.org/-/media/field%20office%20caribbean/attachments/publications/2020/social%20protection%20covid-19%20%20web%20doc%2020200327.pdf?la=en&vs=812",
 #         "country": "Latin America and the Caribbean",
 #         "category": "economy, childcare, labor, food, gender-based violence, disability",
@@ -8343,8 +8848,10 @@ resources_data = [
         
 # "title_fr": "COVID-19 en Amérique latine et dans les Caraïbes: comment intégrer les femmes et l'égalité des sexes",
 # "description_fr": "COVID-19 en Amérique latine et dans les Caraïbes: comment intégrer les femmes et l'égalité des sexes",
-#         "title_es": "COVID-19 En América Latina Y El Caribe: Cómo Incorporar A Las Mujeres Y La Igualdad De Género",
-#         "description_es": "COVID-19 in Latin America and the Caribbean: How to Incorporate Women and Gender Equality",
+#         "titleses": "COVID-19 En América Latina Y El Caribe: Cómo Incorporar A Las Mujeres Y La Igualdad De Género",
+#         "descriptionses": "COVID-19 in Latin America and the Caribbean: How to Incorporate Women and Gender Equality",
+
+
 #         "link": "https://www2.unwomen.org/-/media/field%20office%20americas/documentos/publicaciones/2020/03/briefing%20coronavirusv1117032020.pdf?la=es&vs=930",
 #         "country": "Latin America and the Caribbean",
 #         "category": "SRHR, economy, childcare, food, gendered health impacts, gender-based violence",
@@ -8356,8 +8863,10 @@ resources_data = [
 
 # "title_en": "COVID-19 en Amérique latine et dans les Caraïbes: comment intégrer les femmes et l'égalité des sexes",
 # "description_en": "",
-#         "title_es": "COVID-19 en América Latina y el Caribe: Cómo incorporar a las mujeres y la igualdad de género",
-# "description_es": "",
+#         "titleses": "COVID-19 en América Latina y el Caribe: Cómo incorporar a las mujeres y la igualdad de género",
+# "description_es": ""s
+
+
 # "link": "https://www2.unwomen.org/-/media/field%20office%20americas/documentos/publicaciones/2020/03/enbriefing%20coronavirusv1117032020.pdf?la=es&vs=0",
 #         "country": "Latin America and the Caribbean",
 #         "category": "SRHR, economy, childcare, food, gendered health impacts, disability",
@@ -8369,8 +8878,10 @@ resources_data = [
         
 # "title_fr": "Genre et COVID-19 en Amérique latine et dans les Caraïbes: les dimensions de genre dans la réponse",
 # "description_fr": "Genre et COVID-19 en Amérique latine et dans les Caraïbes: les dimensions de genre dans la réponse",
-#         "title_es": "Género y COVID-19 en América Latina y el Caribe: dimensiones de género en la respuesta",
-#         "description_es": "Género y COVID-19 en América Latina y el Caribe: dimensiones de género en la respuesta",
+#         "titleses": "Género y COVID-19 en América Latina y el Caribe: dimensiones de género en la respuesta",
+#         "descriptionses": "Género y COVID-19 en América Latina y el Caribe: dimensiones de género en la respuesta",
+
+
 #         "link": "https://www2.unwomen.org/-/media/field%20office%20americas/documentos/publicaciones/2020/03/ptbriefing%20coronavirusv1117032020.pdf?la=es&vs=2922",
 #         "country": "Latin America and the Caribbean",
 #         "category": "SRHR, economy, childcare, food, gendered health impacts, race",
@@ -8382,8 +8893,10 @@ resources_data = [
         
 # "title_fr": "Le COVID-19 En Amérique Latine Et Aux Caraïbes: Intégration Des Femmes Et De L’égalité Des Sexes",
 # "description_fr": "COVID-19 in Latin America and the Caribbean: Integration of Women and Gender Equality",
-#         "title_es": "COVID-19 en América Latina y el Caribe: integración de la mujer e igualdad de género",
-#         "description_es": "COVID-19 en América Latina y el Caribe: Integración de la mujer e igualdad de género",
+#         "titleses": "COVID-19 en América Latina y el Caribe: integración de la mujer e igualdad de género",
+#         "descriptionses": "COVID-19 en América Latina y el Caribe: Integración de la mujer e igualdad de género",
+
+
 #         "link": "https://www2.unwomen.org/-/media/field%20office%20americas/documentos/publicaciones/2020/03/frbriefing%20coronavirusv1117032020.pdf?la=es&vs=232",
 #         "country": "Latin America and the Caribbean",
 #         "category": "SRHR, economy, childcare, food, gendered health impacts, misinformation",
@@ -8395,8 +8908,10 @@ resources_data = [
         
 # "title_fr": "Protéger les personnes les plus vulnérables des Caraïbes face au COVID-19",
 # "description_fr": "Blog prônant une réponse à multiples facettes protégeant les personnes âgées, les femmes et les enfants",
-#         "title_es": "Protección de las personas más vulnerables del Caribe frente a COVID-19",
-#         "description_es": "Blog que aboga por una respuesta multifacética que proteja a los ancianos, las mujeres y los niños",
+#         "titleses": "Protección de las personas más vulnerables del Caribe frente a COVID-19",
+#         "descriptionses": "Blog que aboga por una respuesta multifacética que proteja a los ancianos, las mujeres y los niños",
+
+
 #         "link": "https://news.un.org/en/story/2020/04/1060842",
 #         "country": "Latin America and the Caribbean",
 #         "category": "healthcare, education, childcare, gender-based violence, disability",
@@ -8408,8 +8923,10 @@ resources_data = [
         
 # "title_fr": "Coronavirus: pourquoi plus d'hommes que de femmes meurent?",
 # "description_fr": "Article sur les différences observées dans le monde avec les autorités belges; les données ventilées par sexe ne sont pas disponibles pour la Belgique",
-#         "title_es": "Coronavirus: ¿Por qué mueren más hombres que mujeres?",
-#         "description_es": "Artículo que discute las diferencias observadas en todo el mundo con las autoridades belgas; datos desagregados por sexo no están disponibles para Bélgica",
+#         "titleses": "Coronavirus: ¿Por qué mueren más hombres que mujeres?",
+#         "descriptionses": "Artículo que discute las diferencias observadas en todo el mundo con las autoridades belgas; datos desagregados por sexo no están disponibles para Bélgica",
+
+
 #         "link": "https://www.brusselstimes.com/all-news/belgium-all-news/102934/coronavirus-why-are-men-dying-more-than-women/",
 #         "country": "Belgium",
 #         "category": "gendered health impacts",
@@ -8421,8 +8938,10 @@ resources_data = [
         
 # "title_fr": "Conseils de soins de santé mentale pour les enfants",
 # "description_fr": "Ministère de la Santé et du Bien-être de la famille, Gouvernement de l'Inde-Comment prendre soin de la santé mentale des enfants pendant le verrouillage",
-#         "title_es": "Consejos para el cuidado de la salud mental para niños",
-#         "description_es": "Ministerio de Salud y Bienestar Familiar, Gobierno de India: cómo cuidar la salud mental de los niños durante el encierro",
+#         "titleses": "Consejos para el cuidado de la salud mental para niños",
+#         "descriptionses": "Ministerio de Salud y Bienestar Familiar, Gobierno de India: cómo cuidar la salud mental de los niños durante el encierro",
+
+
 #         "link": "https://www.mohfw.gov.in/pdf/mentalhealthchildrean.pdf",
 #         "country": "India",
 #         "category": "healthcare, childcare",
@@ -8434,8 +8953,10 @@ resources_data = [
         
 # "title_fr": "Conseils de santé mentale aux aînés",
 # "description_fr": "Ministère de la Santé et du Bien-être familial, Gouvernement de l'Inde-Comment prendre soin de la santé mentale des aînés pendant le verrouillage",
-#         "title_es": "Consejos para el cuidado de la salud mental para ancianos",
-#         "description_es": "Ministerio de Salud y Bienestar Familiar, Gobierno de India: cómo cuidar la salud mental de los ancianos durante el encierro",
+#         "titleses": "Consejos para el cuidado de la salud mental para ancianos",
+#         "descriptionses": "Ministerio de Salud y Bienestar Familiar, Gobierno de India: cómo cuidar la salud mental de los ancianos durante el encierro",
+
+
 #         "link": "https://www.mohfw.gov.in/pdf/mentalhealthelderly.pdf",
 #         "country": "India",
 #         "category": "healthcare",
@@ -8447,8 +8968,10 @@ resources_data = [
         
 # "title_fr": "App pour Covid-19",
 # "description_fr": "Le gouvernement de l'Inde a lancé l'application Aarogya Setu pour passer un test d'auto-évaluation, comment maintenir la distance sociale, toutes les informations sur Covid-19, pour obtenir toutes les informations sur l'e-pass à utiliser uniquement dans le but de fournir l'essentiel et fournit également toutes les mises à jour de COVID-19",
-#         "title_es": "Aplicación para Covid-19",
-#         "description_es": "El Gobierno de la India lanzó la aplicación Aarogya Setu para realizar una prueba de autoevaluación, cómo mantener el distanciamiento social, toda la información sobre Covid-19, para obtener toda la información sobre el e-pass para ser utilizada únicamente con el fin de suministrar lo esencial y también proporciona todas las actualizaciones de COVID-19",
+#         "titleses": "Aplicación para Covid-19",
+#         "descriptionses": "El Gobierno de la India lanzó la aplicación Aarogya Setu para realizar una prueba de autoevaluación, cómo mantener el distanciamiento social, toda la información sobre Covid-19, para obtener toda la información sobre el e-pass para ser utilizada únicamente con el fin de suministrar lo esencial y también proporciona todas las actualizaciones de COVID-19",
+
+
 #         "link": "https://www.mygov.in/aarogya-setu-app/",
 #         "country": "India",
 #         "category": "digital surveillance, healthcare, education",
@@ -8460,8 +8983,10 @@ resources_data = [
         
 # "title_fr": "La violence domestique dépénalisée en Russie",
 # "description_fr": "La dépénalisation de la DV devient encore plus dangereuse avec moins d'accès à l'assistance privée",
-#         "title_es": "Violencia doméstica despenalizada en Rusia",
-#         "description_es": "La despenalización de DV se vuelve aún más peligrosa con menos acceso a asistencia privada",
+#         "titleses": "Violencia doméstica despenalizada en Rusia",
+#         "descriptionses": "La despenalización de DV se vuelve aún más peligrosa con menos acceso a asistencia privada",
+
+
 #         "link": "https://www.themoscowtimes.com/2020/03/30/when-your-home-isnt-a-safe-space-russian-women-fear-rise-in-domestic-violence-as-coronavirus-quarantine-starts-a69794",
 #         "country": "Russia",
 #         "category": "gender-based violence",
@@ -8473,8 +8998,10 @@ resources_data = [
         
 # "title_fr": "Cinq actions pour l'égalité des sexes dans la réponse Covid-19",
 # "description_fr": "L'UNICEF se concentre sur 5 actions clés pour atténuer la violence basée sur le genre pendant la pandémie de Covid",
-#         "title_es": "Cinco acciones para la igualdad de género en la respuesta Covid-19",
-#         "description_es": "UNICEF se está centrando en 5 acciones clave para mitigar la violencia de género durante la pandemia de Covid",
+#         "titleses": "Cinco acciones para la igualdad de género en la respuesta Covid-19",
+#         "descriptionses": "UNICEF se está centrando en 5 acciones clave para mitigar la violencia de género durante la pandemia de Covid",
+
+
 #         "link": "https://www.unicef.org/documents/five-actions-gender-equality-coronavirus-disease-covid-19-response-technical-note",
 #         "country": "Global",
 #         "category": "gender-based violence",
@@ -8486,8 +9013,10 @@ resources_data = [
         
 # "title_fr": "Leçons des féministes africaines se mobilisant contre COVID-19",
 # "description_fr": "Les organisations féminines de base en Afrique mobilisent leurs communautés pour répondre à Covid-19",
-#         "title_es": "Lecciones de feministas africanas que se movilizan contra COVID-19",
-#         "description_es": "Las organizaciones de mujeres de base en África están movilizando a sus comunidades para responder a Covid-19",
+#         "titleses": "Lecciones de feministas africanas que se movilizan contra COVID-19",
+#         "descriptionses": "Las organizaciones de mujeres de base en África están movilizando a sus comunidades para responder a Covid-19",
+
+
 #         "link": "https://blogs.ei.columbia.edu/2020/04/03/african-feminists-mobilizing-covid-19/",
 #         "country": "Anglophone Africa, Francophone Africa",
 #         "category": "gendered health impacts",
@@ -8499,8 +9028,10 @@ resources_data = [
         
 # "title_fr": "RESPONSABILITÉ PARTAGÉE, SOLIDARITÉ MONDIALE: Répondre aux impacts socio-économiques de COVID-19",
 # "description_fr": "Un rapport résumant les impacts de Covid en relation avec le statut socio-économique, les responsabilités de chacun sur la planète et les moyens de minimiser les impacts",
-#         "title_es": "RESPONSABILIDAD COMPARTIDA, SOLIDARIDAD GLOBAL: Respuesta a los impactos socioeconómicos de COVID-19",
-#         "description_es": "Un informe que resume los impactos de Covid en relación con el estado socioeconómico, las responsabilidades de todos en el mundo y las formas de minimizar los impactos",
+#         "titleses": "RESPONSABILIDAD COMPARTIDA, SOLIDARIDAD GLOBAL: Respuesta a los impactos socioeconómicos de COVID-19",
+#         "descriptionses": "Un informe que resume los impactos de Covid en relación con el estado socioeconómico, las responsabilidades de todos en el mundo y las formas de minimizar los impactos",
+
+
 #         "link": "https://unsdg.un.org/resources/shared-responsibility-Global-solidarity-responding-socio-economic-impacts-covid-19",
 #         "country": "Global",
 #         "category": "healthcare, economy, labor, gendered health impacts",
@@ -8512,8 +9043,10 @@ resources_data = [
         
 # "title_fr": "Le Coronavirus, des inégalités épuisantes",
 # "description_fr": "Statistiques de la domination féminine sur la ligne de front médicale et de nettoyage et monoparentalité, mettant l'accent sur les inégalités.",
-#         "title_es": "El coronavirus, desigualdades agotadoras",
-#         "description_es": "Estadísticas de dominación femenina de la línea médica y de limpieza y la crianza de los hijos solteros, haciendo hincapié en la desigualdad",
+#         "titleses": "El coronavirus, desigualdades agotadoras",
+#         "descriptionses": "Estadísticas de dominación femenina de la línea médica y de limpieza y la crianza de los hijos solteros, haciendo hincapié en la desigualdad",
+
+
 #         "link": "https://www.letemps.ch/societe/coronavirus-exhausteur-dinegalites",
 #         "country": "Switzerland",
 #         "category": "childcare, gendered health impacts",
@@ -8525,8 +9058,10 @@ resources_data = [
         
 # "title_fr": "Le rôle des femmes n'est pas de rester belle pendant la quarantaine",
 # "description_fr": "Des mèmes sexistes concernant les normes de quarantaine en matière de beauté qui créent un stress supplémentaire pour les femmes qui jonglent déjà avec plus de responsabilités",
-#         "title_es": "El papel de la mujer no es mantenerse bella durante la cuarentena",
-#         "description_es": "Memes sexistas sobre los estándares de belleza en cuarentena que generan estrés adicional para las mujeres que ya hacen malabares con más responsabilidades",
+#         "titleses": "El papel de la mujer no es mantenerse bella durante la cuarentena",
+#         "descriptionses": "Memes sexistas sobre los estándares de belleza en cuarentena que generan estrés adicional para las mujeres que ya hacen malabares con más responsabilidades",
+
+
 #         "link": "https://www.rtbf.be/info/dossier/les-grenades/detail_le-role-des-femmes-n-est-pas-de-rester-belles-durant-le-confinement-une-chronique-de-safia-kessas-et-sofia-cotsoglou?id=10471428",
 #         "country": "Belgium",
 #         "category": "gendered health impacts",
@@ -8538,8 +9073,10 @@ resources_data = [
         
 # "title_fr": "Certains gouvernements utilisent le coronavirus pour restreindre les droits des femmes",
 # "description_fr": "Les gouvernements qui négligent les avortements: classés comme traitements non essentiels , retard des factures, fermeture des centres",
-#         "title_es": "Algunos gobiernos están utilizando el coronavirus para restringir los derechos de las mujeres",
-#         "description_es": "Gobiernos que descuidan los abortos: clasificados como 'tratamientos no esenciales', demorando facturas, cerrando centros",
+#         "titleses": "Algunos gobiernos están utilizando el coronavirus para restringir los derechos de las mujeres",
+#         "descriptionses": "Gobiernos que descuidan los abortos: clasificados como 'tratamientos no esenciales', demorando facturas, cerrando centros",
+
+
 #         "link": "https://www.aljazeera.com/indepth/opinion/governments-coronavirus-restrict-women-rights-200412095859321.html",
 #         "country": "Global",
 #         "category": "SRHR",
@@ -8551,8 +9088,10 @@ resources_data = [
         
 # "title_fr": "Problème de violence domestique en quarantaine et comment trouver de l'aide",
 # "description_fr": "Augmentation de la DV, explication par pays des lignes d'appel, aide à la pharmacie et autre aide gouvernementale.",
-#         "title_es": "Problema de violencia doméstica en cuarentena y cómo encontrar ayuda",
-#         "description_es": "aumento de DV, explicación por país de líneas de llamada, ayuda de farmacia y otra asistencia gubernamental",
+#         "titleses": "Problema de violencia doméstica en cuarentena y cómo encontrar ayuda",
+#         "descriptionses": "aumento de DV, explicación por país de líneas de llamada, ayuda de farmacia y otra asistencia gubernamental",
+
+
 #         "link": "https://www.bbc.com/mundo/noticias-52009140",
 #         "country": "Argentina, Chile, Colombia, Uruguay, Mexico, Peru, Venezuela, Spain",
 #         "category": "gender-based violence",
@@ -8564,8 +9103,10 @@ resources_data = [
         
 # "title_fr": "#TheOtherPandemic, une nouvelle campagne contre la violence domestique",
 # "description_fr": "Spotlight Initiative #LaOtraPandemia #TheOtherPandemic pour un accès rapide à l'aide et aux informations sur la violence domestique",
-#         "title_es": "#TheOtherPandemic, una nueva campaña contra la violencia doméstica",
-#         "description_es": "Iniciativa Spotlight #LaOtraPandemia #TheOtherPandemic para un acceso rápido a asistencia e información sobre violencia doméstica",
+#         "titleses": "#TheOtherPandemic, una nueva campaña contra la violencia doméstica",
+#         "descriptionses": "Iniciativa Spotlight #LaOtraPandemia #TheOtherPandemic para un acceso rápido a asistencia e información sobre violencia doméstica",
+
+
 #         "link": "https://www.clarin.com/sociedad/coronavirus-argentina-laotrapandemia-nueva-campana-violencia-genero_0_93t-SPt_k.html",
 #         "country": "Argentina",
 #         "category": "gender-based violence",
@@ -8577,8 +9118,10 @@ resources_data = [
         
 # "title_fr": "Mexique: du soulèvement des femmes à la crise du COVD-19",
 # "description_fr": "Accuse le gouvernement mexicain pour le manque de réponses sexospécifiques alors que les femmes souffrent le plus",
-#         "title_es": "México: del levantamiento de las mujeres a la crisis COVD-19",
-#         "description_es": "Acusa al gobierno mexicano por falta de respuestas específicas de género mientras que las mujeres son las que más sufren",
+#         "titleses": "México: del levantamiento de las mujeres a la crisis COVD-19",
+#         "descriptionses": "Acusa al gobierno mexicano por falta de respuestas específicas de género mientras que las mujeres son las que más sufren",
+
+
 #         "link": "https://indypendent.org/2020/04/mexico-from-womens-uprising-to-covid-19-crisis/",
 #         "country": "Mexico",
 #         "type": "feminist statement or analysis"
@@ -8589,8 +9132,10 @@ resources_data = [
         
 # "title_fr": "Menacés par leur invisibilité: les prostituées souffrent à cause de COVID-19",
 # "description_fr": "Les professionnel (le) s du sexe se retrouvent dans le travail en ligne, ne reçoivent aucune assistance, aucune sécurité, sont très vulnérables.",
-#         "title_es": "Amenazado por su invisibilidad: las prostitutas sufren debido a COVID-19",
-#         "description_es": "Las trabajadoras sexuales resultan en el trabajo en línea, no reciben asistencia, no son seguras, quedan altamente vulnerables",
+#         "titleses": "Amenazado por su invisibilidad: las prostitutas sufren debido a COVID-19",
+#         "descriptionses": "Las trabajadoras sexuales resultan en el trabajo en línea, no reciben asistencia, no son seguras, quedan altamente vulnerables",
+
+
 #         "link": "https://larepublica.pe/mundo/2020/03/30/coronavirus-prostitutas-sufren-por-covid-19-cuarentena-agrava-su-situacion-amenazadas-por-proxenetas/",
 #         "country": "Peru",
 #         "category": "SRHR, punitive",
@@ -8602,8 +9147,10 @@ resources_data = [
         
 # "title_fr": "Comment le virus Corona élargit l'écart de rémunération entre les sexes",
 # "description_fr": "Les femmes sont plus représentées dans les emplois peu rémunérés et doivent continuer de combler l'écart de rémunération entre les hommes et les femmes",
-#         "title_es": "Cómo el virus Corona amplía la brecha salarial de género",
-#         "description_es": "Las mujeres están más representadas en trabajos mal remunerados, necesitan continuar cerrando la brecha salarial de género",
+#         "titleses": "Cómo el virus Corona amplía la brecha salarial de género",
+#         "descriptionses": "Las mujeres están más representadas en trabajos mal remunerados, necesitan continuar cerrando la brecha salarial de género",
+
+
 #         "link": "https://www.cnn.com/2020/03/31/perspectives/equal-pay-day-coronavirus/index.html",
 #         "country": "United States",
 #         "category": "economy",
@@ -8615,8 +9162,10 @@ resources_data = [
         
 # "title_fr": "COVID-19 met en évidence l'échec du capitalisme néolibéral",
 # "description_fr": "Ce système n'a pas réussi à répondre aux besoins fondamentaux des populations, y compris l'accès à la santé publique et les protections sociales universelles",
-#         "title_es": "COVID-19 destaca el fracaso del capitalismo neoliberal",
-#         "description_es": "Este sistema no ha logrado satisfacer las necesidades básicas de las personas, incluido el acceso a la salud pública y las protecciones sociales universales",
+#         "titleses": "COVID-19 destaca el fracaso del capitalismo neoliberal",
+#         "descriptionses": "Este sistema no ha logrado satisfacer las necesidades básicas de las personas, incluido el acceso a la salud pública y las protecciones sociales universales",
+
+
 #         "link": "https://apwld.org/covid-19-highlights-the-failure-of-neoliberal-capitalism-we-need-feminist-Global-solidarity/?",
 #         "country": "Global, Asia-Pacific",
 #         "category": "economy, labor",
@@ -8628,8 +9177,10 @@ resources_data = [
         
 # "title_fr": "Comment les retombées économiques du coronavirus peuvent affecter de manière disproportionnée les femmes",
 # "description_fr": "Davantage de mères sont le soutien de famille unique ou principal; un congé familial ou médical rémunéré est essentiel",
-#         "title_es": "Cómo las consecuencias económicas del coronavirus pueden afectar desproporcionadamente a las mujeres",
-#         "description_es": "Más madres son el único o principal sostén de la familia; la licencia familiar o médica remunerada es esencial",
+#         "titleses": "Cómo las consecuencias económicas del coronavirus pueden afectar desproporcionadamente a las mujeres",
+#         "descriptionses": "Más madres son el único o principal sostén de la familia; la licencia familiar o médica remunerada es esencial",
+
+
 #         "link": "https://www.forbes.com/sites/jenniferbarrett/2020/04/02/how-economic-fallout-from-the-coronavirus-may-disproportionately-affect-women/#775observed response12a836a",
 #         "country": "United States",
 #         "category": "economy, labor",
@@ -8641,8 +9192,10 @@ resources_data = [
         
 # "title_fr": "De quoi les femmes et les familles de travailleurs ont-elles besoin pour affronter COVID-19?",
 # "description_fr": "NWLC résume ses 4 grandes priorités pour les réponses de Covid-19.",
-#         "title_es": "¿Qué necesitan las mujeres y las familias trabajadoras para enfrentar COVID-19?",
-#         "description_es": "NWLC resume sus 4 prioridades principales para las respuestas de Covid-19",
+#         "titleses": "¿Qué necesitan las mujeres y las familias trabajadoras para enfrentar COVID-19?",
+#         "descriptionses": "NWLC resume sus 4 prioridades principales para las respuestas de Covid-19",
+
+
 #         "link": "https://msmagazine.com/2020/03/18/what-do-women-and-working-families-need-to-face-covid-19/",
 #         "country": "United States",
 #         "category": "economy, childcare",
@@ -8654,8 +9207,10 @@ resources_data = [
         
 # "title_fr": "Solidarité au temps d'une pandémie",
 # "description_fr": "Groupe facebook Solidarité offrant aux femmes des services de garde d'enfants et d'autres formes d'aide à la santé mentale et à l'emploi",
-#         "title_es": "Solidaridad en tiempos de pandemia",
-#         "description_es": "Grupo de facebook solidario que ofrece servicios de guardería para mujeres y otra asistencia para la salud mental y el empleo",
+#         "titleses": "Solidaridad en tiempos de pandemia",
+#         "descriptionses": "Grupo de facebook solidario que ofrece servicios de guardería para mujeres y otra asistencia para la salud mental y el empleo",
+
+
 #         "link": "https://www.rtbf.be/info/dossier/les-grenades/detail_solidarite-en-temps-de-pandemie-une-affaire-genree?id=10460115",
 #         "country": "Belgium",
 #         "category": "childcare",
@@ -8667,8 +9222,10 @@ resources_data = [
         
 # "title_fr": "Les cas de violence domestique augmentent pendant l'épidémie de COVID-19",
 # "description_fr": "Blog: Augmentation du nombre de signalements de violences domestiques au cours de COVID-19, les victimes étant négligées",
-#         "title_es": "Aumento de casos de violencia doméstica durante la epidemia de COVID-19",
-#         "description_es": "Blog: Mayor número de denuncias de violencia doméstica durante COVID-19, víctimas desatendidas",
+#         "titleses": "Aumento de casos de violencia doméstica durante la epidemia de COVID-19",
+#         "descriptionses": "Blog: Mayor número de denuncias de violencia doméstica durante COVID-19, víctimas desatendidas",
+
+
 #         "link": "http://www.sixthtone.com/news/1005253/domestic-violence-cases-surge-during-covid-19-epidemic",
 #         "country": "China",
 #         "category": "gender-based violence",
@@ -8680,8 +9237,10 @@ resources_data = [
         
 # "title_fr": "Pourquoi nous devons parler davantage du potentiel de COVID-19 pour augmenter le risque de violence contre les femmes et les filles",
 # "description_fr": "Résume les résultats d'un examen rapide des preuves des risques de violence basée sur le genre contre les filles et les femmes",
-#         "title_es": "Por qué necesitamos hablar más sobre el potencial de COVID-19 para aumentar el riesgo de violencia contra las mujeres y las niñas",
-#         "description_es": "Resume los resultados de una revisión rápida de la evidencia sobre los riesgos de VG contra niñas y mujeres",
+#         "titleses": "Por qué necesitamos hablar más sobre el potencial de COVID-19 para aumentar el riesgo de violencia contra las mujeres y las niñas",
+#         "descriptionses": "Resume los resultados de una revisión rápida de la evidencia sobre los riesgos de VG contra niñas y mujeres",
+
+
 #         "link": "http://www.sddirect.org.uk/news/2020/03/why-we-need-to-talk-more-about-the-potential-for-covid-19-to-increase-the-risk-of-violence-against-women-and-girls/",
 #         "country": "Global",
 #         "category": "gender-based violence",
@@ -8693,8 +9252,10 @@ resources_data = [
         
 # "title_fr": "COVID-19 et la violence familiale",
 # "description_fr": "FAQ sur la façon dont la pandémie de COVID-19 et d'autres catastrophes naturelles ont accru l'incidence de la violence familiale",
-#         "title_es": "COVID-19 y violencia familiar",
-#         "description_es": "Preguntas frecuentes sobre cómo la pandemia de COVID-19 y otros desastres naturales han aumentado la incidencia de la violencia familiar",
+#         "titleses": "COVID-19 y violencia familiar",
+#         "descriptionses": "Preguntas frecuentes sobre cómo la pandemia de COVID-19 y otros desastres naturales han aumentado la incidencia de la violencia familiar",
+
+
 #         "link": "https://www.thelookout.org.au/family-violence-workers/covid-19-and-family-violence",
 #         "country": "Australia",
 #         "category": "gender-based violence",
@@ -8706,8 +9267,10 @@ resources_data = [
         
 # "title_fr": "Que signifie le coronavirus pour la violence contre les femmes?",
 # "description_fr": "Les raisons pour lesquelles la violence à l'égard des femmes pendant la pandémie de COVID-19 augmente",
-#         "title_es": "¿Qué significa el coronavirus para la violencia contra las mujeres?",
-#         "description_es": "Las razones por las cuales la violencia contra las mujeres durante la pandemia COVID-19 están aumentando",
+#         "titleses": "¿Qué significa el coronavirus para la violencia contra las mujeres?",
+#         "descriptionses": "Las razones por las cuales la violencia contra las mujeres durante la pandemia COVID-19 están aumentando",
+
+
 #         "link": "https://womensmediacenter.com/news-features/what-does-coronavirus-mean-for-violence-against-women",
 #         "country": "Global, United States",
 #         "category": "gender-based violence",
@@ -8719,8 +9282,10 @@ resources_data = [
         
 # "title_fr": "Comment arrêter le verrouillage du coronavirus conduisant à une recrudescence de la violence contre les femmes",
 # "description_fr": "L'hypothèse selon laquelle nos maisons sont sûres pendant la pandémie de COVID-19 est fausse",
-#         "title_es": "Cómo detener el bloqueo del coronavirus que conduce y aumenta la violencia contra las mujeres",
-#         "description_es": "La suposición de que nuestros hogares están seguros durante la pandemia de COVID-19 es falsa",
+#         "titleses": "Cómo detener el bloqueo del coronavirus que conduce y aumenta la violencia contra las mujeres",
+#         "descriptionses": "La suposición de que nuestros hogares están seguros durante la pandemia de COVID-19 es falsa",
+
+
 #         "link": "https://oxfamblogs.org/fp2p/how-to-stop-coronavirus-lockdown-leading-to-an-upsurge-in-violence-against-women%EF%BB%BF/",
 #         "country": "Global",
 #         "category": "gender-based violence",
@@ -8732,8 +9297,10 @@ resources_data = [
         
 # "title_fr": "Message vidéo d'Antonio Guterres (Secrétaire général de l'ONU) sur la violence sexiste et COVID-19",
 # "description_fr": "António Guterres note l'augmentation de la violence domestique, exhorte les gouvernements à inclure la prévention et la réparation dans les plans de réponse",
-#         "title_es": "Mensaje de video de Antonio Guterres (Secretario General de las Naciones Unidas) sobre violencia de género y COVID-19",
-#         "description_es": "Guterres observa el aumento de la violencia doméstica, insta a los gobiernos a incluir la prevención y la reparación como parte de los planes de respuesta",
+#         "titleses": "Mensaje de video de Antonio Guterres (Secretario General de las Naciones Unidas) sobre violencia de género y COVID-19",
+#         "descriptionses": "Guterres observa el aumento de la violencia doméstica, insta a los gobiernos a incluir la prevención y la reparación como parte de los planes de respuesta",
+
+
 #         "link": "https://www.youtube.com/watch?time_continue=10&v=SXxnZKom6sg&feature=emb_logo",
 #         "country": "Global",
 #         "category": "gender-based violence",
@@ -8745,8 +9312,10 @@ resources_data = [
         
 # "title_fr": "Faire de la prévention et de la réparation de la violence à l'égard des femmes un élément clé des plans nationaux d'intervention pour COVID-19 '",
 # "description_fr": "Transcription du message vidéo ONU Guterres ci-dessus",
-#         "title_es": "Hacer de la prevención y reparación de la violencia contra las mujeres una parte clave de los planes nacionales de respuesta para COVID-19 '",
-#         "description_es": "Transcripción del video mensaje de UN Guterres arriba",
+#         "titleses": "Hacer de la prevención y reparación de la violencia contra las mujeres una parte clave de los planes nacionales de respuesta para COVID-19 '",
+#         "descriptionses": "Transcripción del video mensaje de UN Guterres arriba",
+
+
 #         "link": "https://www.un.org/en/un-coronavirus-communications-team/make-prevention-and-redress-violence-against-women-key-part",
 #         "country": "Global",
 #         "category": "gender-based violence",
@@ -8758,8 +9327,10 @@ resources_data = [
         
 # "title_fr": "COVID-19: Gender Lens",
 # "description_fr": "ONU Femmes appelle à l'intégration de la violence à l'égard des femmes Données et services dans les enquêtes COVID-19",
-#         "title_es": "COVID-19: Lente de género",
-#         "description_es": "ONU Mujeres llama a la integración de la violencia contra las mujeres Datos y servicios en las encuestas COVID-19",
+#         "titleses": "COVID-19: Lente de género",
+#         "descriptionses": "ONU Mujeres llama a la integración de la violencia contra las mujeres Datos y servicios en las encuestas COVID-19",
+
+
 #         "link": "https://mailchi.mp/6f266ed24Organizing Tool9/covid-19-gender-equality-matters",
 #         "country": "Global",
 #         "category": "gender-based violence",
@@ -8771,8 +9342,10 @@ resources_data = [
         
 # "title_fr": "Les groupes féministes et féministes de droite exigent des réponses COVID 19 sensibles au genre",
 # "description_fr": "Une organisation de défense des droits des femmes met en garde contre les possibilités d'augmentation de la violence domestique et sexuelle à mesure que le verrouillage se prolonge",
-#         "title_es": "El grupo feminista y de derechos de las mujeres exige respuestas COVID 19 sensibles al género",
-#         "description_es": "La organización de derechos de las mujeres advierte sobre las posibilidades de aumento de la violencia doméstica y sexual a medida que se extiende el bloqueo",
+#         "titleses": "El grupo feminista y de derechos de las mujeres exige respuestas COVID 19 sensibles al género",
+#         "descriptionses": "La organización de derechos de las mujeres advierte sobre las posibilidades de aumento de la violencia doméstica y sexual a medida que se extiende el bloqueo",
+
+
 #         "link": "https://soulwriteempire.com/lockdown-may-increase-domestic-violence-nigerian-women-rights-groups-warn/",
 #         "country": "Nigeria",
 #         "type": "feminist statement or analysis"
@@ -8783,8 +9356,10 @@ resources_data = [
         
 # "title_fr": "La violence sexiste est une pandémie silencieuse",
 # "description_fr": "12 femmes ont été assassinées depuis le début de la quarantaine",
-#         "title_es": "La violencia de género es una pandemia silenciosa",
-#         "description_es": "12 mujeres han sido asesinadas desde que comenzó la cuarentena",
+#         "titleses": "La violencia de género es una pandemia silenciosa",
+#         "descriptionses": "12 mujeres han sido asesinadas desde que comenzó la cuarentena",
+
+
 #         "link": "https://elpais.com/sociedad/2020-04-07/la-violencia-de-genero-es-una-pandemia-silenciosa.html",
 #         "country": "Colombia",
 #         "category": "gender-based violence, punitive",
@@ -8796,8 +9371,10 @@ resources_data = [
         
 # "title_fr": "Violence de genre: hotlines pour les victimes en quarantaine",
 # "description_fr": "Numéros principaux à appeler en cas de crise",
-#         "title_es": "Violencia de género: líneas directas para las víctimas durante la cuarentena",
-#         "description_es": "Números principales a los que llamar en caso de crisis",
+#         "titleses": "Violencia de género: líneas directas para las víctimas durante la cuarentena",
+#         "descriptionses": "Números principales a los que llamar en caso de crisis",
+
+
 #         "link": "https://colombia.as.com/colombia/2020/04/15/tikitakas/1586907724_975905.html",
 #         "country": "Colombia",
 #         "category": "digital surveillance, gender-based violence, disability",
@@ -8809,8 +9386,10 @@ resources_data = [
         
 # "title_fr": "BAHREIN: ASSURER LA PROTECTION DES TRAVAILLEURS MIGRANTS DANS LA RÉPONSE DE COVID-19: LETTRE CONJOINTE",
 # "description_fr": "Une lettre conjointe d'une coalition d'organisations de la société civile et de syndicats, exhortant le gouvernement de Bahreïn à veiller à ce que les travailleurs migrants reçoivent une protection adéquate contre le COVID-19.",
-#         "title_es": "BAHRAIN: ASEGURE LA PROTECCIÓN DE LOS TRABAJADORES MIGRANTES EN LA RESPUESTA DEL COVID-19: CARTA CONJUNTA",
-#         "description_es": "Una carta conjunta de una coalición de organizaciones de la sociedad civil y sindicatos, instando al Gobierno de Bahrein a garantizar que los trabajadores migrantes reciban la protección adecuada contra COVID-19",
+#         "titleses": "BAHRAIN: ASEGURE LA PROTECCIÓN DE LOS TRABAJADORES MIGRANTES EN LA RESPUESTA DEL COVID-19: CARTA CONJUNTA",
+#         "descriptionses": "Una carta conjunta de una coalición de organizaciones de la sociedad civil y sindicatos, instando al Gobierno de Bahrein a garantizar que los trabajadores migrantes reciban la protección adecuada contra COVID-19",
+
+
 #         "link": "https://www.amnesty.org/en/documents/mde11/2168/2020/en/",
 #         "country": "Bahrain",
 #         "category": "healthcare, economy, labor, race",
@@ -8822,8 +9401,10 @@ resources_data = [
         
 # "title_fr": "ONU Femmes salue la perspective de genre de l'Égypte dans le plan de réponse COVID-19",
 # "description_fr": "ONU Femmes a publié une déclaration félicitant le Conseil national des femmes pour ses efforts visant à garantir qu'une perspective de genre soit adoptée dans le plan de réponse COVID-19 de l'Égypte",
-#         "title_es": "ONU Mujeres elogia la perspectiva de género de Egipto en el plan de respuesta COVID-19",
-#         "description_es": "ONU Mujeres emitió una declaración elogiando al Consejo Nacional de la Mujer por sus esfuerzos para garantizar que se adopte una perspectiva de género en el plan de respuesta COVID-19 de Egipto",
+#         "titleses": "ONU Mujeres elogia la perspectiva de género de Egipto en el plan de respuesta COVID-19",
+#         "descriptionses": "ONU Mujeres emitió una declaración elogiando al Consejo Nacional de la Mujer por sus esfuerzos para garantizar que se adopte una perspectiva de género en el plan de respuesta COVID-19 de Egipto",
+
+
 #         "link": "https://www.egypttoday.com/Article/2/84441/UN-Women-commends-Egypt-s-gender-perspective-in-COVID-19",
 #         "country": "Egypt",
 #         "category": "healthcare, education",
@@ -8835,8 +9416,10 @@ resources_data = [
         
 # "title_fr": "Âge, sexe, conditions existantes des cas et des décès liés à COVID-19",
 # "description_fr": "Les cas et le taux de mortalité en fonction de l'âge et du sexe ne vont pas plus loin.",
-#         "title_es": "Edad, sexo, condiciones existentes de casos y muertes de COVID-19",
-#         "description_es": "Los casos y la tasa de mortalidad según la edad y el sexo no profundizan más",
+#         "titleses": "Edad, sexo, condiciones existentes de casos y muertes de COVID-19",
+#         "descriptionses": "Los casos y la tasa de mortalidad según la edad y el sexo no profundizan más",
+
+
 #         "link": "https://www.worldometers.info/coronavirus/coronavirus-age-sex-demographics/",
 #         "country": "United States",
 #         "category": "healthcare",
@@ -8848,8 +9431,10 @@ resources_data = [
         
 # "title_fr": "Rapport de l'ICNARC sur le COVID-19 en soins intensifs",
 # "description_fr": "Les cas et les taux de mortalité jusqu'au 19 mars ne plongent pas dans les différences entre les sexes.",
-#         "title_es": "Informe de ICNARC sobre COVID-19 en cuidados críticos",
-#         "description_es": "Los casos y las tasas de mortalidad hasta el 19 de marzo no se sumergen en las diferencias de género",
+#         "titleses": "Informe de ICNARC sobre COVID-19 en cuidados críticos",
+#         "descriptionses": "Los casos y las tasas de mortalidad hasta el 19 de marzo no se sumergen en las diferencias de género",
+
+
 #         "link": "https://www.icnarc.org/DataServices/Attachments/Download/a9875849-f16c-epolicy or law1-9124-00505601089b",
 #         "country": "United Kingdom",
 #         "category": "healthcare",
@@ -8861,8 +9446,10 @@ resources_data = [
         
 # "title_fr": "Sexe, genre et COVID-19: données désagrégées et disparités en matière de santé",
 # "description_fr": "Le sexe et le genre sont-ils importants pour les voies cliniques et les résultats associés à COVID-19",
-#         "title_es": "Sexo, género y COVID-19: datos desglosados ​​y disparidades de salud",
-#         "description_es": "Si el sexo y el género son importantes para las vías clínicas y los resultados asociados con COVID-19",
+#         "titleses": "Sexo, género y COVID-19: datos desglosados ​​y disparidades de salud",
+#         "descriptionses": "Si el sexo y el género son importantes para las vías clínicas y los resultados asociados con COVID-19",
+
+
 #         "link": "https://blogs.bmj.com/bmjgh/2020/03/24/sex-gender-and-covid-19-disaggregated-data-and-health-disparities/",
 #         "country": "Asia-Pacific, Pacific Islands, Anglophone Africa, Europe, Francophone Africa, Latin America and the Caribbean, Middle East and North Africa",
 #         "category": "healthcare, gendered health impacts, gender-based violence",
@@ -8874,8 +9461,10 @@ resources_data = [
         
 # "title_fr": "Sex, gender and COVID-19 (Live data tracker)",
 # "description_fr": "Les pays doivent commencer à collecter et à publier des données ventilées par sexe, mais ce n'est pas le cas actuellement.",
-#         "title_es": "Sexo, género y COVID-19 (Rastreador de datos en vivo)",
-#         "description_es": "Los países deben comenzar a recopilar y reportar públicamente datos desagregados por sexo, sin embargo, actualmente no lo están haciendo",
+#         "titleses": "Sexo, género y COVID-19 (Rastreador de datos en vivo)",
+#         "descriptionses": "Los países deben comenzar a recopilar y reportar públicamente datos desagregados por sexo, sin embargo, actualmente no lo están haciendo",
+
+
 #         "link": "https://Globalhealth5050.org/covid19/",
 #         "country": "Global",
 #         "category": "healthcare, gendered health impacts, gender-based violence",
@@ -8887,8 +9476,10 @@ resources_data = [
         
 # "title_fr": "Quelles sont les professions qui exposent le plus les travailleurs au COVID-19?",
 # "description_fr": "Explore les emplois qui créent le plus de risques d'exposition au COVID-19, par exemple les infirmières, les dentistes.",
-#         "title_es": "¿Qué ocupaciones exponen más a los trabajadores a COVID-19?",
-#         "description_es": "Explora qué trabajos crean el mayor riesgo de exposición a COVID-19, ejemplos son enfermeras, dentistas",
+#         "titleses": "¿Qué ocupaciones exponen más a los trabajadores a COVID-19?",
+#         "descriptionses": "Explora qué trabajos crean el mayor riesgo de exposición a COVID-19, ejemplos son enfermeras, dentistas",
+
+
 #         "link": "https://autonomy.work/portfolio/jari/",
 #         "country": "United Kingdom",
 #         "category": "labor",
@@ -8900,8 +9491,10 @@ resources_data = [
         
 # "title_fr": "Covid-19 dans le monde: nous avons un besoin urgent de données précises par groupe d'âge et par sexe",
 # "description_fr": "Nous avons besoin de rapports sur les résultats en matière de sexe et d'âge car cela n'est pas fait actuellement.",
-#         "title_es": "Covid-19 en todo el mundo: necesitamos datos precisos por grupo de edad y sexo con urgencia",
-#         "description_es": "Necesitamos informar sobre los resultados de sexo y edad, ya que esto no se está haciendo actualmente",
+#         "titleses": "Covid-19 en todo el mundo: necesitamos datos precisos por grupo de edad y sexo con urgencia",
+#         "descriptionses": "Necesitamos informar sobre los resultados de sexo y edad, ya que esto no se está haciendo actualmente",
+
+
 #         "link": "https://www.bmj.com/content/369/bmj.m1366",
 #         "country": "Global",
 #         "category": "gendered health impacts, gender-based violence",
@@ -8913,8 +9506,10 @@ resources_data = [
         
 # "title_fr": "Covid-19 frappe-t-il les femmes et les hommes différemment? Les États-Unis ne suivent pas",
 # "description_fr": "Bien que nous surveillions les effets de l'âge sur COVID-19, nous ne faisons pas cela avec le sexe.",
-#         "title_es": "¿Covid-19 golpea a mujeres y hombres de manera diferente? Estados Unidos no está siguiendo la pista",
-#         "description_es": "Aunque estamos monitoreando los efectos de la edad en COVID-19, no lo estamos haciendo con el sexo",
+#         "titleses": "¿Covid-19 golpea a mujeres y hombres de manera diferente? Estados Unidos no está siguiendo la pista",
+#         "descriptionses": "Aunque estamos monitoreando los efectos de la edad en COVID-19, no lo estamos haciendo con el sexo",
+
+
 #         "link": "https://www.nytimes.com/2020/04/03/us/coronavirus-male-female-data-bias.html",
 #         "country": "United States",
 #         "category": "gendered health impacts, gender-based violence",
@@ -8926,8 +9521,10 @@ resources_data = [
         
 # "title_fr": "Covid-19 et l'égalité des sexes",
 # "description_fr": "Une page Web visant à fournir des informations sur les différences entre les sexes concernant les effets de COVID-19.",
-#         "title_es": "Covid-19 y la igualdad de género",
-#         "description_es": "Una página web destinada a proporcionar información sobre las diferencias de género para los efectos de COVID-19",
+#         "titleses": "Covid-19 y la igualdad de género",
+#         "descriptionses": "Una página web destinada a proporcionar información sobre las diferencias de género para los efectos de COVID-19",
+
+
 #         "link": "https://eige.europa.eu/topics/health/covid-19-and-gender-equality",
 #         "country": "Europe",
 #         "category": "healthcare, economy, gendered health impacts, gender-based violence",
@@ -8939,8 +9536,10 @@ resources_data = [
         
 # "title_fr": "Utilisation de la recherche factuelle pour intégrer une lentille sexospécifique à la pandémie de COVID-19",
 # "description_fr": "Un portail qui fournit des informations utiles aux décideurs politiques, aux praticiens, etc. pour prendre des décisions éclairées.",
-#         "title_es": "Utilizando investigación basada en evidencia para incorporar una lente de género para la pandemia de COVID-19",
-#         "description_es": "Un portal que proporciona información útil para los responsables políticos, profesionales, etc. para tomar decisiones informadas",
+#         "titleses": "Utilizando investigación basada en evidencia para incorporar una lente de género para la pandemia de COVID-19",
+#         "descriptionses": "Un portal que proporciona información útil para los responsables políticos, profesionales, etc. para tomar decisiones informadas",
+
+
 #         "link": "https://gap.hks.harvard.edu/gap-covid19",
 #         "country": "Global",
 #         "category": "healthcare, economy, gendered health impacts, gender-based violence",
@@ -8952,8 +9551,10 @@ resources_data = [
         
 # "title_fr": "Une méta-analyse de l'association entre le genre et les comportements protecteurs en réponse aux épidémies respiratoires et aux pandémies",
 # "description_fr": "Une analyse effectuée sur les différences entre les sexes dans le comportement des hommes par rapport aux femmes dans les domaines pharmaceutiques.",
-#         "title_es": "Un metaanálisis de la asociación entre género y comportamientos protectores en respuesta a epidemias y pandemias respiratorias",
-#         "description_es": "Un análisis realizado sobre las diferencias de género en el comportamiento de los hombres frente a las mujeres en las áreas farmacéuticas",
+#         "titleses": "Un metaanálisis de la asociación entre género y comportamientos protectores en respuesta a epidemias y pandemias respiratorias",
+#         "descriptionses": "Un análisis realizado sobre las diferencias de género en el comportamiento de los hombres frente a las mujeres en las áreas farmacéuticas",
+
+
 #         "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5074573/",
 #         "country": "Global",
 #         "category": "healthcare, gendered health impacts, gender-based violence",
@@ -8965,8 +9566,10 @@ resources_data = [
         
 # "title_fr": "Action: Appel à une politique féministe COVID-19",
 # "description_fr": "Cet article appelle et décrit les caractéristiques d'une politique féministe pour COVID-19",
-#         "title_es": "Acción: convocatoria de una política feminista de COVID-19",
-#         "description_es": "Este artículo solicita y describe las características de una política feminista para COVID-19",
+#         "titleses": "Acción: convocatoria de una política feminista de COVID-19",
+#         "descriptionses": "Este artículo solicita y describe las características de una política feminista para COVID-19",
+
+
 #         "link": "http://feministallianceforrights.org/blog/2020/03/20/action-call-for-a-feminist-covid-19-policy/",
 #         "country": "Global",
 #         "category": "healthcare, economy, gendered health impacts, gender-based violence",
@@ -8978,8 +9581,10 @@ resources_data = [
         
 # "title_fr": "COVID-19: Nouvelles données sur le genre et pourquoi elles sont importantes",
 # "description_fr": "Les femmes et les filles sont confrontées à un accès inégal au travail, aux soins de santé et font face à une violence domestique croissante",
-#         "title_es": "COVID-19: datos de género emergentes y por qué es importante",
-#         "description_es": "Las mujeres y las niñas enfrentan un acceso desigual al trabajo, la atención médica y una violencia doméstica cada vez mayor",
+#         "titleses": "COVID-19: datos de género emergentes y por qué es importante",
+#         "descriptionses": "Las mujeres y las niñas enfrentan un acceso desigual al trabajo, la atención médica y una violencia doméstica cada vez mayor",
+
+
 #         "link": "https://data.unwomen.org/resources/covid-19-emerging-gender-data-and-why-it-matters",
 #         "country": "Global",
 #         "category": "gendered health impacts, gender-based violence",
@@ -8991,8 +9596,10 @@ resources_data = [
         
 # "title_fr": "COVID-19 et le genre: que savons-nous, que devons-nous savoir?",
 # "description_fr": "Importance de saisir les impacts sur la santé qui diffèrent entre les femmes et les hommes en raison des incohérences actuelles",
-#         "title_es": "COVID-19 y género: ¿Qué sabemos; qué necesitamos saber?",
-#         "description_es": "Importancia de capturar los impactos en la salud que difieren entre mujeres y hombres debido a las inconsistencias actuales",
+#         "titleses": "COVID-19 y género: ¿Qué sabemos; qué necesitamos saber?",
+#         "descriptionses": "Importancia de capturar los impactos en la salud que difieren entre mujeres y hombres debido a las inconsistencias actuales",
+
+
 #         "link": "https://data.unwomen.org/features/covid-19-and-gender-what-do-we-know-what-do-we-need-know",
 #         "country": "Global",
 #         "category": "gendered health impacts, gender-based violence",
@@ -9004,8 +9611,10 @@ resources_data = [
         
 # "title_fr": "Mise à jour de la situation du COVID-19 pour la Région européenne de l'OMS",
 # "description_fr": "Données COVID-19 du 6 au 12 avril; n'incluent pas beaucoup de données sur le sexe.",
-#         "title_es": "Actualización de la situación COVID-19 para la Región Europea de la OMS",
-#         "description_es": "datos de COVID-19 del 6 al 12 de abril; no incluye muchos datos de género en absoluto",
+#         "titleses": "Actualización de la situación COVID-19 para la Región Europea de la OMS",
+#         "descriptionses": "datos de COVID-19 del 6 al 12 de abril; no incluye muchos datos de género en absoluto",
+
+
 #         "link": "http://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19/weekly-surveillance-report",
 #         "country": "Europe",
 #         "category": "healthcare",
@@ -9014,11 +9623,10 @@ resources_data = [
 {
         "title_en": "Domestic Violence Cases Surge During COVID-19 Epidemic",
         "description_en": "Blog: Increased number of reports of domestic violence during COVID-19, victims being neglected",
+        "title_es": "Aumento de casos de violencia doméstica durante la epidemia de COVID-19",
+        "description_es": "Blog: Mayor número de denuncias de violencia doméstica durante COVID-19, víctimas descuidadas",
 
 
-
-        "title_en": "Aumento de casos de violencia doméstica durante la epidemia de COVID-19",
-        "description_en": "Blog: Mayor número de denuncias de violencia doméstica durante COVID-19, víctimas descuidadas",
         "link": "http://www.sixthtone.com/news/1005253/domestic-violence-cases-surge-during-covid-19-epidemic",
         "category": "gender-based violence",
         "type": "feminist statement or analysis",
@@ -9027,11 +9635,10 @@ resources_data = [
     {
         "title_en": "Why we need to talk more about the potential for COVID-19 to Increase the Risk of Violence against Women and Girls",
         "description_en": "Summarizes the results of a rapid review of evidence on risks of GBV against girls and women",
+        "title_es": "Por qué necesitamos hablar más sobre el potencial de COVID-19 para aumentar el riesgo de violencia contra las mujeres y las niñas",
+        "description_es": "Resume los resultados de una revisión rápida de la evidencia sobre los riesgos de violencia de género contra niñas y mujeres",
 
 
-
-        "title_en": "Por qué necesitamos hablar más sobre el potencial de COVID-19 para aumentar el riesgo de violencia contra las mujeres y las niñas",
-        "description_en": "Resume los resultados de una revisión rápida de la evidencia sobre los riesgos de violencia de género contra niñas y mujeres",
         "link": "http://www.sddirect.org.uk/news/2020/03/why-we-need-to-talk-more-about-the-potential-for-covid-19-to-increase-the-risk-of-violence-against-women-and-girls/",
         "category": "gender-based violence",
         "type": "scientific data, feminist statement or analysis",
@@ -9040,11 +9647,10 @@ resources_data = [
     {
         "title_en": "COVID-19 and Family Violence",
         "description_en": "FAQ on how COVID-19 pandemic and other natural disasters have increased the incidence of family violence",
+        "title_es": "COVID-19 y violencia familiar",
+        "description_es": "Preguntas frecuentes sobre cómo la pandemia de COVID-19 y otros desastres naturales han aumentado la incidencia de la violencia familiar",
 
 
-
-        "title_en": "COVID-19 y violencia familiar",
-        "description_en": "Preguntas frecuentes sobre cómo la pandemia de COVID-19 y otros desastres naturales han aumentado la incidencia de la violencia familiar",
         "link": "https://www.thelookout.org.au/family-violence-workers/covid-19-and-family-violence",
         "category": "gender-based violence",
         "type": "feminist statement or analysis",
@@ -9053,11 +9659,10 @@ resources_data = [
     {
         "title_en": "How to stop Coronavirus Lockdown Leading to and Upsurge in Violence against Women",
         "description_en": "The assumption that our homes are safe during the COVID-19 pandemic is false",
+        "title_es": "Cómo detener el bloqueo del coronavirus que conduce y aumenta la violencia contra las mujeres",
+        "description_es": "La suposición de que nuestros hogares están seguros durante la pandemia de COVID-19 es falsa",
 
 
-
-        "title_en": "Cómo detener el bloqueo del coronavirus que conduce y aumenta la violencia contra las mujeres",
-        "description_en": "La suposición de que nuestros hogares están seguros durante la pandemia de COVID-19 es falsa",
         "link": "https://oxfamblogs.org/fp2p/how-to-stop-coronavirus-lockdown-leading-to-an-upsurge-in-violence-against-women%EF%BB%BF/",
         "category": "gender-based violence",
         "type": "feminist statement or analysis",
@@ -9066,11 +9671,10 @@ resources_data = [
     {
         "title_en": "Video Message from Antonio Guterres (UN Secretary-General) on gender-based violence and COVID-19",
         "description_en": "Guterres notes the increase in domestic violence, urges governments to include prevention and redress as part of response plans",
+        "title_es": "Video mensaje de Antonio Guterres (Secretario General de la ONU) sobre violencia de género y COVID-19",
+        "description_es": "Guterres observa el aumento de la violencia doméstica, insta a los gobiernos a incluir la prevención y la reparación como parte de los planes de respuesta",
 
 
-
-        "title_en": "Video mensaje de Antonio Guterres (Secretario General de la ONU) sobre violencia de género y COVID-19",
-        "description_en": "Guterres observa el aumento de la violencia doméstica, insta a los gobiernos a incluir la prevención y la reparación como parte de los planes de respuesta",
         "link": "https://www.youtube.com/watch?time_continue=10&v=SXxnZKom6sg&feature=emb_logo",
         "category": "gender-based violence",
         "type": "feminist statement or analysis",
@@ -9079,11 +9683,10 @@ resources_data = [
     {
         "title_en": "Make the Prevention and Redress of Violence Against Women a Key Part of National Response Plans for COVID-19'",
         "description_en": "Transcript of UN Guterres video message above",
+        "title_es": "Hacer de la prevención y reparación de la violencia contra las mujeres una parte clave de los planes nacionales de respuesta para COVID-19 '",
+        "description_es": "Transcripción del video mensaje de la ONU Guterres arriba",
 
 
-
-        "title_en": "Hacer de la prevención y reparación de la violencia contra las mujeres una parte clave de los planes nacionales de respuesta para COVID-19 '",
-        "description_en": "Transcripción del video mensaje de la ONU Guterres arriba",
         "link": "https://www.un.org/en/un-coronavirus-communications-team/make-prevention-and-redress-violence-against-women-key-part",
         "category": "gender-based violence",
         "type": "feminist statement or analysis",
@@ -9092,11 +9695,10 @@ resources_data = [
     {
         "title_en": "COVID-19: Gender Lens",
         "description_en": "UN Women calls for intergration of violence against women Data and services in COVID-19 surveys",
+        "title_es": "COVID-19: Lente de género",
+        "description_es": "ONU Mujeres llama a la integración de la violencia contra las mujeres Datos y servicios en las encuestas COVID-19",
 
 
-
-        "title_en": "COVID-19: Lente de género",
-        "description_en": "ONU Mujeres llama a la integración de la violencia contra las mujeres Datos y servicios en las encuestas COVID-19",
         "link": "https://mailchi.mp/6f266ed24organizing tool9/covid-19-gender-equality-matters",
         "category": "gender-based violence",
         "type": "feminist statement or analysis",
@@ -9105,11 +9707,10 @@ resources_data = [
     {
         "title_en": "Feminist and women's right group demand gender responsive COVID 19 responses",
         "description_en": "Women's rights organisation cautions on the possibilities of increase in domestic and sexual violence as lockdown extends",
+        "title_es": "El grupo feminista y de derechos de las mujeres exige respuestas COVID 19 sensibles al género",
+        "description_es": "La organización de derechos de las mujeres advierte sobre las posibilidades de aumento de la violencia doméstica y sexual a medida que se extiende el bloqueo",
 
 
-
-        "title_en": "El grupo feminista y de derechos de las mujeres exige respuestas COVID 19 sensibles al género",
-        "description_en": "La organización de derechos de las mujeres advierte sobre las posibilidades de aumento de la violencia doméstica y sexual a medida que se extiende el bloqueo",
         "link": "https://soulwriteempire.com/lockdown-may-increase-domestic-violence-nigerian-women-rights-groups-warn/",
         "type": "feminist statement or analysis",
         "country": "Nigeria"
@@ -9117,11 +9718,10 @@ resources_data = [
     {
         "title_en": "Gender violence is a silent pandemic",
         "description_en": "12 Women have been murdered since the quarantine began",
+        "title_es": "La violencia de género es una pandemia silenciosa",
+        "description_es": "12 mujeres han sido asesinadas desde que comenzó la cuarentena",
 
 
-
-        "title_en": "La violencia de género es una pandemia silenciosa",
-        "description_en": "12 mujeres han sido asesinadas desde que comenzó la cuarentena",
         "link": "https://elpais.com/sociedad/2020-04-07/la-violencia-de-genero-es-una-pandemia-silenciosa.html",
         "category": "gender-based violence, punitive",
         "type": "feminist statement or analysis",
@@ -9130,11 +9730,10 @@ resources_data = [
     {
         "title_en": "Gender violence: hotlines for victims during quarantine",
         "description_en": "Main numbers to call if faced with crisis",
+        "title_es": "Violencia de género: líneas directas para las víctimas durante la cuarentena",
+        "description_es": "Números principales a los que llamar en caso de crisis",
 
 
-
-        "title_en": "Violencia de género: líneas directas para las víctimas durante la cuarentena",
-        "description_en": "Números principales a los que llamar en caso de crisis",
         "link": "https://colombia.as.com/colombia/2020/04/15/tikitakas/1586907724_975905.html",
         "category": "digital surveillance, gender-based violence, disability",
         "type": "mutual aid resource",
@@ -9143,11 +9742,10 @@ resources_data = [
     {
         "title_en": "BAHRAIN: ENSURE PROTECTION OF MIGRANT WORKERS IN COVID-19 RESPONSE: JOINT LETTER",
         "description_en": "A joint letter from a coalition of civil society organizations and trade unions, urging the Government of Bahrain to ensure that migrant workers receive adequate protection from COVID-19.",
+        "title_es": "BAHRAIN: ASEGURE LA PROTECCIÓN DE LOS TRABAJADORES MIGRANTES EN LA RESPUESTA DEL COVID-19: CARTA CONJUNTA",
+        "description_es": "Una carta conjunta de una coalición de organizaciones de la sociedad civil y sindicatos, instando al Gobierno de Bahrein a garantizar que los trabajadores migrantes reciban protección adecuada contra COVID-19",
 
 
-
-        "title_en": "BAHRAIN: ASEGURE LA PROTECCIÓN DE LOS TRABAJADORES MIGRANTES EN LA RESPUESTA DEL COVID-19: CARTA CONJUNTA",
-        "description_en": "Una carta conjunta de una coalición de organizaciones de la sociedad civil y sindicatos, instando al Gobierno de Bahrein a garantizar que los trabajadores migrantes reciban protección adecuada contra COVID-19",
         "link": "https://www.amnesty.org/en/documents/mde11/2168/2020/en/",
         "category": "healthcare, economy, labor, race",
         "type": "feminist statement or analysis",
@@ -9156,11 +9754,10 @@ resources_data = [
     {
         "title_en": "UN Women commends Egypt's gender perspective in COVID-19 response plan",
         "description_en": "UN Women issued a statement commending the National Council for Women for its efforts to ensure that a gender perspective is adopted in Egypt’s COVID-19 response plan",
+        "title_es": "ONU Mujeres elogia la perspectiva de género de Egipto en el plan de respuesta COVID-19",
+        "description_es": "ONU Mujeres emitió una declaración elogiando al Consejo Nacional de la Mujer por sus esfuerzos para garantizar que se adopte una perspectiva de género en el plan de respuesta COVID-19 de Egipto",
 
 
-
-        "title_en": "ONU Mujeres elogia la perspectiva de género de Egipto en el plan de respuesta COVID-19",
-        "description_en": "ONU Mujeres emitió una declaración elogiando al Consejo Nacional de la Mujer por sus esfuerzos para garantizar que se adopte una perspectiva de género en el plan de respuesta COVID-19 de Egipto",
         "link": "https://www.egypttoday.com/Article/2/84441/UN-Women-commends-Egypt-s-gender-perspective-in-COVID-19",
         "category": "healthcare, education",
         "type": "feminist statement or analysis",
@@ -9169,11 +9766,10 @@ resources_data = [
     {
         "title_en": "Age, Sex, Existing Conditions of COVID-19 Cases and Deaths",
         "description_en": "Cases and death rate based on age and sex, doesn't go into more depth.",
+        "title_es": "Edad, sexo, condiciones existentes de casos y muertes de COVID-19",
+        "description_es": "Los casos y la tasa de mortalidad según la edad y el sexo no profundizan más",
 
 
-
-        "title_en": "Edad, sexo, condiciones existentes de casos y muertes de COVID-19",
-        "description_en": "Los casos y la tasa de mortalidad según la edad y el sexo no profundizan más",
         "link": "https://www.worldometers.info/coronavirus/coronavirus-age-sex-demographics/",
         "category": "healthcare",
         "type": "scientific data",
@@ -9182,11 +9778,10 @@ resources_data = [
     {
         "title_en": "ICNARC report on COVID-19 in critical care",
         "description_en": "Cases and death rates up to March 19th, does not dive into gender differences.",
+        "title_es": "Informe de ICNARC sobre COVID-19 en cuidados críticos",
+        "description_es": "Los casos y las tasas de mortalidad hasta el 19 de marzo no se sumergen en las diferencias de género",
 
 
-
-        "title_en": "Informe de ICNARC sobre COVID-19 en cuidados críticos",
-        "description_en": "Los casos y las tasas de mortalidad hasta el 19 de marzo no se sumergen en las diferencias de género",
         "link": "https://www.icnarc.org/DataServices/Attachments/Download/a9875849-f16c-ea11-9124-00505601089b",
         "category": "healthcare",
         "type": "scientific data",
@@ -9195,11 +9790,10 @@ resources_data = [
     {
         "title_en": "Sex, gender and COVID-19: Disaggregated data and health disparities",
         "description_en": "Whether sex and gender matter to clinical pathways and outcomes associated with COVID-19",
+        "title_es": "Sexo, género y COVID-19: datos desglosados ​​y disparidades de salud",
+        "description_es": "Si el sexo y el género son importantes para las vías clínicas y los resultados asociados con COVID-19",
 
 
-
-        "title_en": "Sexo, género y COVID-19: datos desglosados ​​y disparidades de salud",
-        "description_en": "Si el sexo y el género son importantes para las vías clínicas y los resultados asociados con COVID-19",
         "link": "https://blogs.bmj.com/bmjgh/2020/03/24/sex-gender-and-covid-19-disaggregated-data-and-health-disparities/",
         "category": "healthcare, gendered health impacts, gender-based violence",
         "type": "scientific data",
@@ -9208,11 +9802,10 @@ resources_data = [
     {
         "title_en": "Sex, gender and COVID-19 (Live data tracker)",
         "description_en": "Countries need to begin both collecting and publicly reporting sex-disaggregated data, however, they currently aren't.",
+        "title_es": "Sexo, género y COVID-19 (Rastreador de datos en vivo)",
+        "description_es": "Los países deben comenzar a recopilar y reportar públicamente datos desagregados por sexo, sin embargo, actualmente no lo están haciendo",
 
 
-
-        "title_en": "Sexo, género y COVID-19 (Rastreador de datos en vivo)",
-        "description_en": "Los países deben comenzar a recopilar y reportar públicamente datos desagregados por sexo, sin embargo, actualmente no lo están haciendo",
         "link": "https://globalhealth5050.org/covid19/",
         "category": "healthcare, gendered health impacts, gender-based violence",
         "type": "scientific data",
@@ -9221,11 +9814,10 @@ resources_data = [
     {
         "title_en": "Which occupations expose workers to COVID-19 most?",
         "description_en": "Explores which jobs create the most risk of exposure to COVID-19, examples are nurses, dentists.",
+        "title_es": "¿Qué ocupaciones exponen más a los trabajadores a COVID-19?",
+        "description_es": "Explora qué trabajos crean el mayor riesgo de exposición a COVID-19, ejemplos son enfermeras, dentistas",
 
 
-
-        "title_en": "¿Qué ocupaciones exponen más a los trabajadores a COVID-19?",
-        "description_en": "Explora qué trabajos crean el mayor riesgo de exposición a COVID-19, ejemplos son enfermeras, dentistas",
         "link": "https://autonomy.work/portfolio/jari/",
         "category": "labor",
         "type": "scientific data",
@@ -9234,11 +9826,10 @@ resources_data = [
     {
         "title_en": "Covid-19 worldwide: we need precise data by age group and sex urgently",
         "description_en": "We need reporting on sex and age results as this is currently not being done.",
+        "title_es": "Covid-19 en todo el mundo: necesitamos datos precisos por grupo de edad y sexo con urgencia",
+        "description_es": "Necesitamos informar sobre los resultados de sexo y edad ya que esto no se está haciendo actualmente",
 
 
-
-        "title_en": "Covid-19 en todo el mundo: necesitamos datos precisos por grupo de edad y sexo con urgencia",
-        "description_en": "Necesitamos informar sobre los resultados de sexo y edad ya que esto no se está haciendo actualmente",
         "link": "https://www.bmj.com/content/369/bmj.m1366",
         "category": "gendered health impacts, gender-based violence",
         "type": "scientific data, feminist statement or analysis",
@@ -9247,11 +9838,10 @@ resources_data = [
     {
         "title_en": "Does Covid-19 Hit Women and Men Differently? U.S. Isn’t Keeping Track",
         "description_en": "Though we're monitoring the effects of age on COVID-19, we're not doing that with sex.",
+        "title_es": "¿Covid-19 golpea a mujeres y hombres de manera diferente? Estados Unidos no está siguiendo la pista",
+        "description_es": "Aunque estamos monitoreando los efectos de la edad en COVID-19, no lo estamos haciendo con el sexo",
 
 
-
-        "title_en": "¿Covid-19 golpea a mujeres y hombres de manera diferente? Estados Unidos no está siguiendo la pista",
-        "description_en": "Aunque estamos monitoreando los efectos de la edad en COVID-19, no lo estamos haciendo con el sexo",
         "link": "https://www.nytimes.com/2020/04/03/us/coronavirus-male-female-data-bias.html",
         "category": "gendered health impacts, gender-based violence",
         "type": "scientific data, feminist statement or analysis",
@@ -9260,11 +9850,10 @@ resources_data = [
     {
         "title_en": "Covid-19 and gender equality",
         "description_en": "A webpage aimed at providing information on gender differences for effects of COVID-19.",
+        "title_es": "Covid-19 y la igualdad de género",
+        "description_es": "Una página web destinada a proporcionar información sobre las diferencias de género para los efectos de COVID-19",
 
 
-
-        "title_en": "Covid-19 y la igualdad de género",
-        "description_en": "Una página web destinada a proporcionar información sobre las diferencias de género para los efectos de COVID-19",
         "link": "https://eige.europa.eu/topics/health/covid-19-and-gender-equality",
         "category": "healthcare, economy, gendered health impacts, gender-based violence",
         "type": "scientific data",
@@ -9273,11 +9862,10 @@ resources_data = [
     {
         "title_en": "Utilizing evidence-based research to incorporate a gendered lens for the COVID-19 pandemic",
         "description_en": "A portal that provides information useful for policymakers, practitioners, etc to make informed decisions.",
+        "title_es": "Utilizando investigación basada en evidencia para incorporar una lente de género para la pandemia de COVID-19",
+        "description_es": "Un portal que proporciona información útil para los responsables políticos, profesionales, etc. para tomar decisiones informadas",
 
 
-
-        "title_en": "Utilizando investigación basada en evidencia para incorporar una lente de género para la pandemia de COVID-19",
-        "description_en": "Un portal que proporciona información útil para los responsables políticos, profesionales, etc. para tomar decisiones informadas",
         "link": "https://gap.hks.harvard.edu/gap-covid19",
         "category": "healthcare, economy, gendered health impacts, gender-based violence",
         "type": "scientific data",
@@ -9286,11 +9874,10 @@ resources_data = [
     {
         "title_en": "A Meta-Analysis of the Association between Gender and Protective Behaviors in Response to Respiratory Epidemics and Pandemics",
         "description_en": "An analysis done on gender differences in how men behave versus women in pharmaceutical areas.",
+        "title_es": "Un metaanálisis de la asociación entre género y comportamientos protectores en respuesta a epidemias y pandemias respiratorias",
+        "description_es": "Un análisis realizado sobre las diferencias de género en el comportamiento de los hombres frente a las mujeres en las áreas farmacéuticas",
 
 
-
-        "title_en": "Un metaanálisis de la asociación entre género y comportamientos protectores en respuesta a epidemias y pandemias respiratorias",
-        "description_en": "Un análisis realizado sobre las diferencias de género en el comportamiento de los hombres frente a las mujeres en las áreas farmacéuticas",
         "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5074573/",
         "category": "healthcare, gendered health impacts, gender-based violence",
         "type": "scientific data",
@@ -9299,11 +9886,10 @@ resources_data = [
     {
         "title_en": "Action: Call for a Feminist COVID-19 Policy",
         "description_en": "This article calls for and outlines the characteristics of a feminist policy for COVID-19",
+        "title_es": "Acción: convocatoria de una política feminista de COVID-19",
+        "description_es": "Este artículo solicita y describe las características de una política feminista para COVID-19",
 
 
-
-        "title_en": "Acción: convocatoria de una política feminista de COVID-19",
-        "description_en": "Este artículo solicita y describe las características de una política feminista para COVID-19",
         "link": "http://feministallianceforrights.org/blog/2020/03/20/action-call-for-a-feminist-covid-19-policy/",
         "category": "healthcare, economy, gendered health impacts, gender-based violence",
         "type": "feminist statement or analysis",
@@ -9312,11 +9898,10 @@ resources_data = [
     {
         "title_en": "COVID-19: Emerging gender data and why it matters",
         "description_en": "Women and girls face unequal access to work, healthcare, and face increasing domestic violence",
+        "title_es": "COVID-19: datos de género emergentes y por qué es importante",
+        "description_es": "Las mujeres y las niñas enfrentan un acceso desigual al trabajo, a la atención médica y enfrentan una violencia doméstica cada vez mayor",
 
 
-
-        "title_en": "COVID-19: datos de género emergentes y por qué es importante",
-        "description_en": "Las mujeres y las niñas enfrentan un acceso desigual al trabajo, a la atención médica y enfrentan una violencia doméstica cada vez mayor",
         "link": "https://data.unwomen.org/resources/covid-19-emerging-gender-data-and-why-it-matters",
         "category": "gendered health impacts, gender-based violence",
         "type": "scientific data",
@@ -9325,11 +9910,10 @@ resources_data = [
     {
         "title_en": "COVID-19 and gender: What do we know; what do we need to know?",
         "description_en": "Importance of capturing health impacts differing between women and men due to current inconsistencies",
+        "title_es": "COVID-19 y género: ¿Qué sabemos; qué necesitamos saber?",
+        "description_es": "Importancia de capturar los impactos en la salud que difieren entre mujeres y hombres debido a las inconsistencias actuales",
 
 
-
-        "title_en": "COVID-19 y género: ¿Qué sabemos; qué necesitamos saber?",
-        "description_en": "Importancia de capturar los impactos en la salud que difieren entre mujeres y hombres debido a las inconsistencias actuales",
         "link": "https://data.unwomen.org/features/covid-19-and-gender-what-do-we-know-what-do-we-need-know",
         "category": "gendered health impacts, gender-based violence",
         "type": "scientific data",
@@ -9338,11 +9922,10 @@ resources_data = [
     {
         "title_en": "COVID-19 situation update for the WHO European Region",
         "description_en": "COVID-19 data from April 6th to 12th; does not include much gender data at all.",
+        "title_es": "Actualización de la situación COVID-19 para la Región Europea de la OMS",
+        "description_es": "datos de COVID-19 del 6 al 12 de abril; no incluye muchos datos de género en absoluto",
 
 
-
-        "title_en": "Actualización de la situación COVID-19 para la Región Europea de la OMS",
-        "description_en": "datos de COVID-19 del 6 al 12 de abril; no incluye muchos datos de género en absoluto",
         "link": "http://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19/weekly-surveillance-report",
         "category": "healthcare",
         "type": "scientific data",
@@ -9351,11 +9934,10 @@ resources_data = [
     {
         "title_en": "Shared responsibility, global solidarity: Responding to the socio-economic impacts of COVID-19",
         "description_en": "A call to action to focus on the impacts of COVID-19 on already disadvantaged groups",
+        "title_es": "Responsabilidad compartida, solidaridad global: respuesta a los impactos socioeconómicos de COVID-19",
+        "description_es": "Un llamado a la acción para centrarse en los impactos de COVID-19 en grupos ya desfavorecidos",
 
 
-
-        "title_en": "Responsabilidad compartida, solidaridad global: respuesta a los impactos socioeconómicos de COVID-19",
-        "description_en": "Un llamado a la acción para centrarse en los impactos de COVID-19 en grupos ya desfavorecidos",
         "link": "https://unsdg.un.org/sites/default/files/2020-03/SG-Report-Socio-Economic-Impact-of-Covid19.pdf",
         "category": "healthcare, education, economy, gendered health impacts, gender-based violence",
         "type": "scientific data, feminist statement or analysis",
@@ -9364,11 +9946,10 @@ resources_data = [
     {
         "title_en": "Women’s Needs And Gender Equality In Lebanon’s Covid-19 Response",
         "description_en": "Raising awareness of gender related issues in Lebanon due to COVID-19 based on past outbreaks",
+        "title_es": "Necesidades de las mujeres e igualdad de género en la respuesta Covid-19 del Líbano",
+        "description_es": "Concienciar sobre cuestiones de género en el Líbano debido a COVID-19 en base a brotes pasados",
 
 
-
-        "title_en": "Necesidades de las mujeres e igualdad de género en la respuesta Covid-19 del Líbano",
-        "description_en": "Concienciar sobre cuestiones de género en el Líbano debido a COVID-19 en base a brotes pasados",
         "link": "https://www2.unwomen.org/-/media/field%20office%20arab%20states/attachments/publications/2020/03/updated%20lebanon%20brief/gender%20and%20covid_english.pdf?la=en&vs=403",
         "category": "healthcare, economy, labor, gendered health impacts, gender-based violence",
         "type": "scientific data, feminist statement or analysis",
@@ -9377,11 +9958,10 @@ resources_data = [
     {
         "title_en": "Gender Alert On Covid-19 Lebanon",
         "description_en": "UN Women, WHO, and others providing alerts on gender issues due to COVID-19 in Lebanon",
+        "title_es": "Alerta de género en Covid-19 Líbano",
+        "description_es": "ONU Mujeres, OMS y otros que brindan alertas sobre cuestiones de género debido a COVID-19 en el Líbano",
 
 
-
-        "title_en": "Alerta de género en Covid-19 Líbano",
-        "description_en": "ONU Mujeres, OMS y otros que brindan alertas sobre cuestiones de género debido a COVID-19 en el Líbano",
         "link": "https://www2.unwomen.org/-/media/field%20office%20arab%20states/attachments/publications/2020/04/gender%20and%20covid-19%20in%20lebanon/gender%20alert%20on%20covid%20lebanon_%20final.pdf?la=en&vs=4208",
         "category": "healthcare, economy, labor, gendered health impacts, gender-based violence",
         "type": "scientific data, feminist statement or analysis",
@@ -9390,11 +9970,10 @@ resources_data = [
     {
         "title_en": "Gender and COVID-19: A guidance note for parliaments",
         "description_en": "Call for parliaments to take a look at gendered dimensions of COVID-19 when making policies",
+        "title_es": "Género y COVID-19: una nota de orientación para los parlamentos",
+        "description_es": "Solicite a los parlamentos que analicen las dimensiones de género de COVID-19 al elaborar políticas",
 
 
-
-        "title_en": "Género y COVID-19: una nota de orientación para los parlamentos",
-        "description_en": "Solicite a los parlamentos que analicen las dimensiones de género de COVID-19 al elaborar políticas",
         "link": "https://www.ipu.org/gender-and-covid-19-guidance-note-parliaments",
         "category": "healthcare, economy, labor, gendered health impacts, gender-based violence",
         "type": "scientific data, feminist statement or analysis",
@@ -9403,11 +9982,10 @@ resources_data = [
     {
         "title_en": "Framework for a Gender Analysis: COVID-19 Crisis Response",
         "description_en": "Provides framework for COVID-19 gender impacts to ensure effects on different genders is accurately reported",
+        "title_es": "Marco para un análisis de género: respuesta a la crisis COVID-19",
+        "description_es": "Proporciona un marco para los impactos de género de COVID-19 para garantizar que se notifiquen con precisión los efectos en diferentes géneros",
 
 
-
-        "title_en": "Marco para un análisis de género: respuesta a la crisis COVID-19",
-        "description_en": "Proporciona un marco para los impactos de género de COVID-19 para garantizar que se notifiquen con precisión los efectos en diferentes géneros",
         "link": "https://docs.google.com/document/d/1KL_seo3QN8Hemd2XTgLVDQwD8uyCXVV6yEUrH3bUiHg/edit?fbclid=IwAR2OSRXdI13nDu9LugyG5IRnpsNBZV6cm5aGCEXiC1blgiPPiOiQ0X1K4qg",
         "category": "healthcare, economy, childcare, labor, gendered health impacts, gender-based violence",
         "type": "scientific data, feminist statement or analysis",
@@ -9416,11 +9994,10 @@ resources_data = [
     {
         "title_en": "Call for urgent action: renewed commitment to gender responsive research",
         "description_en": "Gender and sex disaggregated data of COVID-19 impacts must be collected and reported on",
+        "title_es": "Llamado a la acción urgente: compromiso renovado con la investigación sensible al género",
+        "description_es": "Los datos desglosados ​​por género y sexo de los impactos de COVID-19 deben recopilarse y notificarse",
 
 
-
-        "title_en": "Llamado a la acción urgente: compromiso renovado con la investigación sensible al género",
-        "description_en": "Los datos desglosados ​​por género y sexo de los impactos de COVID-19 deben recopilarse y notificarse",
         "link": "https://www.gendro.org/statements",
         "category": "gendered health impacts",
         "type": "scientific data, feminist statement or analysis",
@@ -9429,11 +10006,10 @@ resources_data = [
     {
         "title_en": "Supporting Women Throughout Coronavirus (Covid-19) Emergency Response And Economic Recovery",
         "description_en": "Outlines impacts of COVID-19 on women and girls in sub-saharan Africa and mechanisms to help",
+        "title_es": "Apoyando a las mujeres a lo largo del coronavirus (Covid-19) Respuesta de emergencia y recuperación económica",
+        "description_es": "Describe los impactos de COVID-19 en mujeres y niñas en África subsahariana y mecanismos para ayudar",
 
 
-
-        "title_en": "Apoyando a las mujeres a lo largo del coronavirus (Covid-19) Respuesta de emergencia y recuperación económica",
-        "description_en": "Describe los impactos de COVID-19 en mujeres y niñas en África subsahariana y mecanismos para ayudar",
         "link": "https://openknowledge.worldbank.org/bitstream/handle/10986/33612/Supporting-Women-Throughout-the-Coronavirus-Covid-19-Emergency-Response-and-Economic-Recovery.pdf?sequence=1&isAllowed=y",
         "category": "healthcare, economy, childcare, labor, gendered health impacts, gender-based violence",
         "type": "scientific data, feminist statement or analysis",
@@ -9442,11 +10018,10 @@ resources_data = [
     {
         "title_en": "Building people to people solidarity in southern africa-Rural Women's Assemby update",
         "description_en": "Rural women's assemly status report on covid-19 and southern africa",
+        "title_es": "Actualización de la solidaridad entre personas en el sur de África - Actualización de la Asamblea de Mujeres Rurales",
+        "description_es": "Informe sobre el estado de la asamblea de mujeres rurales en covid-19 y el sur de África",
 
 
-
-        "title_en": "Actualización de la solidaridad entre personas en el sur de África - Actualización de la Asamblea de Mujeres Rurales",
-        "description_en": "Informe sobre el estado de la asamblea de mujeres rurales en covid-19 y el sur de África",
         "link": "https://ruralwomensassembly.files.wordpress.com/2020/04/final-update-blog-on-covid-19-rural-women_with-banner.pdf",
         "category": "healthcare, economy, labor, food",
         "type": "feminist statement or analysis",
@@ -9455,11 +10030,10 @@ resources_data = [
     {
         "title_en": "COVID-19 – Crisis upon Crisis in Africa: An Ecofeminist Perspective",
         "description_en": "Ecofeminist perspective to covid-19 policy response and organising in Africa",
+        "title_es": "COVID-19 - Crisis tras crisis en África: una perspectiva ecofeminista",
+        "description_es": "Perspectiva ecofeminista para la respuesta política y la organización de covid-19 en África",
 
 
-
-        "title_en": "COVID-19 - Crisis tras crisis en África: una perspectiva ecofeminista",
-        "description_en": "Perspectiva ecofeminista para la respuesta política y la organización de covid-19 en África",
         "link": "https://womin.org.za/covid-19-%E2%80%93-crisis-upon-crisis-in-africa-an-ecofeminist-perspective.html",
         "category": "SRHR, healthcare, economy, food, food, gendered health impacts",
         "type": "feminist statement or analysis",
@@ -9468,11 +10042,10 @@ resources_data = [
     {
         "title_en": "Activist Covid-19 Resource Pack",
         "description_en": "Useful resources for activitists on covid-19 - on basic health, access to justice and feminist analysis",
+        "title_es": "Paquete de recursos Activista Covid-19",
+        "description_es": "Recursos útiles para activistas en covid-19 - sobre salud básica, acceso a la justicia y análisis feminista",
 
 
-
-        "title_en": "Paquete de recursos Activista Covid-19",
-        "description_en": "Recursos útiles para activistas en covid-19 - sobre salud básica, acceso a la justicia y análisis feminista",
         "link": "https://womin.org.za/resource-library/an-activist%E2%80%99s-covid-19-resources-pack.html",
         "category": "economy, food, gendered health impacts",
         "type": "mutual aid resource, organizing tool",
@@ -9481,11 +10054,10 @@ resources_data = [
     {
         "title_en": "Various NGOs providing different kind sof relief to people in need during Lockdown",
         "description_en": "NGOs list providing relief during Covid-19",
+        "title_es": "Varias ONG que brindan diferentes tipos de ayuda a las personas necesitadas durante el bloqueo",
+        "description_es": "Lista de ONG que brinda ayuda durante Covid-19",
 
 
-
-        "title_en": "Varias ONG que brindan diferentes tipos de ayuda a las personas necesitadas durante el bloqueo",
-        "description_en": "Lista de ONG que brinda ayuda durante Covid-19",
         "link": "https://www.investindia.gov.in/bip/resources/list-ngos-providing-relief-during-covid-19",
         "category": "healthcare, childcare, food, gendered health impacts, gender-based violence",
         "type": "mutual aid resource, organizing tool",
@@ -9494,11 +10066,10 @@ resources_data = [
     {
         "title_en": "Addiction Treatment During The COVID-19 Pandemic",
         "description_en": "It explains step by step what to do at the time of pandemic if you or your loved ones have an addiction.",
+        "title_es": "Tratamiento de adicciones durante la pandemia de COVID-19",
+        "description_es": "Explica paso a paso qué hacer en el momento de la pandemia si usted o sus seres queridos tienen una adicción",
 
 
-
-        "title_en": "Tratamiento de adicciones durante la pandemia de COVID-19",
-        "description_en": "Explica paso a paso qué hacer en el momento de la pandemia si usted o sus seres queridos tienen una adicción",
         "link": "https://addictionresource.com/treatment/addiction-during-covid-19-outbreak/",
         "category": "healthcare",
         "type": "mutual aid resource",
@@ -9507,11 +10078,10 @@ resources_data = [
     {
         "title_en": "The invisble coronavirus makes systemic gender inequalities and injustices visible",
         "description_en": "Feminist analysis of how coronavirus exposes systemic gender inequalities",
+        "title_es": "El coronavirus invisible hace visibles las desigualdades e injusticias sistémicas de género",
+        "description_es": "Análisis feminista de cómo el coronavirus expone las desigualdades de género sistémicas",
 
 
-
-        "title_en": "El coronavirus invisible hace visibles las desigualdades e injusticias sistémicas de género",
-        "description_en": "Análisis feminista de cómo el coronavirus expone las desigualdades de género sistémicas",
         "link": "https://us.boell.org/en/2020/04/30/invisible-coronavirus-makes-systemic-gender-inequalities-and-injustices-visible",
         "category": "childcare, labor, gendered health impacts, gender-based violence",
         "type": "feminist statement or analysis",
@@ -9520,11 +10090,10 @@ resources_data = [
     {
         "title_en": "The Pandemic, Coronavirus and Quarantine: Women at Risk",
         "description_en": "Feminist analysis of gendered work and health implications in Ukraine and globally.",
+        "title_es": "La pandemia, el coronavirus y la cuarentena: mujeres en riesgo",
+        "description_es": "Análisis feminista del trabajo de género y las implicaciones para la salud en Ucrania y en todo el mundo",
 
 
-
-        "title_en": "La pandemia, el coronavirus y la cuarentena: mujeres en riesgo",
-        "description_en": "Análisis feminista del trabajo de género y las implicaciones para la salud en Ucrania y en todo el mundo",
         "link": "https://ua.boell.org/en/2020/03/25/pandemiya-koronavirus-karantin-zhinki-pid-udarom",
         "category": "childcare, labor, gendered health impacts, gender-based violence",
         "type": "feminist statement or analysis",
@@ -9533,11 +10102,10 @@ resources_data = [
     {
         "title_en": "How does the Covid-19 pandemic affect LGBTI+ community in Turkey?",
         "description_en": "Feminist analysis of additional risks faced by LGBTI+ community members in Turkey.",
+        "title_es": "¿Cómo afecta la pandemia de Covid-19 a la comunidad LGBTI + en Turquía?",
+        "description_es": "Análisis feminista de los riesgos adicionales que enfrentan los miembros de la comunidad LGBTI + en Turquía",
 
 
-
-        "title_en": "¿Cómo afecta la pandemia de Covid-19 a la comunidad LGBTI + en Turquía?",
-        "description_en": "Análisis feminista de los riesgos adicionales que enfrentan los miembros de la comunidad LGBTI + en Turquía",
         "link": "https://tr.boell.org/en/2020/04/17/how-does-covid-19-pandemic-affect-lgbti-community-turkey",
         "category": "SRHR",
         "type": "feminist statement or analysis",
@@ -9546,11 +10114,10 @@ resources_data = [
     {
         "title_en": "COVID-19 : Quelles conséquences sur les inégalités de genres au Sénégal?",
         "description_en": "Feminist analysis of gendered components of crisis in Senegal.",
+        "title_es": "COVID-19: ¿Qué consecuencias sobre las desigualdades de género en Senegal?",
+        "description_es": "Análisis feminista de componentes de crisis de género en Senegal",
 
 
-
-        "title_en": "COVID-19: ¿Qué consecuencias sobre las desigualdades de género en Senegal?",
-        "description_en": "Análisis feminista de componentes de crisis de género en Senegal",
         "link": "https://sn.boell.org/fr/2020/04/03/covid-19-quelles-consequences-sur-les-inegalites-de-genres-au-senegal",
         "category": "childcare, labor, gendered health impacts, gender-based violence",
         "type": "feminist statement or analysis",
@@ -9559,11 +10126,10 @@ resources_data = [
     {
         "title_en": "Invest in the Care economy for a Just, Green, Feminist Covid-19 Response and Recovery",
         "description_en": "Open letter describing how care work must be centered in a just recovery.",
+        "title_es": "Invierta en la economía del cuidado para una respuesta y recuperación justa, verde y feminista de Covid-19",
+        "description_es": "Carta abierta que describe cómo el trabajo de cuidado debe centrarse en una recuperación justa",
 
 
-
-        "title_en": "Invierta en la economía del cuidado para una respuesta y recuperación justa, verde y feminista de Covid-19",
-        "description_en": "Carta abierta que describe cómo el trabajo de cuidado debe centrarse en una recuperación justa",
         "link": "https://womenslabour.org/article/8",
         "category": "economy, childcare, labor",
         "type": "feminist statement or analysis",
@@ -9572,11 +10138,10 @@ resources_data = [
     {
         "title_en": "Coronavirus outbreak in Cameroon: Gender is not a side issue!",
         "description_en": "What steps can health and humanitarian workers take to help understand covid effects on women",
+        "title_es": "Brote de coronavirus en Camerún: ¡el género no es un problema secundario!",
+        "description_es": "¿Qué pasos pueden tomar los trabajadores de salud y humanitarios para ayudar a comprender los efectos codiciosos sobre las mujeres",
 
 
-
-        "title_en": "Brote de coronavirus en Camerún: ¡el género no es un problema secundario!",
-        "description_en": "¿Qué pasos pueden tomar los trabajadores de salud y humanitarios para ayudar a comprender los efectos codiciosos sobre las mujeres",
         "link": "https://reliefweb.int/report/cameroon/coronavirus-outbreak-cameroon-gender-not-side-issue",
         "category": "healthcare, gendered health impacts",
         "type": "feminist statement or analysis",
@@ -9585,11 +10150,10 @@ resources_data = [
     {
         "title_en": "GBV intervention in the outbreak of COVID-19 in Cameroon",
         "description_en": "Measures to be taken towards reducing Covid-induced GBV in Cameroon and in refugee camps",
+        "title_es": "intervención de violencia de género en el brote de COVID-19 en Camerún",
+        "description_es": "Medidas a tomar para reducir la violencia de género inducida por Covid en Camerún y en campos de refugiados",
 
 
-
-        "title_en": "intervención de violencia de género en el brote de COVID-19 en Camerún",
-        "description_en": "Medidas a tomar para reducir la violencia de género inducida por Covid en Camerún y en campos de refugiados",
         "link": "https://www.humanitarianresponse.info/en/op%C3%A9rations/cameroon/document/cameroonnwswguidance-notegbv-covid-19-gbv-scv1260320",
         "category": "gender-based violence",
         "type": "feminist statement or analysis",
@@ -9598,11 +10162,10 @@ resources_data = [
     {
         "title_en": "Gender Equality Matters in COVID – 19 Response!",
         "description_en": "Social distancing measures are not equally available to all and have great impacts on livelihoods",
+        "title_es": "La igualdad de género importa en COVID - 19 Response!",
+        "description_es": "Las medidas de distanciamiento social no están igualmente disponibles para todos y tienen un gran impacto en los medios de vida",
 
 
-
-        "title_en": "La igualdad de género importa en COVID - 19 Response!",
-        "description_en": "Las medidas de distanciamiento social no están igualmente disponibles para todos y tienen un gran impacto en los medios de vida",
         "link": "https://africa.unwomen.org/en/news-and-events/stories/2020/04/le-genre-doit-etre-prise-en-compte-dans-la-reponse-face-au-covid19",
         "category": "labor, disability",
         "type": "feminist statement or analysis",
@@ -9611,11 +10174,10 @@ resources_data = [
     {
         "title_en": "'Seven Actions': A guide to protect African women’s rights during COVID-19",
         "description_en": "Guidance for African states to take action to avoid Covid gender discrimination",
+        "title_es": "'Siete acciones': una guía para proteger los derechos de las mujeres africanas durante COVID-19",
+        "description_es": "Orientación para que los estados africanos tomen medidas para evitar la discriminación de género Covid",
 
 
-
-        "title_en": "'Siete acciones': una guía para proteger los derechos de las mujeres africanas durante COVID-19",
-        "description_en": "Orientación para que los estados africanos tomen medidas para evitar la discriminación de género Covid",
         "link": "https://www.ohchr.org/EN/NewsEvents/Pages/SevenActions.aspx",
         "category": "education, childcare, labor, gendered health impacts",
         "type": "organizing tool",
@@ -9624,11 +10186,10 @@ resources_data = [
     {
         "title_en": "How Gender Inequality Harms Our COVID-19 Recovery – Views From China",
         "description_en": "Discusses gender inequality in China and its exasperation due to Covid",
+        "title_es": "Cómo la desigualdad de género perjudica nuestra recuperación de COVID-19: opiniones desde China",
+        "description_es": "Discute la desigualdad de género en China y su exasperación debido a Covid",
 
 
-
-        "title_en": "Cómo la desigualdad de género perjudica nuestra recuperación de COVID-19: opiniones desde China",
-        "description_en": "Discute la desigualdad de género en China y su exasperación debido a Covid",
         "link": "https://www.cn.undp.org/content/china/en/home/ourperspective/ourperspectivearticles/2020/how-gender-inequality-harms-our-covid-19-recovery--views-from-ch.html",
         "category": "healthcare, economy, labor",
         "type": "feminist statement or analysis",
@@ -9637,11 +10198,10 @@ resources_data = [
     {
         "title_en": "Putting Central African women at the forefront of the fight against COVID-19",
         "description_en": "UN Women is engaging women in distribution of information and sanitization kits",
+        "title_es": "Colocando a las mujeres centroafricanas a la vanguardia de la lucha contra COVID-19",
+        "description_es": "ONU Mujeres está involucrando a las mujeres en la distribución de kits de información y desinfección",
 
 
-
-        "title_en": "Colocando a las mujeres centroafricanas a la vanguardia de la lucha contra COVID-19",
-        "description_en": "ONU Mujeres está involucrando a las mujeres en la distribución de kits de información y desinfección",
         "link": "https://africa.unwomen.org/en/news-and-events/stories/2020/04/mettre-les-femmes-centrafricaines-a-l-avant-de-la--lutte",
         "category": "healthcare, water",
         "type": "feminist statement or analysis",
@@ -9650,11 +10210,10 @@ resources_data = [
     {
         "title_en": "Kinshasa: 800 women receive resilience kits to cope with Covid-19",
         "description_en": "Sanitary kits distributed to women to protect themselves as caregivers",
+        "title_es": "Kinshasa: 800 mujeres reciben kits de resistencia para hacer frente a Covid-19",
+        "description_es": "Kits sanitarios distribuidos a las mujeres para protegerse como cuidadoras",
 
 
-
-        "title_en": "Kinshasa: 800 mujeres reciben kits de resistencia para hacer frente a Covid-19",
-        "description_en": "Kits sanitarios distribuidos a las mujeres para protegerse como cuidadoras",
         "link": "https://africa.unwomen.org/en/news-and-events/stories/2020/04/800-femmes-recoivent-des-kits-de-resilience",
         "category": "healthcare",
         "type": "feminist statement or analysis",
@@ -9663,11 +10222,10 @@ resources_data = [
     {
         "title_en": "Activists appeal to AU as abuse against women, girls soars under Covid-19",
         "description_en": "Call for action to address increased GBV in African countries",
+        "title_es": "Los activistas apelan a la UA como abuso contra las mujeres, las niñas se disparan bajo Covid-19",
+        "description_es": "Llamado a la acción para abordar el aumento de la VG en los países africanos",
 
 
-
-        "title_en": "Los activistas apelan a la UA como abuso contra las mujeres, las niñas se disparan bajo Covid-19",
-        "description_en": "Llamado a la acción para abordar el aumento de la VG en los países africanos",
         "link": "http://www.rfi.fr/en/africa/20200427-activists-appeal-to-au-as-abuse-against-women-girls-soars-under-covid-19",
         "category": "gender-based violence",
         "type": "feminist statement or analysis",
@@ -9676,11 +10234,10 @@ resources_data = [
     {
         "title_en": "Coronavirus pandemic is exposing the gender digital divide",
         "description_en": "Covid has highlighted gendered access to technology and information",
+        "title_es": "La pandemia de coronavirus está exponiendo la brecha digital de género",
+        "description_es": "Covid ha resaltado el acceso de género a la tecnología y la información",
 
 
-
-        "title_en": "La pandemia de coronavirus está exponiendo la brecha digital de género",
-        "description_en": "Covid ha resaltado el acceso de género a la tecnología y la información",
         "link": "https://insight.wfp.org/coronavirus-pandemic-is-exposing-the-gender-digital-divide-6c9e1fef8ece",
         "category": "digital surveillance, education",
         "type": "feminist statement or analysis",
@@ -9689,11 +10246,10 @@ resources_data = [
     {
         "title_en": "Covid-19 and child, early and forced marriage: an agenda for action",
         "description_en": "Information about responding to the needs of adolescent girls surrounding pandemic",
+        "title_es": "Covid-19 y el matrimonio infantil, precoz y forzado: una agenda para la acción",
+        "description_es": "Información sobre cómo responder a las necesidades de las adolescentes que rodean la pandemia",
 
 
-
-        "title_en": "Covid-19 y el matrimonio infantil, precoz y forzado: una agenda para la acción",
-        "description_en": "Información sobre cómo responder a las necesidades de las adolescentes que rodean la pandemia",
         "link": "https://www.girlsnotbrides.org/resource-centre/covid-19-and-child-early-and-forced-marriage-an-agenda-for-action/",
         "category": "SRHR, gender-based violence",
         "type": "organizing tool",
@@ -9702,11 +10258,10 @@ resources_data = [
     {
         "title_en": "Gender in the framework of the response to the COVID-19 pandemic in Anglophone Africa, Francophone Africa",
         "description_en": "Describes gendered risks and suggests recommendations to respond to Covid",
+        "title_es": "Género en el marco de la respuesta a la pandemia de COVID-19 en África anglófona, África francófona",
+        "description_es": "Describe los riesgos de género y sugiere recomendaciones para responder a Covid",
 
 
-
-        "title_en": "Género en el marco de la respuesta a la pandemia de COVID-19 en África anglófona, África francófona",
-        "description_en": "Describe los riesgos de género y sugiere recomendaciones para responder a Covid",
         "link": "https://africa.unwomen.org/en/digital-library/publications/2020/04/gender-in-the-framework-of-the-response-to-the-covid-19-pandemic-in-west-and-central-africa",
         "category": "healthcare, economy",
         "type": "organizing tool",
@@ -9715,11 +10270,10 @@ resources_data = [
     {
         "title_en": "Rapid Gender Impact Assessments of COVID-19",
         "description_en": "A guide to integrate gender into socio-economic impact assessments of COVID-19",
+        "title_es": "Evaluaciones rápidas de impacto de género de COVID-19",
+        "description_es": "Una guía para integrar el género en las evaluaciones de impacto socioeconómico de COVID-19",
 
 
-
-        "title_en": "Evaluaciones rápidas de impacto de género de COVID-19",
-        "description_en": "Una guía para integrar el género en las evaluaciones de impacto socioeconómico de COVID-19",
         "link": "https://africa.unwomen.org/en/digital-library/publications/2020/04/a-guide-to-integrate-gender-into-socio-economic-impact-assessments-of-covid-19",
         "category": "healthcare, economy",
         "type": "organizing tool",
@@ -9728,11 +10282,10 @@ resources_data = [
     {
         "title_en": "5 minute Inspiration: How we can reduce violence during COVID-19",
         "description_en": "Some different tools countries are using to address violence during Covid",
+        "title_es": "5 minutos de inspiración: cómo podemos reducir la violencia durante COVID-19",
+        "description_es": "Algunas herramientas diferentes que los países están utilizando para abordar la violencia durante Covid",
 
 
-
-        "title_en": "5 minutos de inspiración: cómo podemos reducir la violencia durante COVID-19",
-        "description_en": "Algunas herramientas diferentes que los países están utilizando para abordar la violencia durante Covid",
         "link": "https://insights.careinternational.org.uk/development-blog/5-minute-inspiration-how-we-can-reduce-violence-during-covid-19",
         "category": "gender-based violence",
         "type": "feminist statement or analysis",
@@ -9741,11 +10294,10 @@ resources_data = [
     {
         "title_en": "As COVID-19 Situation Evolves, Health and Safety of Women and Staff Take Priority",
         "description_en": "Women for Women International discusses the measures they've taken in response to COVID",
+        "title_es": "A medida que evoluciona la situación de COVID-19, la salud y la seguridad de las mujeres y el personal tienen prioridad",
+        "description_es": "Women for Women International analiza las medidas que han tomado en respuesta a COVID",
 
 
-
-        "title_en": "A medida que evoluciona la situación de COVID-19, la salud y la seguridad de las mujeres y el personal tienen prioridad",
-        "description_en": "Women for Women International analiza las medidas que han tomado en respuesta a COVID",
         "link": "https://www.womenforwomen.org/blogs/covid-19-situation-evolves-health-and-safety-women-and-staff-take-priority",
         "category": "healthcare, education",
         "type": "feminist statement or analysis",
@@ -9754,11 +10306,10 @@ resources_data = [
     {
         "title_en": "Coronavirus – Africa: Statement on Protecting Sexual and Reproductive Health and Rights and Promoting Gender-Responsiveness in the COVID-19 Crisis",
         "description_en": "Statementg calling for SRHR and general gender responsive action to Covid pandemic",
+        "title_es": "Coronavirus - África: Declaración sobre la protección de la salud y los derechos sexuales y reproductivos y la promoción de la capacidad de respuesta de género en la crisis de COVID-19",
+        "description_es": "Declaración que llama a la SDSR y la acción general de género ante la pandemia de Covid",
 
 
-
-        "title_en": "Coronavirus - África: Declaración sobre la protección de la salud y los derechos sexuales y reproductivos y la promoción de la capacidad de respuesta de género en la crisis de COVID-19",
-        "description_en": "Declaración que llama a la SDSR y la acción general de género ante la pandemia de Covid",
         "link": "https://www.cnbcafrica.com/africa-press-office/2020/05/06/coronavirus-africa-statement-on-protecting-sexual-and-reproductive-health-and-rights-and-promoting-gender-responsiveness-in-the-covid-19-crisis/",
         "category": "SRHR",
         "type": "feminist statement or analysis",
@@ -9767,11 +10318,10 @@ resources_data = [
     {
         "title_en": "Wenn Corona auf Piraten und Prinzessinnen trifft",
         "description_en": "Experience report on domestic violence and the capacities in the protection centers. (GE)",
+        "title_es": "Cuando Corona se encuentra con piratas y princesas",
+        "description_es": "Informe de experiencia sobre violencia doméstica y las capacidades en los centros de protección. (GE)",
 
 
-
-        "title_en": "Cuando Corona se encuentra con piratas y princesas",
-        "description_en": "Informe de experiencia sobre violencia doméstica y las capacidades en los centros de protección. (GE)",
         "link": "https://www.gwi-boell.de/de/2020/03/27/wenn-corona-auf-piraten-und-prinzessinnen-trifft",
         "category": "gender-based violence",
         "type": "feminist statement or analysis",
@@ -9780,11 +10330,10 @@ resources_data = [
     {
         "title_en": "Die Zukunft der Arbeit",
         "description_en": "Checking whether capitalism is sustainable from a gender perspective. (GE)",
+        "title_es": "Die Zukunft der Arbeit",
+        "description_es": "Comprobando si el capitalismo es sostenible desde una perspectiva de género. (GE)",
 
 
-
-        "title_en": "Die Zukunft der Arbeit",
-        "description_en": "Comprobando si el capitalismo es sostenible desde una perspectiva de género. (GE)",
         "link": "https://pinkstinks.de/die-zukunft-der-arbeit/",
         "category": "economy, labor",
         "type": "feminist statement or analysis",
@@ -9793,11 +10342,10 @@ resources_data = [
     {
         "title_en": "Die Krise der Frauen",
         "description_en": "Global analysis of the effects of the Covis pandemic on women. (GE)",
+        "title_es": "Die Krise der Frauen",
+        "description_es": "Análisis global de los efectos de la pandemia de Covis en las mujeres. (GE)",
 
 
-
-        "title_en": "Die Krise der Frauen",
-        "description_en": "Análisis global de los efectos de la pandemia de Covis en las mujeres. (GE)",
         "link": "https://www.zeit.de/2020/18/coronavirus-pandemie-arbeit-frauen-bezahlung-ungleichheit/komplettansicht",
         "category": "healthcare, childcare, labor, gendered health impacts, gender-based violence",
         "type": "feminist statement or analysis",
@@ -9811,13 +10359,16 @@ resources_data = [
 
         "link": "https://www.landfrauen.info/aktuelles/pressemeldungen/meldung/baeuerinnen-in-der-corona-krise-frauen-auf-den-hoefen-brauchen-dringend-entlastung/",
         "category": "childcare, labor, food",
+
+
         "type": "feminist statement or analysis",
         "country": "Germany"
     },
     {
         "title_en": "Berliner Krankenpflegerin klagt an „Euren Applaus könnt ihr euch sonstwohin stecken“",
         "description_en": "Angry report from a nurse about the current conditions in hospitals. (GE)",
-
+        "title_es": "La enfermera de Berlín se queja 'Puedes aplaudir en cualquier otro lugar'",
+        "description_es": "Informe enojado de una enfermera sobre las condiciones actuales en los hospitales. (GE)",
 
 
         "link": "https://m.tagesspiegel.de/berliner-krankenpflegerin-klagt-an-euren-applaus-koennt-ihr-euch-sonstwohin-stecken/25691690.html",
@@ -9828,7 +10379,8 @@ resources_data = [
     {
         "title_en": "Care in Crisis",
         "description_en": "Understanding and transforming the value of paid and unpaid care in response to COVID-19",
-
+        "title_es": "Atención en crisis",
+        "description_es": "Comprender y transformar el valor de la atención pagada y no pagada en respuesta a COVID-19",
 
 
         "link": "https://iwda.org.au/resource/factsheet-care-in-crisis/",
@@ -9839,7 +10391,8 @@ resources_data = [
     {
         "title_en": "Planning for prevention in Fiji",
         "description_en": "Using gender-sensitive data generated by the Individual Deprivation Measure, explores anticipated gendered implications in Fiji",
-
+        "title_es": "Planificación para la prevención en Fiji",
+        "description_es": "Utilizando datos sensibles al género generados por la Medida de Privación Individual, explora las implicaciones de género anticipadas en Fiji",
 
 
         "link": "https://www.individualdeprivationmeasure.org/resources/planning-for-prevention-fiji/",
@@ -9850,7 +10403,8 @@ resources_data = [
     {
         "title_en": "Poverty and Vulnerability to COVID-19 in Indonesia",
         "description_en": "Using gender-sensitive data generated by the Individual Deprivation Measure, explores Indonesia’s potential vulnerabilities to COVID-19",
-
+        "title_es": "Pobreza y vulnerabilidad a COVID-19 en Indonesia",
+        "description_es": "Utilizando datos sensibles al género generados por la Medida de Privación Individual, explora las vulnerabilidades potenciales de Indonesia a COVID-19",
 
 
         "link": "https://www.individualdeprivationmeasure.org/resources/covid-indonesia-brief/",
@@ -9861,7 +10415,8 @@ resources_data = [
     {
         "title_en": "Poverty and Vulnerability to COVID-19 in South Africa",
         "description_en": "Using gender-sensitive data generated by the Individual Deprivation Measure, explores South Africa’s potential vulnerabilities to COVID-19",
-
+        "title_es": "Pobreza y vulnerabilidad a COVID-19 en Sudáfrica",
+        "description_es": "Utilizando datos sensibles al género generados por la Medida de Privación Individual, explora las vulnerabilidades potenciales de Sudáfrica a COVID-19",
 
 
         "link": "https://www.individualdeprivationmeasure.org/resources/covid-south-africa/",
@@ -9872,7 +10427,8 @@ resources_data = [
     {
         "title_en": "Recognizing women’s important role in Jordan’s COVID-19 response",
         "description_en": "Women's role in response to COVID 19 in Jordan has not been recognized",
-
+        "title_es": "Reconociendo el importante papel de las mujeres en la respuesta COVID-19 de Jordania",
+        "description_es": "No se ha reconocido el papel de la mujer en respuesta a COVID 19 en Jordania",
 
 
         "link": "https://www.brookings.edu/blog/education-plus-development/2020/04/29/recognizing-womens-important-role-in-jordans-covid-19-response/",
@@ -9883,7 +10439,8 @@ resources_data = [
     {
         "title_en": "COVID 19 and Gender",
         "description_en": "Immediate recommendations for planning and response",
-
+        "title_es": "COVID 19 y género",
+        "description_es": "Recomendaciones inmediatas para planificación y respuesta",
 
 
         "link": "https://www2.unwomen.org/-/media/field%20office%20jordan/images/publications/2020/covid19%20and%20gender%20in%20jordan%20eng.pdf?la=en&vs=128",
@@ -9894,7 +10451,8 @@ resources_data = [
     {
         "title_en": "global feminist responses to the COVID-19 pandemic: social justice and care are at the forefront",
         "description_en": "the key issues and concerns that feminists raised, as well as recommendations that were brought forward for immediate action (focused on Lebanon",
-
+        "title_es": "respuestas feministas globales a la pandemia de COVID-19: la justicia social y la atención están a la vanguardia",
+        "description_es": "las cuestiones y preocupaciones clave que plantearon las feministas, así como las recomendaciones que se presentaron para una acción inmediata (centrada en el Líbano",
 
 
         "link": "https://genderatwork.org/news/global-feminist-responses-to-the-covid-19-pandemic-social-justice-and-are-at-the-orefront/",
