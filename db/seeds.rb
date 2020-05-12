@@ -52,22 +52,6 @@ sylwia = User.create!(username: "sylwia2020", email:"sylwia2020@gmail.com", pass
 puts "users done"
 
 
-############### ITEMS ###############
-# firstItem = Item.create!(title: "test", description: "desc", link: "link", date:50920, progressive_id:Progressive.all[0].id, page_id: Page.all[0].id)
-
-# secondItem = Item.create!(title: "test2", description: "desc2", link: "link2", date:50920, progressive_id:Progressive.all[1].id, page_id: Page.all[1].id)
-
-puts "items done"
-
-
-############### TYPE_ITEMS ###############
-# firstTI = TypeItem.create!(type_id: Type.all[0].id, item_id: firstItem.id )
-
-# secondTI = TypeItem.create!(type_id: Type.all[1].id, item_id: firstItem.id )
-
-puts "type items done"
-
-
 ############# COUNTRIES ##################
     countries = ["Afghanistan",
     "Albania",
@@ -332,14 +316,8 @@ countries.each{|c| Country.create!(name: c)}
 
 puts "countries done"
 
-############# COUNTRIES_ITEMS ##################
-# firstCI = CountryItem.create!(item_id: Item.first.id, country_id: Country.all[100].id)
-# secondCI = CountryItem.create!(item_id: Item.first.id, country_id: Country.all[90].id)
-# thirdCI = CountryItem.create!(item_id: Item.second.id, country_id: Country.all[80].id)
 
-puts "country items done"
-
-################# EXCEL - ROUND 1 ################
+################# ITEMS ################
 
 
 response_data = [
