@@ -1,4 +1,5 @@
 class Api::V1::PagesController < ApplicationController
+    skip_before_action :authorized, only: [:index, :show]
     before_action :find_page, only: [:show]
 
     def index

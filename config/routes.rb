@@ -8,6 +8,10 @@ Rails.application.routes.draw do
       resources :pages, param: :name, only: [:index, :show]
       resources :items, only: [:index, :show]
       get 'ping', action: :index, controller: 'ping'
+      post "/login", to: "auth#login"
+      get "/auto_login", to: "auth#auto_login"
+      get "/user_is_authed", to: "auth#user_is_authed"
+      get "/user_is_superadmin", to: "auth#user_is_superadmin"
     end
   end
 end

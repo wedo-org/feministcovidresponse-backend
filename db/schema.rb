@@ -57,10 +57,12 @@ ActiveRecord::Schema.define(version: 2020_04_28_000708) do
     t.boolean "published"
     t.bigint "progressive_id", null: false
     t.bigint "page_id", null: false
+    t.bigint "user_id"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["page_id"], name: "index_items_on_page_id"
     t.index ["progressive_id"], name: "index_items_on_progressive_id"
+    t.index ["user_id"], name: "index_items_on_user_id"
   end
 
   create_table "pages", force: :cascade do |t|
@@ -105,6 +107,7 @@ ActiveRecord::Schema.define(version: 2020_04_28_000708) do
   add_foreign_key "country_items", "items"
   add_foreign_key "items", "pages"
   add_foreign_key "items", "progressives", column: "progressive_id"
+  add_foreign_key "items", "users"
   add_foreign_key "type_items", "items"
   add_foreign_key "type_items", "types"
 end

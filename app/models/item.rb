@@ -2,6 +2,7 @@ class Item < ApplicationRecord
   after_initialize :init
   belongs_to :progressive
   belongs_to :page
+  belongs_to :user, optional: true
   has_many :country_items
   has_many :countries, through: :country_items
   has_many :theme_items
