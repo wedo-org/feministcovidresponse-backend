@@ -1,5 +1,6 @@
 class Api::V1::UsersController < ApplicationController
     before_action :find_user, only: [:update, :show, :destroy]
+    # before_action :superadmin
 
     def index
         begin
@@ -16,14 +17,14 @@ class Api::V1::UsersController < ApplicationController
 
     def create
         @user = User.create!(user_params)
-            if @user.valid? # && params[:user][:password] === params[:user][:password_confirmation]
+            if @user.valid? && params[:user][:password] === params[:user][:password_confirmation]
                 payload = {user_id: @user.id}
                 @token = encode_token(payload)
                 render json: {user: UserSerializer.new(@user), jwt: @token}, status: :created
             else
-                # if params[:user][:password] != params[:user][:password_confirmation]
-                #     @all_errors += "Passwords don't match."
-                # end
+                if params[:user][:password] != params[:user][:password_confirmation]
+                    @all_errors += "Passwords don't match."
+                end
                 render json: {error: @user.errors.full_messages }, status: :not_acceptable
             end
     end
