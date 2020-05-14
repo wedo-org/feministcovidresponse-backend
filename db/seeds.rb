@@ -46,8 +46,9 @@ puts "prog done"
 
 
 ############### USERS ###############
-annie = User.create!(username: "annie2020", email:"annie2020@gmail.com", password_digest: "Annie2020", status: "super_admin")
-sylwia = User.create!(username: "sylwia2020", email:"sylwia2020@gmail.com", password_digest: "Sylwia2020", status: "admin")
+annie = User.create!(username: "annie2020", email:"annie2020@gmail.com", password_digest: "Annie2020", status: "admin")
+sylwia = User.create!(username: "sylwia2020", email:"sylwia2020@gmail.com", password_digest: "Sylwia2020", status: "volunteer")
+bridget = User.create!(username: "bridget2020", email:"bridget2020@gmail.com", password_digest: "Bridget2020", status: "super_admin")
 
 puts "users done"
 
