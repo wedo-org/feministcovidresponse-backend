@@ -363,6 +363,7 @@ response_data = [
         "category": "gender-based violence",
         "type": "observed response",
         "country": "Russia",
+        "user_id": annie.id
       },
       {
         "title_en": "Coronavirus takes a serious turn in Russia, and Putin no longer radiates confidence",
@@ -377,6 +378,7 @@ response_data = [
         "category": "healthcare",
         "type": "temporary measure, observed response",
         "country": "Russia",
+        "user_id": annie.id
       },
       {
         "title_en": "Putin's Bleak Covid-19 Admission: 'We Don't Have Much to Brag About'",
@@ -416,6 +418,7 @@ response_data = [
         "category": "digital surveillance, punitive",
         "type": "temporary measure",
         "country": "Russia",
+        "user_id": annie.id
       },
       {
         "title_en": "Coronavirus: Peru cancels gender separation lockdown measure",
@@ -598,6 +601,7 @@ response_data = [
         "category": "gender-based violence",
         "type": "temporary measure, observed response",
         "country": "Kyrgyzstan",
+        "user_id": annie.id
       },
       {
         "title_en": "MP raises issue of growth of domestic violence in quarantine",
@@ -5821,6 +5825,12 @@ response_data = [
         prog = Progressive.all[2].id
     end
 
+    if it[:user_id]
+        user = it[:user_id]
+    else
+        user = nil
+    end
+
     puts "🔺about to create item"
     item = Item.create!(
         title_en: it[:title_en], 
@@ -5832,7 +5842,8 @@ response_data = [
         link: it[:link], 
         date: nil, 
         progressive_id: prog, 
-        page_id: Page.all[0].id
+        page_id: Page.all[0].id,
+        user_id: user
     )
 
     puts "🔺🔺🔺item created: #{item.id}: #{item.title_en}\n\n"
@@ -6431,7 +6442,8 @@ online_data = [
         "category": "punitive, economy",
         "country": "United States, Canada, Australia",
         "month": "4",
-        "year": "2020"
+        "year": "2020",
+        "user_id": annie.id
     }
 ]
 
@@ -6444,6 +6456,12 @@ online_data.each{|it|
         month = it[:month]
     end 
 
+    if it[:user_id]
+        user = it[:user_id]
+    else
+        user = nil
+    end
+    
     if it[:year] == ""
         year = "yyyy"
     else
@@ -6463,7 +6481,8 @@ online_data.each{|it|
         link: it[:link], 
         date: date, 
         progressive_id: Progressive.all[-1].id, 
-        page_id: Page.all[1].id
+        page_id: Page.all[1].id,
+        user_id: user
     )
 
     puts "🔺🔺🔺item created: #{item.id}: #{item.title_en}\n\n"
@@ -8955,7 +8974,8 @@ resources_data = [
         "link": "https://www.cn.undp.org/content/china/en/home/ourperspective/ourperspectivearticles/2020/how-gender-inequality-harms-our-covid-19-recovery--views-from-ch.html",
         "category": "healthcare, economy, labor",
         "type": "feminist statement or analysis",
-        "country": "China"
+        "country": "China",
+        "user_id": annie.id
     },
     {
         "title_en": "Putting Central African women at the forefront of the fight against COVID-19",
@@ -9234,6 +9254,12 @@ resources_data = [
         prog = Progressive.all[2].id
     end
 
+    if it[:user_id]
+        user = it[:user_id]
+    else
+        user = nil
+    end
+
     puts "🔺about to create item"
     item = Item.create!(
         title_en: it[:title_en], 
@@ -9245,7 +9271,8 @@ resources_data = [
         link: it[:link], 
         date: nil, 
         progressive_id: Progressive.all[-1].id, 
-        page_id: Page.all[2].id
+        page_id: Page.all[2].id,
+        user_id: user
     )
 
     puts "🔺🔺🔺item created: #{item.id}: #{item.title_en}\n\n"

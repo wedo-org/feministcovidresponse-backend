@@ -1,14 +1,14 @@
 class Api::V1::AuthController < ApplicationController
-    skip_before_action :authorized, only: [:auto_login]
+    skip_before_action :authorized, only: [:login]
 
     def login
         user = User.find_by(username: user_login_params[:username])
-        if user && user.authenticate(params[:password])
+        if user && user.password_digest == params[:password_digest]
             payload={user_id: user.id}
             token= encode_token(payload)
             render json: {user: UserSerializer.new(user), jwt: token}, status: 200
         else
-            render json: {failure: "Login failed! User or password invalid!"}
+            render json: { errors: {error: "Login failed! User or password invalid!"} }.to_json, status: 401
         end
     end
 
@@ -23,6 +23,6 @@ class Api::V1::AuthController < ApplicationController
     private
 
     def user_login_params
-      params.permit(:username, :password)
+      params.permit(:username, :password_digest)
     end
 end
